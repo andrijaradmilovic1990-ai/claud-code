@@ -1,6 +1,44 @@
 # V — Nestanak
 
-Spakovala se za vikend kod sestre — dve torbe za dva dana, jer kod nje jedna torba ne postoji. Stajala je u hodniku i nabrajala naglas, sebi, ne meni: punjač, poklon za malu, jakna ako zahladi. Pa me poljubila. Pa se s vrata vratila po punjač koji je nabrojala a nije ponela. Pa me poljubila opet, jer kod nje ni pozdrav ne ide jednom. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
+Spakovala se za vikend kod sestre — dve torbe za dva dana, jer kod nje jedna torba ne postoji.
+
+Velika nije htela da se zatvori. Klečala je na njoj, obema rukama za rajsferšlus, vukla.
+
+„Drži.“
+
+Seo sam na drugi kraj. Zatvorilo se.
+
+„Šta ti je unutra.“
+
+„Moje stvari. Majice, dve dukserice, ona jakna što mi je kratka.“ Sklonila je kosu sa čela zglobom šake. „Njoj trebaju.“
+
+„Ideš svaki mesec sad.“
+
+„Aha.“ Nije me pogledala. „Ide se svaki mesec kad si jedina koja može da ode.“
+
+Podigla je torbu s poda, spustila je opet, jer je bila teška i jer je htela nešto da radi rukama.
+
+„Ti nju nikad ne pitaš.“
+
+„Šta da je pitam.“
+
+„Ništa. To i kažem.“ Rajsferšlus gore-dole, bez potrebe. „Šest meseci traži posao. Ti nijednom nisi pitao je l' našla. Kako sam ja, to pitaš. Nju nikad.“
+
+Nisam rekao ništa.
+
+„Eto. Vidiš.“ Pustila je torbu. „To radiš. Staneš i čekaš da prođe. Kao kiša.“
+
+Stajao sam u hodniku i čekao da prođe.
+
+„Gde mi je punjač.“
+
+„U kuhinji.“
+
+Otišla je po njega. Vratila se s punjačem u jednoj ruci i pola kifle u ustima, i bilo je prošlo — kod nje prođe samo od sebe, bez izvinjenja ni s jedne ni s druge strane.
+
+„Kupi hleb“, rekla je. „I nemoj da jedeš iz šerpe stojeći. Ostavila sam ti u tanjiru.“
+
+Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet, jer kod nje ni pozdrav ne ide jednom. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
 
 „Javi mi se kad stigneš“, rekao sam.
 
@@ -10,6 +48,8 @@ Tri pozdrava i dva poljupca. Za dva dana odsustva.
 
 Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona teška, gvozdena — kad se zatvore, zazvuče kao tačka na kraju rečenice.
 
+Otišao sam u kuhinju i jeo iz šerpe, stojeći.
+
 A ja sam jednom otišao zauvek, i nije bilo nijednog.
 
 ⁂
@@ -18,7 +58,7 @@ Ne sećam se da sam odlučio. To ljudi ne razumeju kad zamišljaju takve stvari 
 
 Stvari su se usitnile posle Pariza. Svet koji smo gradili počeo je da pušta vodu na sve strane, a moje ime je bilo na svemu. Počela su pitanja po gradu. Počeli su ljudi koje ne znaš da te znaju. Jedne večeri mi je čovek koga sam smatrao prijateljem rekao preko stola da pazim gde parkiram — i nasmejao se, i ja sam se nasmejao, i obojica smo znali da to nije bio vic.
 
-Šta je tačno prelilo čašu, to ostavljam tamo gde je. Reći ću samo ovo: postoje računi koji se ne naplaćuju od dužnika. Naplaćuju se od onoga što dužnik voli. Ostalo je matematika, a matematiku sam uvek brzo radio.
+Šta je tačno prelilo čašu, to ostavljam tamo gde je. Reći ću samo ovo: postoje računi koji se ne naplaćuju od dužnika. Naplaćuju se od onoga što dužnik voli.
 
 Poslednje jutro je bilo obično jutro. U tome je cela veština: poslednji dan ne sme da liči na poslednji.
 
@@ -46,7 +86,7 @@ Samo sam jednog jutra bio, i sledećeg nisam, i između ta dva jutra stao je ceo
 
 Godinu dana ništa. Ni reč.
 
-O toj godini bih mogao da pričam dugo i ne bih rekao ništa, jer sam je takvu i napravio — godinu u kojoj se ništa ne dešava. Soba kod gazdarice koja ne pita ništa dok plaćaš unapred. Istovar. Spavanje.
+Godina u kojoj se ništa ne dešava, jer sam je takvu i napravio. Soba kod gazdarice koja ne pita ništa dok plaćaš unapred. Istovar. Spavanje.
 
 Jednom, na istovaru, neko je viknuo ime. Novo, moje, ono na koje sam se potpisivao. Viknuo ga je jednom, pa drugi put, pa me uhvatio za rame:
 
@@ -58,11 +98,11 @@ Jednom, na istovaru, neko je viknuo ime. Novo, moje, ono na koje sam se potpisiv
 
 I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Tuđe ime je kao nova cipela — žulja, pa popusti, pa jednog dana primetiš da si zaboravio kako se hodalo u starim.
 
-I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše. Lakše je mrzeti nego tugovati, pa sam se nadao da će me mrzeti.
+I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 
 Posle godinu dana — telefon. Kupljen za keš, od čoveka koji prodaje takve telefone i takvo ćutanje uz njih. Sedeo sam na klupi pola sata pre nego što sam ukucao broj koji i danas znam napamet. Tri reči. Pisao sam ih i brisao kao klinac pred prvi poziv devojci, jer je sve duže od tri reči bilo pismo, a pismo je trag, a sve kraće nije bilo ništa.
 
-Bezbedan sam. Ćutite.
+Bezbedan sam. Ne tražite.
 
 Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još malo — čovek koji je svom starom životu upravo rekao jedinu rečenicu koju će mu ikad reći.
 
@@ -98,7 +138,7 @@ Andrijana je dugo ćutala. Predugo.
 
 Dobro.
 
-Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem, preko istog tuđeg ekrana. Ona nije htela da budem bezbedan. Htela je da bira sama, a ja sam joj oduzeo izbor — kao i uvek s njom: birao sam ništa umesto sve, jer je ništa bezbednije.
+Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem, preko istog tuđeg ekrana. Ona nije htela da budem bezbedan. Htela je da bira sama, a ja sam joj oduzeo izbor.
 
 I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna. Četiri godine je ta prazna stolica bila najglasnija stvar za stolom.
 
