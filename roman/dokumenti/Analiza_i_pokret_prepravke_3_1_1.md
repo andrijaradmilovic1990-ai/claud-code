@@ -913,4 +913,66 @@ gleda kako sijaju").
   mestu: naratorova sklonost da izgovori zaključak posle slike.
 - **Knjiga:** V ne treba da nosi nov teret. Prošlost mu je zadatak i on ga radi.
 
-**ČEKA SE AUTOR.**
+### IZMENE — **ZATVORENO** (autor odobrio svih devet, 05.08.2026)
+
+**Brojke:** 1324 → 1250 reči. **„kao" 13 → 11. Veznik uzroka 10 → 6.**
+Ništa nije dodato — devet intervencija, sve čišćenje istog obrasca.
+
+**Prepisi (četiri):**
+
+1. **Red 19** — „…spustila je opet, **jer** je bila teška **i jer** je htela nešto
+   da radi rukama." → „…spustila je opet. **Bila je teška, a i htela je nešto da
+   radi rukama.**" *(dva veznika uzroka u istoj rečenici)*
+2. **Red 49** — „…kad se zatvore, zazvuče **kao tačka na kraju rečenice**." →
+   „Vrata zgrade dole, ona teška, gvozdena. **Zatvorila su se jednom.**"
+   *(Hemingvej 2.)* Poređenje zamenjeno brojem — i taj broj je nož, jer dva reda
+   iznad stoji „Tri pozdrava i dva poljupca." Ona se pozdravlja tri puta, vrata se
+   zatvaraju jednom.
+3. **Red 65** — „**Kuća koja izgleda kao da** se čovek vraća uveče **je kuća koju**
+   niko ne pretura…" → „**Kuću u kojoj izgleda da** se čovek vraća uveče niko ne
+   pretura…" *(drugo „kao" u istom pasusu; prvo — „kao da spremam kuću za nekog ko
+   dolazi" — ostaje, najbolje je u pasusu)*
+4. **Red 99** — „Tuđe ime je **kao nova cipela** — žulja, pa popusti, pa jednog
+   dana primetiš da si zaboravio kako se hodalo u starim." → „**Prva tri meseca sam
+   se okretao za sekund prekasno.**" *(Hemingvej 2 + Bukovski 3.)* Druga maksima u
+   istom pasusu — prva je u tuđim ustima („nemoj da se zamišljaš, poginućeš") i
+   sme. Zamena je merljiva i on je u tome loš.
+
+**Rezovi (pet):**
+
+5. **Red 41** — „Pa me poljubila opet~~, jer kod nje ni pozdrav ne ide jednom~~."
+   Tri povratka to već pokazuju, a šest redova niže se i prebroji („Tri pozdrava i
+   dva poljupca"). Ista činjenica tri puta — pokazana, objašnjena, izbrojana.
+6. **Red 81** — „Ta polupesma mi je ostala u glavi godinama, bez kraja~~, kao i sve
+   ostalo od tog grada~~." Nedovršena pesma **jeste** ceo grad; rep to prevodi u
+   izjavu. *(Hemingvej 1)*
+7. **Red 111** — „…bez optužbe u glasu ~~— i baš zato boli~~." *(Bukovski 7.)*
+   Granično, autor izričito odobrio.
+8. **Red 125 — ceo pasus** „~~To je Andrijana. Razume sve što ne sme da pita, i
+   nosi to razumevanje kao kamen u džepu, godinama, ne pokazujući ga nikome. Ni
+   meni.~~" Narator objašnjava lik odmah posle najboljeg mesta u poglavlju
+   („Neko je morao da skuva ručak."). Sad ta replika ide **direktno** u „A onda sam
+   pitao ono što nisam smeo" — prelaz mnogo jači. *(Bukovski 7 + Hemingvej 4)*
+9. **Red 157** — „…pa spustio telefon ekranom nadole~~, jer neke stvari čovek ne
+   sme da gleda kako sijaju~~." Gest nosi sve i rimuje se s VIII 181.
+
+**Ostavljeno namerno (Pravilo G):** red 139 („ne zato što… nego zato što…") —
+paralelizam, ne nervoza. Redovi 69 i 103 („jer je i gledanje pozdrav", „jer je sve
+duže od tri reči bilo pismo") — profesionalno rezonovanje, Hemingvej 7, karakteriše
+zanat. Red 57 („sto malih jutara") — **zatvoreno ranijom odlukom, ne otvara se.**
+
+**Preostalih 11 „kao"** provereno pojedinačno: sve su konkretne ili namerne
+(zvonce, prognoza, kamen u džepu je pao, klinac pred prvi poziv, olakšanje/šamar).
+Broj je iznad praga ali **nije tik.**
+
+**Zaštićeno, provereno netaknuto:** poslednja rečenica · tag „ona pod šeširom" ·
+„Bezbedan sam. Ne tražite." · „Otišao sam u kuhinju i jeo iz šerpe, stojeći." ·
+oprana šolja (65 → 135 → VIII 15) · Jovanino „Dobro." · „Kao kiša." i red posle.
+
+**Rezervisano mesto za formulu:** V ga nije potrošilo. **Ostaje 2 od 2–3 — jedno
+slobodno za VI, VII, VIII.**
+
+**Bilans po Pravilu J:** devet od dozvoljenih petnaest; četiri prepisa od devet,
+iznad tražene trećine.
+
+**STATUS: V je zatvoreno na sva tri sprata.**

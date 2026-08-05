@@ -16,7 +16,7 @@ Seo sam na drugi kraj. Zatvorilo se.
 
 „Aha.“ Nije me pogledala. „Ide se svaki mesec kad si jedina koja može da ode.“
 
-Podigla je torbu s poda, spustila je opet, jer je bila teška i jer je htela nešto da radi rukama.
+Podigla je torbu s poda, spustila je opet. Bila je teška, a i htela je nešto da radi rukama.
 
 „Ti nju nikad ne pitaš.“
 
@@ -38,7 +38,7 @@ Otišla je po njega. Vratila se s punjačem u jednoj ruci i pola kifle u ustima,
 
 „Kupi hleb“, rekla je. „I nemoj da jedeš iz šerpe stojeći. Ostavila sam ti u tanjiru.“
 
-Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet, jer kod nje ni pozdrav ne ide jednom. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
+Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
 
 „Javi mi se kad stigneš“, rekao sam.
 
@@ -46,7 +46,7 @@ Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i osta
 
 Tri pozdrava i dva poljupca. Za dva dana odsustva.
 
-Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona teška, gvozdena — kad se zatvore, zazvuče kao tačka na kraju rečenice.
+Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona teška, gvozdena. Zatvorila su se jednom.
 
 Otišao sam u kuhinju i jeo iz šerpe, stojeći.
 
@@ -62,7 +62,7 @@ Stvari su se usitnile posle Pariza. Svet koji smo gradili počeo je da pušta vo
 
 Poslednje jutro je bilo obično jutro. U tome je cela veština: poslednji dan ne sme da liči na poslednji.
 
-Skuvao sam kafu i popio je stojeći. Oprao šolju, obrisao je, vratio na mesto — i uhvatio sebe u tom vraćanju na mesto, kao da spremam kuću za nekog ko dolazi, a niko nije dolazio. Jedna torba. U njoj ništa što ima ime: veš, dva džempera, novac. Jakna je ostala na čiviluku, knjiga otvorena na sto sedamdesetoj strani, pola hleba na pultu. Kuća koja izgleda kao da se čovek vraća uveče je kuća koju niko ne pretura prvih nedelju dana, a nedelja je more vremena.
+Skuvao sam kafu i popio je stojeći. Oprao šolju, obrisao je, vratio na mesto — i uhvatio sebe u tom vraćanju na mesto, kao da spremam kuću za nekog ko dolazi, a niko nije dolazio. Jedna torba. U njoj ništa što ima ime: veš, dva džempera, novac. Jakna je ostala na čiviluku, knjiga otvorena na sto sedamdesetoj strani, pola hleba na pultu. Kuću u kojoj izgleda da se čovek vraća uveče niko ne pretura prvih nedelju dana, a nedelja je more vremena.
 
 Fotografije nisam poneo. O tome neću.
 
@@ -78,7 +78,7 @@ Rekao sam ime grada u kom nikad nisam bio.
 
 „U jednom pravcu.“
 
-To je bio ceo razgovor. Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja, kao i sve ostalo od tog grada.
+To je bio ceo razgovor. Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja.
 
 Samo sam jednog jutra bio, i sledećeg nisam, i između ta dva jutra stao je ceo jedan život.
 
@@ -96,7 +96,7 @@ Jednom, na istovaru, neko je viknuo ime. Novo, moje, ono na koje sam se potpisiv
 
 „Nemoj da se zamišljaš pod teretom, poginućeš.“
 
-I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Tuđe ime je kao nova cipela — žulja, pa popusti, pa jednog dana primetiš da si zaboravio kako se hodalo u starim.
+I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Prva tri meseca sam se okretao za sekund prekasno.
 
 I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 
@@ -108,7 +108,7 @@ Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još 
 
 ⁂
 
-Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim stolom. Andrijana jedina ume da priča o tome kao o vremenskoj prognozi, bez optužbe u glasu — i baš zato boli.
+Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim stolom. Andrijana jedina ume da priča o tome kao o vremenskoj prognozi, bez optužbe u glasu.
 
 „Nataša je plakala tri dana“, rekla je. „Pa četvrtog ispekla palačinke i rekla: javiće se on. Znaš nju. Za tebe je bila u pravu. Za vreme nikad nije.“
 
@@ -121,8 +121,6 @@ Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim
 Slegla je ramenima. Okrenula je šolju u mestu, jednom, kao da nešto zavrće.
 
 „Pročitala poruku. Izašla u šetnju. Vratila se i skuvala ručak.“ Pogledala me. „Neko je morao da skuva ručak.“
-
-To je Andrijana. Razume sve što ne sme da pita, i nosi to razumevanje kao kamen u džepu, godinama, ne pokazujući ga nikome. Ni meni.
 
 A onda sam pitao ono što nisam smeo, i znao sam da ne smem, i pitao sam svejedno.
 
@@ -154,6 +152,6 @@ Telefon je zazujao uveče, na stolu, pored knjige koju nisam čitao.
 
 Stigla sam. Volim te.
 
-Tri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju tri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole, jer neke stvari čovek ne sme da gleda kako sijaju.
+Tri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju tri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole.
 
 A onoj pod šeširom trebalo je četiri godine da se vrati za sto, i ja sam to čitavo vreme zvao milošću.
