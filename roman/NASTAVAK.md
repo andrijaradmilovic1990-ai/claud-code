@@ -33,8 +33,8 @@ kičma, u izvedbi dobija rečenica. Napetost je raspored informacije, nikad prid
 | I | Susret | **ZATVORENO** | **ZATVORENO** | aktuelan |
 | II | Pukotina | **ZATVORENO** | **ZATVORENO** | aktuelan |
 | III | Krv | **ZATVORENO** | **ZATVORENO** | aktuelan |
-| IV | Pariz | **← SLEDEĆE** | ← sledeće | aktuelan |
-| V | Nestanak | čeka | čeka | aktuelan |
+| IV | Pariz | **ZATVORENO** | **ZATVORENO** | aktuelan |
+| V | Nestanak | **← SLEDEĆE** | ← sledeće | aktuelan |
 | VI | Prazna stolica | čeka | čeka | aktuelan, provereno 05.08. |
 | VII | Beli grad | čeka | čeka | aktuelan, provereno 05.08. |
 | VIII | Ćebence | čeka | čeka | aktuelan |
@@ -112,7 +112,47 @@ VIII koliko još može da drži dva sveta odvojena.
 
 ---
 
-## GDE SMO SAD — IV (Pariz) je OTVOREN, čeka autora
+## IV — PARIZ · ZATVORENO 05.08.2026
+
+Devet intervencija od dozvoljenih petnaest. **1739 → 1629 reči, veznik uzroka
+10 → 7.** Pun zapis u dnevniku (`Analiza_i_pokret_prepravke_3_1_1.md`).
+
+**Dva duga koja su bila prazna, sad popunjena:**
+
+- **Pritisak.** Posle „Gledao sam u frižider." dodato: *„Prestala je da priča.
+  Stajala je s onom šoljom, čekala, i nije sela."* Ona više ne povlači sama —
+  povlači tek pošto njegovo ćutanje odradi posao. **Knjiga time prvi put dobija
+  sat koji kuca.** Registar 1 netaknut: ona ne sumnja ni u šta.
+- **Sramota.** U bistrou: *„Račun sam platio ja. Nisam umeo da pročitam gde se
+  šta završava… Nataša je to primetila i smejala se do kraja večeri."* Menja i
+  hvalisanje osam redova kasnije — čovek koji je imao dovoljno da kupi svaki
+  izlog ne ume da pročita račun.
+
+**Prepisi:** red 59 („Mislio sam da je stid." — rez koji pravi dug „greška", jer
+čitalac je sad ispred Davida) · kraj (izbačeno tumačenje magneta kao spomenika i
+prepričavanje poglavlja; grob koji drži spisak za pijacu nosi sam).
+
+**Mehanika:** redovi 15, 31, 43, 51.
+
+**Pravilo E:** refren na 103 NIJE diran — dokument je bio nepotpun (navodio
+raspored I, II, VI, VIII, a IV ga nosi), pa je **ispravljen dokument**, na oba
+mesta. Tekst je autoritet.
+
+---
+
+## SLEDEĆE — poglavlje V (Nestanak)
+
+Otvara se po Pravilu H, pa sva tri sprata odjednom.
+
+**Šta V nosi:** proširena scena otvaranja (torba, sestra, „Kao kiša") dodata je u
+prolazu kroz celu knjigu i sveža je. Poglavlje već ima Katarinu koja je u pravu o
+njemu — *„To radiš. Staneš i čekaš da prođe."* — što je priprema za „kuče" u VIII.
+Rezervisano mesto za formulu: **jedno slobodno za V–VIII**, ne trošiti bez jakog
+razloga.
+
+---
+
+## Arhiva: kako je IV izgledao pre otvaranja
 
 Ulazni list odrađen, poglavlje pročitano celo, nalaz upisan u dnevnik
 (`Analiza_i_pokret_prepravke_3_1_1.md`, odeljak „IV — PARIZ · OTVORENO").

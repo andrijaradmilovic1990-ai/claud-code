@@ -12,7 +12,7 @@ I ruka mi je stala na vratima frižidera, dlan ravan na hladnom, i nisam više b
 
 ⁂
 
-Pariz je bio Natašina ideja. Sve gluposti su bile Natašine ideje, i sve najbolje stvari koje su nam se desile počinjale su kao gluposti. Rekla je „idemo u Pariz“ onako kako drugi ljudi kažu „idemo na kafu“ — usred večere, punih usta — i Andrijana je rekla „može“ pre nego što je rečenica završena. Ona treća je slegnula ramenima, što je kod nje uvek značilo da. A ja sam imao novac koji nije smeo da stoji i razloge da nedelju dana ne budem nigde gde me znaju. Tako se to poklopilo. Najlepša nedelja mog života desila se zato što je para morala da se troši a ja da nestanem nakratko. Iz takvog đubreta je izraslo.
+Pariz je bio Natašina ideja. Sve gluposti su bile Natašine ideje, i sve najbolje stvari koje su nam se desile počinjale su kao gluposti. Rekla je „idemo u Pariz“ onako kako drugi ljudi kažu „idemo na kafu“ — usred večere, punih usta — i Andrijana je rekla „može“ pre nego što je rečenica završena. Ona treća je slegnula ramenima, što je kod nje uvek značilo da. A ja sam imao novac koji nije smeo da stoji i razloge da nedelju dana ne budem nigde gde me znaju. Tako se to poklopilo. Najlepša nedelja mog života desila se zato što je para morala da se troši a ja da nestanem nakratko.
 
 Putovali smo odvojeno — ja i Andrijana prvi, njih dve dan kasnije. Ne zbog romantike; navika. Nikad svi u isti voz. Niko nije pitao zašto. Moje navike su do tada već primali kao vremenske prilike: ne raspravljaš se s kišom, poneseš kišobran.
 
@@ -28,7 +28,7 @@ Vratili smo se pre njih dve, pijani od nečeg francuskog čije ime nismo umeli d
 
 „Neka gledaju.“
 
-Haljina je pala. Znoj nam je bio isti, mešao se, nisam znao gde prestajem ja a počinje ona, i nije bilo važno. Bila je sva mišić i bes i glad, zarila mi nokte u leđa tako da sam ih osećao danima, i ja sam joj uzvraćao isto, jer s njom se nije vodila ljubav, s njom se ratovalo, i oboje smo pobeđivali tako što smo gubili. Ujela me za rame dovoljno jako da pusti krv. Nisam ni trepnuo. Voleo sam i to. Voleo sam što jedina žena s kojom spavam ume da me povredi i što joj to dozvoljavam, jer je to bilo jedino mesto na svetu gde sam dao nekom da mi priđe iza odbrane svojom voljom.
+Haljina je pala. Znoj nam je bio isti, mešao se, nisam znao gde prestajem ja a počinje ona, i nije bilo važno. Bila je sva mišić i bes i glad, zarila mi nokte u leđa tako da sam ih osećao danima, i ja sam joj uzvraćao isto, jer s njom se nije vodila ljubav, s njom se ratovalo, i oboje smo pobeđivali tako što smo gubili. Ujela me za rame dovoljno jako da pusti krv. Nisam ni trepnuo. Voleo sam i to.
 
 Posle smo ležali na podu jer do kreveta nismo stigli, i ona je palila cigaretu na mojim grudima, naslonjena, znojava, i gledala u tavanicu.
 
@@ -40,7 +40,7 @@ Posle smo ležali na podu jer do kreveta nismo stigli, i ona je palila cigaretu 
 
 „Znam, Andrijana.“
 
-„Dobro.“ Povukla je dim. „Samo da se zna.“ Pa mi ga je dunula u lice, i nasmejala se, i to je bila cela istina o nama — što smo mogli da budemo ovo večeras i ništa sutra, i da nas oboje to ne boli, jer smo jedno drugom bili tačno ono što je drugom trebalo u tom trenutku i ništa preko toga. Ljubavnici kad se hoće. Drugari kad se hoće. Bez računa.
+„Dobro.“ Povukla je dim. „Samo da se zna.“ Pa mi ga je dunula u lice, i nasmejala se. Ljubavnici kad se hoće. Drugari kad se hoće. Bez računa.
 
 Sutradan smo bili samo drugari. Tako je i bilo. Niko nije lagao.
 
@@ -48,7 +48,7 @@ Sutradan smo bili samo drugari. Tako je i bilo. Niko nije lagao.
 
 One dve su stigle drugog dana.
 
-Nataša je vrisnula čim nas je videla na stanici, potrčala, skočila na mene s koferom i svim, i umalo nas oboje na šine. Uvek je bila takva — preglasna, prevelika, sva odjednom. Nataši je sve bilo lako. To joj je bio dar. Mogla je da legne s nama i ujutru da pravi palačinke kao da se ništa nije desilo, jer se za nju ništa i nije desilo — telo je bilo telo, veselje je bilo veselje, a ona je sve to nosila kao što dete nosi balon, bez težine. Bilo je noći, i u Parizu i pre Pariza, kad nas je bilo troje, ona i Andrijana i ja, i ujutru bismo se smejali tome uz kafu kao što se ljudi smeju dobrom provodu. Nataša nije znala da bude povređena. Zavideo sam joj na tome.
+Nataša je vrisnula čim nas je videla na stanici, potrčala, skočila na mene s koferom i svim, i umalo nas oboje na šine. Uvek je bila takva — preglasna, prevelika, sva odjednom. Nataši je sve bilo lako. To joj je bio dar. Mogla je da legne s nama i ujutru da pravi palačinke kao da se ništa nije desilo, jer se za nju ništa i nije desilo — telo je bilo telo, veselje je bilo veselje, a ona je sve to nosila kao što dete nosi balon, bez težine. Bilo je noći, i u Parizu i pre Pariza, kad nas je bilo troje, ona i Andrijana i ja, i ujutru bismo se smejali tome uz kafu. Nataša nije znala da bude povređena. Zavideo sam joj na tome.
 
 A iza nje, sporije, s onim svojim hodom koji nikad nije žurio jer je znala da ćeš je sačekati —
 
@@ -56,7 +56,7 @@ ona.
 
 Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna.
 
-Ona se nije skidala ni s kim. Za Natašu je telo bilo balon. Za Andrijanu rat bez posledica. Za nju — ivica sobe, čaša u ruci koju ne ispija, oči koje gledaju a ne ulaze. Ona je sedela sa strane dok smo mi bili to što smo bili, i nije osuđivala, i nije htela da uđe, i dugo sam mislio da je to stid ili vaspitanje ili bog zna šta. Nije bilo. Shvatio sam tek kasnije, prekasno: ona se nije uključivala jer za nju ništa od toga ne bi bilo igra.
+Ona se nije skidala ni s kim. Za Natašu je telo bilo balon. Za Andrijanu rat bez posledica. Za nju — ivica sobe, čaša u ruci koju ne ispija, oči koje gledaju a ne ulaze. Ona je sedela sa strane dok smo mi bili to što smo bili, i nije osuđivala, i nije htela da uđe. Mislio sam da je stid.
 
 Dani su se lepili jedan na drugi kao da im je neko skinuo brojeve.
 
@@ -73,6 +73,8 @@ Nataša je digla čašu:
 „Pij i ćuti“, rekla je Andrijana, ali je digla čašu.
 
 Ona treća je kucnula svojom o moju poslednja, tiho, i pogledala me preko ivice dok je pila.
+
+Račun sam platio ja. Nisam umeo da pročitam gde se šta završava i nisam hteo da pitam, pa sam ostavio bakšiš koliki je i ceo račun. Nataša je to primetila i smejala se do kraja večeri.
 
 Sedeo sam tako da vidim vrata. Niko za stolom to nije primetio. Možda jedna. Ona je sve primećivala i ništa nije pitala.
 
@@ -122,7 +124,9 @@ Ona. Moja. Iza mene, bosa, raščupana, šolja u ruci. Ne znam koliko stojim tu 
 
 Gledao sam u frižider.
 
-„Nema veze“, rekla je posle. „Ima vremena do marta.“
+Prestala je da priča. Stajala je s onom šoljom, čekala, i nije sela.
+
+„Nema veze“, rekla je na kraju. „Ima vremena do marta.“
 
 Pa je nastavila dalje, o tome da je magnet ofarban i da bi mogli novi da kupe kad već —
 
@@ -132,6 +136,10 @@ Okrenula se.
 
 „Dobar je taj“, rekao sam, tiše. „Ostavi ga.“
 
-Slegla je ramenima, nasmešila se, pustila. Ne zna da je upravo htela da baci jedini grob koji imam u kući. Jedini kamen s imenom. Stoji na frižideru, drži spisak za pijacu, i niko osim mene ne zna da je to spomenik — da pod tom oljuštenom zlatnom kulom leži sahranjeno četvoro ljudi na travi u dva ujutru, soba s vinskim zavesama, žena koja me je ujela do krvi i rekla da ništa ne znači, i jedna koja je nosila prevelik šešir i rekla mogli bismo da ostanemo.
+Slegla je ramenima, nasmešila se, pustila.
+
+Ne zna da je upravo htela da baci jedini grob koji imam u kući. Stoji na frižideru i drži spisak za pijacu.
+
+Pod njim je četvoro ljudi na travi u dva ujutru. I jedna koja je nosila prevelik šešir i rekla mogli bismo da ostanemo.
 
 Nismo mogli.

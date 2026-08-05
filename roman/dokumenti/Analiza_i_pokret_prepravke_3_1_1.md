@@ -719,4 +719,91 @@ bude „niz odličnih poglavlja" leži baš u njemu, neiskorišćeno: rok, žena
 traži nešto za sebe, i jedino mesto gde bi David mogao da prestane da bude
 zadivljujuć.
 
-**ČEKA SE AUTOR.** Nijedna izmena nije uneta.
+### IZMENE — **ZATVORENO** (autor odobrio sve, 05.08.2026)
+
+**Brojke:** 1739 → 1629 reči. **Veznik uzroka 10 → 7.** Jedno poređenje manje.
+Sečeno ~151 reč, dopisano ~41.
+
+**Dugovi (obaveza, ne ulaze u kvotu):**
+
+1. **PRITISAK — redovi 123–129.** Dodato posle „Gledao sam u frižider.":
+   > **Prestala je da priča. Stajala je s onom šoljom, čekala, i nije sela.**
+
+   Ona više ne povlači sama — povlači tek pošto njegovo ćutanje odradi posao.
+   *Dug „pritisak" + Hemingvej 2.* **Registar 1 netaknut:** ona ne sumnja ni u
+   šta, samo ne odustane odmah. Šolja je već postavljena (109, 117). Tek sad ono
+   „Nemoj" četiri reda kasnije udara kako treba — ćuti kad ga živa žena pita sme
+   li da postoji na njegovoj adresi, a viče da odbrani spomenik mrtvoj.
+   **Ovo je mesto na kom knjiga prvi put dobija sat koji kuca.**
+
+2. **SRAMOTA — dodato posle reda 75 (bistro):**
+   > **Račun sam platio ja. Nisam umeo da pročitam gde se šta završava i nisam
+   > hteo da pitam, pa sam ostavio bakšiš koliki je i ceo račun. Nataša je to
+   > primetila i smejala se do kraja večeri.**
+
+   *Dug „sramota" + Bukovski 6 + Bukovski 3.* Ne otkupljuje se — Nataša se smeje
+   do kraja večeri. Menja i red 83: čovek koji se hvali da je imao dovoljno da
+   kupi svaki izlog na ulici **ne ume da pročita račun**, pa hvalisanje osam
+   redova kasnije zvuči kao teha. Nataša ostaje ravna i laka; njena funkcija se
+   ne dira.
+
+**Prepisi:**
+
+3. **Red 59** — staro: „…i nije htela da uđe, i dugo sam mislio da je to stid ili
+   vaspitanje ili bog zna šta. Nije bilo. Shvatio sam tek kasnije, prekasno: ona
+   se nije uključivala jer za nju ništa od toga ne bi bilo igra." →
+   novo: „…i nije htela da uđe. **Mislio sam da je stid.**"
+   *Dug „greška" + Hemingvej 1 + Deo 1 tačka 2.* **Rez koji pravi dug umesto da
+   ga popunjava dopunom.** David sad ostaje u krivu na stranici, a čitalac je
+   ispred njega — već je video njen hod koji ne žuri (53) i čašu kucnutu
+   poslednju, preko ivice (75). Informacija se ne gubi: V i VII je isplaćuju.
+
+4. **Kraj, red 139–143** — sečeno „Jedini kamen s imenom." (ponavlja „grob"),
+   „niko osim mene ne zna da je to spomenik" (autor tumači sopstvenu sliku, isti
+   potez izbačen iz VIII 169) i nabrajanje sobe s vinskim zavesama i žene koja ga
+   je ujela (prepričava poglavlje koje smo upravo pročitali). Ostaje:
+   > Ne zna da je upravo htela da baci jedini grob koji imam u kući. Stoji na
+   > frižideru i drži spisak za pijacu.
+   >
+   > Pod njim je četvoro ljudi na travi u dva ujutru. I jedna koja je nosila
+   > prevelik šešir i rekla mogli bismo da ostanemo.
+
+   *Hemingvej 4 + Bukovski 7 + dug „pitanje na kraju".*
+   **Odstupanje od onoga što je autoru pokazano, i razlog:** u pokazanoj verziji
+   je nabrajanje palo celo, pa je „jedna" ostala bez toga na šta se odnosi.
+   Zadržana je zato jedna slika („četvoro ljudi na travi u dva ujutru") da rečenica
+   ima uporište. Usput je dobila drugo dno — **pod tim grobom je i on sam.**
+   „Nismo mogli." i dalje pada odmah posle šešira, eho netaknut.
+
+**Mehanika (Pravilo K, bez pojedinačnog odobrenja — ovde ipak pokazana autoru pre unosa):**
+
+5. **Red 15** — rez „Iz takvog đubreta je izraslo." *(treći put ista misao u
+   pasusu; potpisuje sopstvenu sliku)*
+6. **Red 31** — rez repa „Voleo sam što jedina žena s kojom spavam ume da me
+   povredi… svojom voljom." *(veznik uzroka + samoodbrana; „Voleo sam" dvaput
+   zaredom).* Ostaje „Nisam ni trepnuo. Voleo sam i to."
+7. **Red 43** — rez kapije „i to je bila cela istina o nama — … i ništa preko
+   toga." *(formula + veznik uzroka; tri kratke rečenice posle već kažu isto,
+   bolje)*
+8. **Red 51** — palo treće poređenje u pasusu: „i ujutru bismo se smejali tome uz
+   kafu ~~kao što se ljudi smeju dobrom provodu~~." *(Deo 1 tačka 3)*
+
+**Pravilo E — refren na redu 103, NIJE DIRAN.** Dokumenti su navodili raspored
+refrena kao I, II, VI, VIII, a IV ga nosi („Telo je već tada znalo nešto što glava
+nije htela."). **Tekst je autoritet — ispravljen je dokument, ne rečenica**, na oba
+mesta (`SVET_I_LIKOVI_1.md` i Registar 2 u `FINALNI_PROLAZ_PRAVILA.md`). Autorovo
+odobrenje se odnosilo na predložene izmene; brisanje refrena nije bilo izmena nego
+pitanje s dve opcije, pa je izabrana ona koja ništa ne uklanja iz rukopisa.
+
+**Bilans po Pravilu J:** devet intervencija od dozvoljenih petnaest — pet rezova,
+dva prepisa, dve dopune. Četiri od devet nisu rezovi, iznad tražene trećine.
+
+**Zaštićeno, provereno netaknuto:** „s njom se nije vodila ljubav, s njom se
+ratovalo" · zavet o neimenovanju (57) · tag „ona pod šeširom" (81) · Jovanin
+ivičnjak go, bez stida · Nataša nedirana · „Nismo mogli."
+
+**Rezervisano mesto za formulu:** IV ga nije potrošilo. Ostaje 2 od 2–3, jedno
+slobodno za V–VIII.
+
+**STATUS: IV je zatvoreno na sva tri sprata.** Ostaje samo ono što je i ranije
+bilo van ovog prolaza: **autor pregleda prelome pasusa očima uz original** (OCR).

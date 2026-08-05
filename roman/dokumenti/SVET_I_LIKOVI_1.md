@@ -192,7 +192,8 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 - **Sreda** — David je mrzi, razlog skriven (VI).
 - Devojka: bezimena. Sestra postoji (II, V). Gestovi nežnosti: greje ruke (II), uštip za bok (III — NE ponavljati), pomilovati po leđima (IV), tri pozdrava + brada (V).
 - Starčev sin: limar, radionica kod stare pijace (I) — potencijalno upotrebljivo kasnije.
-- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom (I, II, VI). ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, VIII**. ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+  > **ISPRAVKA po Pravilu E (05.08.2026):** dokument je navodio I, II, VI (i VIII kao završno), ali IV red 101 nosi „Telo je već tada znalo nešto što glava nije htela." Tekst je autoritet — **dokument je bio nepotpun, rečenica u IV je legitimna peta pojava i ostaje.** Provereno i u Registru 2 u `FINALNI_PROLAZ_PRAVILA.md`, tamo ispravljeno isto.
 - **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII SME da koristi ime Jovana, a VIII sme da ga izgubi.
 
 ---

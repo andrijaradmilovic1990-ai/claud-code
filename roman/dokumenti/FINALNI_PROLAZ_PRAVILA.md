@@ -431,7 +431,7 @@ Poglavlje se zatvara tako da čitalac ima **konkretno pitanje sa mogućim odgovo
 | **Kraj I** — „Jer čudovište koje je naučilo da pije kafu kao čovek mora bar nečemu da se smeje." | Pitanje potrošeno. Autor otvorio, Helena rekla svoje jednom, odluka stoji. **Novim ciljem se slabi** (daje odgovor gde cilj traži pitanje) — zapisano, ne argumentuje se dalje. |
 | **Kraj VIII** — „…ali telo ne zna za kalendar." | **Prelazi u arhitekturu na sledećoj reviziji ako autor to potvrdi.** Novim ciljem se pojačava: knjiga zatvorena istim telesnim redom kojim je otvorena je zaključena petlja, ne sentiment. |
 | **Kraj IV** — magnet kao grob, „Nismo mogli." | Stoji. Nije mereno na spratu knjige. |
-| **Refren „telo ne zna za kalendar"** — raspored I, II, VI, VIII | Stoji, raspored konačan. |
+| **Refren „telo ne zna za kalendar"** — raspored **I, II, IV, VI, VIII** | Stoji, raspored konačan. **IV dopisan 05.08.2026 po Pravilu E** — red 101 ga nosi, a dokument ga nije navodio. Tekst je autoritet; rečenica nije dirana. |
 | **Tri namerna ponavljanja** — špagete (II→III→VII), oprana šolja (V→V→VIII), „Isti čovek." (II→VIII) | Stoje. Ne brisati kao previd. |
 | **III** — „Vozila je.", uštip, cipele, „Je l' ima još luka?", „Sipao sam iz inata." | Stoje. Poslednje dve su presedani za dodatak unutar scene. |
 
