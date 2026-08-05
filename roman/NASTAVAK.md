@@ -1,6 +1,6 @@
 # NASTAVAK — gde smo stali
 
-> Poslednje ažuriranje: 05.08.2026, ~01:40.
+> Poslednje ažuriranje: 05.08.2026 — provera VI i VII.
 > Ovaj fajl je handoff. Otvara se prvi, pre svega ostalog.
 
 ---
@@ -18,14 +18,27 @@ reviziji i u prolazu kroz celu knjigu, što nije isto.
 | III | Krv | **zatvoreno** | aktuelna, provereno |
 | IV | Pariz | čeka | aktuelna, provereno |
 | V | Nestanak | čeka | aktuelna — vraćena 04.08. |
-| VI | Prazna stolica | čeka | **NEPROVERENA** |
-| VII | Beli grad | čeka | **NEPROVERENA** |
+| VI | Prazna stolica | čeka | aktuelna, provereno |
+| VII | Beli grad | čeka | aktuelna, provereno |
 | VIII | Ćebence | čeka | aktuelna, provereno |
 
-**Prvi zadatak pri nastavku:** proveriti da li su VI i VII aktuelni. V je bio
-zastareo za pet upisanih izmena plus celo prošireno otvaranje — provera se radi
-tako što se dnevnik u `Analiza_i_pokret_prepravke_3_1_1.md` uporedi sa stvarnim
-tekstom, rečenicu po rečenicu.
+**Provera VI i VII — urađeno, obe aktuelne.** Dnevnik iz
+`Analiza_i_pokret_prepravke_3_1_1.md` upoređen sa tekstom:
+
+- **VI** — sve tri upisane izmene stoje u fajlu: rep „Najteža rečenica koju mi je
+  iko rekao tog dana" nije tu (53), „Obe ruke, ista ruka" nije tu, kapija-fraza
+  skraćena na „Ovi telefoni su trebalo da ostanu zakopani" (141). Formula na
+  rezervisanom mestu #2 („Za nju nikad nisam pitao smem li.", 139) gola i
+  netaknuta. Zatvaranje na 153 („jedan razlog više koji isto neću izgovoriti").
+- **VII** — obe dopune iz prolaza kroz celinu stoje: Nataša „Ja sam druga" (493)
+  i papirić „Nešto što tu nije stajalo kad sam pošao" (633). Iz spiska od 17:
+  ime ne pada na 9 · „preksinoć" (27) · „dan ranije" (9) · tri sata vožnje (77) ·
+  „ruke su mi ostale na kolenima" (101) · fioka (161) · Jovanina ramena (591) —
+  sve na mestu.
+- **Dug iz I, i dalje neplaćen (po planu):** VII red 33 glasi „ona iz Beograda",
+  treba „ona iz Belog grada". Ne unosi se sada — izvodi se kad VII dođe na red.
+
+Nijedno poglavlje nije zastarelo. Slučaj V ostaje jedini.
 
 ---
 
@@ -98,6 +111,28 @@ kao udarac.
 Ime ne pada (zapečaćeno). Čitalac ne zna ko je „pitala". Rima sa VIII 197 sklapa
 se sama, sedam poglavlja kasnije. Starčeva scena se ne dira.
 
+**NALAZ IZ PROVERE (sprat: knjiga) — draft se mora prepraviti pre unosa.**
+Rečenica *„Pitala je za tebe"* već postoji u knjizi, i to ne jednom nego dvaput:
+
+| Gde | Ko govori | Kako glasi |
+|-----|-----------|------------|
+| VII 73 | Andrijana, u kolima, o Jovani | „Pitala je za tebe. Jednom. Onako, usput, dok je još bila bunovna od lekova." |
+| VIII 197 | Andrijana, poruka | *„Dobro je. Pita za tebe nekad."* |
+
+To menja račun na oba načina. Dobro: nosač je potvrđen — Andrijana je već lice
+koje prenosi to pitanje, dakle otkucaj u I ne uvodi ništa, nego postavlja ono što
+knjiga ionako radi dvaput. Loše: draft je bio pisan **doslovno istom rečenicom**,
+a doslovno ponavljanje je prvo što Deo 1 lovi kao tik. Ako I, VII i VIII kažu
+isto tri puta, treći put ne udara nego zvuči kao štancla.
+
+Rešenje nije odustati od otkucaja nego mu **oduzeti reči koje VII i VIII već
+imaju**. U I to i nije poruka koju neko izgovara — to je ekran koji David okrene
+nadole. Poruka sme da bude kraća i tuplja od one u VIII; VIII posle dolazi kao
+puna rečenica i tek tada zvuči kao rima, ne kao ponavljanje.
+
+Zbog toga draft iznad **ne ulazi kako je napisan**. Dve varijante čekaju izbor
+(Pravilo K, jedno po jedno) — vidi „Šta visi", tačka 1.
+
 **Legalnost:** Deo 0 izričito dozvoljava *„raspored postojećeg materijala, koje
 se informacije kad daju"* i dodatke od dva do tri reda unutar postojeće scene.
 Nema nove scene, nema novog lika, niko ne radi ništa novo.
@@ -106,10 +141,25 @@ Nema nove scene, nema novog lika, niko ne radi ništa novo.
 
 ## Šta visi
 
-1. **da/ne** na draft za I
+1. **izbor + da/ne** na draft za I — dve varijante, obe izbegavaju doslovno
+   ponavljanje VII 73 / VIII 197:
+
+   **A — bez rečenice, samo ekran.** Čitalac ne zna ni šta piše.
+   > Telefon je zavibrirao na stolu. Andrijana.
+   > Pročitao sam i okrenuo ga ekranom nadole.
+
+   **B — poruka koja ne izgovara ono što VIII izgovara.** Pitanje bez subjekta,
+   pa ime ostaje neizrečeno a ne skriveno.
+   > Telefon je zavibrirao na stolu. Andrijana.
+   > *Jesi živ?*
+   > Okrenuo sam ga ekranom nadole.
+
+   (A je tiša i ne troši ništa; B nosi više jer je *„Jesi živ?"* u ovoj knjizi
+   pitanje s dva dna — čovek koji se sahranio dobija ga od jedine osobe koja zna
+   da nije mrtav. Preporuka: **B**. Odluka je autorova.)
 2. **da/ne** na 0.1
 3. 0.3, 0.4, 0.5, 0.6 — neodgovoreni
-4. provera aktuelnosti VI i VII
+4. ~~provera aktuelnosti VI i VII~~ — **urađeno, obe aktuelne**
 5. upis odgovorenih delova u `FINALNI_PROLAZ_PRAVILA.md`, Deo 0
 
 ---
