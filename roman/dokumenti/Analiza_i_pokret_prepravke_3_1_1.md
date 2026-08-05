@@ -78,7 +78,17 @@ Ironija (čudovište koje UME da bude pripitomljeno ali svesno bira da ne ostane
 
 ---
 
-## ČEK-LISTA PO POGLAVLJU (proći za svako od osam)
+## ČEK-LISTA PO POGLAVLJU — **ZAMENJENA, ostaje kao arhiva**
+
+> **NE koristi se više od 05.08.2026.** Ova lista je imala osam tačaka, a dnevnik
+> je ispod na jednom mestu zove „svih 10 tačaka", na drugom „svih 11" — što je
+> značilo da „poglavlje je prošlo celu proveru" nije imalo fiksno značenje.
+>
+> **Važi samo `FINALNI_PROLAZ_PRAVILA.md`:** Brojanje (Deo 1), Pet dugova
+> poglavlja (Deo 2), Šesnaest postupaka (Deo 3). Jedna lista, jedno značenje.
+>
+> Lista ispod ostaje jer je po njoj zatvoreno I–VIII u ranijoj reviziji i bez nje
+> se dnevnik ne bi mogao čitati.
 
 1. Ima li formula "to je bilo najgore/cela poenta X"? Zadržati samo ako je jedan od 2-3 izabrana mesta u knjizi.
 2. Ima li objašnjenje posle gesta koje ne dodaje novo značenje?

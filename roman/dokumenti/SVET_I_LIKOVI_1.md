@@ -207,6 +207,23 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 
 ---
 
+## PROVERENI BROJEVI I ČINJENICE
+> Preseljeno iz `FINALNI_PROLAZ_PRAVILA.md` (Registar 3) dana 05.08.2026 —
+> ovo nije zaštita nego činjenica, i pripada ovde. Ne otvara se, samo se
+> proverava pri kontinuitetu.
+
+- **„sat i po autobusom" (VIII) i „tri sata vožnje" (VII)** — oba tačna, ne kose
+  se. Andrijana vozi tri sata **po njega pa nazad**; on se vraća autobusom sat i
+  po iz drugog polazišta.
+- **Katarina je imenovana samo dvaput**, oba puta u VII (135, 161).
+- **Mali:** 17–18 godina. Usklađeno u tekstu III, provereno.
+- **Poglavlja VI i VII su provereno aktuelni fajlovi** (provera 05.08.2026,
+  dnevnik upoređen s tekstom red po red). V je bio jedini zastareo slučaj.
+- **Neisplaćen dug iz I:** VII red 33 glasi „ona iz Beograda", treba „ona iz
+  Belog grada" — izvodi se kad VII dođe na red u finalnom prolazu.
+
+---
+
 ## OTVORENA PITANJA (za kasnije, priznata i namerno neodgovorena)
 
 - Pravo ime / ime grada — oba namerno odložena.
@@ -225,8 +242,13 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 
 ---
 
-## NERAZREŠENO — mesta gde su se stari fajlovi razilazili
-> Ovo NIJE greška u priči — ovo je trag da su dokumenti pisani u različitim sesijama i nisu ažurirani unazad. Rešava se ovde, u ovom dokumentu, umesto da ostane skriveno u tri fajla.
+## REŠENI SUKOBI DOKUMENATA — arhiva odluka
+> **Sve stavke ispod su REŠENE.** Odeljak se ranije zvao „NERAZREŠENO", što je
+> pri svakom otvaranju izgledalo kao da u priči postoji pet otvorenih rupa —
+> nije ih bilo nijedna. Preimenovano 05.08.2026. Obrazloženja se čuvaju jer
+> objašnjavaju **zašto** je odlučeno kako je odlučeno; ne otvaraju se ponovo.
+>
+> Ovo NIJE bila greška u priči — bio je trag da su dokumenti pisani u različitim sesijama i nisu ažurirani unazad.
 
 **1. VI — registar i „žive li zajedno" — REŠENO (revizija VIII)**
 Dopuna 2 je bila u pravu: **VI = PROŠLOST, NE žive zajedno.** Ranija odluka u ovom dokumentu („prati se tekst, VI je sadašnjost") oslanjala se na to što David sedi u istom kafiću iz koga pripoveda — ali isti kafić nije isto vreme, on u njemu sedi godinama. Dokaz iz teksta: u VI Andrijana javlja da je nesreća bila „sinoć"; u VII, na vidikovcu, David kaže „Preksinoć" i misli na razgovor „dan ranije s čovekom bez imena" — što je upravo drugi poziv iz VI. VI i VII su uzastopni dani, oko dve godine pre sadašnjosti. Naslov poglavlja takođe ispravljen: „Kanal" → „Prazna stolica" (stari naslov nije imao pokrića u tekstu).
