@@ -807,3 +807,110 @@ slobodno za V–VIII.
 
 **STATUS: IV je zatvoreno na sva tri sprata.** Ostaje samo ono što je i ranije
 bilo van ovog prolaza: **autor pregleda prelome pasusa očima uz original** (OCR).
+
+---
+
+## V — NESTANAK · **OTVORENO 05.08.2026** — ulazni list i nalaz
+
+> Nijedna izmena nije uneta — čeka se autor (Pravilo K).
+
+### Ulazni list (Pravilo H)
+
+**1 — Dokaz čitanja:**
+- *Analiza (mapa):* „Nema posebnog dodeljenog zadatka. Opšta ček-lista." Uz to iz
+  prolaza kroz celinu: **otvaranje je prošireno sa 1 na ~30 redova** (torba,
+  sestra, „Kao kiša") i sveže je.
+- *SVET_I_LIKOVI:* tag **„ona pod šeširom" se isplaćuje u poslednjoj rečenici V** —
+  arhitektura, ne dira se. Poruka „Bezbedan sam. Ne tražite." poslata **samo
+  Andrijani**; Jovana saznala iz druge ruke — deo njene rane.
+- *FINALNI_PROLAZ_PRAVILA:* presedani „Otišao sam u kuhinju i jeo iz šerpe,
+  stojeći." naveden kao **model dopune unutar postojeće scene** i kao popunjen dug
+  „sramota".
+- *PRAVILA_STILA:* tačka 7 — prošlost kao scena, ne monolog. V je izuzetak koji je
+  već razmotren i odobren: **hronika je nužna forma jer poglavlje pokriva 12
+  godina**, uz dva scenska uporišta (autobuska, dijalog s Andrijanom).
+
+**2 — Zamrznuto i zaštićeno:** poslednja rečenica („…i ja sam to čitavo vreme zvao
+milošću.") · tag „ona pod šeširom" · „Bezbedan sam. Ne tražite." · „Otišao sam u
+kuhinju i jeo iz šerpe, stojeći." · oprana šolja (V 65 → V 137 → VIII 15, zaštićeno
+ponavljanje) · Jovanino „Dobro." · registar: SADAŠNJOST, žive zajedno.
+
+**3 — Dodeljeni zadaci:** nema posebnog.
+
+**4 — Rezervisana mesta:** formula popunjena 2 od 2–3; **jedno slobodno za V–VIII.**
+V je nije koristio i ne treba da je koristi. Mehanizam „tačno/laž" — V se namerno
+NE popunjava u tabeli, odluka stoji.
+
+**5 — Iz Šest pitanja:**
+- *Pitanje koje V nosi:* „Ako je otišao da ih spase, zašto ga nijedna nije primila
+  kao spas?"
+- *Ono što raste:* Katarina u otvaranju traži da je pita za sestru i prigovori mu;
+  na kraju šalje „Stigla sam. Volim te." a on **okrene telefon ekranom nadole** —
+  isti pokret kao ćutanje o adresi u IV.
+
+**6 — Najava:** Brojanje niže. Pet dugova niže. Od Šesnaest postupaka gađaju se:
+**Hemingvej 1** (izostavljanje), **Hemingvej 6** (sintaksa bez uzroka),
+**Bukovski 7** (narator ne zna da priča nešto važno).
+
+### Brojanje (Deo 1)
+
+1324 reči — najkraće poglavlje posle I.
+
+| mera | broj | ocena |
+|---|---|---|
+| **„kao"** | **13** | **najgori odnos u knjizi** — 1 na 102 reči (IV: 1 na 174) |
+| **veznik uzroka** | **10** (8× „jer" + 2× „zato što") | **preko mere po reči** |
+| „nikad" | 6 | čisto |
+
+**Dvostruka poređenja u istom pasusu:** 65 („kao da spremam kuću" + „izgleda kao
+da se čovek vraća"), 81 („kao čovek koji jesam" + „kao i sve ostalo od tog grada").
+
+**Dvostruki veznik u istoj rečenici:** 19 („jer je bila teška i jer je htela").
+Redovi 141 („ne zato što… nego zato što…") **ostaju** — to je namerni paralelizam,
+ne nervoza.
+
+### Pet dugova poglavlja — **sva četiri merljiva su popunjena**
+
+| dug | stanje |
+|---|---|
+| **greška** | **popunjen, i to najbolje u knjizi** |
+| **sramota** | popunjen |
+| **tuđa volja** | popunjen |
+| **pritisak** | **popunjen — i time se naplaćuje dug iz II** |
+| **pitanje na kraju** | popunjen |
+
+**greška.** Katarina kaže „To radiš. Staneš i čekaš da prođe. Kao kiša." — i
+**sledeći red glasi „Stajao sam u hodniku i čekao da prođe."** Izvede tačno ono za
+šta ga je optužila, red posle, bez ijedne reči komentara. Čitalac vidi, David ne
+priznaje da vidi. To je najčistije izvođenje ovog duga u celoj knjizi.
+
+**pritisak — NALAZ, i važan.** U dnevniku za II je upisano da je taj dug tamo
+nemoguć i da se **naplaćuje kasnije, tako da skrene David a ona ostane.**
+**Naplaćen je ovde, u V, i niko to nije upisao:**
+> „A onda sam pitao ono što nisam smeo, i znao sam da ne smem, i pitao sam
+> svejedno. / „A ona?" / Andrijana je dugo ćutala. Predugo."
+
+**On prekrši neizgovoreni dogovor** (traži ono što se ne traži), **a ona ne
+skrene** — odgovori do kraja i naplati mu: *„Tebi je bilo zgodnije da pošalješ na
+jedan broj, je l' tako? Dva broja, dva traga."* i *„Nije me gledala dok je to
+govorila."* Tačno oblik koji Registar 1 propisuje. **Dug iz II je zatvoren; ne
+traži se više u VII ni VIII.**
+
+### Nalaz na spratu rečenice — jedan obrazac, ne rasute greške
+
+Prekomerni „kao" i veznici uzroka nisu razbacani — **grupišu se na mestima gde
+narator objašnjava umesto da pokaže**, i to je isti obrazac koji je autoru
+prijavljen kao rizik za drugu polovinu knjige: *narator koji ume da sroči sopstveni
+život previše dobro.* Konkretno: 49 (vrata zvuče „kao tačka na kraju rečenice"),
+99 („Tuđe ime je kao nova cipela" — druga maksima u istom pasusu), 125 („To je
+Andrijana. Razume sve što ne sme da pita…"), 157 („jer neke stvari čovek ne sme da
+gleda kako sijaju").
+
+**Ocena po spratovima (Pravilo M):**
+- **Poglavlje:** najzdravije do sad — sva četiri merljiva duga popunjena bez ijedne
+  dopune, a jedan zatvara stariji dug iz II.
+- **Rečenica:** najviše posla od svih dosadašnjih poglavlja, ali sve na jednom
+  mestu: naratorova sklonost da izgovori zaključak posle slike.
+- **Knjiga:** V ne treba da nosi nov teret. Prošlost mu je zadatak i on ga radi.
+
+**ČEKA SE AUTOR.**
