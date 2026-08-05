@@ -479,3 +479,110 @@ Izmene iz prvog prolaza (17): hronologija (preksinoć / poziv „dan ranije" / t
 - Zaštićeno i netaknuto: „Vozila je.", uštip, cipele, „Je l' ima još luka?", formula #1 u 91, Jovana bezimena.
 - Pravilo E: PRAVILA_STILA red 32 ispravljen — PAD u III se više ne izgovara, izvodi se telom.
 - Otvoreno: dva „rumena" (53 i 95) stoje kao namerni odjek; rezerva bez boje spremna ako Duffy odluči da je rima.
+
+---
+
+## PROLAZ NA SPRATU KNJIGE — I, II, III · **ZATVORENO ZAUVEK** (05.08.2026)
+
+> Poslednji prolaz kroz prva tri poglavlja. Radio se tek pošto su odgovorena
+> Šest pitanja o knjizi, jer pre toga sprat knjige nije imao po čemu da meri.
+> Smelo se dirati **isključivo** kad čitalac šta sazna, plus dodatak od dva do tri
+> reda unutar postojeće scene. **Nijedna rečenica nije prepisana zbog stila** —
+> tamo je filter završio posao ranije i to se ne otvara više.
+>
+> **Odluka autora: posle ovog upisa I, II i III se ne otvaraju ponovo, ni na pitanje.**
+
+### Brojanje (Deo 1) — čisto u sva tri, bez ijedne intervencije
+
+| | reči | preko praga 8 | veznik uzroka |
+|---|---|---|---|
+| I | 754 | ništa | 1× „zato što" |
+| II | 1458 | „kao" 9, „nešto" 8 | 3× „jer", 1× „što znači" |
+| III | 1079 | ništa | 3× „jer" |
+
+II-ova dva prelaza praga proverena poimenično i **ostavljena**: „kao" pada u
+zaštićenom („ne kao prebacivanje") i u konkretnim slikama, a „nešto" je svuda
+David koji ne ume da imenuje — što je karakter, ne tik. Po napomeni o ponavljanju:
+ritam, ne tik. Ni jedna izmena po Delu 1.
+
+### Pet dugova poglavlja — stanje
+
+| | greška | sramota | tuđa volja | pritisak | pitanje na kraju |
+|---|---|---|---|---|---|
+| **I** | popunjen ×2 | popunjen | popunjen | **popunjen** | popunjen |
+| **II** | popunjen | popunjen | popunjen | **nemoguć, uz razlog** | popunjen |
+| **III** | popunjen | popunjen | popunjen | **nemoguć, uz razlog** | popunjen |
+
+**Nalaz koji je ranije promašen — dug „pritisak" je u I već namiren, i to tačno
+u traženom obliku.** Starac dođe do same ivice („Znam šta ste uradili. I znam šta
+vas je to koštalo."), David slaže, starac primi laž — *„U redu. Pomešao sam vas."*
+— **i svejedno ostavi ponudu i ime radionice.** Ne povlači se. Skreće David.
+Nikad nije bilo upisano; upisuje se sad da se ne traži ponovo.
+
+**Zašto je dug „pritisak" nemoguć u II.** Andrijanino „Ponekad mislim da znam
+zašto si otišao" visi i **ona sama skrene** — to je Registar 1, neizgovoreni
+dogovor, i pravilo glasi da ga sme prekršiti **samo on, nikad ona.** II je
+poglavlje u kom se taj dogovor **postavlja**; prekršiti ga u istom poglavlju u
+kom se uvodi obesmislilo bi ga. Dug ostaje na knjizi i **naplaćuje se u VII ili
+VIII, i to tako da skrene David a ona ostane.**
+
+**Zašto je dug „pritisak" nemoguć u III.** Katarina kaže **„Lažeš."** (red 79) —
+jedini put u knjizi da mu neko to kaže u lice — pa to sama pretvori u šalu o
+vinu. Da ostane jedan takt duže, dug bi bio namiren ovde. **Ne sme:** Registar 1
+kaže da ona *„do VIII se ne budi, ne sumnja, ne proverava"*, a njen test
+unutrašnjosti je rezervisan za VIII. Zapisano da naredni prolaz ne posegne za
+tim mestom misleći da je previd.
+
+### Jedina izmena (jedna, u I)
+
+**I, posle reda 45 — DODATO tri reda unutar postojeće scene:**
+
+> Konobar je došao po šolju. Rekao sam mu da ostavi. Ostao sam još sat.
+
+*Testovi:* Hemingvej 2 (šolja umesto pojma) · Bukovski 7 (pasus se ne potpisuje —
+treći ravan kraj u poglavlju, uz dva iz ranijeg prolaza) · Deo 1 tačka 7 (odvojen
+u sopstveni pasus da se ne napravi niz od šest kratkih rečenica).
+
+Kači se na red 9, na konobara koji *„spusti, klimne, ode"* — jedini čovek u gradu
+koji ga ništa ne pita, a David mu se sad obrati da bi zadržao praznu šolju kao
+izgovor da ne ustane. Rimuje se s VIII 189 („Kafa se hladila. Nisam žurio.") i
+VIII 203 („Hladna, ali nisam hteo drugu.") — isti čovek, isti sto, i dalje ne
+ustaje.
+
+**Razmotreno i ODBAČENO po odluci autora:** varijanta u kojoj ga kod kuće čeka
+ručak. Razlog autora: **u I se ne sme rešiti da živi s Katarinom** — bilo zato
+što tada još ne žive zajedno, bilo zato što u sidrenom poglavlju to ne treba da
+bude poznato. Rečenica nije samo dodavala njeno prisustvo nego je zatvarala
+pitanje stana, a to je raspored informacije koji pripada kasnijim poglavljima.
+Odbačena je i varijanta s poslom („Trebalo je da budem na poslu u dva") — autor
+izabrao tišu.
+
+**Razmotreno i ODBAČENO pre nego što je stiglo do autora:** dopuna u kojoj David
+posle piše Katarini da ga je zadržao posao. Bila bi to **prava laž**, a zaključano
+je da David ne laže nego izostavlja (II: „Ti nikad ne slažeš" / „Nisam.").
+
+### Šta ostaje otvoreno posle ovog prolaza
+
+**Sidreno poglavlje i dalje nema ni traga od života koji je David izgradio.**
+Dokument o svetu kaže da je knjiga o čoveku koji je napravio stvaran novi život i
+bira ga svaki dan — a čitalac u I vidi samo usamljenog čoveka s kafom, pa ulazi u
+knjigu s pogrešnom pretpostavkom o tome o čemu je. **Odlukom autora se to NE
+rešava u I** (vidi gore). **Preneto u IV**, gde ionako živi mart i Katarinina
+molba za adresu — tamo se plaća bez opasnosti po raspored informacije.
+
+### Zaštićeno, provereno netaknuto u ovom prolazu
+
+- **I:** poslednja rečenica · red 7 („telo ne zna za kalendar") · red 9 („Sto sa
+  kog se vide vrata") · red 39 („Klimnuo sam glavom. Samo da ode.") · red 47
+  („u jarku, u reci, u temelju").
+- **II:** „Ugasio sam svetlo." · „Isti čovek." · roze brijač · špagete bolonjeze ·
+  „Otvorila je vrata pre nego što sam pokucao" · „ne kao prebacivanje" ·
+  Andrijanina replika koja imenuje mehanizam · blok 163–175 · voda.
+- **III:** „Vozila je." · uštip · cipele · „Je l' ima još luka?" · „Sipao sam iz
+  inata." · formula #1 u 91 · Jovana bezimena · poslednji red (Katarina ne gleda
+  ka vratima).
+
+**Rezervisana mesta za formulu:** nepromenjeno — #1 u III (91), #2 u VI. Ostaje
+najviše jedno slobodno za celu knjigu.
+
+**STATUS: I, II i III su zatvoreni na sva tri sprata. Ne otvaraju se više.**
