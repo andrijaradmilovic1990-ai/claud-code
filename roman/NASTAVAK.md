@@ -112,21 +112,48 @@ VIII koliko još može da drži dva sveta odvojena.
 
 ---
 
-## SLEDEĆE — poglavlje IV (Pariz)
+## GDE SMO SAD — IV (Pariz) je OTVOREN, čeka autora
 
-Otvara se po Pravilu H (ulazni list, šest stavki), pa **sva tri sprata odjednom**,
-pa presek, pa predlozi u porcijama od najviše četiri.
+Ulazni list odrađen, poglavlje pročitano celo, nalaz upisan u dnevnik
+(`Analiza_i_pokret_prepravke_3_1_1.md`, odeljak „IV — PARIZ · OTVORENO").
+**Nijedna izmena nije uneta.**
 
-**Šta IV nosi posebno:**
+**Ocena po spratovima:**
 
-- **Ovde živi mart.** „Stara mi ističe u martu… da je odmah vadim na ovu adresu."
-  To je jedini izgovoren rok u celoj knjizi i **niko ga ne broji.** Glavni posao
-  na spratu knjige u ovom poglavlju.
+- **Rečenica** — među najboljim u knjizi. Jedina merljiva mana: **10 veznika
+  uzroka** („jer" ×9 + „zato što") na 1739 reči, i to zbijeno u najnežnijim
+  pasusima (31, 43, 51, 59, 81). II je imao 6 na 1562 i pravila su to nazvala
+  nervozom; IV je gori po reči.
+- **Poglavlje** — tri od pet dugova popunjena. **„Sramota" je prazna** i to je
+  najveća rupa u knjizi: u IV je David bogat, željen, voljen, tačan u proceni
+  svakoga, i nijednom nije sitan ni smešan. Pravila su taj rizik imenovala
+  unapred („bliže žanrovskom junaku nego Bukovskom") — **IV je mesto gde je to
+  najistinitije.** Bukovskijeva disciplina je da pisac ne štiti sebe; ovde se
+  štiti potpuno.
+- **Knjiga** — **ovde živi mart.** „Stara mi ističe u martu… da je odmah vadim na
+  ovu adresu." Jedini izgovoren rok u celoj knjizi, i jedino mesto gde Katarina
+  traži nešto za sebe — a ona ga sama povuče („Nema veze. Ima vremena do marta.")
+  i pet redova kasnije on diže glas da odbrani magnet. **Ćuti kad ga živa žena
+  pita sme li da postoji na njegovoj adresi, a viče da odbrani spomenik mrtvoj.**
+  Najjače mesto u poglavlju, trenutno prošaptano.
+
+**Zaključak:** IV je za cilj **najvažnije poglavlje u knjizi i najmanje
+obrađeno.** Sve što knjizi treba da prestane da bude „niz odličnih poglavlja"
+leži baš u njemu, neiskorišćeno.
+
+**Šta još treba znati pre rada na IV:**
+
 - **Preneto iz I:** sidreno poglavlje nema ni traga od života koji je David
   izgradio — autor je odbio da se to reši u I (ne sme se tamo znati da živi s
   Katarinom). **Plaća se ovde**, gde ona ionako traži adresu.
+- **Registar 1 ostaje netaknut** ako Katarina ostane na svom traženju jedan takt
+  duže — ona ne pritiska njegovu tajnu nego zajednički život. To nije sumnja.
+- **Kraj IV je Registar 2.** Postavljeno je jedno pitanje autoru (poslednji pasus
+  objašnjava magnet do kraja i time odgovara na pitanje poglavlja umesto da ga
+  ostavi) — bez argumenta, čeka odgovor.
 - Iz mape: „s njom se nije vodila ljubav, s njom se ratovalo" je **primer onoga
   što treba**, ne greška — ne seći kao model za skraćivanje.
+- **Nataša se ne dira nigde** — njena ravnost je funkcija.
 - Prelomi pasusa su rekonstrukcija iz OCR-a (reči nedirane, 99,86%) — **autor ih
   pregleda očima uz original**, to nije Helenin posao.
 

@@ -586,3 +586,137 @@ molba za adresu — tamo se plaća bez opasnosti po raspored informacije.
 najviše jedno slobodno za celu knjigu.
 
 **STATUS: I, II i III su zatvoreni na sva tri sprata. Ne otvaraju se više.**
+
+---
+
+## IV — PARIZ · **OTVORENO 05.08.2026** — ulazni list i nalaz
+
+> Prvo poglavlje koje se otvara sa odgovorenim Šest pitanja u ruci.
+> Nijedna izmena još nije uneta — ovo je nalaz, čeka se autor (Pravilo K).
+
+### Ulazni list (Pravilo H, šest stavki)
+
+**1 — Dokaz čitanja, po jedna stavka iz sva četiri dokumenta koja se tiče baš IV:**
+- *Analiza (mapa):* „pasus SME da se razvije kad nosi — **'s njom se nije vodila
+  ljubav, s njom se ratovalo' je primer ONOGA ŠTO TREBA, ne greška.** Ne seći je
+  kao model za skraćivanje drugih mesta."
+- *SVET_I_LIKOVI:* tag **„ona pod šeširom"** uveden ovde (red 79), isplaćuje se u
+  poslednjoj rečenici V — mora ostati. Pariz = Natašina ideja, putuju odvojeno iz
+  navike. Katarinina želja (lična na njegovu adresu) dodata u prolazu kroz celinu.
+- *FINALNI_PROLAZ_PRAVILA, Registar 2:* „**Kraj IV — magnet kao grob, 'Nismo
+  mogli.' Stoji. Nije mereno na spratu knjige.**" → jedno pitanje dozvoljeno,
+  bez argumenta.
+- *PRAVILA_STILA:* tačka 6 — nežnost ulovljena i postiđena. **Jovanin ivičnjak je
+  presedan: ostaje svesno go**, jer je njena nežnost žaljenje za nedostupnim, ne
+  skrivanje. Odluka doneta u ranijem prolazu, ne otvara se.
+
+**2 — Zamrznuto i zaštićeno u IV, poimenično:**
+kraj („Nismo mogli." + pasus o grobu, Registar 2) · „s njom se nije vodila ljubav,
+s njom se ratovalo" · zavet o neimenovanju (red 57, zapečaćeno ime) · tag „ona pod
+šeširom" (79) · **Nataša — ne dirati nigde** (njena ravnost je funkcija, ne
+problem) · Katarinina želja (117–125, sveža iz prolaza kroz celinu) · Jovanin
+ivičnjak go, bez stida.
+
+**3 — Dodeljeni zadaci iz mape:** nema posebnog; opšti filter + napomena o dugoj
+rečenici.
+
+**4 — Rezervisana mesta i registar mehanizma:** formula popunjena 2 od 2–3
+(III 91, VI 139) — **IV ne sme da potroši poslednje slobodno mesto bez jakog
+razloga.** Mehanizam „svaka reč tačna, zbir laž" — IV se NE popunjava u tabeli,
+odlučeno ranije, stoji.
+
+**5 — Iz Šest pitanja o knjizi:**
+- *Pitanje koje IV nosi:* „Šta je sahranjeno pod tim magnetom, i zna li ona da
+  živi pored groba?"
+- *Kako se u IV vidi ono što raste:* **ovde živi mart.** IV je **jedino mesto u
+  celoj knjizi gde je rok izgovoren naglas**, i jedino mesto gde Katarina traži
+  nešto za sebe. To je glavni posao ovog poglavlja.
+
+**6 — Najava sva tri dela:** Brojanje urađeno (niže). Pet dugova provereno (niže).
+Od Šesnaest postupaka gađaju se poimenično: **Bukovski 3** (samoprikaz bez
+samoodbrane), **Bukovski 6** (novac i telo u pogrešnom trenutku), **Bukovski 7**
+(narator ne zna da priča nešto važno), **Hemingvej 6** (sintaksa koja ne
+objašnjava uzrok), **Hemingvej 4** (kraj scene bez sumiranja).
+
+### Brojanje (Deo 1) — nalaz, ne odluka
+
+1739 reči, najduže od prva četiri.
+
+| mera | broj | ocena |
+|---|---|---|
+| **veznik uzroka** | **10** (9× „jer" + 1× „zato što") | **preko mere** |
+| „nikad" | 10 | preko praga, ali **ritam a ne tik** — vidi niže |
+| „kao" | 7 (+4 „kao da") | u granicama, ali **tri u jednom pasusu na 51** |
+| „samo" | 6 | čisto |
+
+**Veznik uzroka — 10 na 1739 reči.** Za poređenje: II je imao 6 „jer" na 1562 i
+pravila su to nazvala **nervozom, ne stilom.** IV je gori po reči. Kritično je
+**gde** padaju: 31 (dvaput), 43, 51, 59, 81 — to su tačno najnežniji i najvažniji
+pasusi poglavlja. Isti obrazac koji je dijagnostikovan u II.
+
+**„nikad" ×10 — ostaje.** Nosi kičmu poglavlja: „Nikad nije pitala koliko košta"
+(Andrijana, 21) i „Ona nikad nije pitala ono što je videla" (Jovana, 99). Dve žene
+koje ne pitaju, iz dva različita razloga. Po napomeni o ponavljanju: konkretno i s
+promenjenim teretom = ritam. **Ne dirati.**
+
+**Red 51 — tri poređenja u jednom pasusu** („kao da se ništa nije desilo" · „kao
+što dete nosi balon" · „kao što se ljudi smeju dobrom provodu"). Deo 1, tačka 3.
+
+### Pet dugova poglavlja — stanje
+
+| dug | stanje |
+|---|---|
+| **greška** | **tanko** |
+| **sramota** | **PRAZNO — najveća rupa u poglavlju i u knjizi** |
+| **tuđa volja** | popunjeno, dobro |
+| **pritisak** | **prazno, a materijal je već tu** |
+| **pitanje na kraju** | **kraj odgovara umesto da pita** (Registar 2 — jedno pitanje) |
+
+**greška — tanko.** David je u IV dvaput u krivu, ali oba puta **sam kaže da je
+bio u krivu**, umesto da čitalac vidi pre njega. Red 59: „dugo sam mislio da je to
+stid ili vaspitanje… Nije bilo. Shvatio sam tek kasnije, prekasno" — narator
+ispravlja sam sebe, pa čitalac nijednom nije ispred njega. Jedina prava greška je
+red 51 („Nataša nije znala da bude povređena") — ali se ona obara tek u VII, tri
+poglavlja kasnije, i unutar IV se ne vidi.
+
+**sramota — prazno, i ovde je knjiga najranjivija.** U IV je David bogat („dovoljno
+da kupim svaki izlog na toj ulici i ljude iza njih"), željen od Andrijane, voljen
+u tišini od Jovane, tačan u proceni svakoga za stolom, jedini muškarac među troje
+žena — i **nijednom nije sitan, smešan ni nedostojanstven.** Pravila su ovaj rizik
+imenovala unapred („bliže žanrovskom junaku nego Bukovskom"); **IV je mesto gde je
+to najistinitije.** Ovo je jedina stvar u poglavlju koja ne bi izdržala poređenje s
+Bukovskim, jer je Bukovskijeva disciplina upravo da **pisac ne štiti sebe**, a
+ovde se štiti potpuno.
+
+**pritisak — prazno, a materijal je već napisan.** Katarina traži da izvadi ličnu
+na njegovu adresu (117–121). On gleda u frižider. **Ona sama povuče:** „Nema veze.
+Ima vremena do marta." Pet redova kasnije on diže glas da odbrani magnet
+(„Nemoj", prebrzo). Ćuti kad ga živa žena pita sme li da postoji na njegovoj
+adresi, a viče da odbrani spomenik mrtvoj.
+**Ovo je najjače mesto u IV na spratu knjige i trenutno je prošaptano.**
+Ključno: da ona ostane na tome jedan takt duže **ne traži da posumnja** — ona ne
+pritiska njegovu tajnu nego zajednički život. **Registar 1 ostaje netaknut.**
+
+**pitanje na kraju.** Poslednji pasus (135) objašnjava magnet do kraja — „niko
+osim mene ne zna da je to spomenik" pa nabrajanje ko je sve pod njim sahranjen.
+Poglavlje time **odgovara na sopstveno pitanje** umesto da ga ostavi. To je i
+jedino mesto u IV gde autor tumači sopstvenu sliku — isti potez koji je izbačen iz
+VIII 169. **Kraj je Registar 2; postavljeno je JEDNO pitanje autoru, bez
+argumenta, i tu stoji dok ne odgovori.**
+
+### Ocena po spratovima (Pravilo M)
+
+- **Rečenica:** među najboljim u knjizi. Jedina merljiva mana je nervoza s
+  veznikom uzroka u najnežnijim pasusima.
+- **Poglavlje:** tri od pet dugova popunjena, jedan tanak, jedan prazan — i
+  prazan je onaj koji čuva knjigu od toga da bude laskav autoportret.
+- **Knjiga:** IV drži najvredniju stvar u rukopisu za cilj — **izgovoren rok** — i
+  trenutno je baci u tri reda. Nijedno drugo poglavlje nema rok.
+
+**Zaključak:** IV je za cilj **najvažnije poglavlje u knjizi i najmanje obrađeno.**
+Ne zato što je loše napisano — nego zato što sve što knjizi treba da prestane da
+bude „niz odličnih poglavlja" leži baš u njemu, neiskorišćeno: rok, žena koja
+traži nešto za sebe, i jedino mesto gde bi David mogao da prestane da bude
+zadivljujuć.
+
+**ČEKA SE AUTOR.** Nijedna izmena nije uneta.
