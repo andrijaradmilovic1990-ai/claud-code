@@ -78,7 +78,7 @@ Rekao sam ime grada u kom nikad nisam bio.
 
 „U jednom pravcu.“
 
-To je bio ceo razgovor. Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja, kao i sve ostalo od tog grada.
+To je bio ceo razgovor. Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja.
 
 Samo sam jednog jutra bio, i sledećeg nisam, i između ta dva jutra stao je ceo jedan život.
 
@@ -108,7 +108,7 @@ Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još 
 
 ⁂
 
-Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim stolom. Andrijana jedina ume da priča o tome kao o vremenskoj prognozi, bez optužbe u glasu — i baš zato boli.
+Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim stolom. Andrijana jedina ume da priča o tome kao o vremenskoj prognozi, bez optužbe u glasu.
 
 „Nataša je plakala tri dana“, rekla je. „Pa četvrtog ispekla palačinke i rekla: javiće se on. Znaš nju. Za tebe je bila u pravu. Za vreme nikad nije.“
 
