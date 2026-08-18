@@ -94,6 +94,8 @@ Imao sam u džepu te večeri dovoljno da kupim svaki izlog na toj ulici i ljude 
 
 Nasmejala se. Znala je da ne bismo. Oboje smo znali zašto, i niko od nas to nije rekao, i taj šešir joj je bacao senku preko pola lica pa sam video samo usta kako se smeju.
 
+Noga mi je bila utrnula od ivičnjaka. Kad sam ustao, morao sam da se pridržim, pa sam stajao i lupkao petom o asfalt dok nije prošlo.
+
 Vratile su se s vinom i lošim sirom i Nataša je htela da pravimo piknik u dva ujutru ispod kule, i pravili smo, na travi, u srcu grada koji nas se ne tiče. Andrijana je u jednom trenutku legla glavom u moje krilo i gledala u nebo i rekla „nikad ovako nećemo, je l' da, nikad više ovako“, i bila je pijana pa joj niko nije odgovorio, i bila je u pravu pa joj niko nije odgovorio. Sve četvoro. Na travi, strane reči svuda oko nas. Na par sati niko nikome nije ništa dugovao i niko nikoga nije morao da čuva.
 
 Sedeo sam leđima ka kamenu.
