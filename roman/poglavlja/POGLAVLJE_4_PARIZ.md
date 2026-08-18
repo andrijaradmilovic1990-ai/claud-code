@@ -48,7 +48,7 @@ Sutradan smo bili samo drugari. Tako je i bilo. Niko nije lagao.
 
 One dve su stigle drugog dana.
 
-Nataša je vrisnula čim nas je videla na stanici, potrčala, skočila na mene s koferom i svim, i umalo nas oboje na šine. Uvek je bila takva — preglasna, prevelika, sva odjednom. Nataši je sve bilo lako. To joj je bio dar. Mogla je da legne s nama i ujutru da pravi palačinke kao da se ništa nije desilo, jer se za nju ništa i nije desilo — telo je bilo telo, veselje je bilo veselje, a ona je sve to nosila kao što dete nosi balon, bez težine. Bilo je noći, i u Parizu i pre Pariza, kad nas je bilo troje, ona i Andrijana i ja, i ujutru bismo se smejali tome uz kafu kao što se ljudi smeju dobrom provodu. Nataša nije znala da bude povređena. Zavideo sam joj na tome.
+Nataša je vrisnula čim nas je videla na stanici, potrčala, skočila na mene s koferom i svim, i umalo nas oboje na šine. Uvek je bila takva — preglasna, prevelika, sva odjednom. Nataši je sve bilo lako. To joj je bio dar. Mogla je da legne s nama i ujutru da pravi palačinke kao da se ništa nije desilo, jer se za nju ništa i nije desilo — telo je bilo telo, veselje je bilo veselje, a ona je sve to nosila kao što dete nosi balon, bez težine. Bilo je noći, i u Parizu i pre Pariza, kad nas je bilo troje, ona i Andrijana i ja, i ujutru bismo se smejali tome uz kafu. Nataša nije znala da bude povređena. Zavideo sam joj na tome.
 
 A iza nje, sporije, s onim svojim hodom koji nikad nije žurio jer je znala da ćeš je sačekati —
 
