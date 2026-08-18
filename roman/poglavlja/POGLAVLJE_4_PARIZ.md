@@ -28,7 +28,7 @@ Vratili smo se pre njih dve, pijani od nečeg francuskog čije ime nismo umeli d
 
 „Neka gledaju.“
 
-Haljina je pala. Znoj nam je bio isti, mešao se, nisam znao gde prestajem ja a počinje ona, i nije bilo važno. Bila je sva mišić i bes i glad, zarila mi nokte u leđa tako da sam ih osećao danima, i ja sam joj uzvraćao isto, jer s njom se nije vodila ljubav, s njom se ratovalo, i oboje smo pobeđivali tako što smo gubili. Ujela me za rame dovoljno jako da pusti krv. Nisam ni trepnuo. Voleo sam i to. Voleo sam što jedina žena s kojom spavam ume da me povredi i što joj to dozvoljavam, jer je to bilo jedino mesto na svetu gde sam dao nekom da mi priđe iza odbrane svojom voljom.
+Haljina je pala. Znoj nam je bio isti, mešao se, nisam znao gde prestajem ja a počinje ona, i nije bilo važno. Bila je sva mišić i bes i glad, zarila mi nokte u leđa tako da sam ih osećao danima, i ja sam joj uzvraćao isto, jer s njom se nije vodila ljubav, s njom se ratovalo, i oboje smo pobeđivali tako što smo gubili. Ujela me za rame dovoljno jako da pusti krv. Nisam ni trepnuo. Voleo sam i to. Voleo sam što jedina žena s kojom spavam ume da me povredi i što joj to dozvoljavam.
 
 Posle smo ležali na podu jer do kreveta nismo stigli, i ona je palila cigaretu na mojim grudima, naslonjena, znojava, i gledala u tavanicu.
 
@@ -40,7 +40,7 @@ Posle smo ležali na podu jer do kreveta nismo stigli, i ona je palila cigaretu 
 
 „Znam, Andrijana.“
 
-„Dobro.“ Povukla je dim. „Samo da se zna.“ Pa mi ga je dunula u lice, i nasmejala se, i to je bila cela istina o nama — što smo mogli da budemo ovo večeras i ništa sutra, i da nas oboje to ne boli, jer smo jedno drugom bili tačno ono što je drugom trebalo u tom trenutku i ništa preko toga. Ljubavnici kad se hoće. Drugari kad se hoće. Bez računa.
+„Dobro.“ Povukla je dim. „Samo da se zna.“ Pa mi ga je dunula u lice, i nasmejala se, i to je bila cela istina o nama — što smo mogli da budemo ovo večeras i ništa sutra, i da nas oboje to ne boli. Ljubavnici kad se hoće. Drugari kad se hoće. Bez računa.
 
 Sutradan smo bili samo drugari. Tako je i bilo. Niko nije lagao.
 
@@ -97,8 +97,6 @@ Vratile su se s vinom i lošim sirom i Nataša je htela da pravimo piknik u dva 
 Sedeo sam leđima ka kamenu.
 
 Čak i tamo. Čak i te noći, najlepše koje se sećam, leđa su mi tražila zid sama od sebe, i našla ga, i naslonio sam se i nisam ni primetio da sam to uradio dok mi Nataša nije dobacila „što si se zavukao tu kao slepi miš, dođi“, i ja sam se nasmejao i nisam se pomerio. Ona pod šeširom me je pogledala kad je Nataša to rekla. Samo me pogledala. Ona jedina je videla da to nije šala, da se čovek ne zavlači uza zid iz obesti. Ali nije rekla ništa. Ona nikad nije pitala ono što je videla.
-
-Telo je već tada znalo nešto što glava nije htela.
 
 ⁂
 
