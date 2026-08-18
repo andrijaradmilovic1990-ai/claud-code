@@ -62,11 +62,21 @@ Dani su se lepili jedan na drugi kao da im je neko skinuo brojeve.
 
 Ustajalo se kasno. Andrijana je spavala do podne i budila se loše volje, Nataša je trošila svu toplu vodu i pevala kroz vrata kupatila. Najviše se čekalo — na nekog da se obuče, na nekog da nađe ključ, na nekog da se seti gde je ostavio novčanik. Stajao sam kod tog prozora s pogledom na pola grada i čekao. Pogled je bio isti svaki put.
 
-Trećeg dana, u nekoj rupi od bistroa, Nataša je naručila pokazujući prstom na tuđ sto.
+Trećeg dana, u nekoj rupi od bistroa, hteo sam da naručim sam. Naučio sam tri reči iz knjižice koja je stajala u hotelskoj sobi i izgovorio sam ih konobarici, polako, gledajući je pravo — onako kako se govori kad hoćeš da čovek preko puta zna s kim priča.
+
+Saslušala me je. Pa mi je odgovorila na engleskom. Kad sam je pogledao, ponovila je, sporije.
+
+Andrijana je pukla prva. Nataša je uzela vodu na nos i kašljala pola minuta. Ona pod šeširom se nije smejala naglas — spustila je pogled u sto, a ramena su joj išla gore-dole.
+
+„Šta sam rekao?“
+
+„Ne znam“, rekla je Andrijana, brišući oči. „Ali nije bilo to.“
+
+Nataša je naručila pokazujući prstom na tuđ sto.
 
 „To. To što oni jedu.“
 
-Konobar je doneo četiri porcije nečega što niko od nas nije umeo da imenuje. Bilo je odvratno. Pojeli smo sve.
+Donela je četiri porcije nečega što niko od nas nije umeo da imenuje. Bilo je odvratno. Pojeli smo sve.
 
 Nataša je digla čašu:
 
