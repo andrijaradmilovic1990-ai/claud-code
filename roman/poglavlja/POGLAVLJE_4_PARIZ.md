@@ -60,6 +60,8 @@ Ona se nije skidala ni s kim. Za Natašu je telo bilo balon. Za Andrijanu rat be
 
 Dani su se lepili jedan na drugi kao da im je neko skinuo brojeve.
 
+Ustajalo se kasno. Andrijana je spavala do podne i budila se loše volje, Nataša je trošila svu toplu vodu i pevala kroz vrata kupatila. Najviše se čekalo — na nekog da se obuče, na nekog da nađe ključ, na nekog da se seti gde je ostavio novčanik. Stajao sam kod tog prozora s pogledom na pola grada i čekao. Pogled je bio isti svaki put.
+
 Trećeg dana, u nekoj rupi od bistroa, Nataša je naručila pokazujući prstom na tuđ sto.
 
 „To. To što oni jedu.“
