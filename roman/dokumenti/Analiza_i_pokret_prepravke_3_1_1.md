@@ -109,6 +109,7 @@ Već revidirano i zatvoreno (vidi Dnevnik rada niže za tačan spisak izmena). P
 - Uveden Mali (sestrić, brblja kad nervozan) — pri reviziji paziti da dijalog-tik (tačka 6) ne postane ponavljanje bez razvoja ako se Mali još pojavi kasnije.
 
 ### IV — Pariz
+**ZATVORENO U FINALNOM PROLAZU** — vidi dnevnik finalnog prolaza na dnu.
 - Nema posebnog dodeljenog zadatka. Opšta ček-lista.
 - Napomena iz čekliste (tačka 12 stila): pasus SME da se razvije kad nosi — ovo poglavlje je naveden primer gde duga rečenica već radi ("s njom se nije vodila ljubav, s njom se ratovalo") — ne seći nju kao model za skraćivanje drugih mesta, ona je primer ONOGA ŠTO TREBA, ne greška.
 
@@ -469,3 +470,50 @@ Izmene iz prvog prolaza (17): hronologija (preksinoć / poziv „dan ranije" / t
 - Zaštićeno i netaknuto: „Vozila je.", uštip, cipele, „Je l' ima još luka?", formula #1 u 91, Jovana bezimena.
 - Pravilo E: PRAVILA_STILA red 32 ispravljen — PAD u III se više ne izgovara, izvodi se telom.
 - Otvoreno: dva „rumena" (53 i 95) stoje kao namerni odjek; rezerva bez boje spremna ako Duffy odluči da je rima.
+
+---
+
+### IV — Pariz · ZATVORENO U FINALNOM PROLAZU
+
+**Brojke:** 1799 → 1928 reči (poglavlje je naraslo — 187 reči rezano, 316 dopisano; drugo posle II koje raste). „kao" 11 → 10 · uzročni veznik 10 → 8.
+
+**Zašto je uopšte otvarano.** Dnevnik je za IV imao zapis starog prolaza kroz deset tačaka i dopunu iz prolaza kroz celinu (Katarinina lična karta), ali ne i finalni prolaz. Provera je to potvrdila brojkom: uzročni veznik 5,6 na hiljadu reči, gušće nego što je II imao PRE finalnog prolaza (6,4 → 2,5). Deo 1 i Deo 3 kroz IV nisu bili prošli.
+
+**Glavni nalaz (Deo 2, kvota 2.2, sprat poglavlja):** u IV David ima novac koji kupuje svaki izlog u ulici, dve žene koje ga hoće, treću zbog koje to ne vredi, i leđa uz kamen. Procenjuje tačno. Nijednom nije smešan, sitan ni banalan — uz VI, jedino poglavlje s praznom kvotom dostojanstva. Uz to: tri najsvečanija pasusa idu jedan za drugim i sva tri sleću izbrušeno, pa B2 test (izduvavanje) pada zajedno s njima.
+
+**Drugi nalaz (PRAVILA_STILA, emotivna dinamika):** IV nije imao nijedan trenutak zajedničkog smeha pre nego što padne „Nismo mogli." Tuga udara samo ako je pre nje postojala radost — poglavlje je imalo pad bez vrha.
+
+**Izmene (sedam):**
+
+1. **Red 51 — mehanika (Deo 1, t.3).** Trostruko poređenje u jednom pasusu; palo treće — „kao što se ljudi smeju dobrom provodu". Ostaju „kao da se ništa nije desilo" i „kao što dete nosi balon". Ušlo bez pojedinačnog odobrenja po Pravilu K.
+2. **Red 31 — rez repa.** „…i što joj to dozvoljavam, ~~jer je to bilo jedino mesto na svetu gde sam dao nekom da mi priđe iza odbrane svojom voljom.~~" H4 + B7 + Deo 1 t.2: ujed do krvi i „Nisam ni trepnuo" to su već rekli telom, a bilo je i drugo „jer" u istom pasusu, posle zaštićenog („s njom se nije vodila ljubav").
+3. **Red 43 — rez repa.** „…i da nas oboje to ne boli~~, jer smo jedno drugom bili tačno ono što je drugom trebalo u tom trenutku i ništa preko toga~~. Ljubavnici kad se hoće. Drugari kad se hoće. Bez računa." Deo 1 t.6 + B7: tri fragmenta odmah posle kažu isto kraće i tvrđe.
+4. **Red 101 — rez cele linije.** „Telo je već tada znalo nešto što glava nije htela." B7: potpisivala je pasus iznad, koji se završava jače („Ona nikad nije pitala ono što je videla"). Uz to je bila **peta, neupisana pojava refrena** — po registru u SVET_I_LIKOVI on ide I, II, VI i VIII. Autor otvorio registar na jedno pitanje, po Pravilu L. Zaron se sad zatvara na sliku pa rez, bez potpisa iznad.
+5. **Red 61 — DOPUNA po B5 (dosada se piše).** „Dani su se lepili jedan na drugi" bila je jedna rečenica koja preskače baš ono što bi bilo najdosadnije. Rečenica ostaje, ispod nje dodat pasus: *„Ustajalo se kasno. Andrijana je spavala do podne i budila se loše volje, Nataša je trošila svu toplu vodu i pevala kroz vrata kupatila. Najviše se čekalo — na nekog da se obuče, na nekog da nađe ključ, na nekog da se seti gde je ostavio novčanik. Stajao sam kod tog prozora s pogledom na pola grada i čekao. Pogled je bio isti svaki put."* Bez ijednog „kao" i „jer", bez imenovane emocije; poslednja rečenica izduvava „pucao pogled na pola grada" iz reda 19 bez komentara. Presedan: „Kod nje sam stigao kad se već smrkavalo." (II).
+6. **Red 93 — DOPUNA, kvota 2.2, prvo mesto.** Posle najizbrušenijeg pasusa na ivičnjaku: *„Noga mi je bila utrnula od ivičnjaka. Kad sam ustao, morao sam da se pridržim, pa sam stajao i lupkao petom o asfalt dok nije prošlo."* Najlepši trenutak u knjizi završava tako što čovek lupka petom da mu se vrati krv u nogu. B6: telo koje smeta, ne telo koje sceni ide na ruku. Ne otkupljuje se, bez komentara posle.
+7. **BISTRO SCENA — kvota 2.2, drugo mesto, i vrh radosti.** Sve tri se smeju Davidu. Unutar postojeće scene, bez novog lika i bez novog mesta: konobarica je ista osoba koja je i pre donosila hranu, bez imena i istorije. B8 to izričito dozvoljava pod tim uslovom, a dokument je baš konobara navodio kao primer nameštaja — potez mu je popravio i to.
+   - **Redosled obrnut po ispravci autora.** Prva verzija je Davidov pokušaj stavljala POSLE Natašinog prsta, što ne drži — porudžbina je već bila gotova. Sad njegov promašaj izaziva prst, pa rečenica koja je bila boja postaje poenta.
+   - **Poniženje stoji u „ponovila je, sporije"** — ne odgovara mu ona, nego mu ponovi kao gostu koji ne prati. Nijedna reč ne imenuje šta on oseća.
+   - **H1:** ni on ni čitalac ne saznaju šta je rekao. „Šta sam rekao?" / „Ne znam… Ali nije bilo to."
+   - **Sve tri reaguju po karakteru:** Andrijana glasno i prva; Nataša fizički, na nos, ostaje ravna po mapi; ona pod šeširom bez glasa, spuštenog pogleda — isti lik koji „gleda a ne ulazi" iz reda 59.
+   - **„Konobar je doneo" → „Donela je"**, ista osoba.
+   - *Nuspojava, primećena tek pri finalnom čitanju:* Natašina zdravica dva pasusa niže („Niko nas ovde ne zna i niko nas se ne plaši") sad dolazi odmah posle cene tog neznanja. Bila je izjava, postala je naplata.
+8. **Red 89 — rez repa.** „Niko za stolom to nije primetio. Možda jedna. ~~Ona je sve primećivala i ništa nije pitala.~~" Deo 1, t.6: isti potez je stajao dvaput na dvadeset redova razmaka, oba puta o istom gestu (89 i 113). Drugo mesto je jače — tamo ona ne samo da primeti nego razume, i tamo je kraj zarona. Rez čuva rast (prvo *možda* primeti, pa na kraju vidi šta je videla) i pušta formulaciju da se izgovori jednom.
+
+**Kvote iz Dela 2:**
+
+| | stanje |
+|---|---|
+| **2.1** David u krivu | **popunjena** — Nataša u 51 („nije znala da bude povređena", VII to obara); sad i bistro, gde čitalac vidi promašaj pre njega |
+| **2.2** dostojanstvo | **popunjena, dva mesta** — bistro (tri po podne) i noga (uveče). Različiti udarci, oba unutar postojećih scena. |
+| **2.3** neko hoće nešto svoje | **popunjena** — Katarinina lična karta („da je odmah vadim na ovu adresu"), Natašino „To što oni jedu", konobarica |
+| **2.4** neko pritiska ono što se krije | **NEMOGUĆA UZ RAZLOG.** U IV se još nema šta kriti — poglavlje se dešava pre nestanka. Ono što jeste skriveno je gest s leđima, a njega zaključava Registar 1: lov nosi ona pod šeširom, i ona ovde gleda i ne pita. Da neko u IV pritisne i ne odustane, srušio bi se raspored po kom je ona jedini lovac. |
+| **2.5** pitanje na kraju | **popunjena** — „Zašto nisu mogli?" Konkretno pitanje s mogućim odgovorom, i knjiga na njega odgovara kasnije. |
+
+**Deo 3 — šta i dalje nedostaje, svesno:** H7 (radnja izvedena do kraja) nema je u IV nigde. Nijedne ruke ne izvedu postupak od početka do kraja, kako to rade sos u II, šerpa u III i oprana šolja u V. Procenjeno da IV to i ne traži — poglavlje je sećanje i lirika, ne procedura, a nateran postupak bi bio mašinerija. Zapisano da bi se znalo da je viđeno.
+
+**Zaštićeno, provereno netaknuto:** kraj („Nismo mogli.") · magnet kao grob · „s njom se nije vodila ljubav, s njom se ratovalo" (naveden u mapi kao primer onoga što treba, ne greška) · zavet o neimenovanju u redu 57 · „ona pod šeširom" · Pariz kao Natašina ideja i putovanje odvojeno · Nataša ravna svuda gde se pojavi · Katarinina lična karta iz prolaza kroz celinu.
+
+**Rezervisano mesto za formulu:** IV ga nije potrošilo. Stanje neizmenjeno — III drži #1, VI #2, ostaje najviše jedno slobodno.
+
+**Ostaje otvoreno:** prelomi pasusa su rekonstrukcija iz OCR-a (reči nedirane, provereno 99,86%) — autor pregleda očima uz original. To nije stvar ovog prolaza.

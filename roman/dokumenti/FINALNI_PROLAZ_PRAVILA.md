@@ -227,20 +227,20 @@ Traži se: tri i više uzastopna pasusa koja završavaju kratkim udarcem (**form
 
 Inventar prvo: `znao sam · video sam da · shvatio sam · ona je mislila · njoj je bilo · to je značilo da`. Kod svake pitati: **video ili zaključio?** Ako je zaključio — zameniti onim što je stvarno video.
 
-> *Izvedeno:* Nataša u VII (obara njegovu ocenu iz IV), „kuče" u VIII, Katarina u V, **dve godine zaobilaženja raskrsnice u III** (David to potpiše na uštedu vremena).
+> *Izvedeno:* Nataša u VII (obara njegovu ocenu iz IV), „kuče" u VIII, Katarina u V, **dve godine zaobilaženja raskrsnice u III** (David to potpiše na uštedu vremena), **bistro u IV** (čitalac vidi promašaj pre njega).
 
 ### 2.2 — Jedno mesto gde David izgubi dostojanstvo
 
 Sitan, smešan, nedostojanstven ili banalan — **i to se ne pretvori u sliku.** Ravna, neknjiževna rečenica. Ne otkupljuje se do kraja poglavlja.
 
-> *Izvedeno:* „Jeo iz šerpe, stojeći." (V), **„Sipao sam iz inata." (III)**
+> *Izvedeno:* „Jeo iz šerpe, stojeći." (V), **„Sipao sam iz inata." (III)**, **bistro i utrnula noga (IV)**.
 > *Zašto je ovo najteža kvota:* David je kroz I–III miran nad krvlju, tačan u proceni, mudar u kuhinji, i tri žene ga vole. To je bliže žanrovskom junaku nego Bukovskom. Autoironija je **elegantna** — „matora baraba s bradom" je kompliment koji lik izmami i dobije. To nije Bukovski, to je šarm.
 
 ### 2.3 — Jedna osoba koja hoće nešto što nije on *(novo, iz Dela 0.4)*
 
 U poglavlju postoji lik koji u toj sceni ide za svojim, ne za Davidovim. Njena volja se vidi u radnji, ne u replici o sebi.
 
-> *Radi:* Andrijanina majka preko telefona (II) — hoće svoje i ne odustaje. Andrijanino „javi se nekad sam od sebe".
+> *Radi:* Andrijanina majka preko telefona (II) — hoće svoje i ne odustaje. Andrijanino „javi se nekad sam od sebe". Katarinina lična karta „na ovu adresu" (IV).
 > *Ne radi:* konobar koji donese i nestane. To je nameštaj.
 
 ### 2.4 — Jedno mesto gde neko pritiska ono što se krije *(novo, iz Dela 0.3)*
@@ -375,7 +375,7 @@ Poglavlje se zatvara tako da čitalac ima **konkretno pitanje sa mogućim odgovo
 |---|---|
 | **Kraj I** — „Jer čudovište koje je naučilo da pije kafu kao čovek mora bar nečemu da se smeje." | Pitanje potrošeno. Autor otvorio, Helena rekla svoje jednom, odluka stoji. **Novim ciljem se slabi** (daje odgovor gde cilj traži pitanje) — zapisano, ne argumentuje se dalje. |
 | **Kraj VIII** — „…ali telo ne zna za kalendar." | **Prelazi u arhitekturu na sledećoj reviziji ako autor to potvrdi.** Novim ciljem se pojačava: knjiga zatvorena istim telesnim redom kojim je otvorena je zaključena petlja, ne sentiment. |
-| **Kraj IV** — magnet kao grob, „Nismo mogli." | Stoji. Nije mereno na spratu knjige. |
+| **Kraj IV** — magnet kao grob, „Nismo mogli." | Stoji. **Mereno na spratu knjige u finalnom prolazu kroz IV i potvrđeno** — nosi kvotu 2.5 (pitanje „zašto nisu mogli", s mogućim odgovorom). |
 | **Refren „telo ne zna za kalendar"** — raspored I, II, VI, VIII | Stoji, raspored konačan. |
 | **Tri namerna ponavljanja** — špagete (II→III→VII), oprana šolja (V→V→VIII), „Isti čovek." (II→VIII) | Stoje. Ne brisati kao previd. |
 | **III** — „Vozila je.", uštip, cipele, „Je l' ima još luka?", „Sipao sam iz inata." | Stoje. Poslednje dve su presedani za dodatak unutar scene. |
