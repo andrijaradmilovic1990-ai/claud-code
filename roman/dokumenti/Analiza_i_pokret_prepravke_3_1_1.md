@@ -127,7 +127,7 @@ Već revidirano i zatvoreno (vidi Dnevnik rada niže za tačan spisak izmena). P
 
 ### VI — Prazna stolica
 - **Formula "to je bilo najgore" (tačka 1) — OVDE JE JEDNO OD 2-3 MESTA ZA ZADRŽAVANJE**, konkretno "za nju nikad nisam pitao smem li". Ne brisati ovo mesto dok se ne prebroje ostala zadržana mesta u knjizi — pravilo je 2-3 UKUPNO, ne po poglavlju.
-- Registar: prati se STVARNI TEKST — VI je sadašnjost, David i Katarina žive zajedno (ispravljeno u SVET_I_LIKOVI.md, stara Dopuna 2 tabela je ovde bila zastarela).
+- **Registar — ISPRAVLJENO 21.08. po Pravilu E: VI je PROŠLOST, ne sadašnjost, i tada NE žive zajedno.** Ranija tvrdnja u ovom dnevniku („prati se stvarni tekst — VI je sadašnjost, žive zajedno") oslanjala se na to što David sedi u istom kafiću iz kog pripoveda — ali isti kafić nije isto vreme, on u njemu sedi godinama. `SVET_I_LIKOVI_1.md` je noviji i tekst ga podržava: Andrijana kaže **„Sinoć."** za nesreću, a u VII na vidikovcu stoji **„Preksinoć."** — VI i VII su uzastopni dani, oko dve godine pre I. **Katarine u VI nema nigde**, što bi bilo nemoguće da tada žive zajedno. Zajednički život počinje tek posle Belog grada.
 - Nema drugog posebnog zadatka van formule.
 
 ### VII — Beli grad

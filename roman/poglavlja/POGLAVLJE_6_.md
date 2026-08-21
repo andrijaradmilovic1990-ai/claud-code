@@ -78,7 +78,7 @@ Zvonilo je dvaput.
 
 „Ja sam."
 
-Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju." Ne kao pitanje. Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
+Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju." Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
 
 „Treba mi nešto."
 
@@ -106,7 +106,7 @@ Telefon mi je ostao u ruci, vruć uz dlan, i taj njegov glas — pa gde si ti �
 
 Sedeo sam na prednjem sedištu patrolnih kola i jeo semenke iz papirne kese.
 
-On je vozio. Uniforma mu je stajala kao na svakom — malo zategnuta oko stomaka, kapa bačena na komandnu tablu. Vozio je polako, bez sirene, jednom rukom, laktom kroz spušten prozor, kao čovek koji se vraća iz druge smene i nikud mu se ne žuri. Pričao je. Pričao je celim putem, o ćerki koja upisuje fakultet, o tome kako više ništa ne valja kao nekad, o nekoj ribi koju je upecao na Dunavu i koja je, kako su sati prolazili u priči, postajala sve veća.
+On je vozio. Uniforma mu je stajala malo zategnuto oko stomaka, kapa bačena na komandnu tablu. Vozio je polako, bez sirene, jednom rukom, laktom kroz spušten prozor, kao čovek koji se vraća iz druge smene i nikud mu se ne žuri. Pričao je. Pričao je celim putem, o ćerki koja upisuje fakultet, o tome kako više ništa ne valja kao nekad, o nekoj ribi koju je upecao na Dunavu i koja je, kako su sati prolazili u priči, postajala sve veća.
 
 Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.
 
