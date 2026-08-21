@@ -14,7 +14,7 @@ Ostao sam sam za stolom za četvoro. Navikao sam na stolove na kojima fali ljudi
 
 Telefon je zazvonio.
 
-Andrijana. Ne subotom, ne u onaj dan — između. A ona ne zove između. Dvanaest godina nismo zvali jedno drugo bez razloga.
+Andrijana. Ne subotom, ne u onaj dan — između. A ona ne zove između. Deset godina nismo zvali jedno drugo bez razloga.
 
 Znao sam pre nego što sam se javio.
 
@@ -60,7 +60,7 @@ Već sam znao šta ću.
 
 „Andrijana."
 
-Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i ne zakorači. Dvanaest godina je tako stajala. Zato je još tu.
+Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i ne zakorači. Deset godina je tako stajala. Zato je još tu.
 
 „Dobro", rekla je. „Reći ću mu."
 
@@ -70,7 +70,7 @@ Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i 
 
 Pa sam našao drugi broj.
 
-Ne u imeniku. Taj broj nije nigde zapisan, taj broj se ne zapisuje. Ali prsti su ga znali, otkucali su ga sami, kao što znaju put kući kroz mrak. Dvanaest godina, a nisu zaboravili nijednu cifru.
+Ne u imeniku. Taj broj nije nigde zapisan, taj broj se ne zapisuje. Ali prsti su ga znali, otkucali su ga sami, kao što znaju put kući kroz mrak. Deset godina, a nisu zaboravili nijednu cifru.
 
 Zvonilo je dvaput.
 
@@ -134,7 +134,7 @@ Tri prazne stolice preko puta.
 
 Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala, dovela me ovamo pre nego što je Andrijana pozvala.
 
-Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje dvanaest godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
+Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
 
 Za nju nikad nisam pitao smem li.
 
