@@ -83,45 +83,61 @@ li unazad ili unapred? Ako gleda samo unazad, poglavlje hrani radoznalost.
 
 ---
 
-## Tabela — ko šta duguje i šta je već prošlo
+## Tabela — ko šta duguje i šta je već rešeno
+
+> **Ispravljeno 21.08.** Prva verzija ove tabele vodila je I, II i III kao
+> „propušteno". Netačno: prolaz na spratu knjige kroz ta tri poglavlja urađen je
+> 05.08. i svaki dug je tamo **razmotren i odlučen, uz razlog.** Odluka nije previd.
 
 | # | vreme | D1 sat | D2 spolja | D3 Katarina | D4 figura | D5 napred |
 |---|-------|--------|-----------|-------------|-----------|-----------|
-| I | sadašnjost | **propušteno** | **plaćeno** (starac) | nema je | uvodi | delom |
-| II | sadašnjost | **propušteno** | propušteno | publika | prvi put | ne |
-| III | sadašnjost | **propušteno** | propušteno | broji viljuške | **probijena** | ne |
-| IV | sadašnjost | **postavljeno, ne kuca** | propušteno | **traži adresu** | ponovljena | ne |
-| V | sadašnjost | **propušteno** | propušteno | **plaćeno** | ponovljena | ne |
+| I | sadašnjost | **preneto u IV** *(odluka)* | **plaćeno** — starac ne odustaje, skreće David | **odbijeno** *(odluka)* | uvodi | delom |
+| II | sadašnjost | — | **nemoguć** *(odluka)* | publika | prvi put | ne |
+| III | sadašnjost | — | **nemoguć** *(odluka)* | broji viljuške | **probijena** | ne |
+| IV | sadašnjost | **plaćeno** — „Prestala je da priča… i nije sela." | — | **plaćeno** — traži adresu | ponovljena | ne |
+| V | sadašnjost | — | — | **plaćeno** — torba, sestra | ponovljena | ne |
 | VI | prošlost | ne može | **materijal unutra** | nje nema | **na redu** | — |
 | VII | prošlost | ne može | — | **jedina prilika** | duga scena, lomi se sama | — |
 | VIII | prošlost + sad | **poslednja prilika** | Andrijanin telefon | njeno poglavlje | — | **kraj knjige** |
 
-**Šta ova tabela kaže naglas:** D1 je imao četiri mesta (I, IV, V, VIII). Tri su
-zatvorena. **Ostalo je jedno.** D3 ima još jedno mesto pre VIII — VII. D2 i D4 su
-još otvoreni u VI.
+### Odluke autora koje ovu tabelu zaključavaju
+
+**D1 u I — preneto u IV.** Sidreno poglavlje nema ni traga od života koji je David
+izgradio, i to je namerno: u I se ne sme rešiti da živi s Katarinom. Odbačene i
+varijanta s ručkom i varijanta s poslom. Dug je prenet u IV, „gde ionako živi mart",
+i **tamo je 05.08. i plaćen.**
+
+**D2 u I — plaćen, i to u traženom obliku.** Starac dođe do same ivice („Znam šta
+ste uradili. I znam šta vas je to koštalo."), David slaže, starac primi laž — *„U
+redu. Pomešao sam vas."* — i **svejedno ostavi ponudu i ime radionice.** Ne povlači
+se. Skreće David.
+
+**D2 u II — nemoguć.** Andrijanino „Ponekad mislim da znam zašto si otišao" visi i
+**ona sama skrene.** To je Registar 1: neizgovoreni dogovor sme prekršiti samo on,
+nikad ona. II je poglavlje u kom se dogovor **postavlja** — prekršiti ga tu značilo
+bi obesmisliti ga. Naplaćuje se u VII ili VIII, tako da skrene David a ona ostane.
+
+**D2 u III — nemoguć.** Katarina kaže **„Lažeš."** — jedini put u knjizi da mu to
+neko kaže u lice — pa to sama pretvori u šalu o vinu. Da ostane takt duže, dug bi
+bio namiren ovde. Ne sme: Registar 1 kaže da se ona do VIII ne budi, ne sumnja, ne
+proverava. **Zapisano da naredni prolaz ne posegne za tim mestom misleći da je
+previd.**
 
 ---
 
-## Dva pravila koja iz ovoga slede
+## Šta stvarno ostaje
 
-**N — dug knjige se prijavljuje pre dugova poglavlja.** Ulazni list po Pravilu H
-dobija sedmu stavku: **koji od pet dugova knjige pada u ovom poglavlju i zašto baš
-ovde.** Ako nijedan — to se napiše, i to je odluka, ne previd.
+| dug | stanje | gde se plaća |
+|-----|--------|--------------|
+| **D1 — sat** | postavljen u IV, ne kuca dalje | **VIII** — jedina preostala sadašnjost |
+| **D2 — dodir spolja** | plaćen u I, prenet iz II i III | **VII ili VIII** — mora skrenuti David, a ona ostati |
+| **D3 — Katarina** | raste IV → V → VIII | **VII** — jedini razmak koji je prazan |
+| **D4 — figura** | ponovljena u IV i V | **VI** — model je III |
+| **D5 — strah** | nijedno poglavlje ga još ne nosi | VI, VII, **VIII** |
 
-**O — registar propuštenog.** Kad se poglavlje zatvori a dug ostane neplaćen, upisuje
-se **gde je propušteno i gde se sad mora naplatiti.** Zatvoreno se ne otvara (Pravilo
-L), ali cena se zna i teret se prenosi na sledeće poglavlje koje ga može nositi.
-
----
-
-## Registar propuštenog — otvoreno stanje
-
-| dug | propušteno u | prenosi se na |
-|-----|--------------|---------------|
-| **D1 — sat** | I, IV, V | **VIII** — jedina preostala sadašnjost |
-| **D2 — dodir spolja** | II, III, IV, V | VI, VIII |
-| **D3 — Katarina** | I, II, III | **VII**, pa VIII |
-| **D4 — figura** | IV, V | **VI** |
+**Šta ova tabela kaže naglas:** knjiga nije propustila prilike — **odložila ih je,
+svaku uz razlog.** Sve odloženo pada u tri poglavlja koja su još otvorena. VIII nosi
+najviše: sat, dodir spolja, Katarinu i kraj knjige odjednom.
 
 > Ako autor odluči da otvori neko od zatvorenih poglavlja, ovaj registar kaže
 > **koje i zbog čega** — ne otvara se poglavlje nego se plaća imenovani dug.

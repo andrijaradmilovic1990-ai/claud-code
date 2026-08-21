@@ -192,7 +192,8 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 - **Sreda** — David je mrzi, razlog skriven (VI).
 - Devojka: bezimena. Sestra postoji (II, V). Gestovi nežnosti: greje ruke (II), uštip za bok (III — NE ponavljati), pomilovati po leđima (IV), tri pozdrava + brada (V).
 - Starčev sin: limar, radionica kod stare pijace (I) — potencijalno upotrebljivo kasnije.
-- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom (I, II, VI). ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, VIII**. ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+  > **ISPRAVKA po Pravilu E (05.08.2026):** dokument je navodio I, II, VI (i VIII kao završno), ali IV red 101 nosi „Telo je već tada znalo nešto što glava nije htela." Tekst je autoritet — **dokument je bio nepotpun, rečenica u IV je legitimna peta pojava i ostaje.** Provereno i u Registru 2 u `FINALNI_PROLAZ_PRAVILA.md`, tamo ispravljeno isto.
 - **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII SME da koristi ime Jovana, a VIII sme da ga izgubi.
 
 ---
@@ -204,6 +205,23 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 - **Oprana šolja** — V 25 (poslednje jutro, on opere šolju i vrati je na mesto) → V 97 (Jovana pročita poruku, kaže „Dobro", opere svoju šolju i ode kući) → VIII 15 (on opere tanjir pre nego što izađe iz Jovaninog stana). Treći put je isplata: radi njoj ono što je ona uradila kad je saznala da je otišao.
 - **Andrijanina replika koja imenuje mehanizam** (II, kafić: „Ti samo izostaviš. Svaka reč ti bude tačna…") — **NE DIRATI.** Namerno je direktna i to je jedini takav trenutak u knjizi. Svaki naredni prolaz pročitaće je kao objašnjavanje i posegnuti za rezom — nije objašnjavanje, nego jedini ključ koji čitalac dobija. Ako padne, „Sve tačno. Svaka reč." u ostalim poglavljima ostaje bez oslonca. Zabrana važi i za skraćivanje.
 - **„Isti čovek."** — II 189 → VIII 167. Oba puta pred istim ogledalom u njenom kupatilu. U II stan još nije njegov; u VIII je život kasnije i rečenica je ista. Namerno.
+
+---
+
+## PROVERENI BROJEVI I ČINJENICE
+> Preseljeno iz `FINALNI_PROLAZ_PRAVILA.md` (Registar 3) dana 05.08.2026 —
+> ovo nije zaštita nego činjenica, i pripada ovde. Ne otvara se, samo se
+> proverava pri kontinuitetu.
+
+- **„sat i po autobusom" (VIII) i „tri sata vožnje" (VII)** — oba tačna, ne kose
+  se. Andrijana vozi tri sata **po njega pa nazad**; on se vraća autobusom sat i
+  po iz drugog polazišta.
+- **Katarina je imenovana samo dvaput**, oba puta u VII (135, 161).
+- **Mali:** 17–18 godina. Usklađeno u tekstu III, provereno.
+- **Poglavlja VI i VII su provereno aktuelni fajlovi** (provera 05.08.2026,
+  dnevnik upoređen s tekstom red po red). V je bio jedini zastareo slučaj.
+- **Neisplaćen dug iz I:** VII red 33 glasi „ona iz Beograda", treba „ona iz
+  Belog grada" — izvodi se kad VII dođe na red u finalnom prolazu.
 
 ---
 
@@ -225,8 +243,13 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 
 ---
 
-## NERAZREŠENO — mesta gde su se stari fajlovi razilazili
-> Ovo NIJE greška u priči — ovo je trag da su dokumenti pisani u različitim sesijama i nisu ažurirani unazad. Rešava se ovde, u ovom dokumentu, umesto da ostane skriveno u tri fajla.
+## REŠENI SUKOBI DOKUMENATA — arhiva odluka
+> **Sve stavke ispod su REŠENE.** Odeljak se ranije zvao „NERAZREŠENO", što je
+> pri svakom otvaranju izgledalo kao da u priči postoji pet otvorenih rupa —
+> nije ih bilo nijedna. Preimenovano 05.08.2026. Obrazloženja se čuvaju jer
+> objašnjavaju **zašto** je odlučeno kako je odlučeno; ne otvaraju se ponovo.
+>
+> Ovo NIJE bila greška u priči — bio je trag da su dokumenti pisani u različitim sesijama i nisu ažurirani unazad.
 
 **1. VI — registar i „žive li zajedno" — REŠENO (revizija VIII)**
 Dopuna 2 je bila u pravu: **VI = PROŠLOST, NE žive zajedno.** Ranija odluka u ovom dokumentu („prati se tekst, VI je sadašnjost") oslanjala se na to što David sedi u istom kafiću iz koga pripoveda — ali isti kafić nije isto vreme, on u njemu sedi godinama. Dokaz iz teksta: u VI Andrijana javlja da je nesreća bila „sinoć"; u VII, na vidikovcu, David kaže „Preksinoć" i misli na razgovor „dan ranije s čovekom bez imena" — što je upravo drugi poziv iz VI. VI i VII su uzastopni dani, oko dve godine pre sadašnjosti. Naslov poglavlja takođe ispravljen: „Kanal" → „Prazna stolica" (stari naslov nije imao pokrića u tekstu).

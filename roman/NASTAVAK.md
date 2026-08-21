@@ -7,62 +7,61 @@
 
 ## Stanje revizije
 
-| # | Poglavlje | Finalni prolaz | Fajl |
-|---|-----------|----------------|------|
-| I | Susret | **zatvoreno** | aktuelan |
-| II | Pukotina | **zatvoreno** | aktuelan |
-| III | Krv | **zatvoreno** | aktuelan |
-| IV | Pariz | **zatvoreno** | **dve verzije — vidi tačku 1** |
-| V | Nestanak | **zatvoreno 21.08.** | aktuelan, dvanaest izmena |
-| VI | Prazna stolica | na redu | proveren (3 od 3 izmene iz dnevnika) |
-| VII | Beli grad | čeka | **NEPROVEREN** |
-| VIII | Ćebence | čeka | aktuelan |
+**I, II, III, IV i V su ZAKLJUČANI (21.08.).** Sav rad sa tri odvojene grane
+objedinjen je ovde. Sledeće je VI.
 
-**V — zatvoreno 21.08.** Devet izmena od 05.08. preuzeto s grane PR #1, pa tri nove,
-sve tri odobrene pojedinačno: red 53 („jednom" u susednom pasusu), red 99 (dva „tri"
-u istom pasusu), red 141 (rez repa — lomi formulu i skida dupli broj „četiri
-godine"). 1399 → 1312 reči; „kao" 13 → 11, veznik uzroka 10 → 6. Pun zapis u
-dnevniku. Grana `claude/sahrana-poglavlje-v-wklwf4`, draft PR **#3**.
+| # | Poglavlje | Stanje | reči | „kao" | uzrok |
+|---|-----------|--------|------|-------|-------|
+| I | Susret | **zaključano** | 797 | 6 | 1 |
+| II | Pukotina | **zaključano** | 1568 | 11 | 4 |
+| III | Krv | **zaključano** | 1125 | 4 | 3 |
+| IV | Pariz | **zaključano** | 1696 | 10 | 7 |
+| V | Nestanak | **zaključano** | 1312 | 11 | 6 |
+| VI | Prazna stolica | **na redu** | — | — | — |
+| VII | Beli grad | čeka · **fajl neproveren** | — | — | — |
+| VIII | Ćebence | čeka | — | — | — |
 
-**Sporno u V, upisano a nerešeno:** kvota 2.4 vodi se kao popunjena preko
-Andrijaninog „Dva broja, dva traga." Ona jeste pritisak i ona ne skreće — ali
-pritiska postupak koji je već poznat, ne ono što se u V zaista krije (okidač
-bekstva, red 61, zapečaćen po H1). Njega niko ne dodirne. Odluka autora.
+Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom od pet.
+
+**Odluka o IV:** izabrana verzija sa grane PR #1, jer jedina izvršava raniju odluku
+da se sat prenosi u IV („Prestala je da priča. Stajala je s onom šoljom, čekala, i
+nije sela."). Verzija sa PR #2 nosila je bistro scenu, utrnulu nogu i tri reza —
+**stoji na grani `claude/sahrana-bez-tela-poglavlje-vi-3grvzk` ako je autor hoće
+nazad.** Hibrid nije pravljen: spojene bi bile treća verzija koju autor nije video.
+
+---
+
+## Šta VI, VII i VIII nasleđuju
+
+Puno objašnjenje u `DUGOVI_KNJIGE.md`. Ukratko:
+
+| dug | gde se plaća |
+|-----|--------------|
+| **sat** (mart) | VIII — jedina preostala sadašnjost |
+| **dodir spolja** | VII ili VIII — mora skrenuti David, a ona ostati |
+| **Katarina kao osoba** | VII — jedini prazan razmak između V i VIII |
+| **figura** (isti potez) | VI — model je III |
+| **strah umesto radoznalosti** | VI, VII, VIII |
+
+**VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom.
 
 ---
 
 ## ŠTA VISI
 
-### 1. Tri grane rade isti posao — mora se rešiti pre VI
+### 1. Verzija IV — zatvoreno izborom, otvoreno ako autor hoće drugo
 
-| PR | grana | šta nosi |
-|----|-------|----------|
-| **#1** | `claude/nastavimo-hx5mu5` | **Deo 0 odgovoren u celosti** i upisan · I, II, III zatvoreno na spratu knjige · IV zatvoreno (Katarinina lična karta) · V devet izmena |
-| **#2** | `claude/sahrana-bez-tela-poglavlje-vi-3grvzk` | IV zatvoreno **drugačije** (bistro scena, utrnula noga, tri reza) · V dva reza |
-| **#3** | `claude/sahrana-poglavlje-v-wklwf4` | **V zatvoreno** — devet iz #1 plus tri nove |
+Vidi odluku gore. Grane PR #1 i PR #2 ostaju kao arhiva.
 
-**IV ima dve verzije koje se ne poklapaju ni u jednoj rečenici.** Nijedna nije
-pogrešna — obe su rađene po pravilima, nezavisno, jer druga sesija nije znala za
-prvu. **Autor mora da izabere.** Do tada se VI ne otvara.
+### 2. VII — fajl neproveren
 
-**Deo 0 na ovoj grani i dalje stoji kao „(nije upisano)".** Odgovori postoje samo u
-PR #1, gde su 05.08. odgovoreni na osnovu čitanja celog rukopisa i gde 0.4 nosi
-zapis „ispravka autora". Ukratko: **0.1** Katarina traži zajednički život, meri se
-martom · **0.2** Katarinino neznanje · **0.3** Katarina, ne iz sumnje nego iz želje
-da žive kao ljudi · **0.4** Katarina adresu, Andrijana da David bude srećan, Jovana
-da bude izabrana, Nataša nekog kome je potrebna · **0.5** za Katarinu, od II ·
-**0.6** tabela pitanja po poglavlju. Prenošenje u dokument čeka odluku o granama.
+Jedini koji nije upoređen s dnevnikom. Uraditi pre otvaranja VII.
 
-### 2. Draft za I — čeka „da" ili „ne"
+### 3. Kvota 2.4 u V — sporno, upisano a nerešeno
 
-Iz starog handoffa, nikad odlučeno, i **sad je verovatno bespredmetan.** Nosio je
-kandidata za 0.1 („Jovana se približava preko Andrijane") koji je u PR #1 odbačen u
-korist drugog odgovora. Ako odgovor iz PR #1 stoji, draft pada s njim.
-
-### 3. Prolaz kroz I, II, III samo na spratu knjige
-
-U PR #1 je urađen i upisan kao **zatvoreno zauvek, odlukom autora.** Na ovoj grani
-ga nema. Ide zajedno s odlukom iz tačke 1.
+Vodi se kao popunjena preko Andrijaninog „Dva broja, dva traga." Ona jeste pritisak
+i ona ne skreće — ali pritiska postupak koji je već poznat, ne ono što se u V zaista
+krije (okidač bekstva, red 61, zapečaćen po H1). Odluka autora.
 
 ### 4. Dva sukoba u dokumentima — za VI, ne pre
 
@@ -77,13 +76,7 @@ nestanka — a tekst pet puta kaže „dvanaest" (redovi 17, 63, 73, 131, 137). 
 na redu 103. **Hronologija je zamrznuta, pa ovo mora da odluči autor:** popušta broj
 u tekstu, ili „~2 godine"?
 
-### 5. VII — fajl neproveren
-
-Jedini koji nije upoređen s dnevnikom. Uraditi pre otvaranja VII.
-
----
-
-### 6. Novo — `DUGOVI_KNJIGE.md`
+### 5. Novo — `DUGOVI_KNJIGE.md`
 
 Napravljen 21.08. posle čitanja I–V u nizu. Sprat iznad Dela 2: Deo 2 meri
 poglavlje protiv samog sebe, ovo meri **šta poglavlje duguje knjizi i šta se posle
@@ -96,9 +89,10 @@ strah umesto radoznalosti), tabela ko šta duguje, i registar propuštenog.
 
 ## Redosled posla
 
-1. **Odluka o granama** (tačka 1) — koja verzija IV, i prenosi li se Deo 0.
-2. VI — ulazni list pa sva tri sprata. Prvo rešiti sukobe iz tačke 4.
-3. VII (proveriti fajl prvo), pa VIII.
+1. **VI — Prazna stolica.** Prvo rešiti oba sukoba iz tačke 4. Ulazni list po
+   Pravilu H, sad sa sedmom stavkom (H7 — dug knjige). VI duguje **figuru**.
+2. **VII** — proveriti fajl, pa otvoriti. VII duguje **Katarinu** i **dodir spolja**.
+3. **VIII** — nosi najviše: sat, dodir spolja, Katarinu i kraj knjige.
 
 ---
 
