@@ -52,7 +52,16 @@ Prolaz se ne otvara od dole. **Deo 0 se odgovara prvi, u pisanoj formi, i posle 
 
 ---
 
-# DEO 0 — KNJIGA (odgovara se JEDNOM, pre poglavlja IV)
+# DEO 0 — KNJIGA
+## ODGOVORENO 05.08.2026, preneto u dokument 21.08. — zamrznuto, ne otvara se ponovo
+
+> Odgovoreno posle čitanja celog rukopisa u nizu. Svaki odgovor je izvučen iz
+> postojećeg teksta, nijedan nije izmišljen. Od sad važe kao hronologija: **ne
+> menjaju se, i svako poglavlje se otvara sa njima u ruci.**
+>
+> **Blokada je skinuta.** Rečenice koje zabranjuju otvaranje poglavlja pre Dela 0
+> (redovi u odeljcima „TRI SPRATA", „POGLAVLJA I, II, III" i „REDOSLED I OBIM")
+> odnose se na stanje pre ovog upisa.
 
 > Šest pitanja. Odgovori se upisuju **u ovaj dokument**, jednom, i postaju zamrznuti kao hronologija. Autor odgovara, Helena gura i protivreči dok odgovor ne postane konkretan. **Odgovor „to je u atmosferi" ne prolazi. Odgovor mora imati subjekat i glagol.**
 
@@ -60,38 +69,74 @@ Prolaz se ne otvara od dole. **Deo 0 se odgovara prvi, u pisanoj formi, i posle 
 
 Bez ovoga knjiga je niz odličnih poglavlja, a bestseler nije niz — to je jedan pritisak koji raste. Mora biti nešto što se **meri**: neko se približava, nešto se troši, neki rok teče, neko sazna više svake nedelje.
 
-> **ODGOVOR:** _____________________ (nije upisano)
+> **ODGOVOR:** **Katarina traži zajednički život — adresu, njegove ljude, mesto
+> koje se ne krije. Svaki njen korak ka tome košta ga jednu laž više, a ona ne
+> odustaje.**
+
+Meri se **martom** — rok koji je ona sama izgovorila (IV: „Stara mi ističe u
+martu… da je odmah vadim na ovu adresu"). Ona ga je i zatvorila („Ima vremena do
+marta"), pa čitalac trenutno ne broji. **Sat postoji, samo se ne čuje** — to je
+dug D1 u `DUGOVI_KNJIGE.md`.
 
 ### 0.2 — Šta David ima na strani jedan a nema na strani zadnjoj?
 
 Ne stanje duha. Stvar, čovek, mesto, navika, mogućnost. Nešto što čitalac vidi da odlazi.
 
-> **ODGOVOR:** _____________________ (nije upisano)
+> **ODGOVOR:** **Katarinino neznanje.**
+
+Registar 1 to već imenuje kao predmet ovog cilja (III red 91). Ono što on zove
+najvećom pobedom koju je izvojevao jeste jedina stvar koju gubi.
 
 ### 0.3 — Ko lovi ono što se krije?
 
 Trenutno se **zašto je otišao** krije bez otpora. Andrijana dođe do ivice i sama skrene. Skrivanje bez pritiska nije napetost nego koketiranje, i to je jedina stavka u kojoj knjiga **ne** stoji uz najbolje.
 Lovac ne mora biti neprijatelj. Može biti onaj kome je stalo. Ali neko mora **da ne odustane.**
 
-> **ODGOVOR:** _____________________ (nije upisano)
+> **ODGOVOR:** **Katarina.** Ne iz sumnje — iz želje da žive kao ljudi.
+
+Zato je teža od neprijatelja: ne može se ni slagati ni oterati, a svaki njen korak
+je razuman. Traži da izvadi ličnu na njegovu adresu (IV), pita ko mu piše po noći i
+pita drugi put (VII), traži da upozna Andrijanu (VIII), i kaže **„Ja nisam bivša."**
+
+**Ograda (Registar 1):** ona **ne sumnja i ne proverava do VIII.** Lov je želja, ne
+istraga. Ko ovo pročita kao dozvolu da Katarina ranije posumnja — pogrešno je
+pročitao.
 
 ### 0.4 — Test ogledala: šta svaki lik hoće za sebe, mimo Davida?
 
 Katarina, Andrijana, Jovana, Nataša — po jedna rečenica za svaku: šta bi radila da David umre na strani jedan. Ako odgovor ne postoji, to nije lik nego ogledalo, a ogledala ne prodaju knjige.
 
-> **ODGOVOR:** Katarina _____ · Andrijana _____ · Jovana _____ · Nataša _____ (nije upisano)
+> **Katarina** — adresu, ime na vratima, njegove ljude za svojim stolom.
+> **Andrijana** — **da David bude srećan.** *(ispravka autora, 05.08.)* Jedina želja
+> za tim stolom koja nije potraživanje. Time se objašnjava i zašto ona uvek skrene
+> prva: ne pritiska jer bi ga pritisak koštao mira.
+> **Jovana** — da bude izabrana, ne spašena („Htela je da bira sama, a ja sam joj
+> oduzeo izbor", V).
+> **Nataša** — nekog kome je potrebna dok ne može da pobegne („Najlepše je dok ne
+> mogu da beže", VII).
 
 ### 0.5 — Za koga se čitalac boji, i od kad?
 
 Ne za koga navija. Za koga se **boji.** Strah traži da nešto može da se izgubi i da čitalac zna šta.
 
-> **ODGOVOR:** _____________________ (nije upisano)
+> **ODGOVOR:** **Za Katarinu — od II**, od „Dobro. Stara drugarica. Popili smo
+> kafu." Ne od nabrajanja, nego od reda posle: ona se okrene jelu **„zadovoljna, bez
+> ijednog razloga da ne bude."**
 
 ### 0.6 — Koje pitanje nosi svako poglavlje na kraju?
 
 Osam redova, po jedno pitanje na poglavlje, formulisano kao pitanje čitaoca a ne kao tema. Ovo je jedina mapa napetosti koju knjiga ima.
 
-> **ODGOVOR:** I _____ · II _____ · III _____ · IV _____ · V _____ · VI _____ · VII _____ · VIII _____ (nije upisano)
+| | pitanje s kojim čitalac izlazi |
+|---|---|
+| **I** | Ko je bio taj čovek, da mu stranac zahvaljuje a on to poriče? |
+| **II** | Šta je izostavio, i koliko će ga to koštati? |
+| **III** | Ako bi za nju spalio grad, zašto je nema? |
+| **IV** | Šta je sahranjeno pod tim magnetom, i zna li ona da živi pored groba? |
+| **V** | Ako je otišao da ih spase, zašto ga nijedna nije primila kao spas? |
+| **VI** | Šta se vraća sad kad je taj svet ponovo čuo njegovo ime? |
+| **VII** | Šta je izgubio kad je rekao „ne" — i šta bi izgubio da nije? |
+| **VIII** | Koliko dugo još može da drži dva sveta odvojena? |
 
 ### Šta se sa Delom 0 sme, a šta ne sme
 
@@ -156,8 +201,11 @@ Presedan za dodatak: „Otišao sam u kuhinju i jeo iz šerpe, stojeći." (V), �
 2. **Zamrznuto i zaštićeno** u tom poglavlju, poimenično.
 3. **Dodeljeni zadaci iz mape** — šta poglavlje duguje mimo opšteg filtera.
 4. **Stanje rezervisanih mesta** i registra mehanizma.
-5. **Deo 0 — koje pitanje ovo poglavlje nosi** (iz 0.6) i **kako se u njemu vidi ono što raste** (iz 0.1). *Novo. Bez ovoga se poglavlje ne otvara.*
+5. **Deo 0 — koje pitanje ovo poglavlje nosi** (iz 0.6) i **kako se u njemu vidi ono što raste** (iz 0.1). *Bez ovoga se poglavlje ne otvara.*
 6. **Najava sva tri dela**, sa svih šesnaest postupaka iz Dela 3 poimenično: koji nedostaje i gde.
+
+**H7 (novo, 21.08.) — sedma stavka ulaznog lista: dug knjige.** Koji od pet dugova
+iz `DUGOVI_KNJIGE.md` pada u ovom poglavlju i zašto baš ovde. Vidi Pravilo N.
 
 **I — izlazni list.** Svaki predlog nosi ime testa iz Dela 3 koji je pao i, kad je primenljivo, kvotu iz Dela 2 kojoj služi. **Predlog bez testa ne ulazi.** Nalaz iz Dela 1 je razlog da se mesto pogleda — nikad sam po sebi razlog za izmenu.
 
@@ -174,6 +222,21 @@ Razlog za granicu: Helena može da odradi posao besprekorno po pravilima i da iz
 
 **M (novo) — sprat se prijavljuje uz nalaz.** Svaka Helenina ocena, pohvala ili primedba mora reći **na kom spratu govori** — rečenica, poglavlje ili knjiga. Zabranjeno mešati spratove u jednoj presudi. „Ovo nije na nivou" bez sprata je bezvredna rečenica.
 > Razlog: knjiga je na spratu rečenice pogodila cilj, a na spratu knjige nije bila ni merena. Mešanje ta dva daje lažnu presudu u oba smera.
+
+---
+
+**N (novo, 21.08.) — dug knjige se prijavljuje pre dugova poglavlja.** Ulazni list
+po Pravilu H dobija **sedmu stavku:** koji od pet dugova iz `DUGOVI_KNJIGE.md` pada
+u ovom poglavlju i zašto baš ovde. Ako nijedan — to se napiše, i to je odluka, ne
+previd.
+> Razlog: Deo 2 meri poglavlje protiv samog sebe. Poglavlje može da prođe sve kvote
+> i da knjizi ne da ništa — pa se posle zatvaranja ispostavi da je nešto trebalo
+> ranije, a ranije je već zatvoreno.
+
+**O (novo, 21.08.) — registar propuštenog.** Kad se poglavlje zatvori a dug knjige
+ostane neplaćen, upisuje se **gde je propušteno i gde se sad mora naplatiti.**
+Zatvoreno se ne otvara (Pravilo L), ali cena se zna i teret se prenosi na sledeće
+poglavlje koje ga može nositi. Registar se vodi u `DUGOVI_KNJIGE.md`.
 
 ---
 
