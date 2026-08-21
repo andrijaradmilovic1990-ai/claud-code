@@ -83,6 +83,17 @@ Jedini koji nije upoređen s dnevnikom. Uraditi pre otvaranja VII.
 
 ---
 
+### 6. Novo — `DUGOVI_KNJIGE.md`
+
+Napravljen 21.08. posle čitanja I–V u nizu. Sprat iznad Dela 2: Deo 2 meri
+poglavlje protiv samog sebe, ovo meri **šta poglavlje duguje knjizi i šta se posle
+njega više ne može uraditi.** Pet dugova (sat · dodir spolja · Katarina · figura ·
+strah umesto radoznalosti), tabela ko šta duguje, i registar propuštenog.
+
+**Otvara se pre svakog poglavlja, uz ulazni list.** Čeka odobrenje autora.
+
+---
+
 ## Redosled posla
 
 1. **Odluka o granama** (tačka 1) — koja verzija IV, i prenosi li se Deo 0.
