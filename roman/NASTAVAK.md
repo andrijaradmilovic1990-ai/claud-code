@@ -1,125 +1,93 @@
 # NASTAVAK — gde smo stali
 
-> Poslednje ažuriranje: 05.08.2026, ~01:40.
+> Poslednje ažuriranje: 21.08.2026.
 > Ovaj fajl je handoff. Otvara se prvi, pre svega ostalog.
 
 ---
 
 ## Stanje revizije
 
-Finalni prolaz (tri sprata: knjiga / poglavlje / rečenica) zatvorio je **tri
-poglavlja**. Ostalih pet kroz njega još nije prošlo — zatvorena su u ranijoj
-reviziji i u prolazu kroz celu knjigu, što nije isto.
+| # | Poglavlje | Finalni prolaz | Fajl |
+|---|-----------|----------------|------|
+| I | Susret | **zatvoreno** | aktuelan |
+| II | Pukotina | **zatvoreno** | aktuelan |
+| III | Krv | **zatvoreno** | aktuelan |
+| IV | Pariz | **zatvoreno** | **dve verzije — vidi tačku 1** |
+| V | Nestanak | **zatvoreno 21.08.** | aktuelan, dvanaest izmena |
+| VI | Prazna stolica | na redu | proveren (3 od 3 izmene iz dnevnika) |
+| VII | Beli grad | čeka | **NEPROVEREN** |
+| VIII | Ćebence | čeka | aktuelan |
 
-| # | Poglavlje | Finalni prolaz | Verzija fajla |
-|---|-----------|----------------|----------------|
-| I | Susret | **zatvoreno** | aktuelna, provereno |
-| II | Pukotina | **zatvoreno** | aktuelna, provereno |
-| III | Krv | **zatvoreno** | aktuelna, provereno |
-| IV | Pariz | čeka | aktuelna, provereno |
-| V | Nestanak | čeka | aktuelna — vraćena 04.08. |
-| VI | Prazna stolica | čeka | **NEPROVERENA** |
-| VII | Beli grad | čeka | **NEPROVERENA** |
-| VIII | Ćebence | čeka | aktuelna, provereno |
+**V — zatvoreno 21.08.** Devet izmena od 05.08. preuzeto s grane PR #1, pa tri nove,
+sve tri odobrene pojedinačno: red 53 („jednom" u susednom pasusu), red 99 (dva „tri"
+u istom pasusu), red 141 (rez repa — lomi formulu i skida dupli broj „četiri
+godine"). 1399 → 1312 reči; „kao" 13 → 11, veznik uzroka 10 → 6. Pun zapis u
+dnevniku. Grana `claude/sahrana-poglavlje-v-wklwf4`, draft PR **#3**.
 
-**Prvi zadatak pri nastavku:** proveriti da li su VI i VII aktuelni. V je bio
-zastareo za pet upisanih izmena plus celo prošireno otvaranje — provera se radi
-tako što se dnevnik u `Analiza_i_pokret_prepravke_3_1_1.md` uporedi sa stvarnim
-tekstom, rečenicu po rečenicu.
-
----
-
-## BLOKADA — Deo 0
-
-`FINALNI_PROLAZ_PRAVILA.md` na tri mesta zabranjuje otvaranje poglavlja IV pre
-nego što se odgovori Deo 0 (redovi 51, 159, 399):
-
-> „Deo 0 se odgovara prvi. Poglavlje IV se ne otvara pre toga."
-
-Blokirano je i drugo: zakazani prolaz kroz **I, II i III samo na spratu knjige**
-(kvote 2.3, 2.4, 2.5) — taj prolaz sme da dira isključivo raspored informacije i
-dodatke od dva do tri reda unutar postojećih scena.
-
-### Status šest pitanja
-
-| | Pitanje | Status |
-|---|---------|--------|
-| **0.1** | Šta se u sadašnjosti pogoršava bez obzira šta David radi | **kandidat, čeka da/ne** |
-| **0.2** | Šta ima na strani jedan a nema na zadnjoj | **odgovoreno** |
-| **0.3** | Ko lovi ono što se krije | otvoreno |
-| **0.4** | Šta svaka žena hoće za sebe, mimo Davida | otvoreno |
-| **0.5** | Za koga se čitalac boji, i od kad | delimično |
-| **0.6** | Koje pitanje nosi svako poglavlje na kraju | otvoreno |
-
-**0.2 — odgovoreno.** Ono što gubi je Katarinino neznanje (`Registar 1` to već
-imenuje kao predmet cilja 0.2, III red 91). Novo je *kako* ga gubi: piše knjigu
-koja će joj to oduzeti. Isti čovek koji je dvanaest godina kopao raku da ona ne
-zna — sedi i piše dokument koji joj sve kaže.
-
-**0.1 — kandidat, čeka potvrdu:** *Jovana se približava preko Andrijane, a David
-nema potez kojim to zaustavlja.*
-
-Dijagnoza iza toga: knjiga ima dramsku ironiju (čitalac zna više od Katarine),
-ali nema **zakazan sudar**. Ironija bez sudara nije napetost nego tuga — zato
-knjiga deluje lepo a ne hitno.
-
-**0.5 — delimično:** čitalac se boji za Katarinu, od trenutka kad shvati da
-postoji nešto što ona ne zna.
+**Sporno u V, upisano a nerešeno:** kvota 2.4 vodi se kao popunjena preko
+Andrijaninog „Dva broja, dva traga." Ona jeste pritisak i ona ne skreće — ali
+pritiska postupak koji je već poznat, ne ono što se u V zaista krije (okidač
+bekstva, red 61, zapečaćen po H1). Njega niko ne dodirne. Odluka autora.
 
 ---
 
-## Predlog za 0.1 — četiri otkucaja
+## ŠTA VISI
 
-Sadašnjost živi samo u **I, III, IV, V i kraju VIII**. Nosač je Andrijanin
-telefon — već postoji u VIII, ne uvodi se ništa novo.
+### 1. Tri grane rade isti posao — mora se rešiti pre VI
 
-| Gde | Šta stiže | Šta čitalac zna |
-|-----|-----------|-----------------|
-| I | neko je pitao za njega | ništa — samo da neko postoji |
-| IV | pitala je opet | počinje da broji |
-| V | hoće da se vidite | zna da on nema potez |
-| VIII (već napisano) | *„Pita za tebe nekad."* | kraj odbrojavanja, ne usamljena nota |
+| PR | grana | šta nosi |
+|----|-------|----------|
+| **#1** | `claude/nastavimo-hx5mu5` | **Deo 0 odgovoren u celosti** i upisan · I, II, III zatvoreno na spratu knjige · IV zatvoreno (Katarinina lična karta) · V devet izmena |
+| **#2** | `claude/sahrana-bez-tela-poglavlje-vi-3grvzk` | IV zatvoreno **drugačije** (bistro scena, utrnula noga, tri reza) · V dva reza |
+| **#3** | `claude/sahrana-poglavlje-v-wklwf4` | **V zatvoreno** — devet iz #1 plus tri nove |
 
-VIII to već ima — problem je što je prvi i jedini put, pa pada kao tuga umesto
-kao udarac.
+**IV ima dve verzije koje se ne poklapaju ni u jednoj rečenici.** Nijedna nije
+pogrešna — obe su rađene po pravilima, nezavisno, jer druga sesija nije znala za
+prvu. **Autor mora da izabere.** Do tada se VI ne otvara.
 
-### Draft za I, posle reda 45 — ČEKA „da" (Pravilo K)
+**Deo 0 na ovoj grani i dalje stoji kao „(nije upisano)".** Odgovori postoje samo u
+PR #1, gde su 05.08. odgovoreni na osnovu čitanja celog rukopisa i gde 0.4 nosi
+zapis „ispravka autora". Ukratko: **0.1** Katarina traži zajednički život, meri se
+martom · **0.2** Katarinino neznanje · **0.3** Katarina, ne iz sumnje nego iz želje
+da žive kao ljudi · **0.4** Katarina adresu, Andrijana da David bude srećan, Jovana
+da bude izabrana, Nataša nekog kome je potrebna · **0.5** za Katarinu, od II ·
+**0.6** tabela pitanja po poglavlju. Prenošenje u dokument čeka odluku o granama.
 
-> Ustao sam i pogledao kroz izlog na koju je stranu otišao. Nije bilo razloga. Vratio sam se i seo.
->
-> **Telefon je zavibrirao na stolu. Andrijana.**
->
-> ***Pitala je za tebe.***
->
-> **Okrenuo sam ga ekranom nadole.**
->
-> Zapalio sam cigaretu.
+### 2. Draft za I — čeka „da" ili „ne"
 
-Ime ne pada (zapečaćeno). Čitalac ne zna ko je „pitala". Rima sa VIII 197 sklapa
-se sama, sedam poglavlja kasnije. Starčeva scena se ne dira.
+Iz starog handoffa, nikad odlučeno, i **sad je verovatno bespredmetan.** Nosio je
+kandidata za 0.1 („Jovana se približava preko Andrijane") koji je u PR #1 odbačen u
+korist drugog odgovora. Ako odgovor iz PR #1 stoji, draft pada s njim.
 
-**Legalnost:** Deo 0 izričito dozvoljava *„raspored postojećeg materijala, koje
-se informacije kad daju"* i dodatke od dva do tri reda unutar postojeće scene.
-Nema nove scene, nema novog lika, niko ne radi ništa novo.
+### 3. Prolaz kroz I, II, III samo na spratu knjige
+
+U PR #1 je urađen i upisan kao **zatvoreno zauvek, odlukom autora.** Na ovoj grani
+ga nema. Ide zajedno s odlukom iz tačke 1.
+
+### 4. Dva sukoba u dokumentima — za VI, ne pre
+
+**(a) Registar VI.** Mapa u dnevniku kaže „VI je sadašnjost, žive zajedno".
+`SVET_I_LIKOVI_1.md` to izričito ispravlja: **VI je PROŠLOST, ne žive zajedno**, VI
+i VII su uzastopni dani, ~2 godine pre I. SVET je noviji i tekst ga podržava
+(„Sinoć." u VI, „Preksinoć." u VII). Ispraviti mapu kad se VI otvori.
+
+**(b) „Dvanaest godina" u VI i VII — računica ne štima.** Nestanak je pre 12 godina,
+nesreća pre ~2 godine. VI se dešava dan posle nesreće, dakle **deset** godina posle
+nestanka — a tekst pet puta kaže „dvanaest" (redovi 17, 63, 73, 131, 137). VII isto
+na redu 103. **Hronologija je zamrznuta, pa ovo mora da odluči autor:** popušta broj
+u tekstu, ili „~2 godine"?
+
+### 5. VII — fajl neproveren
+
+Jedini koji nije upoređen s dnevnikom. Uraditi pre otvaranja VII.
 
 ---
 
-## Šta visi
+## Redosled posla
 
-1. **da/ne** na draft za I
-2. **da/ne** na 0.1
-3. 0.3, 0.4, 0.5, 0.6 — neodgovoreni
-4. provera aktuelnosti VI i VII
-5. upis odgovorenih delova u `FINALNI_PROLAZ_PRAVILA.md`, Deo 0
-
----
-
-## Redosled posla, kad se nastavi
-
-1. Odgovoriti Deo 0 do kraja i upisati u `FINALNI_PROLAZ_PRAVILA.md`
-2. Prolaz kroz I, II, III **samo na spratu knjige**
-3. Poglavlja IV → VIII redom, svako sa sva tri sprata
-4. Poglavlje se ne otvara dok se prethodno ne zatvori
+1. **Odluka o granama** (tačka 1) — koja verzija IV, i prenosi li se Deo 0.
+2. VI — ulazni list pa sva tri sprata. Prvo rešiti sukobe iz tačke 4.
+3. VII (proveriti fajl prvo), pa VIII.
 
 ---
 
@@ -128,17 +96,20 @@ Nema nove scene, nema novog lika, niko ne radi ništa novo.
 ```
 Nastavljamo reviziju romana "Sahrana bez tela".
 
-Pročitaj prvo NASTAVAK.md, pa PRAVILA_STILA.md, SVET_I_LIKOVI_1.md,
-FINALNI_PROLAZ_PRAVILA.md i Analiza_i_pokret_prepravke_3_1_1.md.
+Pročitaj NASTAVAK.md — tamo je sve. Ne objašnjavaj mi ispočetka.
 
-Gde smo: finalni prolaz zatvorio I, II i III. IV se NE SME otvoriti dok se
-ne odgovori Deo 0 — šest pitanja u FINALNI_PROLAZ_PRAVILA, od kojih je
-odgovoreno samo 0.2, a 0.1 ima kandidata koji čeka moje da/ne.
+Gde smo: I, II, III, IV i V su zatvoreni u finalnom prolazu. Sledeće je VI
+(Prazna stolica) — ali PRE toga moram da odlučim o granama, tačka 1 u
+NASTAVAK.md: IV ima dve verzije koje se ne poklapaju, a Deo 0 je odgovoren
+samo na jednoj grani. Pokaži mi obe verzije IV i pusti me da biram.
 
-Prvo pitanje za tebe: idemo na Deo 0, ili prvo proveravamo jesu li VI i VII
-aktuelni (V je bio zastareo za pet izmena)?
+Za VI prvo reši dva sukoba iz tačke 4 (registar VI, i "dvanaest godina"
+koje ne štima).
 
-Poštuj Pravilo K — dopune i prepisi čekaju moje izričito "da", jedno po
-jedno. Pravilo L — zatvorene odluke se ne otvaraju ponovo. Pravilo M — uz
-svaki nalaz reci na kom spratu govoriš.
+Poštuj Pravilo K — mehanika ide bez pitanja i prijavljuje se posle, a svaka
+rečenica napisana u moje ime čeka izričito "da", jedno po jedno. Pravilo L —
+zatvoreno se ne otvara. Pravilo M — uz svaki nalaz reci sprat. Pravilo G —
+ako se dvoumiš, ne diraj.
+
+I piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
 ```

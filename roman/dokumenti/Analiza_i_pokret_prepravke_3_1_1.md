@@ -470,7 +470,7 @@ Izmene iz prvog prolaza (17): hronologija (preksinoć / poziv „dan ranije" / t
 - Pravilo E: PRAVILA_STILA red 32 ispravljen — PAD u III se više ne izgovara, izvodi se telom.
 - Otvoreno: dva „rumena" (53 i 95) stoje kao namerni odjek; rezerva bez boje spremna ako Duffy odluči da je rima.
 
-### FINALNI PROLAZ — V (NESTANAK) — u toku
+### FINALNI PROLAZ — V (NESTANAK) — ZATVORENO
 Poglavlje je 05.08. prošlo pun prolaz i autor je odobrio devet izmena (četiri
 prepisa, pet rezova). Taj rad je do sad stajao samo na grani `claude/nastavimo-hx5mu5`;
 ovde je preuzet fajl, pa nastavljeno.
@@ -505,18 +505,51 @@ Deo 1, tačka 1 — dva „tri" u istom pasusu, tri reda razmaka („od čoveka 
 tri nedelje" i „Prva tri meseca"). Drugo je ušlo prepisom od 05.08. Poglavlje već
 namerno nosi trojku šest puta, pa se udvajanje čuje. Menjana je nova strana — „tri
 nedelje" nosi poentu da mu mudrost daje čovek koji ga jedva poznaje. Mera ostaje,
-period se udvostručuje; autor je to znao i odobrio. Bilans: „tri" 6 → 5, i nijedno
+period se udvostručuje; autor je to znao i odobrio. Bilans: „tri" 7 → 6, i nijedno
 udvojeno u istom pasusu (155 nosi dva, ali u istoj rečenici i namerno — „Tri reči.
 Putovale su tri sekunde").
 
-**Ostaje otvoreno u V — jedan nalaz, sprat rečenice:**
-- **Redovi 141–147** — četiri uzastopna jednorečenična pasusa, svaki udarac
-  (11, 9, 9, 5 reči). Deo 1, tačka 7: **formula.** Takt u V nikad nije bio izmeren.
-  Rešenje po pravilu nije nova šema nego prekid.
+**Izmena 12 — red 141, rez repa** (odobrena):
+staro: „…a njena stolica je ostajala prazna. **Četiri godine je ta prazna stolica
+bila najglasnija stvar za stolom.**"
+novo: „…a njena stolica je ostajala prazna."
+Rešava dve stvari odjednom. Prvo, **formulu** (Deo 1, tačka 7): 141, 143, 145 i 147
+bila su četiri uzastopna pasusa, svaki završen izbrušenim udarcem (11, 9, 9, 5 reči).
+Takt u V do sad nije bio merio niko. Rez lomi niz na početku — 141 sada završava
+dugom rečenicom (31 reč), pa tri koja slede udaraju punom snagom. Drugo, **dupli
+broj** (Deo 1, tačka 6): „četiri godine" je stajalo i ovde i u poslednjoj rečenici
+poglavlja („trebalo je četiri godine da se vrati za sto"). Sad ga nosi samo kraj.
+Par „Kao nekog ko ju je jednom već sahranio živu. / I bila je u pravu." **nije diran** —
+stari dnevnik ga imenuje kao jedan od dva najveća udarca u V (tačka 3 ček-liste).
+
+### V — ZATVORENO 21.08.2026
+Tri izmene u ovoj sesiji (10, 11, 12), sve tri odobrene pojedinačno.
+**Bilans poglavlja: dvanaest izmena ukupno** — devet od 05.08. plus tri odavde.
+Pravilo J: šest prepisa od dvanaest, znatno iznad trećine. Pravilo F: dvanaest od
+dozvoljenih petnaest.
+
+**Brojke, izmereno na zatvorenom fajlu:** 1399 → **1312 reči**. „kao" 13 → **11**.
+Veznik uzroka 10 → **6**. „jednom" 9 → **8**. „tri" 7 → **6**.
+
+**Sva tri sprata (Pravilo M):**
+- **Rečenica** — čisto. Nijedan tik nije preko praga, nijedna reč nije udvojena u
+  istom ili susednom pasusu, takt nema ni formulu ni uniformnost.
+- **Poglavlje** — kvote 2.1, 2.2, 2.3 i 2.5 popunjene i proverene u tekstu; 2.4 uz
+  ogradu upisanu niže. Nijedna nije tražila novu scenu.
+- **Knjiga** — V ne nosi nov teret. Prošlost mu je zadatak i on ga radi; tag „ona pod
+  šeširom" isplaćen u poslednjoj rečenici, dug prema Jovani ostaje otvoren za VII.
+
+**Zaštićeno, provereno netaknuto na zatvorenom fajlu:** poslednja rečenica · tag
+„ona pod šeširom" · „Bezbedan sam. Ne tražite." · „Otišao sam u kuhinju i jeo iz
+šerpe, stojeći." · oprana šolja (65 → 135 → VIII 15) · Jovanino „Dobro." · „Kao
+kiša." i red posle · „sto malih jutara" · paralelizam u 139.
+
+**Rezervisano mesto za formulu:** V ga nije potrošilo. Ostaje jedno slobodno za
+VI–VIII.
 
 **Sporno, za autora:** kvota 2.4 upisana je kao popunjena preko Andrijaninog „Dva
 broja, dva traga." Ona jeste pritisak i ona ne skreće — ali pritiska **postupak
 koji je već poznat**, ne ono što se u V zaista krije (okidač bekstva, red 61,
 zapečaćen po H1). Njega niko ne dodirne.
 
-**Poglavlje nije zatvoreno** dok se nalaz gore ne reši.
+

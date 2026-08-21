@@ -138,7 +138,7 @@ Dobro.
 
 Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem, preko istog tuđeg ekrana. Ona nije htela da budem bezbedan. Htela je da bira sama, a ja sam joj oduzeo izbor.
 
-I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna. Četiri godine je ta prazna stolica bila najglasnija stvar za stolom.
+I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna.
 
 I kad je konačno sela, gledala me je drugačije.
 
