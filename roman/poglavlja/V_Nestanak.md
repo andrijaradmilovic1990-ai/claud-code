@@ -96,7 +96,7 @@ Jednom, na istovaru, neko je viknuo ime. Novo, moje, ono na koje sam se potpisiv
 
 „Nemoj da se zamišljaš pod teretom, poginućeš.“
 
-I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Prva tri meseca sam se okretao za sekund prekasno.
+I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Prvih pola godine sam se okretao za sekund prekasno.
 
 I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 

@@ -498,10 +498,18 @@ Bilans: „jednom" 9 → 8.
 2. Zaštićeno ponavljanje oprane šolje vođeno je kao „V 65 → V 137 → VIII 15".
    Posle reza pasusa 125 drugo mesto je **V 135.**
 
-**Ostaje otvoreno u V — dva nalaza, oba na spratu rečenice:**
-- **Red 99** — „…od čoveka koji me znao **tri nedelje**… **Prva tri meseca** sam se
-  okretao za sekund prekasno." Dva „tri" u istom pasusu, tri reda razmaka; drugo je
-  ušlo prepisom od 05.08. Poglavlje već namerno nosi trojku šest puta. Traži prepis.
+**Izmena 11 — red 99** (odobrena):
+staro: „Naučio sam da se odazivam. **Prva tri meseca** sam se okretao za sekund prekasno."
+novo: „Naučio sam da se odazivam. **Prvih pola godine** sam se okretao za sekund prekasno."
+Deo 1, tačka 1 — dva „tri" u istom pasusu, tri reda razmaka („od čoveka koji me znao
+tri nedelje" i „Prva tri meseca"). Drugo je ušlo prepisom od 05.08. Poglavlje već
+namerno nosi trojku šest puta, pa se udvajanje čuje. Menjana je nova strana — „tri
+nedelje" nosi poentu da mu mudrost daje čovek koji ga jedva poznaje. Mera ostaje,
+period se udvostručuje; autor je to znao i odobrio. Bilans: „tri" 6 → 5, i nijedno
+udvojeno u istom pasusu (155 nosi dva, ali u istoj rečenici i namerno — „Tri reči.
+Putovale su tri sekunde").
+
+**Ostaje otvoreno u V — jedan nalaz, sprat rečenice:**
 - **Redovi 141–147** — četiri uzastopna jednorečenična pasusa, svaki udarac
   (11, 9, 9, 5 reči). Deo 1, tačka 7: **formula.** Takt u V nikad nije bio izmeren.
   Rešenje po pravilu nije nova šema nego prekid.
@@ -511,4 +519,4 @@ broja, dva traga." Ona jeste pritisak i ona ne skreće — ali pritiska **postup
 koji je već poznat**, ne ono što se u V zaista krije (okidač bekstva, red 61,
 zapečaćen po H1). Njega niko ne dodirne.
 
-**Poglavlje nije zatvoreno** dok se dva nalaza gore ne reše.
+**Poglavlje nije zatvoreno** dok se nalaz gore ne reši.
