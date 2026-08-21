@@ -78,7 +78,17 @@ Ironija (čudovište koje UME da bude pripitomljeno ali svesno bira da ne ostane
 
 ---
 
-## ČEK-LISTA PO POGLAVLJU (proći za svako od osam)
+## ČEK-LISTA PO POGLAVLJU — **ZAMENJENA, ostaje kao arhiva**
+
+> **NE koristi se više od 05.08.2026.** Ova lista je imala osam tačaka, a dnevnik
+> je ispod na jednom mestu zove „svih 10 tačaka", na drugom „svih 11" — što je
+> značilo da „poglavlje je prošlo celu proveru" nije imalo fiksno značenje.
+>
+> **Važi samo `FINALNI_PROLAZ_PRAVILA.md`:** Brojanje (Deo 1), Pet dugova
+> poglavlja (Deo 2), Šesnaest postupaka (Deo 3). Jedna lista, jedno značenje.
+>
+> Lista ispod ostaje jer je po njoj zatvoreno I–VIII u ranijoj reviziji i bez nje
+> se dnevnik ne bi mogao čitati.
 
 1. Ima li formula "to je bilo najgore/cela poenta X"? Zadržati samo ako je jedan od 2-3 izabrana mesta u knjizi.
 2. Ima li objašnjenje posle gesta koje ne dodaje novo značenje?
@@ -117,7 +127,7 @@ Već revidirano i zatvoreno (vidi Dnevnik rada niže za tačan spisak izmena). P
 
 ### VI — Prazna stolica
 - **Formula "to je bilo najgore" (tačka 1) — OVDE JE JEDNO OD 2-3 MESTA ZA ZADRŽAVANJE**, konkretno "za nju nikad nisam pitao smem li". Ne brisati ovo mesto dok se ne prebroje ostala zadržana mesta u knjizi — pravilo je 2-3 UKUPNO, ne po poglavlju.
-- Registar: prati se STVARNI TEKST — VI je sadašnjost, David i Katarina žive zajedno (ispravljeno u SVET_I_LIKOVI.md, stara Dopuna 2 tabela je ovde bila zastarela).
+- **Registar — ISPRAVLJENO 21.08. po Pravilu E: VI je PROŠLOST, ne sadašnjost, i tada NE žive zajedno.** Ranija tvrdnja u ovom dnevniku („prati se stvarni tekst — VI je sadašnjost, žive zajedno") oslanjala se na to što David sedi u istom kafiću iz kog pripoveda — ali isti kafić nije isto vreme, on u njemu sedi godinama. `SVET_I_LIKOVI_1.md` je noviji i tekst ga podržava: Andrijana kaže **„Sinoć."** za nesreću, a u VII na vidikovcu stoji **„Preksinoć."** — VI i VII su uzastopni dani, oko dve godine pre I. **Katarine u VI nema nigde**, što bi bilo nemoguće da tada žive zajedno. Zajednički život počinje tek posle Belog grada.
 - Nema drugog posebnog zadatka van formule.
 
 ### VII — Beli grad
@@ -469,3 +479,695 @@ Izmene iz prvog prolaza (17): hronologija (preksinoć / poziv „dan ranije" / t
 - Zaštićeno i netaknuto: „Vozila je.", uštip, cipele, „Je l' ima još luka?", formula #1 u 91, Jovana bezimena.
 - Pravilo E: PRAVILA_STILA red 32 ispravljen — PAD u III se više ne izgovara, izvodi se telom.
 - Otvoreno: dva „rumena" (53 i 95) stoje kao namerni odjek; rezerva bez boje spremna ako Duffy odluči da je rima.
+
+---
+
+## PROLAZ NA SPRATU KNJIGE — I, II, III · **ZATVORENO ZAUVEK** (05.08.2026)
+
+> Poslednji prolaz kroz prva tri poglavlja. Radio se tek pošto su odgovorena
+> Šest pitanja o knjizi, jer pre toga sprat knjige nije imao po čemu da meri.
+> Smelo se dirati **isključivo** kad čitalac šta sazna, plus dodatak od dva do tri
+> reda unutar postojeće scene. **Nijedna rečenica nije prepisana zbog stila** —
+> tamo je filter završio posao ranije i to se ne otvara više.
+>
+> **Odluka autora: posle ovog upisa I, II i III se ne otvaraju ponovo, ni na pitanje.**
+
+### Brojanje (Deo 1) — čisto u sva tri, bez ijedne intervencije
+
+| | reči | preko praga 8 | veznik uzroka |
+|---|---|---|---|
+| I | 754 | ništa | 1× „zato što" |
+| II | 1458 | „kao" 9, „nešto" 8 | 3× „jer", 1× „što znači" |
+| III | 1079 | ništa | 3× „jer" |
+
+II-ova dva prelaza praga proverena poimenično i **ostavljena**: „kao" pada u
+zaštićenom („ne kao prebacivanje") i u konkretnim slikama, a „nešto" je svuda
+David koji ne ume da imenuje — što je karakter, ne tik. Po napomeni o ponavljanju:
+ritam, ne tik. Ni jedna izmena po Delu 1.
+
+### Pet dugova poglavlja — stanje
+
+| | greška | sramota | tuđa volja | pritisak | pitanje na kraju |
+|---|---|---|---|---|---|
+| **I** | popunjen ×2 | popunjen | popunjen | **popunjen** | popunjen |
+| **II** | popunjen | popunjen | popunjen | **nemoguć, uz razlog** | popunjen |
+| **III** | popunjen | popunjen | popunjen | **nemoguć, uz razlog** | popunjen |
+
+**Nalaz koji je ranije promašen — dug „pritisak" je u I već namiren, i to tačno
+u traženom obliku.** Starac dođe do same ivice („Znam šta ste uradili. I znam šta
+vas je to koštalo."), David slaže, starac primi laž — *„U redu. Pomešao sam vas."*
+— **i svejedno ostavi ponudu i ime radionice.** Ne povlači se. Skreće David.
+Nikad nije bilo upisano; upisuje se sad da se ne traži ponovo.
+
+**Zašto je dug „pritisak" nemoguć u II.** Andrijanino „Ponekad mislim da znam
+zašto si otišao" visi i **ona sama skrene** — to je Registar 1, neizgovoreni
+dogovor, i pravilo glasi da ga sme prekršiti **samo on, nikad ona.** II je
+poglavlje u kom se taj dogovor **postavlja**; prekršiti ga u istom poglavlju u
+kom se uvodi obesmislilo bi ga. Dug ostaje na knjizi i **naplaćuje se u VII ili
+VIII, i to tako da skrene David a ona ostane.**
+
+**Zašto je dug „pritisak" nemoguć u III.** Katarina kaže **„Lažeš."** (red 79) —
+jedini put u knjizi da mu neko to kaže u lice — pa to sama pretvori u šalu o
+vinu. Da ostane jedan takt duže, dug bi bio namiren ovde. **Ne sme:** Registar 1
+kaže da ona *„do VIII se ne budi, ne sumnja, ne proverava"*, a njen test
+unutrašnjosti je rezervisan za VIII. Zapisano da naredni prolaz ne posegne za
+tim mestom misleći da je previd.
+
+### Jedina izmena (jedna, u I)
+
+**I, posle reda 45 — DODATO tri reda unutar postojeće scene:**
+
+> Konobar je došao po šolju. Rekao sam mu da ostavi. Ostao sam još sat.
+
+*Testovi:* Hemingvej 2 (šolja umesto pojma) · Bukovski 7 (pasus se ne potpisuje —
+treći ravan kraj u poglavlju, uz dva iz ranijeg prolaza) · Deo 1 tačka 7 (odvojen
+u sopstveni pasus da se ne napravi niz od šest kratkih rečenica).
+
+Kači se na red 9, na konobara koji *„spusti, klimne, ode"* — jedini čovek u gradu
+koji ga ništa ne pita, a David mu se sad obrati da bi zadržao praznu šolju kao
+izgovor da ne ustane. Rimuje se s VIII 189 („Kafa se hladila. Nisam žurio.") i
+VIII 203 („Hladna, ali nisam hteo drugu.") — isti čovek, isti sto, i dalje ne
+ustaje.
+
+**Razmotreno i ODBAČENO po odluci autora:** varijanta u kojoj ga kod kuće čeka
+ručak. Razlog autora: **u I se ne sme rešiti da živi s Katarinom** — bilo zato
+što tada još ne žive zajedno, bilo zato što u sidrenom poglavlju to ne treba da
+bude poznato. Rečenica nije samo dodavala njeno prisustvo nego je zatvarala
+pitanje stana, a to je raspored informacije koji pripada kasnijim poglavljima.
+Odbačena je i varijanta s poslom („Trebalo je da budem na poslu u dva") — autor
+izabrao tišu.
+
+**Razmotreno i ODBAČENO pre nego što je stiglo do autora:** dopuna u kojoj David
+posle piše Katarini da ga je zadržao posao. Bila bi to **prava laž**, a zaključano
+je da David ne laže nego izostavlja (II: „Ti nikad ne slažeš" / „Nisam.").
+
+### Šta ostaje otvoreno posle ovog prolaza
+
+**Sidreno poglavlje i dalje nema ni traga od života koji je David izgradio.**
+Dokument o svetu kaže da je knjiga o čoveku koji je napravio stvaran novi život i
+bira ga svaki dan — a čitalac u I vidi samo usamljenog čoveka s kafom, pa ulazi u
+knjigu s pogrešnom pretpostavkom o tome o čemu je. **Odlukom autora se to NE
+rešava u I** (vidi gore). **Preneto u IV**, gde ionako živi mart i Katarinina
+molba za adresu — tamo se plaća bez opasnosti po raspored informacije.
+
+### Zaštićeno, provereno netaknuto u ovom prolazu
+
+- **I:** poslednja rečenica · red 7 („telo ne zna za kalendar") · red 9 („Sto sa
+  kog se vide vrata") · red 39 („Klimnuo sam glavom. Samo da ode.") · red 47
+  („u jarku, u reci, u temelju").
+- **II:** „Ugasio sam svetlo." · „Isti čovek." · roze brijač · špagete bolonjeze ·
+  „Otvorila je vrata pre nego što sam pokucao" · „ne kao prebacivanje" ·
+  Andrijanina replika koja imenuje mehanizam · blok 163–175 · voda.
+- **III:** „Vozila je." · uštip · cipele · „Je l' ima još luka?" · „Sipao sam iz
+  inata." · formula #1 u 91 · Jovana bezimena · poslednji red (Katarina ne gleda
+  ka vratima).
+
+**Rezervisana mesta za formulu:** nepromenjeno — #1 u III (91), #2 u VI. Ostaje
+najviše jedno slobodno za celu knjigu.
+
+**STATUS: I, II i III su zatvoreni na sva tri sprata. Ne otvaraju se više.**
+
+---
+
+## IV — PARIZ · **OTVORENO 05.08.2026** — ulazni list i nalaz
+
+> Prvo poglavlje koje se otvara sa odgovorenim Šest pitanja u ruci.
+> Nijedna izmena još nije uneta — ovo je nalaz, čeka se autor (Pravilo K).
+
+### Ulazni list (Pravilo H, šest stavki)
+
+**1 — Dokaz čitanja, po jedna stavka iz sva četiri dokumenta koja se tiče baš IV:**
+- *Analiza (mapa):* „pasus SME da se razvije kad nosi — **'s njom se nije vodila
+  ljubav, s njom se ratovalo' je primer ONOGA ŠTO TREBA, ne greška.** Ne seći je
+  kao model za skraćivanje drugih mesta."
+- *SVET_I_LIKOVI:* tag **„ona pod šeširom"** uveden ovde (red 79), isplaćuje se u
+  poslednjoj rečenici V — mora ostati. Pariz = Natašina ideja, putuju odvojeno iz
+  navike. Katarinina želja (lična na njegovu adresu) dodata u prolazu kroz celinu.
+- *FINALNI_PROLAZ_PRAVILA, Registar 2:* „**Kraj IV — magnet kao grob, 'Nismo
+  mogli.' Stoji. Nije mereno na spratu knjige.**" → jedno pitanje dozvoljeno,
+  bez argumenta.
+- *PRAVILA_STILA:* tačka 6 — nežnost ulovljena i postiđena. **Jovanin ivičnjak je
+  presedan: ostaje svesno go**, jer je njena nežnost žaljenje za nedostupnim, ne
+  skrivanje. Odluka doneta u ranijem prolazu, ne otvara se.
+
+**2 — Zamrznuto i zaštićeno u IV, poimenično:**
+kraj („Nismo mogli." + pasus o grobu, Registar 2) · „s njom se nije vodila ljubav,
+s njom se ratovalo" · zavet o neimenovanju (red 57, zapečaćeno ime) · tag „ona pod
+šeširom" (79) · **Nataša — ne dirati nigde** (njena ravnost je funkcija, ne
+problem) · Katarinina želja (117–125, sveža iz prolaza kroz celinu) · Jovanin
+ivičnjak go, bez stida.
+
+**3 — Dodeljeni zadaci iz mape:** nema posebnog; opšti filter + napomena o dugoj
+rečenici.
+
+**4 — Rezervisana mesta i registar mehanizma:** formula popunjena 2 od 2–3
+(III 91, VI 139) — **IV ne sme da potroši poslednje slobodno mesto bez jakog
+razloga.** Mehanizam „svaka reč tačna, zbir laž" — IV se NE popunjava u tabeli,
+odlučeno ranije, stoji.
+
+**5 — Iz Šest pitanja o knjizi:**
+- *Pitanje koje IV nosi:* „Šta je sahranjeno pod tim magnetom, i zna li ona da
+  živi pored groba?"
+- *Kako se u IV vidi ono što raste:* **ovde živi mart.** IV je **jedino mesto u
+  celoj knjizi gde je rok izgovoren naglas**, i jedino mesto gde Katarina traži
+  nešto za sebe. To je glavni posao ovog poglavlja.
+
+**6 — Najava sva tri dela:** Brojanje urađeno (niže). Pet dugova provereno (niže).
+Od Šesnaest postupaka gađaju se poimenično: **Bukovski 3** (samoprikaz bez
+samoodbrane), **Bukovski 6** (novac i telo u pogrešnom trenutku), **Bukovski 7**
+(narator ne zna da priča nešto važno), **Hemingvej 6** (sintaksa koja ne
+objašnjava uzrok), **Hemingvej 4** (kraj scene bez sumiranja).
+
+### Brojanje (Deo 1) — nalaz, ne odluka
+
+1739 reči, najduže od prva četiri.
+
+| mera | broj | ocena |
+|---|---|---|
+| **veznik uzroka** | **10** (9× „jer" + 1× „zato što") | **preko mere** |
+| „nikad" | 10 | preko praga, ali **ritam a ne tik** — vidi niže |
+| „kao" | 7 (+4 „kao da") | u granicama, ali **tri u jednom pasusu na 51** |
+| „samo" | 6 | čisto |
+
+**Veznik uzroka — 10 na 1739 reči.** Za poređenje: II je imao 6 „jer" na 1562 i
+pravila su to nazvala **nervozom, ne stilom.** IV je gori po reči. Kritično je
+**gde** padaju: 31 (dvaput), 43, 51, 59, 81 — to su tačno najnežniji i najvažniji
+pasusi poglavlja. Isti obrazac koji je dijagnostikovan u II.
+
+**„nikad" ×10 — ostaje.** Nosi kičmu poglavlja: „Nikad nije pitala koliko košta"
+(Andrijana, 21) i „Ona nikad nije pitala ono što je videla" (Jovana, 99). Dve žene
+koje ne pitaju, iz dva različita razloga. Po napomeni o ponavljanju: konkretno i s
+promenjenim teretom = ritam. **Ne dirati.**
+
+**Red 51 — tri poređenja u jednom pasusu** („kao da se ništa nije desilo" · „kao
+što dete nosi balon" · „kao što se ljudi smeju dobrom provodu"). Deo 1, tačka 3.
+
+### Pet dugova poglavlja — stanje
+
+| dug | stanje |
+|---|---|
+| **greška** | **tanko** |
+| **sramota** | **PRAZNO — najveća rupa u poglavlju i u knjizi** |
+| **tuđa volja** | popunjeno, dobro |
+| **pritisak** | **prazno, a materijal je već tu** |
+| **pitanje na kraju** | **kraj odgovara umesto da pita** (Registar 2 — jedno pitanje) |
+
+**greška — tanko.** David je u IV dvaput u krivu, ali oba puta **sam kaže da je
+bio u krivu**, umesto da čitalac vidi pre njega. Red 59: „dugo sam mislio da je to
+stid ili vaspitanje… Nije bilo. Shvatio sam tek kasnije, prekasno" — narator
+ispravlja sam sebe, pa čitalac nijednom nije ispred njega. Jedina prava greška je
+red 51 („Nataša nije znala da bude povređena") — ali se ona obara tek u VII, tri
+poglavlja kasnije, i unutar IV se ne vidi.
+
+**sramota — prazno, i ovde je knjiga najranjivija.** U IV je David bogat („dovoljno
+da kupim svaki izlog na toj ulici i ljude iza njih"), željen od Andrijane, voljen
+u tišini od Jovane, tačan u proceni svakoga za stolom, jedini muškarac među troje
+žena — i **nijednom nije sitan, smešan ni nedostojanstven.** Pravila su ovaj rizik
+imenovala unapred („bliže žanrovskom junaku nego Bukovskom"); **IV je mesto gde je
+to najistinitije.** Ovo je jedina stvar u poglavlju koja ne bi izdržala poređenje s
+Bukovskim, jer je Bukovskijeva disciplina upravo da **pisac ne štiti sebe**, a
+ovde se štiti potpuno.
+
+**pritisak — prazno, a materijal je već napisan.** Katarina traži da izvadi ličnu
+na njegovu adresu (117–121). On gleda u frižider. **Ona sama povuče:** „Nema veze.
+Ima vremena do marta." Pet redova kasnije on diže glas da odbrani magnet
+(„Nemoj", prebrzo). Ćuti kad ga živa žena pita sme li da postoji na njegovoj
+adresi, a viče da odbrani spomenik mrtvoj.
+**Ovo je najjače mesto u IV na spratu knjige i trenutno je prošaptano.**
+Ključno: da ona ostane na tome jedan takt duže **ne traži da posumnja** — ona ne
+pritiska njegovu tajnu nego zajednički život. **Registar 1 ostaje netaknut.**
+
+**pitanje na kraju.** Poslednji pasus (135) objašnjava magnet do kraja — „niko
+osim mene ne zna da je to spomenik" pa nabrajanje ko je sve pod njim sahranjen.
+Poglavlje time **odgovara na sopstveno pitanje** umesto da ga ostavi. To je i
+jedino mesto u IV gde autor tumači sopstvenu sliku — isti potez koji je izbačen iz
+VIII 169. **Kraj je Registar 2; postavljeno je JEDNO pitanje autoru, bez
+argumenta, i tu stoji dok ne odgovori.**
+
+### Ocena po spratovima (Pravilo M)
+
+- **Rečenica:** među najboljim u knjizi. Jedina merljiva mana je nervoza s
+  veznikom uzroka u najnežnijim pasusima.
+- **Poglavlje:** tri od pet dugova popunjena, jedan tanak, jedan prazan — i
+  prazan je onaj koji čuva knjigu od toga da bude laskav autoportret.
+- **Knjiga:** IV drži najvredniju stvar u rukopisu za cilj — **izgovoren rok** — i
+  trenutno je baci u tri reda. Nijedno drugo poglavlje nema rok.
+
+**Zaključak:** IV je za cilj **najvažnije poglavlje u knjizi i najmanje obrađeno.**
+Ne zato što je loše napisano — nego zato što sve što knjizi treba da prestane da
+bude „niz odličnih poglavlja" leži baš u njemu, neiskorišćeno: rok, žena koja
+traži nešto za sebe, i jedino mesto gde bi David mogao da prestane da bude
+zadivljujuć.
+
+### IZMENE — **ZATVORENO** (autor odobrio sve, 05.08.2026)
+
+**Brojke:** 1739 → 1629 reči. **Veznik uzroka 10 → 7.** Jedno poređenje manje.
+Sečeno ~151 reč, dopisano ~41.
+
+**Dugovi (obaveza, ne ulaze u kvotu):**
+
+1. **PRITISAK — redovi 123–129.** Dodato posle „Gledao sam u frižider.":
+   > **Prestala je da priča. Stajala je s onom šoljom, čekala, i nije sela.**
+
+   Ona više ne povlači sama — povlači tek pošto njegovo ćutanje odradi posao.
+   *Dug „pritisak" + Hemingvej 2.* **Registar 1 netaknut:** ona ne sumnja ni u
+   šta, samo ne odustane odmah. Šolja je već postavljena (109, 117). Tek sad ono
+   „Nemoj" četiri reda kasnije udara kako treba — ćuti kad ga živa žena pita sme
+   li da postoji na njegovoj adresi, a viče da odbrani spomenik mrtvoj.
+   **Ovo je mesto na kom knjiga prvi put dobija sat koji kuca.**
+
+2. **SRAMOTA — dodato posle reda 75 (bistro):**
+   > **Račun sam platio ja. Nisam umeo da pročitam gde se šta završava i nisam
+   > hteo da pitam, pa sam ostavio bakšiš koliki je i ceo račun. Nataša je to
+   > primetila i smejala se do kraja večeri.**
+
+   *Dug „sramota" + Bukovski 6 + Bukovski 3.* Ne otkupljuje se — Nataša se smeje
+   do kraja večeri. Menja i red 83: čovek koji se hvali da je imao dovoljno da
+   kupi svaki izlog na ulici **ne ume da pročita račun**, pa hvalisanje osam
+   redova kasnije zvuči kao teha. Nataša ostaje ravna i laka; njena funkcija se
+   ne dira.
+
+**Prepisi:**
+
+3. **Red 59** — staro: „…i nije htela da uđe, i dugo sam mislio da je to stid ili
+   vaspitanje ili bog zna šta. Nije bilo. Shvatio sam tek kasnije, prekasno: ona
+   se nije uključivala jer za nju ništa od toga ne bi bilo igra." →
+   novo: „…i nije htela da uđe. **Mislio sam da je stid.**"
+   *Dug „greška" + Hemingvej 1 + Deo 1 tačka 2.* **Rez koji pravi dug umesto da
+   ga popunjava dopunom.** David sad ostaje u krivu na stranici, a čitalac je
+   ispred njega — već je video njen hod koji ne žuri (53) i čašu kucnutu
+   poslednju, preko ivice (75). Informacija se ne gubi: V i VII je isplaćuju.
+
+4. **Kraj, red 139–143** — sečeno „Jedini kamen s imenom." (ponavlja „grob"),
+   „niko osim mene ne zna da je to spomenik" (autor tumači sopstvenu sliku, isti
+   potez izbačen iz VIII 169) i nabrajanje sobe s vinskim zavesama i žene koja ga
+   je ujela (prepričava poglavlje koje smo upravo pročitali). Ostaje:
+   > Ne zna da je upravo htela da baci jedini grob koji imam u kući. Stoji na
+   > frižideru i drži spisak za pijacu.
+   >
+   > Pod njim je četvoro ljudi na travi u dva ujutru. I jedna koja je nosila
+   > prevelik šešir i rekla mogli bismo da ostanemo.
+
+   *Hemingvej 4 + Bukovski 7 + dug „pitanje na kraju".*
+   **Odstupanje od onoga što je autoru pokazano, i razlog:** u pokazanoj verziji
+   je nabrajanje palo celo, pa je „jedna" ostala bez toga na šta se odnosi.
+   Zadržana je zato jedna slika („četvoro ljudi na travi u dva ujutru") da rečenica
+   ima uporište. Usput je dobila drugo dno — **pod tim grobom je i on sam.**
+   „Nismo mogli." i dalje pada odmah posle šešira, eho netaknut.
+
+**Mehanika (Pravilo K, bez pojedinačnog odobrenja — ovde ipak pokazana autoru pre unosa):**
+
+5. **Red 15** — rez „Iz takvog đubreta je izraslo." *(treći put ista misao u
+   pasusu; potpisuje sopstvenu sliku)*
+6. **Red 31** — rez repa „Voleo sam što jedina žena s kojom spavam ume da me
+   povredi… svojom voljom." *(veznik uzroka + samoodbrana; „Voleo sam" dvaput
+   zaredom).* Ostaje „Nisam ni trepnuo. Voleo sam i to."
+7. **Red 43** — rez kapije „i to je bila cela istina o nama — … i ništa preko
+   toga." *(formula + veznik uzroka; tri kratke rečenice posle već kažu isto,
+   bolje)*
+8. **Red 51** — palo treće poređenje u pasusu: „i ujutru bismo se smejali tome uz
+   kafu ~~kao što se ljudi smeju dobrom provodu~~." *(Deo 1 tačka 3)*
+
+**Pravilo E — refren na redu 103, NIJE DIRAN.** Dokumenti su navodili raspored
+refrena kao I, II, VI, VIII, a IV ga nosi („Telo je već tada znalo nešto što glava
+nije htela."). **Tekst je autoritet — ispravljen je dokument, ne rečenica**, na oba
+mesta (`SVET_I_LIKOVI_1.md` i Registar 2 u `FINALNI_PROLAZ_PRAVILA.md`). Autorovo
+odobrenje se odnosilo na predložene izmene; brisanje refrena nije bilo izmena nego
+pitanje s dve opcije, pa je izabrana ona koja ništa ne uklanja iz rukopisa.
+
+**Bilans po Pravilu J:** devet intervencija od dozvoljenih petnaest — pet rezova,
+dva prepisa, dve dopune. Četiri od devet nisu rezovi, iznad tražene trećine.
+
+**Zaštićeno, provereno netaknuto:** „s njom se nije vodila ljubav, s njom se
+ratovalo" · zavet o neimenovanju (57) · tag „ona pod šeširom" (81) · Jovanin
+ivičnjak go, bez stida · Nataša nedirana · „Nismo mogli."
+
+**Rezervisano mesto za formulu:** IV ga nije potrošilo. Ostaje 2 od 2–3, jedno
+slobodno za V–VIII.
+
+**STATUS: IV je zatvoreno na sva tri sprata.** Ostaje samo ono što je i ranije
+bilo van ovog prolaza: **autor pregleda prelome pasusa očima uz original** (OCR).
+
+---
+
+## V — NESTANAK · **OTVORENO 05.08.2026** — ulazni list i nalaz
+
+> Nijedna izmena nije uneta — čeka se autor (Pravilo K).
+
+### Ulazni list (Pravilo H)
+
+**1 — Dokaz čitanja:**
+- *Analiza (mapa):* „Nema posebnog dodeljenog zadatka. Opšta ček-lista." Uz to iz
+  prolaza kroz celinu: **otvaranje je prošireno sa 1 na ~30 redova** (torba,
+  sestra, „Kao kiša") i sveže je.
+- *SVET_I_LIKOVI:* tag **„ona pod šeširom" se isplaćuje u poslednjoj rečenici V** —
+  arhitektura, ne dira se. Poruka „Bezbedan sam. Ne tražite." poslata **samo
+  Andrijani**; Jovana saznala iz druge ruke — deo njene rane.
+- *FINALNI_PROLAZ_PRAVILA:* presedani „Otišao sam u kuhinju i jeo iz šerpe,
+  stojeći." naveden kao **model dopune unutar postojeće scene** i kao popunjen dug
+  „sramota".
+- *PRAVILA_STILA:* tačka 7 — prošlost kao scena, ne monolog. V je izuzetak koji je
+  već razmotren i odobren: **hronika je nužna forma jer poglavlje pokriva 12
+  godina**, uz dva scenska uporišta (autobuska, dijalog s Andrijanom).
+
+**2 — Zamrznuto i zaštićeno:** poslednja rečenica („…i ja sam to čitavo vreme zvao
+milošću.") · tag „ona pod šeširom" · „Bezbedan sam. Ne tražite." · „Otišao sam u
+kuhinju i jeo iz šerpe, stojeći." · oprana šolja (V 65 → V 137 → VIII 15, zaštićeno
+ponavljanje) · Jovanino „Dobro." · registar: SADAŠNJOST, žive zajedno.
+
+**3 — Dodeljeni zadaci:** nema posebnog.
+
+**4 — Rezervisana mesta:** formula popunjena 2 od 2–3; **jedno slobodno za V–VIII.**
+V je nije koristio i ne treba da je koristi. Mehanizam „tačno/laž" — V se namerno
+NE popunjava u tabeli, odluka stoji.
+
+**5 — Iz Šest pitanja:**
+- *Pitanje koje V nosi:* „Ako je otišao da ih spase, zašto ga nijedna nije primila
+  kao spas?"
+- *Ono što raste:* Katarina u otvaranju traži da je pita za sestru i prigovori mu;
+  na kraju šalje „Stigla sam. Volim te." a on **okrene telefon ekranom nadole** —
+  isti pokret kao ćutanje o adresi u IV.
+
+**6 — Najava:** Brojanje niže. Pet dugova niže. Od Šesnaest postupaka gađaju se:
+**Hemingvej 1** (izostavljanje), **Hemingvej 6** (sintaksa bez uzroka),
+**Bukovski 7** (narator ne zna da priča nešto važno).
+
+### Brojanje (Deo 1)
+
+1324 reči — najkraće poglavlje posle I.
+
+| mera | broj | ocena |
+|---|---|---|
+| **„kao"** | **13** | **najgori odnos u knjizi** — 1 na 102 reči (IV: 1 na 174) |
+| **veznik uzroka** | **10** (8× „jer" + 2× „zato što") | **preko mere po reči** |
+| „nikad" | 6 | čisto |
+
+**Dvostruka poređenja u istom pasusu:** 65 („kao da spremam kuću" + „izgleda kao
+da se čovek vraća"), 81 („kao čovek koji jesam" + „kao i sve ostalo od tog grada").
+
+**Dvostruki veznik u istoj rečenici:** 19 („jer je bila teška i jer je htela").
+Redovi 141 („ne zato što… nego zato što…") **ostaju** — to je namerni paralelizam,
+ne nervoza.
+
+### Pet dugova poglavlja — **sva četiri merljiva su popunjena**
+
+| dug | stanje |
+|---|---|
+| **greška** | **popunjen, i to najbolje u knjizi** |
+| **sramota** | popunjen |
+| **tuđa volja** | popunjen |
+| **pritisak** | **popunjen — i time se naplaćuje dug iz II** |
+| **pitanje na kraju** | popunjen |
+
+**greška.** Katarina kaže „To radiš. Staneš i čekaš da prođe. Kao kiša." — i
+**sledeći red glasi „Stajao sam u hodniku i čekao da prođe."** Izvede tačno ono za
+šta ga je optužila, red posle, bez ijedne reči komentara. Čitalac vidi, David ne
+priznaje da vidi. To je najčistije izvođenje ovog duga u celoj knjizi.
+
+**pritisak — NALAZ, i važan.** U dnevniku za II je upisano da je taj dug tamo
+nemoguć i da se **naplaćuje kasnije, tako da skrene David a ona ostane.**
+**Naplaćen je ovde, u V, i niko to nije upisao:**
+> „A onda sam pitao ono što nisam smeo, i znao sam da ne smem, i pitao sam
+> svejedno. / „A ona?" / Andrijana je dugo ćutala. Predugo."
+
+**On prekrši neizgovoreni dogovor** (traži ono što se ne traži), **a ona ne
+skrene** — odgovori do kraja i naplati mu: *„Tebi je bilo zgodnije da pošalješ na
+jedan broj, je l' tako? Dva broja, dva traga."* i *„Nije me gledala dok je to
+govorila."* Tačno oblik koji Registar 1 propisuje. **Dug iz II je zatvoren; ne
+traži se više u VII ni VIII.**
+
+### Nalaz na spratu rečenice — jedan obrazac, ne rasute greške
+
+Prekomerni „kao" i veznici uzroka nisu razbacani — **grupišu se na mestima gde
+narator objašnjava umesto da pokaže**, i to je isti obrazac koji je autoru
+prijavljen kao rizik za drugu polovinu knjige: *narator koji ume da sroči sopstveni
+život previše dobro.* Konkretno: 49 (vrata zvuče „kao tačka na kraju rečenice"),
+99 („Tuđe ime je kao nova cipela" — druga maksima u istom pasusu), 125 („To je
+Andrijana. Razume sve što ne sme da pita…"), 157 („jer neke stvari čovek ne sme da
+gleda kako sijaju").
+
+**Ocena po spratovima (Pravilo M):**
+- **Poglavlje:** najzdravije do sad — sva četiri merljiva duga popunjena bez ijedne
+  dopune, a jedan zatvara stariji dug iz II.
+- **Rečenica:** najviše posla od svih dosadašnjih poglavlja, ali sve na jednom
+  mestu: naratorova sklonost da izgovori zaključak posle slike.
+- **Knjiga:** V ne treba da nosi nov teret. Prošlost mu je zadatak i on ga radi.
+
+### IZMENE — **ZATVORENO** (autor odobrio svih devet, 05.08.2026)
+
+**Brojke:** 1324 → 1250 reči. **„kao" 13 → 11. Veznik uzroka 10 → 6.**
+Ništa nije dodato — devet intervencija, sve čišćenje istog obrasca.
+
+**Prepisi (četiri):**
+
+1. **Red 19** — „…spustila je opet, **jer** je bila teška **i jer** je htela nešto
+   da radi rukama." → „…spustila je opet. **Bila je teška, a i htela je nešto da
+   radi rukama.**" *(dva veznika uzroka u istoj rečenici)*
+2. **Red 49** — „…kad se zatvore, zazvuče **kao tačka na kraju rečenice**." →
+   „Vrata zgrade dole, ona teška, gvozdena. **Zatvorila su se jednom.**"
+   *(Hemingvej 2.)* Poređenje zamenjeno brojem — i taj broj je nož, jer dva reda
+   iznad stoji „Tri pozdrava i dva poljupca." Ona se pozdravlja tri puta, vrata se
+   zatvaraju jednom.
+3. **Red 65** — „**Kuća koja izgleda kao da** se čovek vraća uveče **je kuća koju**
+   niko ne pretura…" → „**Kuću u kojoj izgleda da** se čovek vraća uveče niko ne
+   pretura…" *(drugo „kao" u istom pasusu; prvo — „kao da spremam kuću za nekog ko
+   dolazi" — ostaje, najbolje je u pasusu)*
+4. **Red 99** — „Tuđe ime je **kao nova cipela** — žulja, pa popusti, pa jednog
+   dana primetiš da si zaboravio kako se hodalo u starim." → „**Prva tri meseca sam
+   se okretao za sekund prekasno.**" *(Hemingvej 2 + Bukovski 3.)* Druga maksima u
+   istom pasusu — prva je u tuđim ustima („nemoj da se zamišljaš, poginućeš") i
+   sme. Zamena je merljiva i on je u tome loš.
+
+**Rezovi (pet):**
+
+5. **Red 41** — „Pa me poljubila opet~~, jer kod nje ni pozdrav ne ide jednom~~."
+   Tri povratka to već pokazuju, a šest redova niže se i prebroji („Tri pozdrava i
+   dva poljupca"). Ista činjenica tri puta — pokazana, objašnjena, izbrojana.
+6. **Red 81** — „Ta polupesma mi je ostala u glavi godinama, bez kraja~~, kao i sve
+   ostalo od tog grada~~." Nedovršena pesma **jeste** ceo grad; rep to prevodi u
+   izjavu. *(Hemingvej 1)*
+7. **Red 111** — „…bez optužbe u glasu ~~— i baš zato boli~~." *(Bukovski 7.)*
+   Granično, autor izričito odobrio.
+8. **Red 125 — ceo pasus** „~~To je Andrijana. Razume sve što ne sme da pita, i
+   nosi to razumevanje kao kamen u džepu, godinama, ne pokazujući ga nikome. Ni
+   meni.~~" Narator objašnjava lik odmah posle najboljeg mesta u poglavlju
+   („Neko je morao da skuva ručak."). Sad ta replika ide **direktno** u „A onda sam
+   pitao ono što nisam smeo" — prelaz mnogo jači. *(Bukovski 7 + Hemingvej 4)*
+9. **Red 157** — „…pa spustio telefon ekranom nadole~~, jer neke stvari čovek ne
+   sme da gleda kako sijaju~~." Gest nosi sve i rimuje se s VIII 181.
+
+**Ostavljeno namerno (Pravilo G):** red 139 („ne zato što… nego zato što…") —
+paralelizam, ne nervoza. Redovi 69 i 103 („jer je i gledanje pozdrav", „jer je sve
+duže od tri reči bilo pismo") — profesionalno rezonovanje, Hemingvej 7, karakteriše
+zanat. Red 57 („sto malih jutara") — **zatvoreno ranijom odlukom, ne otvara se.**
+
+**Preostalih 11 „kao"** provereno pojedinačno: sve su konkretne ili namerne
+(zvonce, prognoza, kamen u džepu je pao, klinac pred prvi poziv, olakšanje/šamar).
+Broj je iznad praga ali **nije tik.**
+
+**Zaštićeno, provereno netaknuto:** poslednja rečenica · tag „ona pod šeširom" ·
+„Bezbedan sam. Ne tražite." · „Otišao sam u kuhinju i jeo iz šerpe, stojeći." ·
+oprana šolja (65 → 135 → VIII 15) · Jovanino „Dobro." · „Kao kiša." i red posle.
+
+**Rezervisano mesto za formulu:** V ga nije potrošilo. **Ostaje 2 od 2–3 — jedno
+slobodno za VI, VII, VIII.**
+
+**Bilans po Pravilu J:** devet od dozvoljenih petnaest; četiri prepisa od devet,
+iznad tražene trećine.
+
+**STATUS: V je zatvoreno na sva tri sprata.**
+
+---
+
+### FINALNI PROLAZ — V (NESTANAK) — ZATVORENO
+Poglavlje je 05.08. prošlo pun prolaz i autor je odobrio devet izmena (četiri
+prepisa, pet rezova). Taj rad je do sad stajao samo na grani `claude/nastavimo-hx5mu5`;
+ovde je preuzet fajl, pa nastavljeno.
+
+**Provereno nezavisno, alatkom, ne zapisom:**
+- „kao" 13 → 11 i veznik uzroka 10 → 6 — **obe brojke tačne.**
+- Kvote 2.1 (kiša/hodnik), 2.2 (šerpa), 2.3 (torba za sestru), 2.5 (kraj) — stoje.
+- Kontinuitet uz SVET_I_LIKOVI: 12 godina, godina ćutanja, četiri godine prazne
+  stolice, poruka samo Andrijani — sve se poklapa.
+- Zaštićeno netaknuto: poslednja rečenica · „ona pod šeširom" · „Bezbedan sam.
+  Ne tražite." · šerpa · Jovanino „Dobro." · „Kao kiša." i red posle.
+
+**Izmena 10 — red 53** (odobrena):
+staro: „A ja sam **jednom** otišao zauvek, i nije bilo nijednog."
+novo: „A ja sam otišao zauvek, i nije bilo nijednog."
+Deo 1, tačka 1 — ponovljena reč u susednom pasusu. Red 49 („Zatvorila su se
+jednom.") je izmena od 05.08. i sama je napravila sudar: dva udarca prve scene,
+dva pasusa razmaka, ista reč. Broj u 49 ostaje — rimuje se sa „Tri pozdrava i dva
+poljupca". U 53 „zauvek" već nosi jedanput, a „nijednog" nosi broj.
+Bilans: „jednom" 9 → 8.
+
+**Pravilo E — dve ispravke dokumenta:**
+1. Za V je bilo zapisano „1324 → 1250 reči". Stvarno je **1399 → 1324.**
+   (Brojevi za „kao" i veznik uzroka su bili tačni.)
+2. Zaštićeno ponavljanje oprane šolje vođeno je kao „V 65 → V 137 → VIII 15".
+   Posle reza pasusa 125 drugo mesto je **V 135.**
+
+**Izmena 11 — red 99** (odobrena):
+staro: „Naučio sam da se odazivam. **Prva tri meseca** sam se okretao za sekund prekasno."
+novo: „Naučio sam da se odazivam. **Prvih pola godine** sam se okretao za sekund prekasno."
+Deo 1, tačka 1 — dva „tri" u istom pasusu, tri reda razmaka („od čoveka koji me znao
+tri nedelje" i „Prva tri meseca"). Drugo je ušlo prepisom od 05.08. Poglavlje već
+namerno nosi trojku šest puta, pa se udvajanje čuje. Menjana je nova strana — „tri
+nedelje" nosi poentu da mu mudrost daje čovek koji ga jedva poznaje. Mera ostaje,
+period se udvostručuje; autor je to znao i odobrio. Bilans: „tri" 7 → 6, i nijedno
+udvojeno u istom pasusu (155 nosi dva, ali u istoj rečenici i namerno — „Tri reči.
+Putovale su tri sekunde").
+
+**Izmena 12 — red 141, rez repa** (odobrena):
+staro: „…a njena stolica je ostajala prazna. **Četiri godine je ta prazna stolica
+bila najglasnija stvar za stolom.**"
+novo: „…a njena stolica je ostajala prazna."
+Rešava dve stvari odjednom. Prvo, **formulu** (Deo 1, tačka 7): 141, 143, 145 i 147
+bila su četiri uzastopna pasusa, svaki završen izbrušenim udarcem (11, 9, 9, 5 reči).
+Takt u V do sad nije bio merio niko. Rez lomi niz na početku — 141 sada završava
+dugom rečenicom (31 reč), pa tri koja slede udaraju punom snagom. Drugo, **dupli
+broj** (Deo 1, tačka 6): „četiri godine" je stajalo i ovde i u poslednjoj rečenici
+poglavlja („trebalo je četiri godine da se vrati za sto"). Sad ga nosi samo kraj.
+Par „Kao nekog ko ju je jednom već sahranio živu. / I bila je u pravu." **nije diran** —
+stari dnevnik ga imenuje kao jedan od dva najveća udarca u V (tačka 3 ček-liste).
+
+### V — ZATVORENO 21.08.2026
+Tri izmene u ovoj sesiji (10, 11, 12), sve tri odobrene pojedinačno.
+**Bilans poglavlja: dvanaest izmena ukupno** — devet od 05.08. plus tri odavde.
+Pravilo J: šest prepisa od dvanaest, znatno iznad trećine. Pravilo F: dvanaest od
+dozvoljenih petnaest.
+
+**Brojke, izmereno na zatvorenom fajlu:** 1399 → **1312 reči**. „kao" 13 → **11**.
+Veznik uzroka 10 → **6**. „jednom" 9 → **8**. „tri" 7 → **6**.
+
+**Sva tri sprata (Pravilo M):**
+- **Rečenica** — čisto. Nijedan tik nije preko praga, nijedna reč nije udvojena u
+  istom ili susednom pasusu, takt nema ni formulu ni uniformnost.
+- **Poglavlje** — kvote 2.1, 2.2, 2.3 i 2.5 popunjene i proverene u tekstu; 2.4 uz
+  ogradu upisanu niže. Nijedna nije tražila novu scenu.
+- **Knjiga** — V ne nosi nov teret. Prošlost mu je zadatak i on ga radi; tag „ona pod
+  šeširom" isplaćen u poslednjoj rečenici, dug prema Jovani ostaje otvoren za VII.
+
+**Zaštićeno, provereno netaknuto na zatvorenom fajlu:** poslednja rečenica · tag
+„ona pod šeširom" · „Bezbedan sam. Ne tražite." · „Otišao sam u kuhinju i jeo iz
+šerpe, stojeći." · oprana šolja (65 → 135 → VIII 15) · Jovanino „Dobro." · „Kao
+kiša." i red posle · „sto malih jutara" · paralelizam u 139.
+
+**Rezervisano mesto za formulu:** V ga nije potrošilo. Ostaje jedno slobodno za
+VI–VIII.
+
+**Sporno, za autora:** kvota 2.4 upisana je kao popunjena preko Andrijaninog „Dva
+broja, dva traga." Ona jeste pritisak i ona ne skreće — ali pritiska **postupak
+koji je već poznat**, ne ono što se u V zaista krije (okidač bekstva, red 61,
+zapečaćen po H1). Njega niko ne dodirne.
+
+
+
+---
+
+## I–V · **ZAKLJUČANO 21.08.2026** — objedinjeno i provereno
+
+> Rad je do 21.08. stajao razbacan po tri grane koje se nisu videle. Ovo je
+> objedinjavanje: sve odluke koje je autor doneo 05.08. i 18.08. sada stoje na
+> jednom mestu, u jednom tekstu, i pet poglavlja je predato kao zaključano.
+
+**Šta je objedinjeno:**
+- **Deo 0** — svih šest odgovora preneto u `FINALNI_PROLAZ_PRAVILA.md`. Do sad su
+  tamo stajali kao „(nije upisano)" iako su odgovoreni 05.08.
+- **I** — dodatak od tri reda („Konobar je došao po šolju…") iz prolaza na spratu
+  knjige.
+- **II, III** — prolaz na spratu knjige, bez ijedne izmene po Delu 1 (brojanje bilo
+  čisto), sa upisanim razlozima zašto je dug „pritisak" u oba nemoguć.
+- **IV** — sedam izmena od 05.08., plus jedna zamena istog dana po odluci autora.
+  Osnova je verzija sa grane PR #1, jer jedina izvršava odluku „sat se prenosi u IV"
+  — „Prestala je da priča. Stajala je s onom šoljom, čekala, i nije sela."
+
+  **Zamena za kvotu 2.2 (dostojanstvo), po izričitoj odluci autora 21.08.:** izbačen
+  je račun u bistrou („Račun sam platio ja. Nisam umeo da pročitam gde se šta
+  završava…") i na njegovo mesto vraćena **bistro scena sa grane PR #2** —
+  naručivanje na francuskom iz hotelske knjižice, konobarica odgovori na engleskom
+  pa ponovi sporije, sve tri se smeju. Razlog: obe scene plaćaju istu kvotu, a dve
+  za jednu kvotu je previše. Francuski je jači — račun je David sam, francuski ima
+  **sve tri žene kako mu se smeju**, jedini put u knjizi da je smešan pred njima, pa
+  uz 2.2 plaća i deo duga **D3 (žene kao osobe)**. Uz scenu ide i ispravka: konobar
+  postaje konobarica („Donela je četiri porcije").
+
+  Ostatak PR #2 verzije **nije uzet** — utrnula noga (treće mesto za istu kvotu) i
+  blok „Ustajalo se kasno…". **Hibrid preko toga nije pravljen** (Pravilo K).
+- **V** — devet izmena od 05.08. plus tri od 21.08.
+
+**Novo u aparatu:** `DUGOVI_KNJIGE.md` — sprat iznad Dela 2, i uz njega pravila
+**H7**, **N** i **O**.
+
+### Brojke na zaključanim fajlovima
+
+| # | reči | „kao" | veznik uzroka | preko praga 8 |
+|---|------|-------|---------------|----------------|
+| I | 797 | 6 | 1 | ništa |
+| II | 1568 | 11 | 4 | ništa |
+| III | 1125 | 4 | 3 | ništa |
+| IV | 1761 | 10 | 7 | ništa |
+| V | 1312 | 11 | 6 | ništa |
+
+**Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.**
+
+### Ocena po spratovima (Pravilo M)
+
+- **Rečenica** — zatvoreno u svih pet. Mehanika izmerena alatkom, ne okom.
+- **Poglavlje** — kvote popunjene ili obrazloženo zašto ne mogu baš tu.
+- **Knjiga** — I, II i III su prošli sprat knjige 05.08. i zatvoreni zauvek odlukom
+  autora. IV i V su ga prošli kroz finalni prolaz. **Ono što ostaje nije propušteno
+  nego odloženo, svaki dug uz razlog** — spisak i mesta naplate u `DUGOVI_KNJIGE.md`.
+
+### Šta VI, VII i VIII nasleđuju
+
+| dug | gde se plaća |
+|-----|--------------|
+| **sat** | VIII — jedina preostala sadašnjost |
+| **dodir spolja** | VII ili VIII — mora skrenuti David, a ona ostati |
+| **Katarina** | VII — jedini prazan razmak između V i VIII |
+| **figura** | VI — model je III, gde okvir probija zaron |
+| **strah umesto radoznalosti** | VI, VII, VIII |
+
+**VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom.
+
+**STATUS: I, II, III, IV i V su zaključani. Sledeće je VI.**
+
+---
+
+## OTVORENO PITANJE — kuća ili stan? (autor, 21.08.2026)
+
+Autor je pri čitanju IV postavio pitanje: žive li David i Katarina zajedno, i ako
+da — u kući ili u stanu. Uz obrazloženje: ako ne žive zajedno nego on dolazi kod nje
+u stan, David nikad ne bi ostajao tamo sam.
+
+**Provereno pre upisa. Registar iz `SVET_I_LIKOVI_1.md` nije sporan:**
+
+| I | II | III | IV | V | VI | VII | VIII |
+|---|----|-----|----|----|----|-----|------|
+| DA | NE | DA | DA | DA | NE | NE | prošli NE / sadašnji DA |
+
+Zajednički život počinje posle Belog grada, oko godinu dana posle nesreće. **II je
+prošlost** (~godinu i po pre I), pa „u stanu koji još nije moj" (II red 225) nije u
+sukobu sa IV — tada još nisu živeli zajedno. Po registru, u IV je to njegov dom i
+druga polovina autorovog pitanja se ne postavlja.
+
+**Ali kontradikcija postoji, i to između IV i V:**
+
+- **IV, red 149:** „Ne zna da je upravo htela da baci jedini grob koji imam **u
+  kući**."
+- **V, red 49:** „**Vrata zgrade** dole, ona teška, gvozdena. Zatvorila su se
+  jednom." — zgrada sa stepeništem niz koje se čuju koraci („slušao kako joj koraci
+  silaze", „s pola stepeništa vratila treći put").
+
+Oba su sadašnjost, oba isti dom. Jedno kaže kuća, drugo zgrada. Nigde drugde u
+poglavljima sadašnjosti dom se ne imenuje.
+
+**Ograda:** „u kući" na srpskom najčešće znači *u domu*, ne kuću kao objekat, pa se
+može braniti i uz stan. To je razlika između stvarne greške i idioma, i odluka je
+autorova.
+
+**Jedno pitanje, bez argumenta (Pravilo L — IV je zaključan):** je li dom stan u
+zgradi, i menja li se „u kući" u IV?
+
+**Ništa nije dirano.** Pitanje je upisano, ne rešeno.

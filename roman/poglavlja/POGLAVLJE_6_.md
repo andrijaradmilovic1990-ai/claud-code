@@ -14,7 +14,7 @@ Ostao sam sam za stolom za četvoro. Navikao sam na stolove na kojima fali ljudi
 
 Telefon je zazvonio.
 
-Andrijana. Ne subotom, ne u onaj dan — između. A ona ne zove između. Dvanaest godina nismo zvali jedno drugo bez razloga.
+Andrijana. Ne subotom, ne u onaj dan — između. A ona ne zove između. Deset godina nismo zvali jedno drugo bez razloga.
 
 Znao sam pre nego što sam se javio.
 
@@ -60,7 +60,7 @@ Već sam znao šta ću.
 
 „Andrijana."
 
-Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i ne zakorači. Dvanaest godina je tako stajala. Zato je još tu.
+Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i ne zakorači. Deset godina je tako stajala. Zato je još tu.
 
 „Dobro", rekla je. „Reći ću mu."
 
@@ -70,7 +70,7 @@ Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i 
 
 Pa sam našao drugi broj.
 
-Ne u imeniku. Taj broj nije nigde zapisan, taj broj se ne zapisuje. Ali prsti su ga znali, otkucali su ga sami, kao što znaju put kući kroz mrak. Dvanaest godina, a nisu zaboravili nijednu cifru.
+Ne u imeniku. Taj broj nije nigde zapisan, taj broj se ne zapisuje. Ali prsti su ga znali, otkucali su ga sami, kao što znaju put kući kroz mrak. Deset godina, a nisu zaboravili nijednu cifru.
 
 Zvonilo je dvaput.
 
@@ -78,7 +78,7 @@ Zvonilo je dvaput.
 
 „Ja sam."
 
-Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju." Ne kao pitanje. Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
+Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju." Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
 
 „Treba mi nešto."
 
@@ -106,7 +106,7 @@ Telefon mi je ostao u ruci, vruć uz dlan, i taj njegov glas — pa gde si ti �
 
 Sedeo sam na prednjem sedištu patrolnih kola i jeo semenke iz papirne kese.
 
-On je vozio. Uniforma mu je stajala kao na svakom — malo zategnuta oko stomaka, kapa bačena na komandnu tablu. Vozio je polako, bez sirene, jednom rukom, laktom kroz spušten prozor, kao čovek koji se vraća iz druge smene i nikud mu se ne žuri. Pričao je. Pričao je celim putem, o ćerki koja upisuje fakultet, o tome kako više ništa ne valja kao nekad, o nekoj ribi koju je upecao na Dunavu i koja je, kako su sati prolazili u priči, postajala sve veća.
+On je vozio. Uniforma mu je stajala malo zategnuto oko stomaka, kapa bačena na komandnu tablu. Vozio je polako, bez sirene, jednom rukom, laktom kroz spušten prozor, kao čovek koji se vraća iz druge smene i nikud mu se ne žuri. Pričao je. Pričao je celim putem, o ćerki koja upisuje fakultet, o tome kako više ništa ne valja kao nekad, o nekoj ribi koju je upecao na Dunavu i koja je, kako su sati prolazili u priči, postajala sve veća.
 
 Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.
 
@@ -134,7 +134,7 @@ Tri prazne stolice preko puta.
 
 Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala, dovela me ovamo pre nego što je Andrijana pozvala.
 
-Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje dvanaest godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
+Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
 
 Za nju nikad nisam pitao smem li.
 
