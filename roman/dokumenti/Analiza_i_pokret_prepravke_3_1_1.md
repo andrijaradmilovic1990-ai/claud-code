@@ -469,3 +469,46 @@ Izmene iz prvog prolaza (17): hronologija (preksinoć / poziv „dan ranije" / t
 - Zaštićeno i netaknuto: „Vozila je.", uštip, cipele, „Je l' ima još luka?", formula #1 u 91, Jovana bezimena.
 - Pravilo E: PRAVILA_STILA red 32 ispravljen — PAD u III se više ne izgovara, izvodi se telom.
 - Otvoreno: dva „rumena" (53 i 95) stoje kao namerni odjek; rezerva bez boje spremna ako Duffy odluči da je rima.
+
+### FINALNI PROLAZ — V (NESTANAK) — u toku
+Poglavlje je 05.08. prošlo pun prolaz i autor je odobrio devet izmena (četiri
+prepisa, pet rezova). Taj rad je do sad stajao samo na grani `claude/nastavimo-hx5mu5`;
+ovde je preuzet fajl, pa nastavljeno.
+
+**Provereno nezavisno, alatkom, ne zapisom:**
+- „kao" 13 → 11 i veznik uzroka 10 → 6 — **obe brojke tačne.**
+- Kvote 2.1 (kiša/hodnik), 2.2 (šerpa), 2.3 (torba za sestru), 2.5 (kraj) — stoje.
+- Kontinuitet uz SVET_I_LIKOVI: 12 godina, godina ćutanja, četiri godine prazne
+  stolice, poruka samo Andrijani — sve se poklapa.
+- Zaštićeno netaknuto: poslednja rečenica · „ona pod šeširom" · „Bezbedan sam.
+  Ne tražite." · šerpa · Jovanino „Dobro." · „Kao kiša." i red posle.
+
+**Izmena 10 — red 53** (odobrena):
+staro: „A ja sam **jednom** otišao zauvek, i nije bilo nijednog."
+novo: „A ja sam otišao zauvek, i nije bilo nijednog."
+Deo 1, tačka 1 — ponovljena reč u susednom pasusu. Red 49 („Zatvorila su se
+jednom.") je izmena od 05.08. i sama je napravila sudar: dva udarca prve scene,
+dva pasusa razmaka, ista reč. Broj u 49 ostaje — rimuje se sa „Tri pozdrava i dva
+poljupca". U 53 „zauvek" već nosi jedanput, a „nijednog" nosi broj.
+Bilans: „jednom" 9 → 8.
+
+**Pravilo E — dve ispravke dokumenta:**
+1. Za V je bilo zapisano „1324 → 1250 reči". Stvarno je **1399 → 1324.**
+   (Brojevi za „kao" i veznik uzroka su bili tačni.)
+2. Zaštićeno ponavljanje oprane šolje vođeno je kao „V 65 → V 137 → VIII 15".
+   Posle reza pasusa 125 drugo mesto je **V 135.**
+
+**Ostaje otvoreno u V — dva nalaza, oba na spratu rečenice:**
+- **Red 99** — „…od čoveka koji me znao **tri nedelje**… **Prva tri meseca** sam se
+  okretao za sekund prekasno." Dva „tri" u istom pasusu, tri reda razmaka; drugo je
+  ušlo prepisom od 05.08. Poglavlje već namerno nosi trojku šest puta. Traži prepis.
+- **Redovi 141–147** — četiri uzastopna jednorečenična pasusa, svaki udarac
+  (11, 9, 9, 5 reči). Deo 1, tačka 7: **formula.** Takt u V nikad nije bio izmeren.
+  Rešenje po pravilu nije nova šema nego prekid.
+
+**Sporno, za autora:** kvota 2.4 upisana je kao popunjena preko Andrijaninog „Dva
+broja, dva traga." Ona jeste pritisak i ona ne skreće — ali pritiska **postupak
+koji je već poznat**, ne ono što se u V zaista krije (okidač bekstva, red 61,
+zapečaćen po H1). Njega niko ne dodirne.
+
+**Poglavlje nije zatvoreno** dok se dva nalaza gore ne reše.

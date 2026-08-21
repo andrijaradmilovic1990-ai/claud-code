@@ -50,7 +50,7 @@ Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona te
 
 Otišao sam u kuhinju i jeo iz šerpe, stojeći.
 
-A ja sam jednom otišao zauvek, i nije bilo nijednog.
+A ja sam otišao zauvek, i nije bilo nijednog.
 
 ⁂
 
