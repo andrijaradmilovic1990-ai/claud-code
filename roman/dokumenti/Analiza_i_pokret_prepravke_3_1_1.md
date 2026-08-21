@@ -1132,3 +1132,42 @@ zapečaćen po H1). Njega niko ne dodirne.
 **VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom.
 
 **STATUS: I, II, III, IV i V su zaključani. Sledeće je VI.**
+
+---
+
+## OTVORENO PITANJE — kuća ili stan? (autor, 21.08.2026)
+
+Autor je pri čitanju IV postavio pitanje: žive li David i Katarina zajedno, i ako
+da — u kući ili u stanu. Uz obrazloženje: ako ne žive zajedno nego on dolazi kod nje
+u stan, David nikad ne bi ostajao tamo sam.
+
+**Provereno pre upisa. Registar iz `SVET_I_LIKOVI_1.md` nije sporan:**
+
+| I | II | III | IV | V | VI | VII | VIII |
+|---|----|-----|----|----|----|-----|------|
+| DA | NE | DA | DA | DA | NE | NE | prošli NE / sadašnji DA |
+
+Zajednički život počinje posle Belog grada, oko godinu dana posle nesreće. **II je
+prošlost** (~godinu i po pre I), pa „u stanu koji još nije moj" (II red 225) nije u
+sukobu sa IV — tada još nisu živeli zajedno. Po registru, u IV je to njegov dom i
+druga polovina autorovog pitanja se ne postavlja.
+
+**Ali kontradikcija postoji, i to između IV i V:**
+
+- **IV, red 149:** „Ne zna da je upravo htela da baci jedini grob koji imam **u
+  kući**."
+- **V, red 49:** „**Vrata zgrade** dole, ona teška, gvozdena. Zatvorila su se
+  jednom." — zgrada sa stepeništem niz koje se čuju koraci („slušao kako joj koraci
+  silaze", „s pola stepeništa vratila treći put").
+
+Oba su sadašnjost, oba isti dom. Jedno kaže kuća, drugo zgrada. Nigde drugde u
+poglavljima sadašnjosti dom se ne imenuje.
+
+**Ograda:** „u kući" na srpskom najčešće znači *u domu*, ne kuću kao objekat, pa se
+može braniti i uz stan. To je razlika između stvarne greške i idioma, i odluka je
+autorova.
+
+**Jedno pitanje, bez argumenta (Pravilo L — IV je zaključan):** je li dom stan u
+zgradi, i menja li se „u kući" u IV?
+
+**Ništa nije dirano.** Pitanje je upisano, ne rešeno.
