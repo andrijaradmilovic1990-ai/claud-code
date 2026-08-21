@@ -15,7 +15,7 @@ objedinjen je ovde. Sledeće je VI.
 | I | Susret | **zaključano** | 797 | 6 | 1 |
 | II | Pukotina | **zaključano** | 1568 | 11 | 4 |
 | III | Krv | **zaključano** | 1125 | 4 | 3 |
-| IV | Pariz | **zaključano** | 1696 | 10 | 7 |
+| IV | Pariz | **zaključano** | 1761 | 10 | 7 |
 | V | Nestanak | **zaključano** | 1312 | 11 | 6 |
 | VI | Prazna stolica | **na redu** | — | — | — |
 | VII | Beli grad | čeka · **fajl neproveren** | — | — | — |
@@ -23,11 +23,12 @@ objedinjen je ovde. Sledeće je VI.
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom od pet.
 
-**Odluka o IV:** izabrana verzija sa grane PR #1, jer jedina izvršava raniju odluku
-da se sat prenosi u IV („Prestala je da priča. Stajala je s onom šoljom, čekala, i
-nije sela."). Verzija sa PR #2 nosila je bistro scenu, utrnulu nogu i tri reza —
-**stoji na grani `claude/sahrana-bez-tela-poglavlje-vi-3grvzk` ako je autor hoće
-nazad.** Hibrid nije pravljen: spojene bi bile treća verzija koju autor nije video.
+**Odluka o IV:** osnova je verzija sa grane PR #1 (jedina izvršava odluku da se sat
+prenosi u IV — „Prestala je da priča. Stajala je s onom šoljom, čekala, i nije
+sela."), **a kvota 2.2 popunjena je bistro scenom sa PR #2** — naručivanje na
+francuskom, sve tri se smeju — umesto računom. Odluka autora 21.08. Nije uzeta
+utrnula noga (treće mesto za istu kvotu) ni blok „Ustajalo se kasno…"; oni ostaju na
+grani `claude/sahrana-bez-tela-poglavlje-vi-3grvzk`.
 
 ---
 

@@ -1078,12 +1078,22 @@ zapečaćen po H1). Njega niko ne dodirne.
   knjige.
 - **II, III** — prolaz na spratu knjige, bez ijedne izmene po Delu 1 (brojanje bilo
   čisto), sa upisanim razlozima zašto je dug „pritisak" u oba nemoguć.
-- **IV** — sedam izmena od 05.08. **Izabrana ova verzija, ne ona sa grane PR #2.**
-  Razlog: samo ona izvršava odluku „sat se prenosi u IV" — „Prestala je da priča.
-  Stajala je s onom šoljom, čekala, i nije sela." Odbačena verzija nosila je bistro
-  scenu (naručivanje na francuskom), utrnulu nogu i tri reza; sve to plaća kvote
-  poglavlja, ali nijedan dug knjige. **Hibrid nije pravljen** — dve odobrene verzije
-  spojene u treću bile bi verzija koju autor nije video (Pravilo K).
+- **IV** — sedam izmena od 05.08., plus jedna zamena istog dana po odluci autora.
+  Osnova je verzija sa grane PR #1, jer jedina izvršava odluku „sat se prenosi u IV"
+  — „Prestala je da priča. Stajala je s onom šoljom, čekala, i nije sela."
+
+  **Zamena za kvotu 2.2 (dostojanstvo), po izričitoj odluci autora 21.08.:** izbačen
+  je račun u bistrou („Račun sam platio ja. Nisam umeo da pročitam gde se šta
+  završava…") i na njegovo mesto vraćena **bistro scena sa grane PR #2** —
+  naručivanje na francuskom iz hotelske knjižice, konobarica odgovori na engleskom
+  pa ponovi sporije, sve tri se smeju. Razlog: obe scene plaćaju istu kvotu, a dve
+  za jednu kvotu je previše. Francuski je jači — račun je David sam, francuski ima
+  **sve tri žene kako mu se smeju**, jedini put u knjizi da je smešan pred njima, pa
+  uz 2.2 plaća i deo duga **D3 (žene kao osobe)**. Uz scenu ide i ispravka: konobar
+  postaje konobarica („Donela je četiri porcije").
+
+  Ostatak PR #2 verzije **nije uzet** — utrnula noga (treće mesto za istu kvotu) i
+  blok „Ustajalo se kasno…". **Hibrid preko toga nije pravljen** (Pravilo K).
 - **V** — devet izmena od 05.08. plus tri od 21.08.
 
 **Novo u aparatu:** `DUGOVI_KNJIGE.md` — sprat iznad Dela 2, i uz njega pravila
@@ -1096,7 +1106,7 @@ zapečaćen po H1). Njega niko ne dodirne.
 | I | 797 | 6 | 1 | ništa |
 | II | 1568 | 11 | 4 | ništa |
 | III | 1125 | 4 | 3 | ništa |
-| IV | 1696 | 10 | 7 | ništa |
+| IV | 1761 | 10 | 7 | ništa |
 | V | 1312 | 11 | 6 | ništa |
 
 **Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.**

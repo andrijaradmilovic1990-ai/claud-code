@@ -60,11 +60,21 @@ Ona se nije skidala ni s kim. Za Natašu je telo bilo balon. Za Andrijanu rat be
 
 Dani su se lepili jedan na drugi kao da im je neko skinuo brojeve.
 
-Trećeg dana, u nekoj rupi od bistroa, Nataša je naručila pokazujući prstom na tuđ sto.
+Trećeg dana, u nekoj rupi od bistroa, hteo sam da naručim sam. Naučio sam tri reči iz knjižice koja je stajala u hotelskoj sobi i izgovorio sam ih konobarici, polako, gledajući je pravo — onako kako se govori kad hoćeš da čovek preko puta zna s kim priča.
+
+Saslušala me je. Pa mi je odgovorila na engleskom. Kad sam je pogledao, ponovila je, sporije.
+
+Andrijana je pukla prva. Nataša je uzela vodu na nos i kašljala pola minuta. Ona pod šeširom se nije smejala naglas — spustila je pogled u sto, a ramena su joj išla gore-dole.
+
+„Šta sam rekao?“
+
+„Ne znam“, rekla je Andrijana, brišući oči. „Ali nije bilo to.“
+
+Nataša je naručila pokazujući prstom na tuđ sto.
 
 „To. To što oni jedu.“
 
-Konobar je doneo četiri porcije nečega što niko od nas nije umeo da imenuje. Bilo je odvratno. Pojeli smo sve.
+Donela je četiri porcije nečega što niko od nas nije umeo da imenuje. Bilo je odvratno. Pojeli smo sve.
 
 Nataša je digla čašu:
 
@@ -73,8 +83,6 @@ Nataša je digla čašu:
 „Pij i ćuti“, rekla je Andrijana, ali je digla čašu.
 
 Ona treća je kucnula svojom o moju poslednja, tiho, i pogledala me preko ivice dok je pila.
-
-Račun sam platio ja. Nisam umeo da pročitam gde se šta završava i nisam hteo da pitam, pa sam ostavio bakšiš koliki je i ceo račun. Nataša je to primetila i smejala se do kraja večeri.
 
 Sedeo sam tako da vidim vrata. Niko za stolom to nije primetio. Možda jedna. Ona je sve primećivala i ništa nije pitala.
 
