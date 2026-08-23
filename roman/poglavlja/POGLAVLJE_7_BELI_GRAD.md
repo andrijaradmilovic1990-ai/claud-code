@@ -110,7 +110,7 @@ Jedan ugao usne joj je uspeo ovaj put. Malo.
 
 „Jesam matar."
 
-„Došao si." Zatvorila je oči na to, kao da je tih dve reči koštalo više od svega. „Znala sam da ćeš doći kad bude dovoljno grozno. Ti uvek dođeš kad je dovoljno grozno, a nestaneš kad je lepo."
+„Došao si." Zatvorila je oči na to, kao da je tih dve reči koštalo više od svega. „Znala sam da ćeš doći kad bude dovoljno grozno."
 
 Nisam imao šta na to. Gledao sam aparat kraj kreveta, brojeve koji su skakali.
 
