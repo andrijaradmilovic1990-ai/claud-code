@@ -2,6 +2,14 @@
 ## Pravila za poslednju obradu pre objavljivanja
 ### verzija 2 — sa upisanim ciljem
 
+
+> **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
+> VII je podeljen na **VII — Beli grad** (2.190 reči) i **VIII — Kukavica** (3.709),
+> a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
+> od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
+> zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+
+
 > Verzija 1 ovog dokumenta merila je **kako je rečenica napisana** i ništa drugo. Zato je knjiga prošla svaku provericu, a jedna polovina cilja ostala nepokrivena. Verzija 2 dodaje sprat iznad i ne ukida ništa ispod.
 
 ---

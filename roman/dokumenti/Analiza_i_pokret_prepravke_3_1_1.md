@@ -1,6 +1,14 @@
 # SAHRANA BEZ TELA — PLAN REVIZIJE
 > Ovaj dokument je NASLEDNIK "Cudoviste_analiza_i_plan_revizije_v2.md". Taj stari fajl ostaje u projektu kao arhiva/sirovi materijal odakle su ove odluke potekle, ali više NIJE aktivan — od sad se radi isključivo po ovom dokumentu. Otvoriti pre svakog poglavlja, uz SVETILISTE_MASTER.md i obe DOPUNE.
 
+
+> **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
+> VII je podeljen na **VII — Beli grad** (2.190 reči) i **VIII — Kukavica** (3.709),
+> a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
+> od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
+> zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+
+
 **Poreklo:** stara analiza je došla iz spoljnog čitanja (druga sesija, čitalac bez pristupa punom kontekstu knjige) koje je uporedilo tekst sa velikim piscima. Duffy je te argumente prepoznao kao tačne. Prošli smo kroz svaku tačku u razgovoru pre pisanja ovog dokumenta — neke smo potvrdili, neke ublažili, jednu odbacili kao pogrešnu za ovu knjigu.
 
 ---
@@ -473,6 +481,121 @@ poglavlja „Samo što ovaj put nešto u tom džepu opet imam da branim." — up
 sesije, uzeta kao trenutno stanje teksta.
 
 **STATUS: VI ZATVOREN 23.08.2026.**
+
+---
+
+## PODELA VII NA DVA POGLAVLJA — 23.08.2026, odluka autora
+
+**Nalaz koji je do ovoga doveo.** VII je posle provere fajla izmeren na **5.896 reči**
+— 38% cele knjige, duže od prva četiri poglavlja zajedno (I–IV = 5.325). Za poređenje,
+opseg ostalih poglavlja je 805–1.782.
+
+**Podela nije napravljena nego priznata.** Šav je već stajao u tekstu: poglavlje je
+imalo tri celine (vidikovac s Katarinom → bolnica → meseci prepiske i poziv), pa
+rez ⁂, pa jednu noć za stolom od preko 3.700 reči. Rez je izvršen tačno na tom ⁂,
+posle rečenice:
+
+> Spustio sam telefon i sedeo malo u tišini koju Katarina nije čula, jer je bila u
+> drugoj sobi, u stanu u kom sam još uvek imao jednu fioku.
+
+Toj rečenici ništa nije dodato — bila je gotov kraj poglavlja i pre nego što je to
+postala.
+
+**Rezultat:**
+
+| staro | novo | fajl | reči | „kao" |
+|---|---|---|---|---|
+| VII — Beli grad (1. deo) | **VII — Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.190 | 14 (0,64%) |
+| VII — Beli grad (2. deo) | **VIII — Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.709 | 38 (1,02%) |
+| VIII — Ćebence | **IX — Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.573 | 6 (0,38%) |
+
+**Naslov novog VIII — „Kukavica", po odluci autora.** Reč pada dvaput u poglavlju, i
+drugi put je poslednje što mu Jovana kaže pošto je popio umesto da odgovori.
+
+**Zašto je ovo dobitak, sprat knjige:**
+
+1. **Dva nova skupa mesta besplatno** — jedan kraj poglavlja i jedan početak, na
+   materijalu koji već postoji.
+2. **Deo 0 traži pitanje na kraju svakog poglavlja.** Jedno pitanje na 5.900 reči
+   postalo je dva.
+3. **D3 Katarina plaćena rasporedom, bez ijedne nove rečenice.** Prvi deo je jedino
+   mesto u starom VII gde Katarina uopšte postoji (vidikovac, „Ko ti to piše po
+   noći?", „Dobar si prijatelj"). Kao zasebno poglavlje to prestaje da bude uvod u
+   noć za stolom i postaje poglavlje o ženi koja gleda čoveka kako se udaljava i
+   tumači to kao dobrotu.
+4. **Moratorijum na I–V nije taknut.**
+
+**Šta ovo NE menja:** ni jedna rečenica teksta nije promenjena podelom. Dodat je samo
+naslov „# VIII — Kukavica" i preimenovan naslov Ćebenceta u IX.
+
+---
+
+## VII/VIII/IX — SESIJA 23.08.2026, izmene u tekstu
+
+**1. Ceduljica — kontradikcija između (starog) VII i Ćebenceta, nađena na pitanje autora.**
+
+Stanje pre: VII je usred poljupca imao „Napipao sam papir u džepu. **Nešto što tu nije
+stajalo kad sam pošao.**" — što čitaocu kaže da je papir podmetnut te večeri.
+
+Ćebence, ista noć, autobus u pet i sedam: „Bio je tu papirić… **Njen rukopis**… **Kad
+ga je tu stavila, ne znam. Kaput je visio u hodniku od jutra i ona je prošla pored
+njega sto puta.**"
+
+**Dve greške:** (a) *vreme* — Katarina ga je stavila **pre** polaska, pa tvrdnja da
+tu nije stajao laže; (b) *mesto* — u Ćebencetu je papirić u džepu **kaputa** koji visi
+u hodniku, a u VII ga napipava sedeći na sofi.
+
+**Treća, i najskuplja: rečenica je krala knjizi jedini Katarinin potez.** Katarina u
+celoj knjizi nema nijedan sopstveni čin — a tu, jednom rečenicom napisanom ujutru i
+gurnutom u kaput, fizički zaustavlja poljubac iz stana tri sata daleko. Stara verzija
+je taj čin pripisivala nepoznatom.
+
+**Uneto (prepis, po odobrenju autora):**
+
+> Povukao sam se.
+>
+> **Ruka mi je otišla u džep, sama, kao uvek. Nije bio prazan.**
+
+Ne laže o vremenu, ne odaje čije je pismo (udarac ostaje u IX), i vraća gest koji
+knjiga vuče od prve strane: „ruka mi je već bila na pola puta ka džepu" (I), „Ruka mi
+je otišla u džep. Prazan je bio, kao i uvek." (II), „Ruka blizu džepa, džep prazan kao
+uvek." (VI). **Šest poglavlja je taj džep prazan i to znači „nisam više taj čovek".
+Ovde prvi put nije prazan — a u njemu nije oružje nego njena ceduljica.**
+
+Rečenica je posle podele ostala u **VIII — Kukavica**.
+
+**2. Mehanika (Pravilo K, bez pojedinačnog odobrenja):** VII, red 103 — „Prvi put za
+~~dvanaest~~ **deset** godina — umalo." Računica: sadašnjost je dvanaest godina posle
+nestanka, VI je dve godine ranije (deset), bolnička scena je mesec dana posle VI.
+Time je zatvorena i stavka 5 sa spiska „ŠTA VISI".
+
+**3. IX — Ćebence, Katarinina poruka (prepis, po odluci autora).**
+
+Bilo: *„Svako jutro s tobom je posebno, čak i **ona** kad ti je **kosa na sve strane**
+i ljutiš se na ceo svet pre kafe. Naročito **ta**."*
+
+Autorova primedba: David je muškarac s kratkom kosom, slika ne pije vodu. Uz to se
+rečenica nije slagala u rodu — jutro je srednji rod.
+
+Uneto: *„Svako jutro s tobom je posebno, čak i **ono** kad **ne progovoriš dok ne
+popiješ prvu kafu** i ljutiš se na ceo svet. Naročito **to**."*
+
+Zašto ćutanje, a ne brada ili mrzovolja: **ćutanje je ono čime David krije ceo život**
+(I: „Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio."; II:
+„Ti samo izostaviš."). Katarina to isto ćutanje vidi kao jutarnju mrzovolju i piše mu
+da ga baš zbog nje voli. **Ne zna šta hvali.** I on tu poruku čita u autobusu u pet
+ujutru, posle noći u kojoj je zbog nje rekao „Ne".
+
+**4. D2 — dodir spolja: prebačen ceo u IX, odluka autora.** VII i VIII se dešavaju
+**pre I**, pa David još nije sreo starca iz I i ne zna za limarsku radionicu u Belom
+gradu. Jedino poglavlje čija je sadašnjost posle I jeste IX. Puno obrazloženje u
+`DUGOVI_KNJIGE.md`.
+
+**5. Kvota 2.2 (dostojanstvo), preneta iz VI — zatečena kao već plaćena**, u onome što
+je danas VIII: „Kukavica si ti veče večeras", rekla je Jovana, tiho. / „**Kukavica**",
+rekla je. Samo to. Prenos je bio bespredmetan i skinut je sa spiska.
+
+**STATUS: VII otvoren. VIII (Kukavica) i IX (Ćebence) čekaju.**
 
 ### VII — Beli grad
 **ZATVORENO** (pun prolazak kroz celu ček-listu, 17 izmena; naknadno dve dopune iz prolaza kroz celinu).

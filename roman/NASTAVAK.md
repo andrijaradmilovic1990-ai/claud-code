@@ -6,6 +6,26 @@
 
 ---
 
+> ## PODELA VII — 23.08.2026, odluka autora
+>
+> **VII je bio 5.896 reči — 38% cele knjige.** Podeljen je na šavu koji je već
+> postojao u tekstu (posle „…u stanu u kom sam još uvek imao jednu fioku."), i knjiga
+> od tog dana ima **devet poglavlja**.
+>
+> | staro | novo | reči |
+> |---|---|---|
+> | VII — Beli grad (prvi deo) | **VII — Beli grad** | 2.190 |
+> | VII — Beli grad (drugi deo) | **VIII — Kukavica** *(novo)* | 3.709 |
+> | VIII — Ćebence | **IX — Ćebence** | 1.573 |
+>
+> **Čitanje starijih zapisa:** sve što je u dokumentima upisano pre 23.08.2026. i
+> govori o „VIII" misli na **Ćebence (danas IX)**; sve što govori o „VII" misli na
+> **oba dela zajedno**. Ti zapisi se ne prepisuju — oni su istorija rada, a ne
+> registar. Registri niže su ažurirani.
+
+
+---
+
 ## Stanje po poglavljima
 
 | # | Poglavlje | Stanje | reči | „kao" | uzrok |
@@ -16,8 +36,9 @@
 | IV | Pariz | **zaključano** | 1761 | 10 | 7 |
 | V | Nestanak | **zaključano** | 1312 | 11 | 6 |
 | VI | Prazna stolica | **zaključano** | 1437 | 15 | 5 |
-| VII | Beli grad | **na redu** · fajl neproveren · dnevnik ga vodi kao zatvoren (sukob) | — | — | — |
-| VIII | Ćebence | čeka | — | — | — |
+| VII | Beli grad | **OTVOREN — u toku** | 2190 | 14 | — |
+| VIII | Kukavica | čeka *(novo, iz podele VII)* | 3709 | 38 | — |
+| IX | Ćebence | čeka *(bilo VIII)* | 1573 | 6 | — |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
 
@@ -120,7 +141,7 @@ Vodi se kao popunjena preko Andrijaninog „Dva broja, dva traga." Ona jeste pri
 i ona ne skreće — ali pritiska **postupak koji je već poznat**, ne ono što se u V
 zaista krije (okidač bekstva, red 61, zapečaćen po H1).
 
-### 4. VII — fajl neproveren, i dnevnik je u sukobu sam sa sobom
+### 4. ~~VII — fajl neproveren~~ — REŠENO 23.08.
 
 Dnevnik VII vodi kao **ZATVOREN** („pun prolazak kroz celu ček-listu, 17 izmena; naknadno
 dve dopune iz prolaza kroz celinu"), a `NASTAVAK` ga je vodio kao poglavlje koje čeka.
@@ -128,10 +149,10 @@ Ista sekcija dnevnika tvrdila je i da je VI sadašnjost — što je 21.08. obor�
 **Zaključak: taj deo dnevnika je stariji od poslednjih ispravki i ne sme se uzimati zdravo
 za gotovo.** Prvo se čita fajl VII, pa se dnevnik ispravlja po tekstu.
 
-### 5. „Dvanaest godina" u VII, red 103
+### 5. ~~„Dvanaest godina" u VII, red 103~~ — REŠENO 23.08.
 
-„Prvi put za dvanaest godina — umalo." Ako je VII godinu posle nesreće, to je
-jedanaest. Za kad se otvori VII.
+Ispravljeno u **„deset"** po Pravilu K. Računica: sadašnjost je dvanaest godina posle
+nestanka, VI je dve godine ranije (deset), a bolnička scena je mesec dana posle VI.
 
 ---
 
@@ -155,13 +176,13 @@ Pun tekst u `FINALNI_PROLAZ_PRAVILA.md`. Sažeto:
 
 | dug | stanje | gde se plaća |
 |-----|--------|--------------|
-| **D1 sat** (mart) | postavljen u IV, ne kuca dalje | **VIII** — jedina preostala sadašnjost |
-| **D2 dodir spolja** | plaćen u I, prenet iz II i III | **VIII** — odluka autora 23.08.; VII ne može (dešava se pre I, David još ne zna za radionicu) |
-| **D3 Katarina** | raste IV → V → VIII | **VII** — jedini prazan razmak |
+| **D1 sat** (mart) | postavljen u IV, ne kuca dalje | **IX** — jedina preostala sadašnjost |
+| **D2 dodir spolja** | plaćen u I, prenet iz II i III | **IX** — odluka autora 23.08.; VII/VIII ne mogu (dešavaju se pre I, David još ne zna za radionicu) |
+| **D3 Katarina** | raste IV → V → IX | **VII** — podelom je dobila sopstveno poglavlje |
 | **D4 figura** | ponovljena u IV i V | **VI** — model je III |
-| **D5 strah** | nijedno ga još ne nosi | VI, VII, **VIII** |
+| **D5 strah** | nijedno ga još ne nosi | VII, VIII, **IX** |
 
-**VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom — **na 1.574 reči.** To je najveći strukturni rizik u knjizi i zna se unapred.
+**IX nosi najviše:** sat, dodir spolja i kraj knjige odjednom — **na 1.573 reči.** To je najveći strukturni rizik u knjizi i zna se unapred. Podelom VII Katarina je skinuta s tog spiska: dobila je sopstveno poglavlje (VII).
 
 **Ono što knjizi fali nije propušteno — odloženo je, svaki dug uz razlog.** Puno
 obrazloženje i registar u `DUGOVI_KNJIGE.md`.
@@ -194,10 +215,11 @@ obrazloženje i registar u `DUGOVI_KNJIGE.md`.
 ## Redosled posla
 
 1. ~~**VI**~~ — **zatvoreno 23.08.**
-2. **VII — na redu.** Prvo pročitati fajl i uskladiti dnevnik po tekstu (dnevnik ga
-   pogrešno vodi kao zatvoren). Duguje **Katarinu (D3)**, **dodir spolja (D2)** i
-   **preneto dostojanstvo (kvota 2.2 iz VI)**.
-3. **VIII** — nosi najviše: sat, dodir spolja, Katarinu i kraj knjige.
+2. **VII — Beli grad, otvoren.** Posle podele duguje samo sebi: **D3 Katarina** se
+   plaća rasporedom (dobila je sopstveno poglavlje), D2 je prebačen u IX.
+3. **VIII — Kukavica.** Novo poglavlje iz podele. Nosi **D5 strah** i najveći deo
+   igre. Nijedna izmena još nije rađena pod ovim brojem.
+4. **IX — Ćebence.** Nosi **sat (D1)**, **dodir spolja (D2)** i kraj knjige.
 
 ---
 

@@ -3,6 +3,14 @@
 >
 > Nastao spajanjem SVETILISTE_MASTER.md (delovi 5-8, 10-11) i obe DOPUNE (jun 2026, vreme). Gde su se izvori razilazili, obeleženo je eksplicitno — vidi NERAZREŠENO na dnu. Stari master i dopune ostaju u projektu kao arhiva/istorija odluka.
 
+
+> **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
+> VII je podeljen na **VII — Beli grad** (2.190 reči) i **VIII — Kukavica** (3.709),
+> a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
+> od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
+> zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+
+
 ---
 
 ## GAZDA JE PRIČA
