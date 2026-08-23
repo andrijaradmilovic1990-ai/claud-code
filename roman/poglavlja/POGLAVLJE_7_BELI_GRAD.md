@@ -92,7 +92,7 @@ Otvorila je oči. Trebalo joj je trenutak da me uhvati pogledom, kroz lekove, kr
 
 Nije rekla ništa. Ni ja.
 
-Prišao sam, seo na onu stolicu koju neko ostavi pored kreveta. Posekotina na obrazu se zalepila malo nakrivo, jedan kraj flastera se odlepio. Podigao sam ruku i namestio ga, palcem, polako, prešao preko tog obraza onako kako se prelazi preko nečeg što se boji da ne povredi.
+Prišao sam, seo na onu stolicu koju neko ostavi pored kreveta. Posekotina na obrazu se zalepila malo nakrivo, jedan kraj flastera se odlepio. Podigao sam ruku i namestio ga, palcem, polako, prešao preko tog obraza onako kako se dira nešto za šta ne znaš koliko boli.
 
 Isti pokret. Tačno isti pokret kao onda, kad sam joj brisao tuđu krv s tog istog obraza i ona prsnula u smeh, ono iznenada, celim licem, dete koje ne zna da je trebalo da se uplaši.
 
