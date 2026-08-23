@@ -10,7 +10,7 @@ Konobar je doneo kafu i vodu pre nego što sam seo. Pogledao je dve prazne stoli
 
 „Ne", rekao sam. „Ne čeka se niko."
 
-Ostao sam sam za stolom za četvoro. Navikao sam na stolove na kojima fali ljudi.
+Ostao sam sam za stolom za četvoro.
 
 Telefon je zazvonio.
 
@@ -110,7 +110,13 @@ On je vozio. Uniforma mu je stajala malo zategnuto oko stomaka, kapa bačena na 
 
 Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.
 
-U gepeku iza nas bilo je nešto što nije smelo da se vidi. Nešto zbog čega smo se i vozili baš ovako — u kolima koja niko ne zaustavlja, koja prolaze kroz svaki punkt kao kroz vazduh, jer ko će zaustaviti sopstvena kola. To je bila cela lepota. Ne kriješ se od patrole. Patrola te vozi.
+„Vodu da vam dopunim?"
+
+„Može", rekao sam.
+
+Jezik mi je bio pun ljuski.
+
+U gepeku iza nas bilo je nešto što nije smelo da se vidi. Nešto zbog čega smo se i vozili baš ovako — u kolima koja niko ne zaustavlja, koja prolaze kroz svaki punkt kao kroz vazduh, jer ko će zaustaviti sopstvena kola. Ne kriješ se od patrole. Patrola te vozi.
 
 Na jednom semaforu, drugi auto, civilni, zatrubio je nestrpljivo iza nas. Čovek za volanom je samo pogledao u retrovizor. Ništa nije rekao, ništa nije uradio. Onaj iza je video šta vozi ispred njega, i ućutao, i propao u svoje sedište kao da bi da nestane. Crveno je trajalo dugo. Niko više nije trubio.
 
@@ -132,7 +138,7 @@ Telefon je i dalje bio u mojoj ruci. Kafa hladna, ljuske semenki nigde — nije 
 
 Tri prazne stolice preko puta.
 
-Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala, dovela me ovamo pre nego što je Andrijana pozvala.
+Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala.
 
 Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
 

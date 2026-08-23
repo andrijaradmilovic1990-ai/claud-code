@@ -1,4 +1,4 @@
-# VIII — Ćebence
+# IX — Ćebence
 
 Na naslonu sofe stajalo je ćebence — tanko, nečija stara stvar prebačena tu da se ima pri ruci u sobi u kojoj se sedi do zore. Uzeo sam ga.
 
@@ -44,7 +44,7 @@ Složen na četvrtine. Njen rukopis, onaj sitni koji ide nagore na kraju reda. K
 
 Otvorio sam ga. Spoljašnje svetlo sa ulice prolazilo je u talasima dok smo vozili.
 
-*Svako jutro s tobom je posebno, čak i ona kad ti je kosa na sve strane i ljutiš se na ceo svet pre kafe. Naročito ta.*
+*Svako jutro s tobom je posebno, čak i ono kad ne progovoriš dok ne popiješ prvu kafu i ljutiš se na ceo svet. Naročito to.*
 
 To je sve što je pisalo.
 
@@ -106,13 +106,13 @@ Nasmešila se. „Dobro. Ne na silu."
 
 Nosila je čaše do sudopere kad sam progovorio.
 
-„Kosa ti je na sve strane."
+„Naročito to", rekao sam.
 
 Stala je. Čaše u obe ruke, na pola puta.
 
 „Molim?"
 
-„Ništa. Tako mi se učinilo."
+„Ništa."
 
 Okrenula se polako. Gledala me je onim pogledom koji traži gde je zamka, pa je našla, pa joj je krenulo u lice pre nego što je stigla da ga zaustavi.
 

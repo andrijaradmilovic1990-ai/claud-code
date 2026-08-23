@@ -12,6 +12,26 @@
 
 ---
 
+> ## PODELA VII — 23.08.2026, odluka autora
+>
+> **VII je bio 5.896 reči — 38% cele knjige.** Podeljen je na šavu koji je već
+> postojao u tekstu (posle „…u stanu u kom sam još uvek imao jednu fioku."), i knjiga
+> od tog dana ima **devet poglavlja**.
+>
+> | staro | novo | reči |
+> |---|---|---|
+> | VII — Beli grad (prvi deo) | **VII — Beli grad** | 2.190 |
+> | VII — Beli grad (drugi deo) | **VIII — Kukavica** *(novo)* | 3.709 |
+> | VIII — Ćebence | **IX — Ćebence** | 1.573 |
+>
+> **Čitanje starijih zapisa:** sve što je u dokumentima upisano pre 23.08.2026. i
+> govori o „VIII" misli na **Ćebence (danas IX)**; sve što govori o „VII" misli na
+> **oba dela zajedno**. Ti zapisi se ne prepisuju — oni su istorija rada, a ne
+> registar. Registri niže su ažurirani.
+
+
+---
+
 ## Tri pitanja pre otvaranja poglavlja
 
 Postavljaju se **uz** ulazni list iz Pravila H, ne umesto njega.
@@ -37,7 +57,7 @@ ali ne postoji ništa što preti da pukne. Ironija bez sudara nije napetost nego
 na ovu adresu"*, pa ona sama zatvori sat: *„Ima vremena do marta."* Sat postoji,
 samo se ne čuje.
 
-**Gde se plaća:** samo u sadašnjosti — I, III, IV, V i kraj VIII.
+**Gde se plaća:** samo u sadašnjosti — I, III, IV, V i **kraj IX**.
 
 ### D2 — DODIR SPOLJA
 
@@ -46,7 +66,21 @@ I. Posle toga ništa. Prošlost je opasna, sadašnjost nije.
 
 **Materijal koji već postoji, neiskorišćen:** starčeva limarska radionica u Belom
 gradu · dva zakopana telefona iz VI i njegova sopstvena rečenica o tome šta se
-vraća kad ga taj svet ponovo čuje · Andrijanin telefon u VIII.
+vraća kad ga taj svet ponovo čuje · Andrijanin telefon u IX.
+
+**ODLUKA AUTORA, 23.08.2026 — D2 SE CEO PLAĆA U IX (Ćebence). VII i VIII ostaju čisti.**
+
+Razlog, sprat knjige: **hronologija ne dopušta drugačije.** Starčeva radionica je
+ponuđena u I, a I je sadašnjost — dvanaest godina posle nestanka. **VII se dešava
+pre I** (jedanaest godina posle nestanka), pa David tog starca još nije ni sreo i
+za radionicu ne zna. Isto važi i za VIII, koje je iz njega izašlo. Jedino poglavlje
+čija je sadašnjost posle I jeste **IX**.
+
+Drugi razlog (od 23.08. delimično prevaziđen podelom): VII je bio 5.896 reči — 38%
+knjige. Uneti u njega drugu radnju značilo bi razbiti poglavlje koje već ima svoju.
+
+**Ranije zabeleženo kao „D2 plaćen u VII" je povučeno.** Papir u džepu nije dodir
+spolja nego Katarina — vidi upis o ceduljici u dnevniku, VII/VIII.
 
 ### D3 — KATARINA KAO OSOBA
 

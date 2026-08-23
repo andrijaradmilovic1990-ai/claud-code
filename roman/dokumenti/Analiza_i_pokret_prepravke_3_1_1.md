@@ -1,6 +1,53 @@
 # SAHRANA BEZ TELA — PLAN REVIZIJE
 > Ovaj dokument je NASLEDNIK "Cudoviste_analiza_i_plan_revizije_v2.md". Taj stari fajl ostaje u projektu kao arhiva/sirovi materijal odakle su ove odluke potekle, ali više NIJE aktivan — od sad se radi isključivo po ovom dokumentu. Otvoriti pre svakog poglavlja, uz SVETILISTE_MASTER.md i obe DOPUNE.
 
+
+> **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
+> VII je podeljen na **VII — Beli grad** (2.190 reči) i **VIII — Kukavica** (3.709),
+> a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
+> od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
+> zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+
+---
+
+## KAKO SE OVAJ FAJL ČITA
+
+**Ovo je istorija rada, ne registar.** Pamti *šta se radilo i zašto*. Za ono što se
+**ne dira** postoji `REGISTAR_ODLUKA.md` — **kad se sukobe, važi registar.**
+
+Fajl je rastao hronološki kroz mnogo sesija, pa **nije poređan po poglavljima nego po
+datumima.** Isto poglavlje se pojavljuje na više mesta, u različitim prolazima. To je
+namerno — svaki prolaz je zaseban zapis i ne prepisuje prethodni.
+
+### Mapa — gde je šta
+
+| odeljak | šta sadrži |
+|---|---|
+| **Plan i pravila procesa** (vrh) | dva pravila radnog procesa, stil-filter, rezime odluka po prioritetu |
+| **Ček-lista po poglavlju** | **arhiva** — zamenjena, ostavljena za istoriju |
+| **Mapa po poglavlju** | šta je specifično za svako poglavlje iznad opšteg filtera; „NE DIRATI" ovde je već doneta odluka |
+| **Dnevnik rada po poglavljima** | najstariji sloj |
+| **Finalni prolaz** | I, II, III zatvoreni u finalnom prolazu |
+| **VI — Prazna stolica** | dva zapisa: raniji prolaz, pa **sesija 23.08.** (zatvaranje) |
+| **PODELA VII** | 23.08. — zašto i kako je knjiga postala devetodelna |
+| **VII/VIII/IX — sesija 23.08.** | ceduljica, „deset godina", Katarinina poruka, D2 |
+| **VII — Beli grad / VIII — Ćebence** *(niže)* | **stariji zapisi**, pre podele; „VIII" tu znači Ćebence |
+| **Prolaz kroz celu knjigu** | posle zatvaranja tadašnjeg VIII |
+| **Prolaz na spratu knjige — I, II, III** | zatvoreno zauvek, 05.08. |
+| **IV — Pariz / V — Nestanak** | ulazni listovi, nalazi, izmene |
+| **I–V zaključano 21.08.** | objedinjavanje tri grane |
+| **Otvoreno pitanje — kuća ili stan** | dno fajla, i dalje otvoreno |
+
+### Šta tražiti gde
+
+- **„Sme li se ovo dirati?"** → `REGISTAR_ODLUKA.md`, ne ovde.
+- **„Šta poglavlje duguje knjizi?"** → `DUGOVI_KNJIGE.md`.
+- **„Gde smo stali?"** → `NASTAVAK.md`.
+- **„Zašto je ovo baš ovako?"** → ovde, i samo ovde.
+
+
+
+
 **Poreklo:** stara analiza je došla iz spoljnog čitanja (druga sesija, čitalac bez pristupa punom kontekstu knjige) koje je uporedilo tekst sa velikim piscima. Duffy je te argumente prepoznao kao tačne. Prošli smo kroz svaku tačku u razgovoru pre pisanja ovog dokumenta — neke smo potvrdili, neke ublažili, jednu odbacili kao pogrešnu za ovu knjigu.
 
 ---
@@ -387,7 +434,7 @@ Poglavlje je imalo tri kandidata (redovi 39, 47, 93 originalne numeracije). Odlu
 6. Nežnost uhvaćena/postiđena — NEMA nežnog trenutka u ovom poglavlju u klasičnom smislu (Katarina fizički odsutna iz scene, samo prisutna kroz odsustvo za stolom/prazne stolice) — konstatovano kao tačno stanje ovog poglavlja, ne kao propust.
 7. Prošlost kao scena, ne monolog — čisto, patrolna kola su puna scena u sadašnjem vremenu te scene (dijalog, telo, semenke, semafor), nema „ja sam bio" monologa.
 8. Gest bez varijacije — leđa-ka-zidu treći put po registru (posle II i IV), potvrđena nova varijacija ugla: ovde je kontekst „bio na vrhu moći" — okreće se IZ NAVIKE koja je nadživela strah, ne iz straha samog („Svi su mislili da sam bog. Bogovi se ne plaše. A ja sam i kao bog birao gde ću da stanem"), obrnuta dinamika u odnosu na prethodna dva pojavljivanja.
-9. Kontinuitet sa SVET_I_LIKOVI — proveren i tačan: registar VI = SADAŠNJOST (tekst ne kontradiktuje, iako Katarina fizički nije u kadru); doktor i čovek od poverenja tačno kako registar nalaže; refren „telo zna pre glave/ne zna za kalendar" — RAZMOTRENO I POTVRĐENO: VI namerno NE izgovara refren doslovno treći put (posle eksplicitnih formulacija u I i II) — nosi ga kroz dva eho-gesta bez fraze (predosećaj poziva „znao sam pre nego što sam se javio", prazan džep na kraju) — jača varijacija od trećeg ponavljanja iste formulacije rečima.
+9. Kontinuitet sa SVET_I_LIKOVI — ~~registar VI = SADAŠNJOST~~ **ISPRAVLJENO 21.08. po Pravilu E: VI je PROŠLOST**, ~2 godine pre I, i tada ne žive zajedno. Tekst potvrđuje: „Sinoć." u VI, „Preksinoć." u VII, uzastopni dani, a Katarine u VI nema nigde. Ostalo u ovoj tački stoji: doktor i čovek od poverenja tačno kako registar nalaže; refren „telo zna pre glave/ne zna za kalendar" — RAZMOTRENO I POTVRĐENO: VI namerno NE izgovara refren doslovno treći put (posle eksplicitnih formulacija u I i II) — nosi ga kroz dva eho-gesta bez fraze (predosećaj poziva „znao sam pre nego što sam se javio", prazan džep na kraju) — jača varijacija od trećeg ponavljanja iste formulacije rečima.
 10. Previše/nedovoljno objašnjavanja — tri mesta nađena i rešena (vidi izmene niže); ostatak poglavlja diše bez dupliranja slike rečima.
 
 **Registar mehanizma "svaka reč tačna, zbir laž":** provereno pre bilo koje izmene — VI NE sadrži instancu ovog mehanizma u obliku kakav prate II i VIII (nema niza pojedinačno-tačnih izjava koje zbirno lažu nekom trećem licu). Red za VI se NE popunjava u tabeli u SVET_I_LIKOVI.md, isti tretman kao III, IV, V — mehanizam ostaje rezervisan za par II/VIII.
@@ -400,6 +447,269 @@ Poglavlje je imalo tri kandidata (redovi 39, 47, 93 originalne numeracije). Odlu
 3. **Formula na rezervisanom mestu** — "To je trebalo da ostane sahranjeno. Cela poenta dvanaest godina kopanja bila je da se ovi telefoni nikad više ne dignu" → skraćeno na "Ovi telefoni su trebalo da ostanu zakopani". Formula "Za nju nikad nisam pitao smem li." ostaje gola i netaknuta kao rezervisano mesto; konkretan sadržaj koji sledi (pitanja po gradu, ljudi, računi) zadržan jer nosi stvarnu cenu, ne praznu deklaraciju — samo je uvodna kapija-fraza skraćena da ne duplira formulu koja joj prethodi.
 
 **Napomena za dalje:** poglavlje ima dva mesta čistog reza bez zamene (tačke 5, 10a) i jedno mesto skraćivanja kapije-fraze bez pune zamene (formula na rezervisanom mestu) — nijedno nije tražilo Pravilo A (nova slika/gest) jer okolne rečenice već nose dovoljno. Sa VI popunjenim rezervisanim mestom #2, VII i VIII treba otvoriti sa svešću da ostaje najviše JEDNO slobodno mesto za celu knjigu — proveriti pre bilo kog predloga zadržavanja formule u ta dva poglavlja.
+
+---
+
+#### VI — SESIJA 23.08.2026. — ponovo otvoren i zatvoren
+
+Otvoren zato što je 21.08. upisan sprat iznad (Deo 0, pet dugova knjige) po kom VI
+ranije nije bio meren. **Četiri unete izmene: tri reza i jedna napisana rečenica.**
+
+**Rezovi (svaki po pojedinačnom odobrenju autora):**
+
+1. **Red 13** — brisanje „Navikao sam na stolove na kojima fali ljudi." posle „Ostao
+   sam sam za stolom za četvoro." B7: prva rečenica nosi sliku, druga je prevodi u
+   izjavu o sebi. Motiv prazne stolice se u poglavlju ionako vraća tri puta
+   (konobarevo „Čeka se još neko?", „Tri prazne stolice preko puta", stolica gurnuta
+   nogom pod sto na kraju). Čist rez bez zamene.
+2. **Red 113** — brisanje „To je bila cela lepota." između „ko će zaustaviti sopstvena
+   kola." i „Ne kriješ se od patrole. Patrola te vozi." Oblik formule „to je bila cela
+   X" — rezervisano mesto, a **mesto #2 je već popunjeno u ovom istom poglavlju** („Za
+   nju nikad nisam pitao smem li."), petnaest redova dalje. Druga stvar: „Patrola te
+   vozi." je ista misao izvedena kroz sliku, pa joj rečenica ispred skida udarac.
+   Čist rez bez zamene.
+3. **Red 135** — brisanje repa „, dovela me ovamo pre nego što je Andrijana pozvala."
+   Deo 1, tačka 6: ako je životinja čekala vest koju glava još nije imala, već je
+   rečeno da je došla pre poziva. Rečenica sama sebi objašnjava hronologiju. Poglavlje
+   se ovde vraća iz zarona — kraća rečenica ga vraća oštrije.
+
+**ODBIJENO po odluci autora — zatvoreno, ne otvara se:**
+
+- **Red 35**, predlog reza „Postoji samo jedna ona o kojoj se zove usred srede."
+  **Zadržano.** Obrazloženje autora: sreda drži okvir poglavlja („Bila je sreda" na
+  početku, „Napolju je bila sreda, i dalje" na kraju), a ta rečenica je jedino mesto
+  gde poziv ulazi u taj okvir.
+
+**NAPISANA REČENICA — D4 plaćen (Pravilo J, Pravilo K):**
+
+Dodato u zaron, odmah posle „Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.":
+
+> „Vodu da vam dopunim?"
+>
+> „Može", rekao sam.
+>
+> Jezik mi je bio pun ljuski.
+
+Model je III („Je l' ima još luka?" usred magacina), predmet je drugi. **Finesa koja
+ovo razlikuje od običnog prekida:** konobar ga ne izvlači iz sećanja — upada u njega,
+David odgovori **ne izlazeći**, i zaron se nastavlja bez šava. Time se dva vremena za
+tri reda **preklope** umesto da se smene, pa poglavlje po prvi put ne radi šesti put
+istu figuru okvir → zaron → povratak.
+
+Ništa se ne objašnjava. Račun se sam isplaćuje dvanaest redova kasnije, na već
+postojećem: „ljuske semenki nigde — nije ih ni bilo… ali jezik mi je tražio gorčinu
+pod zubom."
+
+**Rima je u tekstu stajala od ranije (pljuvanje ljuski u zaronu / ljuski nema u
+okviru); nedostajalo je probijanje.**
+
+**KVOTA 2.2 — DOSTOJANSTVO: ZATVORENA KAO NEPOPUNJIVA U VI. Odluka autora, 23.08.**
+
+Razlog, sprat poglavlja: **VI je jedino poglavlje u knjizi u kom je David
+neprikosnoven.** Kapije se otvaraju same, dva poziva rešavaju sve, niko ga ništa ne
+pita. To mu je funkcija — čitalac mora jednom da vidi vrh, da bi VII i VIII imali s
+čega da padnu. Popuniti 2.2 ovde znači potrošiti jedini vrh koji knjiga ima.
+
+**Teret prenet na VII (Pravilo O, Pravilo P).**
+
+**Bilans VI:** 1431 → 1424 → **1437 reči** (tri reza, pa dodata scena); „kao" 16 → 15.
+Odnos unetog: 3 reza / 1 napisana — **Pravilo J zadovoljeno.**
+
+**Zatečeno u fajlu na početku sesije, nije od mene i nije dirano:** poslednja rečenica
+poglavlja „Samo što ovaj put nešto u tom džepu opet imam da branim." — upisana van
+sesije, uzeta kao trenutno stanje teksta.
+
+**STATUS: VI ZATVOREN 23.08.2026.**
+
+---
+
+---
+
+## SANACIJA REPOA — 23.08.2026, na zahtev autora
+
+**Zašto.** Zahtev autora, doslovno: *da sledeća sesija ne mora ništa da otkriva
+ispočetka, ne vraća se na zatvoreno, nego otvori i vidi — ovo je rađeno, ovo nije,
+ovo je sledeće.*
+
+### Šta je nađeno kao neusklađeno
+
+1. **`README.md`** — tvrdio osam poglavlja, pogrešan fajl za VIII, i blokadu koja je
+   skinuta 21.08. (Deo 0 odgovoren).
+2. **`SVET_I_LIKOVI_1.md`, sekcija STRUKTURA** — najteži nalaz. Bio je to **plan, ne
+   opis napisanog**: VI vodila kao „KANAL", poslednje poglavlje kao „PRSTEN", a opisi
+   VII i VIII pripadali su drugim scenama. Ispravljeno po Pravilu E.
+3. **Imena fajlova poglavlja** — `V_Nestanak.md` i `POGLAVLJE_6_.md` odudarali su od
+   ostalih. Ujednačeni; git prati preimenovanja.
+4. **Zatvorene odluke rasute po 1.369 redova dnevnika** — nijedan fajl ih nije držao
+   na okupu, pa se svaka sesija vraćala na isto.
+5. **Dnevnik bez indeksa** — hronološki slojevi bez ijedne mape.
+6. **Aktivni registri u SVET-u** (ponavljanja, rime, refren, mehanizam) nosili su
+   stare brojeve poglavlja posle podele.
+
+### Šta je urađeno
+
+- **NOVO: `REGISTAR_ODLUKA.md`** — sve zatvoreno na jednom mestu, u šest odeljaka:
+  zamrznuto za celu knjigu · likovi koji se ne diraju · zaštićena mesta po
+  poglavljima · rezervisana mesta i mehanizmi · odluke o procesu · **spisak pet
+  stvari koje se najčešće krše.** Uveden princip: **dnevnik je istorija, registar je
+  zakon; kad se sukobe, važi registar.**
+- **`NASTAVAK.md` prepisan** — čist handoff, devet poglavlja, plan do kraja u četiri
+  koraka, jasan redosled čitanja (NASTAVAK → REGISTAR → DUGOVI).
+- **`README.md` prepisan** — mapa fajlova, tabela poglavlja s brojkama, upućivanje na
+  NASTAVAK kao jedini ulaz.
+- **`CLAUDE.md` ažuriran** — REGISTAR_ODLUKA kao obavezan drugi fajl, Pravilo P,
+  moratorijum, devet poglavlja, izuzetak od zamrznutog broja poglavlja.
+- **`FINALNI_PROLAZ_PRAVILA.md`** — Pravilo J pooštreno (meri se uneto), upisano
+  Pravilo P s moratorijumom, brojevi poglavlja ispravljeni.
+- **`SVET_I_LIKOVI_1.md`** — sekcije BROJ POGLAVLJA i STRUKTURA prepisane po tekstu;
+  svih devet poglavlja opisano onim što u njima stvarno piše, s tabelom vremena i
+  ažuriranim spiskom okidača. Aktivni registri preračunati na novu numeraciju.
+- **Dnevnik** — dodat indeks „Kako se ovaj fajl čita" s mapom odeljaka i napomenom da
+  je istorija, ne registar.
+
+### Dve izmene u tekstu, izašle iz sanacije
+
+**1. IX — Ćebence: popravljena veza koju je razbila izmena Katarinine poruke.**
+
+Greška je moja: poruka je promenjena bez čitanja IX do kraja. Četrdeset redova niže
+David **citira tu poruku njoj u lice** — tako ona sazna da ju je pročitao — pa je
+promenom poruke ta veza pukla.
+
+Bilo: „**Kosa ti je na sve strane.**" / … / „Ništa. Tako mi se učinilo."
+Uneto: „**Naročito to**", rekao sam. / … / „**Ništa.**"
+
+„Naročito to" su poslednje dve reči poruke — gola fraza koju niko osim nje ne bi
+prepoznao, a ona je prepozna odmah jer ju je sama napisala u pola šest ujutru.
+**Ispalo je „Tako mi se učinilo" jer bi s novom porukom to bila prava laž**, a
+zaključano je da David ne laže nego izostavlja.
+
+**2. VII — isplaćen dug iz I, upisan još 05.08. a nikad izveden.**
+
+Red 33 glasio je „ona iz **Beograda**" — **jedini pomen stvarnog imena grada u celoj
+knjizi**, dok je ime grada zamrznuto i knjiga svuda koristi „Beli grad".
+Ispravljeno u „ona iz **Belog grada**".
+
+### Plan do kraja, odluka autora
+
+1. ~~Sanacija repoa~~ — **gotovo**
+2. **VII, VIII, IX** — sva tri se otvore i završe
+3. **Čitanje cele knjige u nizu** — prvi put da postoji kao celina
+4. **Rad na celoj knjizi po CILJU** — obe polovine, rečenica i knjiga
+
+**Korak 3 je jedini trenutak kad se I–V otvaraju.**
+
+## PODELA VII NA DVA POGLAVLJA — 23.08.2026, odluka autora
+
+**Nalaz koji je do ovoga doveo.** VII je posle provere fajla izmeren na **5.896 reči**
+— 38% cele knjige, duže od prva četiri poglavlja zajedno (I–IV = 5.325). Za poređenje,
+opseg ostalih poglavlja je 805–1.782.
+
+**Podela nije napravljena nego priznata.** Šav je već stajao u tekstu: poglavlje je
+imalo tri celine (vidikovac s Katarinom → bolnica → meseci prepiske i poziv), pa
+rez ⁂, pa jednu noć za stolom od preko 3.700 reči. Rez je izvršen tačno na tom ⁂,
+posle rečenice:
+
+> Spustio sam telefon i sedeo malo u tišini koju Katarina nije čula, jer je bila u
+> drugoj sobi, u stanu u kom sam još uvek imao jednu fioku.
+
+Toj rečenici ništa nije dodato — bila je gotov kraj poglavlja i pre nego što je to
+postala.
+
+**Rezultat:**
+
+| staro | novo | fajl | reči | „kao" |
+|---|---|---|---|---|
+| VII — Beli grad (1. deo) | **VII — Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.190 | 14 (0,64%) |
+| VII — Beli grad (2. deo) | **VIII — Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.709 | 38 (1,02%) |
+| VIII — Ćebence | **IX — Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.573 | 6 (0,38%) |
+
+**Naslov novog VIII — „Kukavica", po odluci autora.** Reč pada dvaput u poglavlju, i
+drugi put je poslednje što mu Jovana kaže pošto je popio umesto da odgovori.
+
+**Zašto je ovo dobitak, sprat knjige:**
+
+1. **Dva nova skupa mesta besplatno** — jedan kraj poglavlja i jedan početak, na
+   materijalu koji već postoji.
+2. **Deo 0 traži pitanje na kraju svakog poglavlja.** Jedno pitanje na 5.900 reči
+   postalo je dva.
+3. **D3 Katarina plaćena rasporedom, bez ijedne nove rečenice.** Prvi deo je jedino
+   mesto u starom VII gde Katarina uopšte postoji (vidikovac, „Ko ti to piše po
+   noći?", „Dobar si prijatelj"). Kao zasebno poglavlje to prestaje da bude uvod u
+   noć za stolom i postaje poglavlje o ženi koja gleda čoveka kako se udaljava i
+   tumači to kao dobrotu.
+4. **Moratorijum na I–V nije taknut.**
+
+**Šta ovo NE menja:** ni jedna rečenica teksta nije promenjena podelom. Dodat je samo
+naslov „# VIII — Kukavica" i preimenovan naslov Ćebenceta u IX.
+
+---
+
+## VII/VIII/IX — SESIJA 23.08.2026, izmene u tekstu
+
+**1. Ceduljica — kontradikcija između (starog) VII i Ćebenceta, nađena na pitanje autora.**
+
+Stanje pre: VII je usred poljupca imao „Napipao sam papir u džepu. **Nešto što tu nije
+stajalo kad sam pošao.**" — što čitaocu kaže da je papir podmetnut te večeri.
+
+Ćebence, ista noć, autobus u pet i sedam: „Bio je tu papirić… **Njen rukopis**… **Kad
+ga je tu stavila, ne znam. Kaput je visio u hodniku od jutra i ona je prošla pored
+njega sto puta.**"
+
+**Dve greške:** (a) *vreme* — Katarina ga je stavila **pre** polaska, pa tvrdnja da
+tu nije stajao laže; (b) *mesto* — u Ćebencetu je papirić u džepu **kaputa** koji visi
+u hodniku, a u VII ga napipava sedeći na sofi.
+
+**Treća, i najskuplja: rečenica je krala knjizi jedini Katarinin potez.** Katarina u
+celoj knjizi nema nijedan sopstveni čin — a tu, jednom rečenicom napisanom ujutru i
+gurnutom u kaput, fizički zaustavlja poljubac iz stana tri sata daleko. Stara verzija
+je taj čin pripisivala nepoznatom.
+
+**Uneto (prepis, po odobrenju autora):**
+
+> Povukao sam se.
+>
+> **Ruka mi je otišla u džep, sama, kao uvek. Nije bio prazan.**
+
+Ne laže o vremenu, ne odaje čije je pismo (udarac ostaje u IX), i vraća gest koji
+knjiga vuče od prve strane: „ruka mi je već bila na pola puta ka džepu" (I), „Ruka mi
+je otišla u džep. Prazan je bio, kao i uvek." (II), „Ruka blizu džepa, džep prazan kao
+uvek." (VI). **Šest poglavlja je taj džep prazan i to znači „nisam više taj čovek".
+Ovde prvi put nije prazan — a u njemu nije oružje nego njena ceduljica.**
+
+Rečenica je posle podele ostala u **VIII — Kukavica**.
+
+**2. Mehanika (Pravilo K, bez pojedinačnog odobrenja):** VII, red 103 — „Prvi put za
+~~dvanaest~~ **deset** godina — umalo." Računica: sadašnjost je dvanaest godina posle
+nestanka, VI je dve godine ranije (deset), bolnička scena je mesec dana posle VI.
+Time je zatvorena i stavka 5 sa spiska „ŠTA VISI".
+
+**3. IX — Ćebence, Katarinina poruka (prepis, po odluci autora).**
+
+Bilo: *„Svako jutro s tobom je posebno, čak i **ona** kad ti je **kosa na sve strane**
+i ljutiš se na ceo svet pre kafe. Naročito **ta**."*
+
+Autorova primedba: David je muškarac s kratkom kosom, slika ne pije vodu. Uz to se
+rečenica nije slagala u rodu — jutro je srednji rod.
+
+Uneto: *„Svako jutro s tobom je posebno, čak i **ono** kad **ne progovoriš dok ne
+popiješ prvu kafu** i ljutiš se na ceo svet. Naročito **to**."*
+
+Zašto ćutanje, a ne brada ili mrzovolja: **ćutanje je ono čime David krije ceo život**
+(I: „Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio."; II:
+„Ti samo izostaviš."). Katarina to isto ćutanje vidi kao jutarnju mrzovolju i piše mu
+da ga baš zbog nje voli. **Ne zna šta hvali.** I on tu poruku čita u autobusu u pet
+ujutru, posle noći u kojoj je zbog nje rekao „Ne".
+
+**4. D2 — dodir spolja: prebačen ceo u IX, odluka autora.** VII i VIII se dešavaju
+**pre I**, pa David još nije sreo starca iz I i ne zna za limarsku radionicu u Belom
+gradu. Jedino poglavlje čija je sadašnjost posle I jeste IX. Puno obrazloženje u
+`DUGOVI_KNJIGE.md`.
+
+**5. Kvota 2.2 (dostojanstvo), preneta iz VI — zatečena kao već plaćena**, u onome što
+je danas VIII: „Kukavica si ti veče večeras", rekla je Jovana, tiho. / „**Kukavica**",
+rekla je. Samo to. Prenos je bio bespredmetan i skinut je sa spiska.
+
+**STATUS: VII otvoren. VIII (Kukavica) i IX (Ćebence) čekaju.**
 
 ### VII — Beli grad
 **ZATVORENO** (pun prolazak kroz celu ček-listu, 17 izmena; naknadno dve dopune iz prolaza kroz celinu).

@@ -3,6 +3,14 @@
 >
 > Nastao spajanjem SVETILISTE_MASTER.md (delovi 5-8, 10-11) i obe DOPUNE (jun 2026, vreme). Gde su se izvori razilazili, obeleženo je eksplicitno — vidi NERAZREŠENO na dnu. Stari master i dopune ostaju u projektu kao arhiva/istorija odluka.
 
+
+> **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
+> VII je podeljen na **VII — Beli grad** (2.190 reči) i **VIII — Kukavica** (3.709),
+> a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
+> od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
+> zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+
+
 ---
 
 ## GAZDA JE PRIČA
@@ -11,9 +19,19 @@ Sve ispod služi priči, ne obrnuto. Kad se kosi pravilo i živo — pobeđuje �
 
 ---
 
-## BROJ POGLAVLJA — OSAM, KONAČNO
+## BROJ POGLAVLJA — DEVET *(ispravljeno 23.08.2026, Pravilo E)*
 
-Ne zbog broja — zbog strukture. VIII je ogledalo I. Bez tog ogledala naslov „Sahrana bez tela" pada u prazno. David mora da se vrati na isti sto, iste gestove — tek tad čitalac razume šta je sve vreme gledao. Sedam bi značilo završiti na metku (Beli grad). Metak nije kraj, metak je najteži trenutak. Posle njega treba jedna stranica tišine (VIII).
+**Načelo je nepromenjeno:** poslednje poglavlje je **ogledalo I**. Bez tog ogledala
+naslov „Sahrana bez tela" pada u prazno. David mora da se vrati na isti sto, iste
+gestove — tek tad čitalac razume šta je sve vreme gledao. Završiti na metku značilo
+bi stati na najtežem trenutku; posle njega treba jedna stranica tišine.
+
+**Šta se promenilo:** 23.08.2026. je stari VII (5.896 reči — 38% knjige, duže od
+prva četiri zajedno) podeljen na **VII — Beli grad** i **VIII — Kukavica**, pa je
+ogledalo pomereno s VIII na **IX — Ćebence**. Podela je izvršena na šavu koji je već
+postojao u tekstu; **nijedna rečenica nije premeštena ni promenjena.**
+
+Zapisi stariji od tog datuma koji kažu „VIII" misle na **Ćebence (danas IX)**.
 
 ---
 
@@ -149,36 +167,104 @@ Knjiga ne ide hronološki — ide po pritisku (NAČELO KLATNA: svako poglavlje j
 
 ---
 
-## STRUKTURA (osam poglavlja)
+## STRUKTURA (devet poglavlja)
 
-**NAČELO KLATNA:** ne smenjuju se poglavlja (jedno prošlost/jedno sadašnjost) — smenjuje se UNUTAR poglavlja. Svako poglavlje je jedan zamah: kreće u jednom vremenu, završava u drugom. Svako zaroni malo dublje u prošlost nego prethodno. NIKAD ne otkriva kraj prerano.
+> **Ispravljeno 23.08.2026. po Pravilu E — tekst je autoritet nad dokumentom.**
+> Ranija verzija ove sekcije bila je **plan**, ne opis napisanog: VI je vodila kao
+> „Kanal", poslednje poglavlje kao „Prsten", a opisi VII i VIII odgovarali su
+> scenama koje su u međuvremenu drugačije raspoređene. Ispod je stanje **po tekstu.**
 
-**NAČELO PRITISKA, NE HRONOLOGIJE:** knjiga ne ide vremenski, ide po pritisku. Beli grad (drugi poljubac + „ne") je METAK — drži se za pred kraj. Ako padne ranije, čitalac zna kraj i ostatak je epilog.
+**NAČELO KLATNA:** ne smenjuju se poglavlja (jedno prošlost / jedno sadašnjost) —
+smenjuje se UNUTAR poglavlja. Svako poglavlje je jedan zamah: kreće u jednom
+vremenu, završava u drugom. NIKAD ne otkriva kraj prerano.
 
-- **I — SUSRET** [ZATVORENO — revidirano] — čista sadašnjost. Kafić, otac zahvaljuje za spasenog sina. Klatno miruje.
-- **II — PUKOTINA** [u reviziji] — sadašnjost s curenjem (u odnosu na sopstveni registar: PROŠLOST u odnosu na I — vidi tabelu). Andrijana, ritual, „mislim da znam zašto si otišao", ples po stolu (lane); kući devojka.
-- **III — KRV** [napisano] — sadašnjost (špagete) → okidač (prsti u meso) → pun zaron u prošlost (magacin, Jovana bezimena, prvi poljubac, semafor) → nazad, kontrast s devojkom. Uveden Mali.
-- **IV — PARIZ** [napisano] — sadašnjost (magnet na frižideru) → zaron u Pariz (svi četvoro, Andrijana uz prozor, bistro, ivičnjak/šešir, piknik u dva) → nazad na magnet/grob. Kraj: „Nismo mogli." Pariz = Natašina ideja; putovali odvojeno (navika).
-- **V — NESTANAK** [napisano] — sadašnjost (devojka ide kod sestre, tri pozdrava) → zaron: odlazak pre 12 god., poslednje jutro, autobuska, godina ćutanja, poruka samo Andrijani, prijemi kroz dijalog s Andrijanom, Jovanin „šamar". Kraj: „onoj pod šeširom trebalo je četiri godine da se vrati za sto, i ja sam to zvao milošću."
-- **VI — KANAL** [napisano] — sadašnjost, sreda, kafić, prazan sto. Andrijana telefonom javlja za Jovaninu nesreću. Dva poteza: (1) doktor — sredi je skroz, duguje uslugu (LJUBAV); (2) poziv čoveku od poverenja — „nađi ga, povredi ga isto koliko je ona, mera za meru" (ONO DRUGO). Okidač = glas tog čoveka → zaron u patrolna kola. Refleks leđa-ka-zidu bio i na vrhu moći. Kraj: gura praznu stolicu pod sto, „nešto u tom džepu opet imam da branim".
-- **VII — BELI GRAD** [napisano] — METAK. Poslednje veče, svi u Jovaninom stanu, povratak koji liči na nekad → Jovanin poljubac → njegovo „ne" (iskulira) → zezaju se do ujutru → autobus, tišina. Najtopliji vrh pa najgori pad. Isplaćuje semafor iz III. Nosivi mehanizmi: day-one veza (Jovana zna pravog njega, zato ne može) · obrnuta „svaka reč tačna, sve laž" (Katarina vidi tačno, zaključuje pogrešno) · tajni odlazak za Beli grad.
-- **VIII — PRSTEN** [napisano] — sadašnjost, povratak na kafić iz I, ali nemoguće ga je čitati istim očima. Isti gestovi (leđa od vrata, ruka ka džepu) — sad grob, ne atmosfera. Jedan ZAUSTAVLJEN pokret ka Jovani (digne telefon, otkuca, obriše — ili se javi Andrijani umesto njoj). Tu pada naslov, kao udarac ne objašnjenje: Jovana je živa, hoda, a on ju je sahranio. Sahrana bez tela. Ovde i beleška o Katarini koja vidi naviku s vratima.
+**NAČELO PRITISKA, NE HRONOLOGIJE:** knjiga ne ide vremenski, ide po pritisku.
+Beli grad i noć kod Jovane (drugi poljubac + „ne") su **metak** — drže se za pred
+kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
+
+| # | Poglavlje | reči | vreme |
+|---|-----------|------|-------|
+| I | Susret | 805 | sadašnjost |
+| II | Pukotina | 1.597 | prošlost (~godinu i po pre I) |
+| III | Krv | 1.141 | sadašnjost → zaron |
+| IV | Pariz | 1.782 | sadašnjost → zaron |
+| V | Nestanak | 1.327 | sadašnjost → zaron |
+| VI | Prazna stolica | 1.437 | **prošlost** (~2 godine pre I) → zaron |
+| VII | Beli grad | 2.190 | nastavak VI, kroz godinu dana |
+| VIII | Kukavica | 3.709 | jedna noć, ~godinu pre I |
+| IX | Ćebence | 1.573 | ista noć → skok u sadašnjost |
+
+---
+
+- **I — SUSRET** — čista sadašnjost. Kafić, starac zahvaljuje za spasenog sina i
+  nudi sinovljevu limarsku radionicu u Belom gradu. Klatno miruje. **Jedini spoljni
+  upad u sadašnjost u prvih pet poglavlja.**
+
+- **II — PUKOTINA** — prošlost u odnosu na I. Andrijana dolazi na kafu, priča o
+  Miji, telefon s majkom; **„Ti samo izostaviš. Svaka reč ti bude tačna…"** — jedino
+  mesto u knjizi gde se mehanizam imenuje. Uveče kod Katarine, u stanu koji još nije
+  njegov.
+
+- **III — KRV** — sadašnjost (špagete) → okidač (prsti u mleveno meso) → pun zaron
+  u magacin, tri ujutru, čovek na podu, Jovana na vratima („Patrola je skrenula u
+  ulicu"), semafor i prekinuti poljubac → nazad uz šerpu. **Ovde okvir jedini put
+  probija zaron: „Je l' ima još luka?"** — model za D4.
+
+- **IV — PARIZ** — sadašnjost (magnet na frižideru) → Pariz, svih četvoro, Andrijana
+  uz prozor, bistro, ivičnjak i šešir, piknik u dva ujutru → nazad na magnet kao grob.
+  **Ovde živi mart:** jedino mesto u knjizi gde je rok izgovoren naglas i jedino gde
+  Katarina traži nešto za sebe. Kraj: „Nismo mogli."
+
+- **V — NESTANAK** — sadašnjost (Katarina se pakuje kod sestre, tri pozdrava i dva
+  poljupca) → zaron: odlazak pre dvanaest godina, poslednje jutro, autobuska stanica,
+  godina ćutanja, poruka **samo Andrijani** („Bezbedan sam. Ne tražite."), kako su je
+  primile, Jovanino „Dobro." Kraj: „…i ja sam to čitavo vreme zvao milošću."
+
+- **VI — PRAZNA STOLICA** — **prošlost**, ~2 godine pre I. Sreda, kafić, sto za
+  četvoro. Andrijana telefonom javlja za Jovaninu nesreću. **Dva poteza:** doktor
+  („neka joj ne fali ništa") i čovek od poverenja („mera za meru"). Okidač je glas
+  tog čoveka → zaron u patrolna kola. **Konobar iz okvira probija zaron** („Vodu da
+  vam dopunim?" / „Jezik mi je bio pun ljuski."). Kraj: gura praznu stolicu pod sto.
+
+- **VII — BELI GRAD** — jutro posle nesreće. Vidikovac s Katarinom, prvi put je vodi
+  gore; „Nemoj da se opterećuješ tuđim problemima." Mesec dana čekanja → put s
+  Andrijanom → **bolnica u Belom gradu**, isti pokret preko obraza kao na semaforu u
+  III → meseci prepiske u dva ujutru → Katarinino „Ko ti to piše po noći?" i „Dobar
+  si prijatelj" → poziv. Kraj: „…u stanu u kom sam još uvek imao jednu fioku."
+  **Ovo je Katarinino poglavlje** — jedino gde je ona prisutna kroz celu radnju.
+
+- **VIII — KUKAVICA** — **metak.** Jedna noć kod Jovane. Sto za četvoro, špagete
+  bolonjeze, igra istine, Andrijanine mrlje, Jovanin ožiljak, „Lep je." → Jovanino
+  pitanje bez igre („Da nije nje… da l' bi sad bio ovde") → **on popije umesto da
+  odgovori** → poljubac → „Ne." → **ruka mu nađe Katarininu ceduljicu u džepu.**
+  Kraj: zaspi mu na ramenu. Najtopliji vrh pa najgori pad. Isplaćuje semafor iz III.
+
+- **IX — ĆEBENCE** — ista noć. Pokrije je ćebencetom, Andrijana ga vidi na vratima i
+  samo se osmehne → autobus u pet i sedam, **čita ceduljicu** → kući, Katarina
+  spušta šerpu u frižider u sedam ujutru, traži da upozna njegove („To su dva
+  različita sveta") → „Naročito to." → „Ti si kao kuče." → ogledalo, isti čovek.
+  **Pa skok: „Bilo je to, onako otprilike, pre godinu dana."** → sadašnjost, isti
+  kafić kao u I, otkuca poruku i obriše je, piše Andrijani; „Pita za tebe nekad."
+  **Tu pada naslov.** Kraj: „Ruka mi je otišla ka džepu. Džep je prazan."
 
 **OKIDAČ PO POGLAVLJU (svako ima JEDAN, nikad isti):**
-I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u meso · IV — magnet · V — tri pozdrava · VI — glas čoveka od poverenja na telefonu (patrolna kola) · VII — (Beli grad, metak) · VIII — zaustavljen pokret ka telefonu / naslov.
+I — starčeva ruka i zakletva · II — voda umesto pića · III — prsti u meso ·
+IV — magnet · V — tri pozdrava · VI — glas čoveka od poverenja na telefonu ·
+VII — Zvezdanov poziv na kapiji fabrike · VIII — Natašin predlog igre ·
+IX — ćebence, pa ceduljica u džepu kaputa.
 
 ---
 
 ## REGISTAR MEHANIZMA: „SVAKA REČ TAČNA, ZBIR LAŽ"
 > Ovaj mehanizam (Deo 5 mastera, zaključan princip) radi na nivou cele knjige, ne samo unutar jedne scene. Ova tabela postoji da se prati GDE se već pojavio, U KOM OBLIKU, i da li nosi varijaciju ili se ponavlja — pre otvaranja bilo kog poglavlja, proveriti ovde šta je već iskorišćeno.
 
-**Svrha:** sprečiti da mehanizam padne identično dvaput (čitalac koji knjigu čita u nizu prepoznaje ponavljanje bez novog ugla), i osigurati da kasnija pojavljivanja POJAČAVAJU efekat ranijih (VIII treba da bude isplata onoga što je II posejalo, ne izolovan ponovni pokušaj).
+**Svrha:** sprečiti da mehanizam padne identično dvaput (čitalac koji knjigu čita u nizu prepoznaje ponavljanje bez novog ugla), i osigurati da kasnija pojavljivanja POJAČAVAJU efekat ranijih (IX treba da bude isplata onoga što je II posejalo, ne izolovan ponovni pokušaj).
 
 | Pogl. | Ko izgovara zbir tačnih tvrđenja | Ko zna da je zbir laž | Konkretna tačna tvrđenja koja čine zbir | Eksplicitno objašnjeno ili čisto (čitalac sabira sam)? |
 |-------|----------------------------------|----------------------|-------------------------------------------|----------------------------------------------------------|
 | **II** | David (Katarini, usmeno) | David, Andrijana i čitalac | „Dobro. Stara drugarica. Popili smo kafu. Ćerka joj raste." | ČISTO u izvođenju, ali **IMENOVAN RANIJE U ISTOM POGLAVLJU** — vidi red ispod. |
-| **II (priprema)** | Andrijana (Davidu, u kafiću, ~60 redova pre izvođenja) | Andrijana, i zna da zna | „Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u glavi i misli da si mu rekao sve." | **DIREKTNO, JEDINI PUT U KNJIZI.** Odluka autora, jul 2026. Mehanizam se imenuje iz usta lika, nikad iz naratorovih. Postavljen PRE izvođenja da bi radio kao priprema, ne kao tumačenje. Sva ostala pojavljivanja (II izvođenje, VIII, i svako „Sve tačno. Svaka reč." kroz knjigu) ostaju čista i oslanjaju se na ovo mesto. |
-| **VIII** | Katarina (Davidu, netačan zaključak — „ti si kao kuče") | David (ćuti) i čitalac | „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li." | ČISTO. OBRNUTO u odnosu na II: ona govori, on ćuti. Njegov ispravak stoji neizgovoren („lojalnost, ne slušanje"), ali čitalac je u VI video dva poziva u deset minuta — pa je ona bar delom u pravu, a narator prvi put nepouzdan. „Ne pitaš smeš li" doslovno citira VI („Za nju nikad nisam pitao smem li") iz usta žene koja ne zna da citira. |
+| **II (priprema)** | Andrijana (Davidu, u kafiću, ~60 redova pre izvođenja) | Andrijana, i zna da zna | „Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u glavi i misli da si mu rekao sve." | **DIREKTNO, JEDINI PUT U KNJIZI.** Odluka autora, jul 2026. Mehanizam se imenuje iz usta lika, nikad iz naratorovih. Postavljen PRE izvođenja da bi radio kao priprema, ne kao tumačenje. Sva ostala pojavljivanja (II izvođenje, IX, i svako „Sve tačno. Svaka reč." kroz knjigu) ostaju čista i oslanjaju se na ovo mesto. |
+| **IX** *(bilo VIII)* | Katarina (Davidu, netačan zaključak — „ti si kao kuče") | David (ćuti) i čitalac | „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li." | ČISTO. OBRNUTO u odnosu na II: ona govori, on ćuti. Njegov ispravak stoji neizgovoren („lojalnost, ne slušanje"), ali čitalac je u VI video dva poziva u deset minuta — pa je ona bar delom u pravu, a narator prvi put nepouzdan. „Ne pitaš smeš li" doslovno citira VI („Za nju nikad nisam pitao smem li") iz usta žene koja ne zna da citira. |
 
 **Pravilo pri otvaranju svakog narednog poglavlja:** ako se ovaj mehanizam javi (nije obavezan u svakom poglavlju — samo gde već postoji ili je planiran), popuniti red u tabeli PRE nego što se predloži bilo koja izmena, i eksplicitno proceniti nosi li varijaciju u odnosu na prethodne redove ili je preblizu ponavljanju.
 
@@ -192,19 +278,19 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 - **Sreda** — David je mrzi, razlog skriven (VI).
 - Devojka: bezimena. Sestra postoji (II, V). Gestovi nežnosti: greje ruke (II), uštip za bok (III — NE ponavljati), pomilovati po leđima (IV), tri pozdrava + brada (V).
 - Starčev sin: limar, radionica kod stare pijace (I) — potencijalno upotrebljivo kasnije.
-- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, VIII**. ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, IX**. ZAVRŠNO mesto: poslednja rečenica IX, doslovno kao I red 7 — odluka autora, zaštićeno.
   > **ISPRAVKA po Pravilu E (05.08.2026):** dokument je navodio I, II, VI (i VIII kao završno), ali IV red 101 nosi „Telo je već tada znalo nešto što glava nije htela." Tekst je autoritet — **dokument je bio nepotpun, rečenica u IV je legitimna peta pojava i ostaje.** Provereno i u Registru 2 u `FINALNI_PROLAZ_PRAVILA.md`, tamo ispravljeno isto.
-- **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII SME da koristi ime Jovana, a VIII sme da ga izgubi.
+- **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII i VIII SMEJU da koriste ime Jovana, a IX sme da ga izgubi.
 
 ---
 
 ## ZAŠTIĆENA PONAVLJANJA — namerna, NE brisati kao previd
 > Sve tri su prošle kroz više poglavlja i nisu bile upisane nigde. Prvi naredni prolaz bi ih pročitao kao tik i obrisao.
 
-- **Špagete bolonjeze** — II 95 (David priča Andrijani da ih pravi svake nedelje) → III (kuhinjski okvir, on ih pravi) → VII 201 (Jovana mu ih iznese na sto). Treći put je nož: jelo koje je ritual njegovog novog života servira mu žena iz starog. Njegova reakcija je već upisana i dovoljna: „Pogledao sam u tanjir kad mi je sipala. Sekund, ne više."
-- **Oprana šolja** — V 25 (poslednje jutro, on opere šolju i vrati je na mesto) → V 97 (Jovana pročita poruku, kaže „Dobro", opere svoju šolju i ode kući) → VIII 15 (on opere tanjir pre nego što izađe iz Jovaninog stana). Treći put je isplata: radi njoj ono što je ona uradila kad je saznala da je otišao.
+- **Špagete bolonjeze** — II 95 (David priča Andrijani da ih pravi svake nedelje) → III (kuhinjski okvir, on ih pravi) → **VIII** (Jovana mu ih iznese na sto). Treći put je nož: jelo koje je ritual njegovog novog života servira mu žena iz starog. Njegova reakcija je već upisana i dovoljna: „Pogledao sam u tanjir kad mi je sipala. Sekund, ne više."
+- **Oprana šolja** — V 25 (poslednje jutro, on opere šolju i vrati je na mesto) → V 97 (Jovana pročita poruku, kaže „Dobro", opere svoju šolju i ode kući) → **IX** (on opere tanjir pre nego što izađe iz Jovaninog stana). Treći put je isplata: radi njoj ono što je ona uradila kad je saznala da je otišao.
 - **Andrijanina replika koja imenuje mehanizam** (II, kafić: „Ti samo izostaviš. Svaka reč ti bude tačna…") — **NE DIRATI.** Namerno je direktna i to je jedini takav trenutak u knjizi. Svaki naredni prolaz pročitaće je kao objašnjavanje i posegnuti za rezom — nije objašnjavanje, nego jedini ključ koji čitalac dobija. Ako padne, „Sve tačno. Svaka reč." u ostalim poglavljima ostaje bez oslonca. Zabrana važi i za skraćivanje.
-- **„Isti čovek."** — II 189 → VIII 167. Oba puta pred istim ogledalom u njenom kupatilu. U II stan još nije njegov; u VIII je život kasnije i rečenica je ista. Namerno.
+- **„Isti čovek."** — II → **IX**. Oba puta pred istim ogledalom u njenom kupatilu. U II stan još nije njegov; u IX je život kasnije i rečenica je ista. Namerno.
 
 ---
 
@@ -213,22 +299,23 @@ I — starčeva ruka/zakletva · II — voda umesto pića · III — prsti u mes
 > ovo nije zaštita nego činjenica, i pripada ovde. Ne otvara se, samo se
 > proverava pri kontinuitetu.
 
-- **„sat i po autobusom" (VIII) i „tri sata vožnje" (VII)** — oba tačna, ne kose
+- **„sat i po autobusom" (IX) i „tri sata vožnje" (VII)** — oba tačna, ne kose
   se. Andrijana vozi tri sata **po njega pa nazad**; on se vraća autobusom sat i
   po iz drugog polazišta.
 - **Katarina je imenovana samo dvaput**, oba puta u VII (135, 161).
 - **Mali:** 17–18 godina. Usklađeno u tekstu III, provereno.
-- **Poglavlja VI i VII su provereno aktuelni fajlovi** (provera 05.08.2026,
+- **Poglavlja VI i VII su provereno aktuelni fajlovi** *(VII je 23.08. podeljen — vidi STRUKTURA)* (provera 05.08.2026,
   dnevnik upoređen s tekstom red po red). V je bio jedini zastareo slučaj.
-- **Neisplaćen dug iz I:** VII red 33 glasi „ona iz Beograda", treba „ona iz
-  Belog grada" — izvodi se kad VII dođe na red u finalnom prolazu.
+- ~~**Neisplaćen dug iz I:** VII red 33 „ona iz Beograda“~~ — **ISPLAĆENO
+  23.08.2026.** Ispravljeno u „ona iz **Belog grada**“. Bio je to jedini pomen
+  stvarnog imena grada u celoj knjizi, a ime grada je zamrznuto.
 
 ---
 
 ## OTVORENA PITANJA (za kasnije, priznata i namerno neodgovorena)
 
 - Pravo ime / ime grada — oba namerno odložena.
-- ~~Kako tačno pada naslov u VIII~~ — REŠENO: pada go, na red 213, bez ijedne rečenice tumačenja. Naslov poglavlja „Ćebence" radi isti posao na drugom kraju teksta (pokrivanje žive žene = sahrana).
+- ~~Kako tačno pada naslov u IX~~ — REŠENO: pada go, bez ijedne rečenice tumačenja. Naslov poglavlja „Ćebence" radi isti posao na drugom kraju teksta (pokrivanje žive žene = sahrana).
 - Zašto David mrzi srede (možda VIII, možda nikad).
 - Koliko autobiografskog pustiti u tekst. Navika s vratima ostaje nekomentarisana od strane Katarine — „kuče" je preuzelo tu funkciju i jače je.
 - Tačan okidač bekstva ostaje zapečaćen do VIII.
