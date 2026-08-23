@@ -387,7 +387,7 @@ Poglavlje je imalo tri kandidata (redovi 39, 47, 93 originalne numeracije). Odlu
 6. Nežnost uhvaćena/postiđena — NEMA nežnog trenutka u ovom poglavlju u klasičnom smislu (Katarina fizički odsutna iz scene, samo prisutna kroz odsustvo za stolom/prazne stolice) — konstatovano kao tačno stanje ovog poglavlja, ne kao propust.
 7. Prošlost kao scena, ne monolog — čisto, patrolna kola su puna scena u sadašnjem vremenu te scene (dijalog, telo, semenke, semafor), nema „ja sam bio" monologa.
 8. Gest bez varijacije — leđa-ka-zidu treći put po registru (posle II i IV), potvrđena nova varijacija ugla: ovde je kontekst „bio na vrhu moći" — okreće se IZ NAVIKE koja je nadživela strah, ne iz straha samog („Svi su mislili da sam bog. Bogovi se ne plaše. A ja sam i kao bog birao gde ću da stanem"), obrnuta dinamika u odnosu na prethodna dva pojavljivanja.
-9. Kontinuitet sa SVET_I_LIKOVI — proveren i tačan: registar VI = SADAŠNJOST (tekst ne kontradiktuje, iako Katarina fizički nije u kadru); doktor i čovek od poverenja tačno kako registar nalaže; refren „telo zna pre glave/ne zna za kalendar" — RAZMOTRENO I POTVRĐENO: VI namerno NE izgovara refren doslovno treći put (posle eksplicitnih formulacija u I i II) — nosi ga kroz dva eho-gesta bez fraze (predosećaj poziva „znao sam pre nego što sam se javio", prazan džep na kraju) — jača varijacija od trećeg ponavljanja iste formulacije rečima.
+9. Kontinuitet sa SVET_I_LIKOVI — ~~registar VI = SADAŠNJOST~~ **ISPRAVLJENO 21.08. po Pravilu E: VI je PROŠLOST**, ~2 godine pre I, i tada ne žive zajedno. Tekst potvrđuje: „Sinoć." u VI, „Preksinoć." u VII, uzastopni dani, a Katarine u VI nema nigde. Ostalo u ovoj tački stoji: doktor i čovek od poverenja tačno kako registar nalaže; refren „telo zna pre glave/ne zna za kalendar" — RAZMOTRENO I POTVRĐENO: VI namerno NE izgovara refren doslovno treći put (posle eksplicitnih formulacija u I i II) — nosi ga kroz dva eho-gesta bez fraze (predosećaj poziva „znao sam pre nego što sam se javio", prazan džep na kraju) — jača varijacija od trećeg ponavljanja iste formulacije rečima.
 10. Previše/nedovoljno objašnjavanja — tri mesta nađena i rešena (vidi izmene niže); ostatak poglavlja diše bez dupliranja slike rečima.
 
 **Registar mehanizma "svaka reč tačna, zbir laž":** provereno pre bilo koje izmene — VI NE sadrži instancu ovog mehanizma u obliku kakav prate II i VIII (nema niza pojedinačno-tačnih izjava koje zbirno lažu nekom trećem licu). Red za VI se NE popunjava u tabeli u SVET_I_LIKOVI.md, isti tretman kao III, IV, V — mehanizam ostaje rezervisan za par II/VIII.
@@ -400,6 +400,79 @@ Poglavlje je imalo tri kandidata (redovi 39, 47, 93 originalne numeracije). Odlu
 3. **Formula na rezervisanom mestu** — "To je trebalo da ostane sahranjeno. Cela poenta dvanaest godina kopanja bila je da se ovi telefoni nikad više ne dignu" → skraćeno na "Ovi telefoni su trebalo da ostanu zakopani". Formula "Za nju nikad nisam pitao smem li." ostaje gola i netaknuta kao rezervisano mesto; konkretan sadržaj koji sledi (pitanja po gradu, ljudi, računi) zadržan jer nosi stvarnu cenu, ne praznu deklaraciju — samo je uvodna kapija-fraza skraćena da ne duplira formulu koja joj prethodi.
 
 **Napomena za dalje:** poglavlje ima dva mesta čistog reza bez zamene (tačke 5, 10a) i jedno mesto skraćivanja kapije-fraze bez pune zamene (formula na rezervisanom mestu) — nijedno nije tražilo Pravilo A (nova slika/gest) jer okolne rečenice već nose dovoljno. Sa VI popunjenim rezervisanim mestom #2, VII i VIII treba otvoriti sa svešću da ostaje najviše JEDNO slobodno mesto za celu knjigu — proveriti pre bilo kog predloga zadržavanja formule u ta dva poglavlja.
+
+---
+
+#### VI — SESIJA 23.08.2026. — ponovo otvoren i zatvoren
+
+Otvoren zato što je 21.08. upisan sprat iznad (Deo 0, pet dugova knjige) po kom VI
+ranije nije bio meren. **Četiri unete izmene: tri reza i jedna napisana rečenica.**
+
+**Rezovi (svaki po pojedinačnom odobrenju autora):**
+
+1. **Red 13** — brisanje „Navikao sam na stolove na kojima fali ljudi." posle „Ostao
+   sam sam za stolom za četvoro." B7: prva rečenica nosi sliku, druga je prevodi u
+   izjavu o sebi. Motiv prazne stolice se u poglavlju ionako vraća tri puta
+   (konobarevo „Čeka se još neko?", „Tri prazne stolice preko puta", stolica gurnuta
+   nogom pod sto na kraju). Čist rez bez zamene.
+2. **Red 113** — brisanje „To je bila cela lepota." između „ko će zaustaviti sopstvena
+   kola." i „Ne kriješ se od patrole. Patrola te vozi." Oblik formule „to je bila cela
+   X" — rezervisano mesto, a **mesto #2 je već popunjeno u ovom istom poglavlju** („Za
+   nju nikad nisam pitao smem li."), petnaest redova dalje. Druga stvar: „Patrola te
+   vozi." je ista misao izvedena kroz sliku, pa joj rečenica ispred skida udarac.
+   Čist rez bez zamene.
+3. **Red 135** — brisanje repa „, dovela me ovamo pre nego što je Andrijana pozvala."
+   Deo 1, tačka 6: ako je životinja čekala vest koju glava još nije imala, već je
+   rečeno da je došla pre poziva. Rečenica sama sebi objašnjava hronologiju. Poglavlje
+   se ovde vraća iz zarona — kraća rečenica ga vraća oštrije.
+
+**ODBIJENO po odluci autora — zatvoreno, ne otvara se:**
+
+- **Red 35**, predlog reza „Postoji samo jedna ona o kojoj se zove usred srede."
+  **Zadržano.** Obrazloženje autora: sreda drži okvir poglavlja („Bila je sreda" na
+  početku, „Napolju je bila sreda, i dalje" na kraju), a ta rečenica je jedino mesto
+  gde poziv ulazi u taj okvir.
+
+**NAPISANA REČENICA — D4 plaćen (Pravilo J, Pravilo K):**
+
+Dodato u zaron, odmah posle „Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.":
+
+> „Vodu da vam dopunim?"
+>
+> „Može", rekao sam.
+>
+> Jezik mi je bio pun ljuski.
+
+Model je III („Je l' ima još luka?" usred magacina), predmet je drugi. **Finesa koja
+ovo razlikuje od običnog prekida:** konobar ga ne izvlači iz sećanja — upada u njega,
+David odgovori **ne izlazeći**, i zaron se nastavlja bez šava. Time se dva vremena za
+tri reda **preklope** umesto da se smene, pa poglavlje po prvi put ne radi šesti put
+istu figuru okvir → zaron → povratak.
+
+Ništa se ne objašnjava. Račun se sam isplaćuje dvanaest redova kasnije, na već
+postojećem: „ljuske semenki nigde — nije ih ni bilo… ali jezik mi je tražio gorčinu
+pod zubom."
+
+**Rima je u tekstu stajala od ranije (pljuvanje ljuski u zaronu / ljuski nema u
+okviru); nedostajalo je probijanje.**
+
+**KVOTA 2.2 — DOSTOJANSTVO: ZATVORENA KAO NEPOPUNJIVA U VI. Odluka autora, 23.08.**
+
+Razlog, sprat poglavlja: **VI je jedino poglavlje u knjizi u kom je David
+neprikosnoven.** Kapije se otvaraju same, dva poziva rešavaju sve, niko ga ništa ne
+pita. To mu je funkcija — čitalac mora jednom da vidi vrh, da bi VII i VIII imali s
+čega da padnu. Popuniti 2.2 ovde znači potrošiti jedini vrh koji knjiga ima.
+
+**Teret prenet na VII (Pravilo O, Pravilo P).**
+
+**Bilans VI:** 1431 → 1424 → **1437 reči** (tri reza, pa dodata scena); „kao" 16 → 15.
+Odnos unetog: 3 reza / 1 napisana — **Pravilo J zadovoljeno.**
+
+**Zatečeno u fajlu na početku sesije, nije od mene i nije dirano:** poslednja rečenica
+poglavlja „Samo što ovaj put nešto u tom džepu opet imam da branim." — upisana van
+sesije, uzeta kao trenutno stanje teksta.
+
+**STATUS: VI ZATVOREN 23.08.2026.**
 
 ### VII — Beli grad
 **ZATVORENO** (pun prolazak kroz celu ček-listu, 17 izmena; naknadno dve dopune iz prolaza kroz celinu).

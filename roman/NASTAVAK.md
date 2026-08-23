@@ -1,6 +1,6 @@
 # NASTAVAK — gde smo stali
 
-> Poslednje ažuriranje: 21.08.2026.
+> Poslednje ažuriranje: 23.08.2026.
 > **Ovaj fajl je handoff. Otvara se prvi, pre svega ostalog.** Ako je sve u njemu
 > jasno, dovoljno je reći „nastavi".
 
@@ -15,8 +15,8 @@
 | III | Krv | **zaključano** | 1125 | 4 | 3 |
 | IV | Pariz | **zaključano** | 1761 | 10 | 7 |
 | V | Nestanak | **zaključano** | 1312 | 11 | 6 |
-| VI | Prazna stolica | **OTVOREN — u toku** | 1431 | 16 | 5 |
-| VII | Beli grad | čeka · **fajl neproveren** | — | — | — |
+| VI | Prazna stolica | **zaključano** | 1437 | 15 | 5 |
+| VII | Beli grad | **na redu** · fajl neproveren · dnevnik ga vodi kao zatvoren (sukob) | — | — | — |
 | VIII | Ćebence | čeka | — | — | — |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
@@ -57,68 +57,33 @@ fajl.
 
 ---
 
-## VI — gde je tačno stalo
+## VI — ZATVOREN 23.08.2026.
 
-**Urađeno:**
+Otvoren je bio zato što je 21.08. upisan sprat iznad (Deo 0, pet dugova) po kom ranije
+nije bio meren. Pun zapis u dnevniku, odeljak „VI — SESIJA 23.08.2026."
 
-1. **Registar ispravljen** (Pravilo E). Dnevnik je tvrdio da je VI sadašnjost i da
-   tada žive zajedno. Netačno: **VI je PROŠLOST**, ~2 godine pre I, i tada ne žive
-   zajedno. Tekst to potvrđuje — „Sinoć." u VI, „Preksinoć." u VII, uzastopni dani,
-   a Katarine u VI nema nigde.
+**Uneto: tri reza i jedna napisana rečenica.**
 
-2. **Mehanika uneta** (Pravilo K, bez pojedinačnog odobrenja). „kao" je bilo 18 puta
-   na 1437 reči — najgori odnos u knjizi — ali grupisano na dva mesta:
-   - red 81, tri „kao" u pasusu → pao *„Ne kao pitanje."*
-   - red 109, tri „kao" → palo *„kao na svakom"*, konkretno je već bilo tu (H2)
+- red 13 — pao rep „Navikao sam na stolove na kojima fali ljudi."
+- red 113 — pala formula „To je bila cela lepota."
+- red 135 — pao rep „, dovela me ovamo pre nego što je Andrijana pozvala."
+- **red 111 — dodato, D4:** „Vodu da vam dopunim?" / „Može", rekao sam. / **Jezik mi
+  je bio pun ljuski.**
 
-   Bilans: „kao" 18 → 16, 1437 → 1431 reči.
+**ZATVORENO, ne otvara se:** predlog reza na redu 35 („Postoji samo jedna ona o kojoj
+se zove usred srede.") **odbijen po odluci autora** — sreda drži okvir poglavlja.
 
-3. **Četiri „dvanaest" → „deset"**, po odluci autora. Nestanak je 12 godina pre
-   sadašnjosti, VI je ~2 godine pre sadašnjosti — u VI je prošlo deset. Promenjeni
-   redovi 17, 63, 73, 137. **Redovi 119 i 131 ostaju „dvanaest"** — oni mere od
-   patrolnih kola, ne od nestanka, i računica im je tačna.
+**D4 PLAĆEN.** Okvir sada probija zaron: konobar upada iz srede usred vožnje patrolnim
+kolima, David odgovori **ne izlazeći iz sećanja**, zaron se nastavlja bez šava. Dva
+vremena se preklapaju umesto da se smenjuju. Model je III, predmet je drugi. Ništa se
+ne objašnjava — račun se sam isplaćuje na već postojećem „ljuske semenki nigde… ali
+jezik mi je tražio gorčinu pod zubom."
 
-4. **Kvote proverene u tekstu:**
+**Kvota 2.2 (dostojanstvo) — zatvorena kao nepopunjiva u VI, odluka autora.** VI je
+jedino poglavlje u kom je David neprikosnoven; to mu je funkcija, jer VII i VIII moraju
+imati s čega da padnu. **Teret prenet na VII.**
 
-| | stanje |
-|---|---|
-| **2.1 greška** | **popunjena.** Andrijana kaže „Insistirao je da voze brzo, **kažu**." David to prosleđuje dalje kao činjenicu: „da je insistirao na brzini po kiši." „Kažu" postaje „jeste", i na osnovu toga naređuje da nekog slome. Čitalac vidi, David ne. |
-| **2.2 dostojanstvo** | **NIJE popunjena.** VI je poglavlje u kom je David na vrhuncu moći — kapije se otvaraju same. Nigde nije sitan. |
-| **2.3 tuđa volja** | popunjena. „Nisam zvala da te teram nigde… Ne moraš ništa." |
-| **2.4 pritisak** | popunjena. „Otkud ti doktor u—" / „Andrijana." / „Ućutala je… Deset godina je tako stajala. **Zato je još tu.**" |
-| **2.5 pitanje na kraju** | popunjena, najbolje u knjizi. |
-
-### Četiri predloga za VI koja ČEKAJU „da" — jedno po jedno
-
-**1. Red 13, rez.** „Ostao sam sam za stolom za četvoro. ~~Navikao sam na stolove na
-kojima fali ljudi.~~"
-*B7.* Prva rečenica nosi sve; druga je prevodi u izjavu o sebi. Motiv prazne stolice
-se ionako vraća tri puta.
-
-**2. Red 35, rez.** „Nisam pitao koja ona. ~~Postoji samo jedna ona o kojoj se zove
-usred srede.~~"
-*B7 + H1.* „Nisam pitao koja ona." već kaže da zna; druga objašnjava zašto.
-
-**3. Red 113, prepis.** „…jer ko će zaustaviti sopstvena kola. ~~To je bila cela
-lepota.~~ Ne kriješ se od patrole. Patrola te vozi."
-*Nalaz, ne nit.* „To je bila cela **lepota**" je tačno oblik formule „to je bilo
-najgore / cela poenta X" — rezervisano mesto, popunjeno 2 od najviše 2–3 u celoj
-knjizi, **i jedno od ta dva je već u ovom poglavlju** („Za nju nikad nisam pitao
-smem li."). Ovo bi bilo treće.
-
-**4. Red 135, prepis.** „Sela je ta životinja u meni za sto i čekala vest koju glava
-još nije imala~~, dovela me ovamo pre nego što je Andrijana pozvala~~."
-*Deo 1, tačka 6.* Drugi deo ponavlja prvi drugim rečima.
-
-### Šta VI još duguje
-
-**D4 — figura. PLAĆENO 23.08.** Okvir sada probija zaron. Usred vožnje patrolnim
-kolima upada konobarev glas iz srede — „Vodu da vam dopunim?" / „Može", rekao sam. /
-**Jezik mi je bio pun ljuski.** — i David odgovara **ne izlazeći iz sećanja**; zaron
-se nastavlja bez šava. Ništa se ne objašnjava: račun se sam isplaćuje dvanaest redova
-kasnije, na već postojećem „ljuske semenki nigde — nije ih ni bilo… ali jezik mi je
-tražio gorčinu pod zubom". Model je III („Je l' ima još luka?"), predmet je drugi.
-Napisano u autorovo ime, odobreno pojedinačno po Pravilu K.
+Bilans: 1437 reči, „kao" 15. Odnos unetog 3 reza / 1 napisana — Pravilo J zadovoljeno.
 
 ---
 
@@ -145,9 +110,9 @@ može braniti i uz stan. To je razlika između stvarne greške i idioma.
 **Jedno pitanje, bez argumenta (Pravilo L, IV je zaključan):** je li dom stan u
 zgradi, i menja li se „u kući" u IV?
 
-### 2. Kvota 2.2 u VI — nepopunjena
+### 2. Kvota 2.2 — REŠENO 23.08.
 
-Ili se popuni, ili se u dnevnik upiše zašto baš tu ne može. Traži odluku.
+Zatvorena kao nepopunjiva u VI, uz upisan razlog. **Teret prenet na VII.**
 
 ### 3. Kvota 2.4 u V — sporno, upisano a nerešeno
 
@@ -155,9 +120,13 @@ Vodi se kao popunjena preko Andrijaninog „Dva broja, dva traga." Ona jeste pri
 i ona ne skreće — ali pritiska **postupak koji je već poznat**, ne ono što se u V
 zaista krije (okidač bekstva, red 61, zapečaćen po H1).
 
-### 4. VII — fajl neproveren
+### 4. VII — fajl neproveren, i dnevnik je u sukobu sam sa sobom
 
-Jedini koji nije upoređen s dnevnikom. Uraditi pre otvaranja VII.
+Dnevnik VII vodi kao **ZATVOREN** („pun prolazak kroz celu ček-listu, 17 izmena; naknadno
+dve dopune iz prolaza kroz celinu"), a `NASTAVAK` ga je vodio kao poglavlje koje čeka.
+Ista sekcija dnevnika tvrdila je i da je VI sadašnjost — što je 21.08. oborено po Pravilu E.
+**Zaključak: taj deo dnevnika je stariji od poslednjih ispravki i ne sme se uzimati zdravo
+za gotovo.** Prvo se čita fajl VII, pa se dnevnik ispravlja po tekstu.
 
 ### 5. „Dvanaest godina" u VII, red 103
 
@@ -224,9 +193,10 @@ obrazloženje i registar u `DUGOVI_KNJIGE.md`.
 
 ## Redosled posla
 
-1. **VI** — odgovoriti na četiri predloga, rešiti kvotu 2.2, odlučiti o D4 (prekid
-   figure), pa zatvoriti.
-2. **VII** — proveriti fajl, pa otvoriti. Duguje **Katarinu** i **dodir spolja**.
+1. ~~**VI**~~ — **zatvoreno 23.08.**
+2. **VII — na redu.** Prvo pročitati fajl i uskladiti dnevnik po tekstu (dnevnik ga
+   pogrešno vodi kao zatvoren). Duguje **Katarinu (D3)**, **dodir spolja (D2)** i
+   **preneto dostojanstvo (kvota 2.2 iz VI)**.
 3. **VIII** — nosi najviše: sat, dodir spolja, Katarinu i kraj knjige.
 
 ---
