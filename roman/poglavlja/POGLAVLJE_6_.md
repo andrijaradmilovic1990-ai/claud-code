@@ -132,7 +132,7 @@ Telefon je i dalje bio u mojoj ruci. Kafa hladna, ljuske semenki nigde — nije 
 
 Tri prazne stolice preko puta.
 
-Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala, dovela me ovamo pre nego što je Andrijana pozvala.
+Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala.
 
 Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina nisam bio. Naredio sam da je čuvaju i naredio sam da nekog slome. Vratio sam se na sto vremena i digao oba telefona koja sam zakopao, i to bez oklevanja, bez ijedne sekunde u kojoj sam se pitao smem li.
 

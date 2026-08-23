@@ -66,8 +66,12 @@ karakter, ne cenzura.
   ček-listu — ne dok se ne nađe prva upadljiva stvar.
 - Najviše 15 predloga po poglavlju na nivou rečenice, u porcijama od najviše
   četiri.
-- **Rez nije prolaz** — najmanje trećina predloga mora biti prepisana rečenica,
-  ne brisanje.
+- **Rez nije prolaz (Pravilo J).** Brisanje samo po sebi nije revizija. Meri se
+  **uneto**, ne predloženo: najmanje trećina izmena unetih u poglavlje mora biti
+  **napisana rečenica** — prepis ili dopuna — a ne brisanje. **Poglavlje se ne
+  zatvara ako su sve unete izmene rezovi.** Ako predlagač nema nijedan prepis,
+  poglavlje nije pročitano dovoljno duboko — to je nalaz o čitanju, ne o tekstu.
+  Napisane rečenice i dalje idu jedna po jedna, po Pravilu K.
 - Po zatvaranju poglavlja: upis u dnevnik i commit, bez traženja.
 
 ## Git

@@ -206,7 +206,10 @@ obrazloženje i registar u `DUGOVI_KNJIGE.md`.
 - **L** — zatvoreno se ne otvara. Ako treba — **jedno pitanje**, bez argumenta.
 - **M** — uz svaki nalaz reći sprat: rečenica, poglavlje ili knjiga.
 - **G** — ako se dvoumiš, ne diraj. Prag je „merljivo bolje".
-- **J** — najmanje trećina predloga po poglavlju mora biti prepisana rečenica.
+- **J** *(pooštreno 23.08.)* — **rez nije prolaz.** Meri se **uneto**, ne
+  predloženo: najmanje trećina unetih izmena mora biti **napisana rečenica**.
+  **Poglavlje se ne zatvara ako su sve unete izmene rezovi.** Nijedan prepis znači
+  da poglavlje nije pročitano dovoljno duboko.
 - **H7** *(novo 21.08.)* — sedma stavka ulaznog lista: koji dug knjige pada u ovom
   poglavlju i zašto baš tu.
 - **N** *(novo)* — dug knjige se prijavljuje pre dugova poglavlja.
