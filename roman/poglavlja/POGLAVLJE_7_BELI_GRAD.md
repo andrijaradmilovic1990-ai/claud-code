@@ -38,7 +38,7 @@ Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i pr
 
 „Nije." Pljunuo sam duvan s usne. „Takva je. Izabere koga ne treba, sedne gde ne treba. Verovatno je i bila naduvana, znam ja nju."
 
-Rekao sam to bez težine, kao da se žalim na nekog ko mi je dosadio. To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton.
+Rekao sam to bez težine, kao da se žalim na nekog ko mi je dosadio. Laž nije bila ni u jednoj reči. Bila je u tome koliko sam je lako izgovorio.
 
 „Što si onda ovakav, ako je samo drugarica koja stalno upadne u nešto?" Tačno. I zato je peklo.
 
