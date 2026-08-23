@@ -100,7 +100,7 @@ Sad se nije nasmejala. Nije mogla. Uglovi usana su joj se trgnuli, krenuli negde
 
 I tu je nešto u meni krenulo gore, iz onog mesta za koje sam mislio da sam ga davno zazidao. Došlo je do grla, do iza očiju, i stalo tamo, vrelo, i nisam ga pustio dalje. Stisnuo sam vilicu dok nije popustilo. Ruke su mi ostale na kolenima, mirne, kao da su nečije tuđe koje sam pozajmio za priliku.
 
-Ali umalo. Prvi put za dvanaest godina — umalo.
+Ali umalo. Prvi put za deset godina — umalo.
 
 „Izgledaš kô da te voz pregazio", rekao sam, kad sam mogao da govorim a da glas stoji ravno.
 
@@ -630,7 +630,7 @@ I u toj sekundi — parfem. Ne onaj njen stari, ne ono što pamtim — novi, tu�
 
 Povukao sam se.
 
-Napipao sam papir u džepu. Nešto što tu nije stajalo kad sam pošao.
+Ruka mi je otišla u džep, sama, kao uvek. Nije bio prazan.
 
 Nije bilo naglo. Samo sam se odmaknuo onoliko koliko je trebalo da između nas bude vazduh, i otvorio oči.
 
