@@ -1481,3 +1481,75 @@ autorova.
 zgradi, i menja li se „u kući" u IV?
 
 **Ništa nije dirano.** Pitanje je upisano, ne rešeno.
+
+---
+
+# VII — BELI GRAD: PROLAZ I ZATVARANJE (23.08.2026)
+
+Prvi prolaz kroz VII posle podele. Poglavlje je pročitano red po red, kroz celu
+ček-listu, ne do prvog nalaza. Uneto **petnaest izmena**: četiri dopune, šest
+prepisa, pet rezova. Obim **2.190 → 2.215 reči** — poglavlje je posle prolaza
+duže, ne kraće. „kao": 15 pojava, **0,68%**, ispod praga.
+
+## Šta je uneto, redom
+
+| # | mesto | šta | vrsta |
+|---|-------|-----|-------|
+| 1 | 97 | „pređem" → „prešao" — prezent usred perfekta | mehanika |
+| 2 | 49 | skinut mehanizam „svaka reč tačna, zbir laž" | rez |
+| 3 | 41 | skinuta rezervisana formula „to je bila najveća laž tog jutra" | prepis |
+| 4 | 119 | skinuta doslovnost u ehu aparata (87 / 119) | prepis |
+| 5 | 97 | razmršeno poređenje uz pokret po obrazu | prepis |
+| 6 | 115 | skinuto preuzimanje poslednje replike (dupliralo 165) | rez |
+| 7 | 25 | skinuto objašnjenje ćutanja | rez |
+| 8 | 57 | **dopuna** — telefon u prednjem džepu, mesec čekanja | dopuna |
+| 9 | 43 | skinut veznik uzroka „I zato je peklo" | prepis |
+| 10 | 149 | **dopuna** — Katarinin zahtev pred dugi pogled | dopuna |
+| 11 | 91 | oslobođen osmeh sa semafora (dupliralo 99) | rez |
+| 12 | 155 | kalup „kao čovek koji…" zamenjen merom „s tri sata razdaljine" | prepis |
+| 13 | 59 | **dopuna** — put u Beli grad je prećutan | dopuna |
+| 14 | 19 | skinuto uopštavanje „Čovek zna gde mu je rana…" | prepis |
+| 15 | 63 | skinuto udvajanje „Čak i tad. Čak ni kad idem" + prezent | prepis |
+| 16 | 125 | **dopuna** — zatvoren povratak iz bolnice | dopuna |
+
+*(Brojevi redova su po završnom stanju fajla.)*
+
+## Sprat knjige — šta je poglavlje dobilo
+
+- **Rezervisana formula oslobođena.** „To je bila najveća laž tog jutra" je bila
+  treća instanca formule s ograničenjem 2–3 za celu knjigu. Skinuta; mesto ostaje
+  slobodno za VIII ili IX.
+- **Mehanizam „svaka reč tačna, zbir laž" vraćen paru II–IX.** VII ga je izgovarao
+  doslovno u redu 49. Prizor je ostao, imenovanje je palo.
+- **Dva prećutkivanja postoje kao rečenice, prvi put.** Polazak u Beli grad
+  („Njoj sam rekao samo da se taj dan nećemo videti") i povratak po mraku. Oba u
+  jedinom obliku koji David ima — izostavljanje, ne laž.
+- **Katarina traži nešto za sebe** („Zovi je danju. Noću si mi potreban ovde.") —
+  bez sumnje i bez provere, pa Registar 1 ostaje netaknut. Time „Dobar si prijatelj"
+  dva reda niže postaje odustajanje od zahteva, a ne samo poverenje.
+
+## Činjenice utvrđene tokom prolaza (autor, u sesiji)
+
+- **Put u bolnicu je prećutan.** U to vreme David i Katarina **ne žive zajedno**;
+  on polazi od svoje kuće, njoj kaže samo da se taj dan neće videti.
+- **Za skup u Jovaninom stanu (VIII) ona zna da ide.** Upisano radi VIII, nije
+  dirano u VII.
+- **„Prvi put za deset godina" (red 105) je tačno.** Po hronologiji: nestanak pre
+  dvanaest godina, nesreća pre ~dve — VII stoji deset godina posle bekstva.
+  `NASTAVAK.md` je na jednom mestu govorio o „jedanaest godina"; dokument ispravljen,
+  tekst nije diran (Pravilo E).
+
+## Zatvoreno se nije otvaralo
+
+- Ime pada i dalje **tačno dvaput** (redovi 139 i 167), oba puta uz njen postupak.
+  Pitanje o imenu postavljeno jednom i odbijeno — tema je gotova.
+- Refren o telu (red 63) ostao je u poglavlju; pitanje o rasporedu postavljeno,
+  odgovor nije tražen dalje.
+- **I–V nisu otvarani ni čitani.** Registar propuštenog je prazan za ovaj prolaz.
+
+## Jedina otvorena sitnica u VII
+
+Red 59 kaže „taj dan" pre nego što je dan uveden (uvodi ga red 61). Idiomatski
+prolazi, ali je pokazivanje unapred. **Nije dirano** — čeka odluku autora.
+
+**STATUS: VII je zaključan. Sledeće je VIII — Kukavica.**

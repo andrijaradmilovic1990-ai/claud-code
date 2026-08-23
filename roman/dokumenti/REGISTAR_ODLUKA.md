@@ -103,6 +103,19 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   Razlog: VI je **jedino poglavlje u kom je David neprikosnoven**, i to mu je
   funkcija — VII, VIII i IX moraju imati s čega da padnu.
 
+### VII — Beli grad *(zaključan 23.08.2026)*
+- **Ime pada tačno dvaput** — redovi 139 i 167 — i nigde drugde u knjizi. Ne
+  dodavati, ne brisati. Pitanje postavljeno i odbijeno 23.08.
+- **„Zovi je danju. Noću si mi potreban ovde."** — jedini put da Katarina traži
+  nešto za sebe. Ne skraćivati i ne pretvarati u sumnju: Registar 1 kaže da se ona
+  do VIII ne budi, ne sumnja, ne proverava.
+- **„Njoj sam rekao samo da se taj dan nećemo videti."** — put u bolnicu je prećutan,
+  ne slagan. Zadržati oblik izostavljanja; David ne laže.
+- **U to vreme David i Katarina ne žive zajedno.** Ništa u VII ne sme implicirati
+  zajednički stan; fioka na kraju poglavlja je kod nje.
+- **Poslednja replika poglavlja** — *„Ti uvek dođeš." … „Pitanje je samo kad odeš."*
+  Ista poenta je 23.08. uklonjena s ranijeg mesta da bi ova stajala sama.
+
 ### IX — Ćebence
 - **Kraj poglavlja i knjige** — *„Dvanaest godina u tom džepu nema ničega. Ali telo
   ne zna za kalendar."* Doslovno ponavljanje I, red 7. **ZAŠTIĆENO po odluci

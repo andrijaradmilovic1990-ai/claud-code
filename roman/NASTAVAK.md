@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **23.08.2026.**
+> Poslednje ažuriranje: **23.08.2026.** *(VII zaključan)*
 
 ---
 
@@ -20,7 +20,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.561 reč.**
+Knjiga ima **devet poglavlja, 15.586 reči.**
 
 | # | Poglavlje | Stanje | reči | „kao" |
 |---|-----------|--------|------|-------|
@@ -30,8 +30,8 @@ Knjiga ima **devet poglavlja, 15.561 reč.**
 | IV | Pariz | zaključano | 1.782 | 0,56% |
 | V | Nestanak | zaključano | 1.327 | 0,68% |
 | VI | Prazna stolica | zaključano *(23.08.)* | 1.437 | 1,04% |
-| **VII** | **Beli grad** | **OTVOREN** | 2.190 | 0,64% |
-| VIII | Kukavica | čeka *(novo, iz podele)* | 3.709 | 1,02% |
+| VII | Beli grad | zaključano *(23.08.)* | 2.215 | 0,68% |
+| **VIII** | **Kukavica** | **NA REDU** *(novo, iz podele)* | 3.709 | 1,02% |
 | IX | Ćebence | čeka *(bilo VIII)* | 1.573 | 0,38% |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
@@ -62,31 +62,38 @@ da se menja — i tek tada se čita u jednom dahu i radi po cilju.
 
 ## ŠTA JE SLEDEĆE — po redu
 
-### 1. VII — Beli grad *(otvoren, u toku)*
+### 1. VIII — Kukavica *(na redu)*
 
-Posle podele **duguje samo sebi.** Dugovi knjige su rešeni:
+Najduže u knjizi — 3.709 reči, jedna noć za stolom. **Nijedna izmena nikad nije
+rađena pod ovim brojem**; sve što dnevnik pominje o „VII" pre 23.08. odnosi se na
+tekst pre podele.
 
-- **D3 Katarina — plaćena rasporedom.** VII je sad njeno poglavlje: počinje s njom
-  na vidikovcu, završava se njom u drugoj sobi dok on gleda telefon. Nijedna nova
-  rečenica nije bila potrebna.
-- **D2 dodir spolja — prebačen u IX**, hronologija ne dopušta drugačije.
-- **Kvota 2.2 dostojanstvo** — zatečena kao već plaćena u VIII („Kukavica", rekla je.
-  Samo to.). Skinuta sa spiska.
+Duguje **D5 — strah.** To je poglavlje u kom David kaže „Ne" i u kom mu ruka nađe
+ceduljicu u džepu. Ceduljica je **Katarinina** — razrešeno, ne otvara se.
 
-**Šta preostaje:** prolaz red po red kroz celu ček-listu. Najviše 15 predloga, u
+**Činjenica utvrđena pri radu na VII:** za taj skup u Jovaninom stanu **Katarina
+zna da ide.** Za put u bolnicu, mesec dana ranije, nije znala — to je upisano u VII.
+
+**Postupak:** prolaz red po red kroz celu ček-listu. Najviše 15 predloga, u
 porcijama od najviše četiri. **Najmanje trećina unetog mora biti napisana rečenica**
 (Pravilo J).
 
-**Nijedna izmena na nivou rečenice još nije rađena u VII posle podele.**
+### 2. VII — Beli grad *(ZAKLJUČAN 23.08.2026)*
 
-### 2. VIII — Kukavica *(novo poglavlje)*
+Prolaz obavljen red po red. Uneto petnaest izmena: **četiri dopune, šest prepisa,
+pet rezova**; 2.190 → 2.215 reči. Puni spisak u dnevniku.
 
-Najduže u knjizi — 3.709 reči, jedna noć za stolom. **Nijedna izmena nikad nije
-rađena pod ovim brojem**; sve što dnevnik pominje o „VII" odnosi se na tekst pre
-podele.
+Šta je time promenjeno za ostatak knjige:
 
-Duguje **D5 — strah.** To je poglavlje u kom David kaže „Ne" i u kom mu ruka nađe
-ceduljicu u džepu.
+- **Rezervisana formula oslobođena** — „to je bila najveća laž tog jutra" skinuta.
+  Mesto ostaje slobodno za VIII ili IX.
+- **Mehanizam „svaka reč tačna, zbir laž" vraćen paru II–IX** — VII ga je izgovarao
+  doslovno.
+- **Ime pada tačno dvaput** (redovi 139 i 167), oba puta uz njen postupak. Pitanje
+  postavljeno i odbijeno; tema je gotova.
+
+**Jedina otvorena sitnica:** red 59 kaže „taj dan" pre nego što je dan uveden
+(uvodi ga red 61). Nije dirano, čeka odluku autora.
 
 ### 3. IX — Ćebence *(nosi najviše)*
 
@@ -113,7 +120,7 @@ registru). To je korak 3 i 4 iz plana gore.
 |-----|--------|--------------|
 | **D1 sat** (mart) | postavljen u IV, ne kuca dalje | **IX** — jedina preostala sadašnjost |
 | **D2 dodir spolja** | plaćen u I, prenet iz II i III | **IX** — VII i VIII ne mogu (dešavaju se pre I) |
-| **D3 Katarina** | **PLAĆEN 23.08.** podelom — VII je njeno poglavlje | — |
+| **D3 Katarina** | **PLAĆEN 23.08.** podelom, pa i rečenicom u VII | — |
 | **D4 figura** | **PLAĆEN 23.08.** u VI — konobar probija zaron | — |
 | **D5 strah** | nijedno ga još ne nosi | **VIII**, IX |
 
@@ -176,23 +183,29 @@ Po zatvaranju: fajl + upis u dnevnik + commit, **bez traženja.**
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Na redu je VII — Beli grad.
+Nastavi. Na redu je VIII — Kukavica.
 
 Pre bilo čega pročitaj, tim redom:
   roman/NASTAVAK.md
   roman/dokumenti/REGISTAR_ODLUKA.md
   roman/dokumenti/DUGOVI_KNJIGE.md
-pa poglavlje roman/poglavlja/POGLAVLJE_7_BELI_GRAD.md celo, red po red.
+pa poglavlje roman/poglavlja/POGLAVLJE_8_KUKAVICA.md celo, red po red.
 
-Repo je saniran 23.08. i dokumenti su usklađeni s tekstom — veruj im.
-Ne prepričavaj mi šta u njima piše i ne objašnjavaj mi ispočetka.
+VII je zaključan 23.08. i ne otvara se. I–V se ne otvaraju — ni na nalaz, ni na
+pitanje, ni u opštoj oceni. Ako nešto nađeš u njima, ide u registar propuštenog,
+ne u fajl (Pravilo P).
 
-I–V se ne otvaraju. Ni na nalaz, ni na pitanje, ni u opštoj oceni.
-Ako nešto nađeš u njima — u registar propuštenog, ne u fajl (Pravilo P).
+Dokumenti su usklađeni s tekstom — veruj im. Ne prepričavaj mi šta u njima piše
+i ne objašnjavaj mi ispočetka.
 
-Kad pročitaš VII, javi ulazni list i kreni s predlozima — najviše četiri odjednom,
-jedno po jedno čeka „da". Najmanje trećina unetog mora biti napisana rečenica,
-ne rez (Pravilo J).
+Šta VIII nosi, da ne tražiš: D5 — strah. To je poglavlje u kom David kaže „Ne"
+i u kom mu ruka nađe ceduljicu u džepu; ceduljica je Katarinina i to je
+razrešeno. Za taj skup Katarina zna da ide. Najduže je u knjizi — 3.709 reči,
+jedna noć za stolom — pa računaj da će ček-lista trajati.
+
+Kad pročitaš VIII, javi ulazni list i kreni s predlozima — najviše četiri
+odjednom, jedno po jedno čeka „da". Najmanje trećina unetog mora biti napisana
+rečenica, ne rez (Pravilo J).
 
 Piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
 ```
