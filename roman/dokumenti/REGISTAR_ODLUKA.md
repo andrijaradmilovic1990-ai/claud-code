@@ -43,7 +43,7 @@ promenjen — nijedna rečenica nije premeštena.
 | **Jovana** | **Ne dodavati joj dubinu.** Već prolazi test unutrašnjosti kroz igru istine (poluistina, pa traži istinu bez igre). Scena nosi dovoljno; rizik od preteranosti je stvaran. |
 | **Andrijana** | Replika koja imenuje mehanizam (II, kafić: *„Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u glavi"*) — **NE DIRATI, ni skraćivati.** Jedini takav trenutak u knjizi. Svaki naredni prolaz pročitaće je kao objašnjavanje i posegnuti za rezom. Nije objašnjavanje — jedini je ključ koji čitalac dobija. Ako padne, „Sve tačno. Svaka reč." u ostalim poglavljima ostaje bez oslonca. |
 | **David** | **Ne psuje** — karakter, ne cenzura. **Ne laže — izostavlja.** Zaključano u II („Ti nikad ne slažeš" / „Nisam."). Svaka dopuna u kojoj David izgovori neistinu je zabranjena. |
-| **Katarina** | U naraciji se **ne imenuje**. |
+| **Katarina** | Ime je **zapečaćeno — ne rasipa se**, ali nije zabranjeno. Pada **tačno dvaput u celoj knjizi, oba puta u VII** (redovi 135 i 161), i oba puta u trenutku kad ona nešto uradi. Nigde drugde ni u jednom poglavlju. **To je namerno i ne otvara se** — VII je njeno poglavlje. Ne dodavati ime nigde, ne brisati ga s ta dva mesta. |
 
 ---
 
