@@ -258,13 +258,13 @@ IX — ćebence, pa ceduljica u džepu kaputa.
 ## REGISTAR MEHANIZMA: „SVAKA REČ TAČNA, ZBIR LAŽ"
 > Ovaj mehanizam (Deo 5 mastera, zaključan princip) radi na nivou cele knjige, ne samo unutar jedne scene. Ova tabela postoji da se prati GDE se već pojavio, U KOM OBLIKU, i da li nosi varijaciju ili se ponavlja — pre otvaranja bilo kog poglavlja, proveriti ovde šta je već iskorišćeno.
 
-**Svrha:** sprečiti da mehanizam padne identično dvaput (čitalac koji knjigu čita u nizu prepoznaje ponavljanje bez novog ugla), i osigurati da kasnija pojavljivanja POJAČAVAJU efekat ranijih (VIII treba da bude isplata onoga što je II posejalo, ne izolovan ponovni pokušaj).
+**Svrha:** sprečiti da mehanizam padne identično dvaput (čitalac koji knjigu čita u nizu prepoznaje ponavljanje bez novog ugla), i osigurati da kasnija pojavljivanja POJAČAVAJU efekat ranijih (IX treba da bude isplata onoga što je II posejalo, ne izolovan ponovni pokušaj).
 
 | Pogl. | Ko izgovara zbir tačnih tvrđenja | Ko zna da je zbir laž | Konkretna tačna tvrđenja koja čine zbir | Eksplicitno objašnjeno ili čisto (čitalac sabira sam)? |
 |-------|----------------------------------|----------------------|-------------------------------------------|----------------------------------------------------------|
 | **II** | David (Katarini, usmeno) | David, Andrijana i čitalac | „Dobro. Stara drugarica. Popili smo kafu. Ćerka joj raste." | ČISTO u izvođenju, ali **IMENOVAN RANIJE U ISTOM POGLAVLJU** — vidi red ispod. |
-| **II (priprema)** | Andrijana (Davidu, u kafiću, ~60 redova pre izvođenja) | Andrijana, i zna da zna | „Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u glavi i misli da si mu rekao sve." | **DIREKTNO, JEDINI PUT U KNJIZI.** Odluka autora, jul 2026. Mehanizam se imenuje iz usta lika, nikad iz naratorovih. Postavljen PRE izvođenja da bi radio kao priprema, ne kao tumačenje. Sva ostala pojavljivanja (II izvođenje, VIII, i svako „Sve tačno. Svaka reč." kroz knjigu) ostaju čista i oslanjaju se na ovo mesto. |
-| **VIII** | Katarina (Davidu, netačan zaključak — „ti si kao kuče") | David (ćuti) i čitalac | „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li." | ČISTO. OBRNUTO u odnosu na II: ona govori, on ćuti. Njegov ispravak stoji neizgovoren („lojalnost, ne slušanje"), ali čitalac je u VI video dva poziva u deset minuta — pa je ona bar delom u pravu, a narator prvi put nepouzdan. „Ne pitaš smeš li" doslovno citira VI („Za nju nikad nisam pitao smem li") iz usta žene koja ne zna da citira. |
+| **II (priprema)** | Andrijana (Davidu, u kafiću, ~60 redova pre izvođenja) | Andrijana, i zna da zna | „Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u glavi i misli da si mu rekao sve." | **DIREKTNO, JEDINI PUT U KNJIZI.** Odluka autora, jul 2026. Mehanizam se imenuje iz usta lika, nikad iz naratorovih. Postavljen PRE izvođenja da bi radio kao priprema, ne kao tumačenje. Sva ostala pojavljivanja (II izvođenje, IX, i svako „Sve tačno. Svaka reč." kroz knjigu) ostaju čista i oslanjaju se na ovo mesto. |
+| **IX** *(bilo VIII)* | Katarina (Davidu, netačan zaključak — „ti si kao kuče") | David (ćuti) i čitalac | „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li." | ČISTO. OBRNUTO u odnosu na II: ona govori, on ćuti. Njegov ispravak stoji neizgovoren („lojalnost, ne slušanje"), ali čitalac je u VI video dva poziva u deset minuta — pa je ona bar delom u pravu, a narator prvi put nepouzdan. „Ne pitaš smeš li" doslovno citira VI („Za nju nikad nisam pitao smem li") iz usta žene koja ne zna da citira. |
 
 **Pravilo pri otvaranju svakog narednog poglavlja:** ako se ovaj mehanizam javi (nije obavezan u svakom poglavlju — samo gde već postoji ili je planiran), popuniti red u tabeli PRE nego što se predloži bilo koja izmena, i eksplicitno proceniti nosi li varijaciju u odnosu na prethodne redove ili je preblizu ponavljanju.
 
@@ -278,19 +278,19 @@ IX — ćebence, pa ceduljica u džepu kaputa.
 - **Sreda** — David je mrzi, razlog skriven (VI).
 - Devojka: bezimena. Sestra postoji (II, V). Gestovi nežnosti: greje ruke (II), uštip za bok (III — NE ponavljati), pomilovati po leđima (IV), tri pozdrava + brada (V).
 - Starčev sin: limar, radionica kod stare pijace (I) — potencijalno upotrebljivo kasnije.
-- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, VIII**. ZAVRŠNO mesto: poslednja rečenica VIII, doslovno kao I red 7 — odluka autora, zaštićeno.
+- **Refren „telo zna pre glave / telo ne zna za kalendar"** — vraćati s varijacijom. Raspored: **I, II, IV, VI, IX**. ZAVRŠNO mesto: poslednja rečenica IX, doslovno kao I red 7 — odluka autora, zaštićeno.
   > **ISPRAVKA po Pravilu E (05.08.2026):** dokument je navodio I, II, VI (i VIII kao završno), ali IV red 101 nosi „Telo je već tada znalo nešto što glava nije htela." Tekst je autoritet — **dokument je bio nepotpun, rečenica u IV je legitimna peta pojava i ostaje.** Provereno i u Registru 2 u `FINALNI_PROLAZ_PRAVILA.md`, tamo ispravljeno isto.
-- **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII SME da koristi ime Jovana, a VIII sme da ga izgubi.
+- **Zavet o neimenovanju (IV, red 57)** — nije više večan: „Neću je imenovati ovde. Ne u ovoj nedelji, ne u ovom gradu. Ima imena koja su kao šibica u sobi punoj benzina, a ta soba je bila puna." Time VII i VIII SMEJU da koriste ime Jovana, a IX sme da ga izgubi.
 
 ---
 
 ## ZAŠTIĆENA PONAVLJANJA — namerna, NE brisati kao previd
 > Sve tri su prošle kroz više poglavlja i nisu bile upisane nigde. Prvi naredni prolaz bi ih pročitao kao tik i obrisao.
 
-- **Špagete bolonjeze** — II 95 (David priča Andrijani da ih pravi svake nedelje) → III (kuhinjski okvir, on ih pravi) → VII 201 (Jovana mu ih iznese na sto). Treći put je nož: jelo koje je ritual njegovog novog života servira mu žena iz starog. Njegova reakcija je već upisana i dovoljna: „Pogledao sam u tanjir kad mi je sipala. Sekund, ne više."
-- **Oprana šolja** — V 25 (poslednje jutro, on opere šolju i vrati je na mesto) → V 97 (Jovana pročita poruku, kaže „Dobro", opere svoju šolju i ode kući) → VIII 15 (on opere tanjir pre nego što izađe iz Jovaninog stana). Treći put je isplata: radi njoj ono što je ona uradila kad je saznala da je otišao.
+- **Špagete bolonjeze** — II 95 (David priča Andrijani da ih pravi svake nedelje) → III (kuhinjski okvir, on ih pravi) → **VIII** (Jovana mu ih iznese na sto). Treći put je nož: jelo koje je ritual njegovog novog života servira mu žena iz starog. Njegova reakcija je već upisana i dovoljna: „Pogledao sam u tanjir kad mi je sipala. Sekund, ne više."
+- **Oprana šolja** — V 25 (poslednje jutro, on opere šolju i vrati je na mesto) → V 97 (Jovana pročita poruku, kaže „Dobro", opere svoju šolju i ode kući) → **IX** (on opere tanjir pre nego što izađe iz Jovaninog stana). Treći put je isplata: radi njoj ono što je ona uradila kad je saznala da je otišao.
 - **Andrijanina replika koja imenuje mehanizam** (II, kafić: „Ti samo izostaviš. Svaka reč ti bude tačna…") — **NE DIRATI.** Namerno je direktna i to je jedini takav trenutak u knjizi. Svaki naredni prolaz pročitaće je kao objašnjavanje i posegnuti za rezom — nije objašnjavanje, nego jedini ključ koji čitalac dobija. Ako padne, „Sve tačno. Svaka reč." u ostalim poglavljima ostaje bez oslonca. Zabrana važi i za skraćivanje.
-- **„Isti čovek."** — II 189 → VIII 167. Oba puta pred istim ogledalom u njenom kupatilu. U II stan još nije njegov; u VIII je život kasnije i rečenica je ista. Namerno.
+- **„Isti čovek."** — II → **IX**. Oba puta pred istim ogledalom u njenom kupatilu. U II stan još nije njegov; u IX je život kasnije i rečenica je ista. Namerno.
 
 ---
 
@@ -299,22 +299,23 @@ IX — ćebence, pa ceduljica u džepu kaputa.
 > ovo nije zaštita nego činjenica, i pripada ovde. Ne otvara se, samo se
 > proverava pri kontinuitetu.
 
-- **„sat i po autobusom" (VIII) i „tri sata vožnje" (VII)** — oba tačna, ne kose
+- **„sat i po autobusom" (IX) i „tri sata vožnje" (VII)** — oba tačna, ne kose
   se. Andrijana vozi tri sata **po njega pa nazad**; on se vraća autobusom sat i
   po iz drugog polazišta.
 - **Katarina je imenovana samo dvaput**, oba puta u VII (135, 161).
 - **Mali:** 17–18 godina. Usklađeno u tekstu III, provereno.
-- **Poglavlja VI i VII su provereno aktuelni fajlovi** (provera 05.08.2026,
+- **Poglavlja VI i VII su provereno aktuelni fajlovi** *(VII je 23.08. podeljen — vidi STRUKTURA)* (provera 05.08.2026,
   dnevnik upoređen s tekstom red po red). V je bio jedini zastareo slučaj.
-- **Neisplaćen dug iz I:** VII red 33 glasi „ona iz Beograda", treba „ona iz
-  Belog grada" — izvodi se kad VII dođe na red u finalnom prolazu.
+- ~~**Neisplaćen dug iz I:** VII red 33 „ona iz Beograda“~~ — **ISPLAĆENO
+  23.08.2026.** Ispravljeno u „ona iz **Belog grada**“. Bio je to jedini pomen
+  stvarnog imena grada u celoj knjizi, a ime grada je zamrznuto.
 
 ---
 
 ## OTVORENA PITANJA (za kasnije, priznata i namerno neodgovorena)
 
 - Pravo ime / ime grada — oba namerno odložena.
-- ~~Kako tačno pada naslov u VIII~~ — REŠENO: pada go, na red 213, bez ijedne rečenice tumačenja. Naslov poglavlja „Ćebence" radi isti posao na drugom kraju teksta (pokrivanje žive žene = sahrana).
+- ~~Kako tačno pada naslov u IX~~ — REŠENO: pada go, bez ijedne rečenice tumačenja. Naslov poglavlja „Ćebence" radi isti posao na drugom kraju teksta (pokrivanje žive žene = sahrana).
 - Zašto David mrzi srede (možda VIII, možda nikad).
 - Koliko autobiografskog pustiti u tekst. Navika s vratima ostaje nekomentarisana od strane Katarine — „kuče" je preuzelo tu funkciju i jače je.
 - Tačan okidač bekstva ostaje zapečaćen do VIII.

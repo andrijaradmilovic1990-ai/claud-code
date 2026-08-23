@@ -30,7 +30,7 @@ Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i pr
 
 „Teško. Živa je. Na intenzivnoj."
 
-„Koja je to? Ona ti najbliža, ona iz Beograda?"
+„Koja je to? Ona ti najbliža, ona iz Belog grada?"
 
 „Ona."
 
