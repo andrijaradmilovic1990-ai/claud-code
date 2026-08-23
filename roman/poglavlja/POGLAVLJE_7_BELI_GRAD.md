@@ -54,7 +54,7 @@ Popušio sam do kraja, bacio pikavac, zgazio. Grad se dole sasvim upalio.
 
 „Imam."
 
-Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi seo u prva kola i jurio. Ja sam čekao. Mesec dana sam se čuo preko Zvezdana i Andrijane, slušao kako se cifre menjaju — koliko operacija, koliko dana na aparatima, kad su je skinuli s intenzivne. Mesec dana sam bio čovek koji ide na posao, vraća se, ćuti.
+Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi seo u prva kola i jurio. Ja sam čekao. Mesec dana sam se čuo preko Zvezdana i Andrijane, slušao kako se cifre menjaju — koliko operacija, koliko dana na aparatima, kad su je skinuli s intenzivne. Mesec dana sam bio čovek koji ide na posao, vraća se, ćuti. Telefon sam tih nedelja nosio u prednjem džepu, ne u zadnjem, da ga osetim i kad ne zvoni. Zvonio je retko, i svaki put bih prvo pogledao ko je, pa tek onda javio.
 
 A onda je Andrijana došla po mene kolima, jednog jutra, i krenuli smo za Beli grad.
 
