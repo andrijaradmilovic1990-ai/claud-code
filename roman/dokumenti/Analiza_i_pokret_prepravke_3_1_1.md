@@ -523,6 +523,81 @@ sesije, uzeta kao trenutno stanje teksta.
 
 ---
 
+---
+
+## SANACIJA REPOA — 23.08.2026, na zahtev autora
+
+**Zašto.** Zahtev autora, doslovno: *da sledeća sesija ne mora ništa da otkriva
+ispočetka, ne vraća se na zatvoreno, nego otvori i vidi — ovo je rađeno, ovo nije,
+ovo je sledeće.*
+
+### Šta je nađeno kao neusklađeno
+
+1. **`README.md`** — tvrdio osam poglavlja, pogrešan fajl za VIII, i blokadu koja je
+   skinuta 21.08. (Deo 0 odgovoren).
+2. **`SVET_I_LIKOVI_1.md`, sekcija STRUKTURA** — najteži nalaz. Bio je to **plan, ne
+   opis napisanog**: VI vodila kao „KANAL", poslednje poglavlje kao „PRSTEN", a opisi
+   VII i VIII pripadali su drugim scenama. Ispravljeno po Pravilu E.
+3. **Imena fajlova poglavlja** — `V_Nestanak.md` i `POGLAVLJE_6_.md` odudarali su od
+   ostalih. Ujednačeni; git prati preimenovanja.
+4. **Zatvorene odluke rasute po 1.369 redova dnevnika** — nijedan fajl ih nije držao
+   na okupu, pa se svaka sesija vraćala na isto.
+5. **Dnevnik bez indeksa** — hronološki slojevi bez ijedne mape.
+6. **Aktivni registri u SVET-u** (ponavljanja, rime, refren, mehanizam) nosili su
+   stare brojeve poglavlja posle podele.
+
+### Šta je urađeno
+
+- **NOVO: `REGISTAR_ODLUKA.md`** — sve zatvoreno na jednom mestu, u šest odeljaka:
+  zamrznuto za celu knjigu · likovi koji se ne diraju · zaštićena mesta po
+  poglavljima · rezervisana mesta i mehanizmi · odluke o procesu · **spisak pet
+  stvari koje se najčešće krše.** Uveden princip: **dnevnik je istorija, registar je
+  zakon; kad se sukobe, važi registar.**
+- **`NASTAVAK.md` prepisan** — čist handoff, devet poglavlja, plan do kraja u četiri
+  koraka, jasan redosled čitanja (NASTAVAK → REGISTAR → DUGOVI).
+- **`README.md` prepisan** — mapa fajlova, tabela poglavlja s brojkama, upućivanje na
+  NASTAVAK kao jedini ulaz.
+- **`CLAUDE.md` ažuriran** — REGISTAR_ODLUKA kao obavezan drugi fajl, Pravilo P,
+  moratorijum, devet poglavlja, izuzetak od zamrznutog broja poglavlja.
+- **`FINALNI_PROLAZ_PRAVILA.md`** — Pravilo J pooštreno (meri se uneto), upisano
+  Pravilo P s moratorijumom, brojevi poglavlja ispravljeni.
+- **`SVET_I_LIKOVI_1.md`** — sekcije BROJ POGLAVLJA i STRUKTURA prepisane po tekstu;
+  svih devet poglavlja opisano onim što u njima stvarno piše, s tabelom vremena i
+  ažuriranim spiskom okidača. Aktivni registri preračunati na novu numeraciju.
+- **Dnevnik** — dodat indeks „Kako se ovaj fajl čita" s mapom odeljaka i napomenom da
+  je istorija, ne registar.
+
+### Dve izmene u tekstu, izašle iz sanacije
+
+**1. IX — Ćebence: popravljena veza koju je razbila izmena Katarinine poruke.**
+
+Greška je moja: poruka je promenjena bez čitanja IX do kraja. Četrdeset redova niže
+David **citira tu poruku njoj u lice** — tako ona sazna da ju je pročitao — pa je
+promenom poruke ta veza pukla.
+
+Bilo: „**Kosa ti je na sve strane.**" / … / „Ništa. Tako mi se učinilo."
+Uneto: „**Naročito to**", rekao sam. / … / „**Ništa.**"
+
+„Naročito to" su poslednje dve reči poruke — gola fraza koju niko osim nje ne bi
+prepoznao, a ona je prepozna odmah jer ju je sama napisala u pola šest ujutru.
+**Ispalo je „Tako mi se učinilo" jer bi s novom porukom to bila prava laž**, a
+zaključano je da David ne laže nego izostavlja.
+
+**2. VII — isplaćen dug iz I, upisan još 05.08. a nikad izveden.**
+
+Red 33 glasio je „ona iz **Beograda**" — **jedini pomen stvarnog imena grada u celoj
+knjizi**, dok je ime grada zamrznuto i knjiga svuda koristi „Beli grad".
+Ispravljeno u „ona iz **Belog grada**".
+
+### Plan do kraja, odluka autora
+
+1. ~~Sanacija repoa~~ — **gotovo**
+2. **VII, VIII, IX** — sva tri se otvore i završe
+3. **Čitanje cele knjige u nizu** — prvi put da postoji kao celina
+4. **Rad na celoj knjizi po CILJU** — obe polovine, rečenica i knjiga
+
+**Korak 3 je jedini trenutak kad se I–V otvaraju.**
+
 ## PODELA VII NA DVA POGLAVLJA — 23.08.2026, odluka autora
 
 **Nalaz koji je do ovoga doveo.** VII je posle provere fajla izmeren na **5.896 reči**
