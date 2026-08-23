@@ -44,7 +44,7 @@ Složen na četvrtine. Njen rukopis, onaj sitni koji ide nagore na kraju reda. K
 
 Otvorio sam ga. Spoljašnje svetlo sa ulice prolazilo je u talasima dok smo vozili.
 
-*Svako jutro s tobom je posebno, čak i ona kad ti je kosa na sve strane i ljutiš se na ceo svet pre kafe. Naročito ta.*
+*Svako jutro s tobom je posebno, čak i ono kad ne progovoriš dok ne popiješ prvu kafu i ljutiš se na ceo svet. Naročito to.*
 
 To je sve što je pisalo.
 
