@@ -52,7 +52,7 @@ Zabranjeno rešavati sukob tako što se poglavlju doda „napetost" objašnjena 
 
 | sprat | šta meri | koliko puta se pita | gde je u dokumentu |
 |---|---|---|---|
-| **KNJIGA** | šta raste kroz osam poglavlja | **jednom, za celu knjigu** | Deo 0 |
+| **KNJIGA** | šta raste kroz devet poglavlja | **jednom, za celu knjigu** | Deo 0 |
 | **POGLAVLJE** | šta se dogodilo i koga je šta koštalo | **jednom po poglavlju** | Deo 2 |
 | **REČENICA** | kako je napisano | **na svakoj strani** | Deo 1 + Deo 3 |
 
@@ -173,8 +173,8 @@ Helena piše svojim glasom i svojom oštrinom, ali stil ostaje autorov. Ovaj pro
 
 - Redosled poglavlja i sadržaj radnje — ko šta radi, kome
 - Hronologija i registar
-- Zatvorene odluke: Katarinino ime, kraj I, kraj IV, kraj VIII, naslovi, odbačena scena upoznavanja
-- Zaštićeni pasusi sa spiska
+- Zatvorene odluke: Katarinino ime, kraj I, kraj IV, **kraj IX** *(bio VIII)*, naslovi, odbačena scena upoznavanja
+- Zaštićena mesta — **puni spisak je sada u `REGISTAR_ODLUKA.md`**
 - Nove scene, novi likovi, nova mesta radnje
 
 ### OTVORENO
@@ -217,16 +217,46 @@ iz `DUGOVI_KNJIGE.md` pada u ovom poglavlju i zašto baš ovde. Vidi Pravilo N.
 
 **I — izlazni list.** Svaki predlog nosi ime testa iz Dela 3 koji je pao i, kad je primenljivo, kvotu iz Dela 2 kojoj služi. **Predlog bez testa ne ulazi.** Nalaz iz Dela 1 je razlog da se mesto pogleda — nikad sam po sebi razlog za izmenu.
 
-**J — rez nije prolaz.** **Najmanje trećina predloga po poglavlju mora biti prepisana rečenica, ne rez.** Merilo za zamenu: imenovana emocija, izmerena količina („tu sekundu predugo"), maksima o životu, peto „nešto što ne mogu da imenujem" — sve to su mesta za pisanje, ne za brisanje. Rez se čuva za potpis na kraju pasusa i za doslovno ponovljeno.
+**J — rez nije prolaz.** *(POOŠTRENO 23.08.2026.)* **Meri se UNETO, ne predloženo:
+najmanje trećina izmena unetih u poglavlje mora biti napisana rečenica — prepis ili
+dopuna — a ne brisanje. Poglavlje se ne zatvara ako su sve unete izmene rezovi.**
+Ako predlagač nema nijedan prepis, poglavlje nije pročitano dovoljno duboko — to je
+nalaz o čitanju, ne o tekstu.
+
+> *Razlog za pooštravanje:* u VI je 23.08. podneta lista od četiri predloga od kojih
+> su sva četiri bila brisanja. Stara formulacija („trećina **predloga**") propušta
+> takvu listu ako autor odbije baš onaj jedan prepis.
+
+Merilo za zamenu: imenovana emocija, izmerena količina („tu sekundu predugo"), maksima
+o životu, peto „nešto što ne mogu da imenujem" — sve to su mesta za pisanje, ne za
+brisanje. Rez se čuva za potpis na kraju pasusa i za doslovno ponovljeno.
 
 **K — dva režima odobravanja.**
 - **Mehanika ide bez pitanja.** Doslovno ponovljena rečenica, prilog koji imenuje emociju posle gesta, dvostruko poređenje, veznik uzroka, rečenica koja potpisuje sopstvenu sliku. Nalazi, ne odluke. Izvodi se i prijavljuje skupno, s brojevima redova, posle unosa.
 - **Prepis, dopuna i sve iz Dela 2 čekaju izričito „da".**
 
-Razlog za granicu: Helena može da odradi posao besprekorno po pravilima i da izvadi rečenicu do koje je autoru stalo iz razloga koji ni u jednom dokumentu ne piše. Presedan: kraj VIII i kraj I. Blanko odobrenje ukida to mesto otpora.
+Razlog za granicu: Helena može da odradi posao besprekorno po pravilima i da izvadi rečenicu do koje je autoru stalo iz razloga koji ni u jednom dokumentu ne piše. Presedan: kraj IX (bio VIII) i kraj I. Blanko odobrenje ukida to mesto otpora.
 
 **L (novo) — zatvoreno je zatvoreno.** Odluka upisana u spisak zaštićenog ili u dnevnik kao „zadržano po odluci autora" **ne sme se ponovo predložiti za izmenu, ni kao mišljenje, ni u opštoj oceni knjige.** Ako Helena smatra da odluku treba otvoriti, ona to kaže kao **jedno pitanje** — „otvaramo li X ponovo" — i ne argumentuje dok ne dobije „da".
-> Razlog: u oceni posle III Helena je tri zatvorene odluke (kraj I, kraj VIII, telesni refren) iznela kao tri propusta. To nije razlika u mišljenju nego brisanje autorove odluke.
+> Razlog: u oceni posle III Helena je tri zatvorene odluke (kraj I, kraj IX, telesni refren) iznela kao tri propusta. To nije razlika u mišljenju nego brisanje autorove odluke.
+
+**P (novo, 23.08.2026) — dug se plaća unapred, nikad unazad.** Ako se u kasnijem
+poglavlju vidi da nešto nije postavljeno u ranijem, **to se ne rešava u ranijem.**
+Rešava se tamo gde je nađeno; nađeno ide u registar propuštenog, ne u stariji fajl.
+**Retroaktivno čitanje se ne radi** — kad se otvori poglavlje, ne čitaju se prethodna
+„da se vidi kako stoje". Opšta ocena zaključanog poglavlja se ne daje **osim ako autor
+ne kaže „otvaram"** tom rečju.
+
+> *Razlog:* pet sesija se ponavljao isti krug — zatvori se poglavlje, napiše sledeće,
+> pa se traži „pročitaj sve do tog poglavlja", pa nešto padne, pa se otključava. Uzrok
+> nije u poglavljima nego u meri: **mera je rasla brže od rukopisa.** Deo 0 i pet
+> dugova knjige upisani su 21.08., a I–IV su zaključani ranije, po meri koja je merila
+> samo rečenicu i poglavlje. Sve zaključano pod starom merom **mora** pasti pod novom
+> — to nije nalaz nego artefakt zadatka.
+>
+> **MORATORIJUM: I–V se ne otvaraju dok IX ne bude napisan.** Jedan jedini prolaz kroz
+> njih zakazan je za trenutak kad knjiga bude cela — tada mera prestaje da raste, jer
+> nema više poglavlja koje bi je promenilo.
 
 **M (novo) — sprat se prijavljuje uz nalaz.** Svaka Helenina ocena, pohvala ili primedba mora reći **na kom spratu govori** — rečenica, poglavlje ili knjiga. Zabranjeno mešati spratove u jednoj presudi. „Ovo nije na nivou" bez sprata je bezvredna rečenica.
 > Razlog: knjiga je na spratu rečenice pogodila cilj, a na spratu knjige nije bila ni merena. Mešanje ta dva daje lažnu presudu u oba smera.
