@@ -48,6 +48,19 @@ I. Posle toga ništa. Prošlost je opasna, sadašnjost nije.
 gradu · dva zakopana telefona iz VI i njegova sopstvena rečenica o tome šta se
 vraća kad ga taj svet ponovo čuje · Andrijanin telefon u VIII.
 
+**ODLUKA AUTORA, 23.08.2026 — D2 SE CEO PLAĆA U VIII. VII ostaje čist.**
+
+Razlog, sprat knjige: **hronologija ne dopušta drugačije.** Starčeva radionica je
+ponuđena u I, a I je sadašnjost — dvanaest godina posle nestanka. **VII se dešava
+pre I** (jedanaest godina posle nestanka), pa David tog starca još nije ni sreo i
+za radionicu ne zna. Jedino poglavlje čija je sadašnjost posle I jeste **VIII**.
+
+Drugi razlog: VII je 5.896 reči — 38% knjige. Uneti u njega drugu radnju znači
+razbiti poglavlje koje već ima svoju.
+
+**Ranije zabeleženo kao „D2 plaćen u VII" je povučeno.** Papir u džepu nije dodir
+spolja nego Katarina — vidi upis o ceduljici u dnevniku, VII/VIII.
+
 ### D3 — KATARINA KAO OSOBA
 
 **Dijagnoza.** Ona nosi najveći ulog u knjizi — ona je ono što se gubi — a najslabije

@@ -156,12 +156,12 @@ Pun tekst u `FINALNI_PROLAZ_PRAVILA.md`. Sažeto:
 | dug | stanje | gde se plaća |
 |-----|--------|--------------|
 | **D1 sat** (mart) | postavljen u IV, ne kuca dalje | **VIII** — jedina preostala sadašnjost |
-| **D2 dodir spolja** | plaćen u I, prenet iz II i III | **VII ili VIII** — mora skrenuti David, a ona ostati |
+| **D2 dodir spolja** | plaćen u I, prenet iz II i III | **VIII** — odluka autora 23.08.; VII ne može (dešava se pre I, David još ne zna za radionicu) |
 | **D3 Katarina** | raste IV → V → VIII | **VII** — jedini prazan razmak |
 | **D4 figura** | ponovljena u IV i V | **VI** — model je III |
 | **D5 strah** | nijedno ga još ne nosi | VI, VII, **VIII** |
 
-**VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom.
+**VIII nosi najviše:** sat, dodir spolja, Katarinu i kraj knjige odjednom — **na 1.574 reči.** To je najveći strukturni rizik u knjizi i zna se unapred.
 
 **Ono što knjizi fali nije propušteno — odloženo je, svaki dug uz razlog.** Puno
 obrazloženje i registar u `DUGOVI_KNJIGE.md`.
