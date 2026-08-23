@@ -8,6 +8,45 @@
 > od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
 > zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
 
+---
+
+## KAKO SE OVAJ FAJL ČITA
+
+**Ovo je istorija rada, ne registar.** Pamti *šta se radilo i zašto*. Za ono što se
+**ne dira** postoji `REGISTAR_ODLUKA.md` — **kad se sukobe, važi registar.**
+
+Fajl je rastao hronološki kroz mnogo sesija, pa **nije poređan po poglavljima nego po
+datumima.** Isto poglavlje se pojavljuje na više mesta, u različitim prolazima. To je
+namerno — svaki prolaz je zaseban zapis i ne prepisuje prethodni.
+
+### Mapa — gde je šta
+
+| odeljak | šta sadrži |
+|---|---|
+| **Plan i pravila procesa** (vrh) | dva pravila radnog procesa, stil-filter, rezime odluka po prioritetu |
+| **Ček-lista po poglavlju** | **arhiva** — zamenjena, ostavljena za istoriju |
+| **Mapa po poglavlju** | šta je specifično za svako poglavlje iznad opšteg filtera; „NE DIRATI" ovde je već doneta odluka |
+| **Dnevnik rada po poglavljima** | najstariji sloj |
+| **Finalni prolaz** | I, II, III zatvoreni u finalnom prolazu |
+| **VI — Prazna stolica** | dva zapisa: raniji prolaz, pa **sesija 23.08.** (zatvaranje) |
+| **PODELA VII** | 23.08. — zašto i kako je knjiga postala devetodelna |
+| **VII/VIII/IX — sesija 23.08.** | ceduljica, „deset godina", Katarinina poruka, D2 |
+| **VII — Beli grad / VIII — Ćebence** *(niže)* | **stariji zapisi**, pre podele; „VIII" tu znači Ćebence |
+| **Prolaz kroz celu knjigu** | posle zatvaranja tadašnjeg VIII |
+| **Prolaz na spratu knjige — I, II, III** | zatvoreno zauvek, 05.08. |
+| **IV — Pariz / V — Nestanak** | ulazni listovi, nalazi, izmene |
+| **I–V zaključano 21.08.** | objedinjavanje tri grane |
+| **Otvoreno pitanje — kuća ili stan** | dno fajla, i dalje otvoreno |
+
+### Šta tražiti gde
+
+- **„Sme li se ovo dirati?"** → `REGISTAR_ODLUKA.md`, ne ovde.
+- **„Šta poglavlje duguje knjizi?"** → `DUGOVI_KNJIGE.md`.
+- **„Gde smo stali?"** → `NASTAVAK.md`.
+- **„Zašto je ovo baš ovako?"** → ovde, i samo ovde.
+
+
+
 
 **Poreklo:** stara analiza je došla iz spoljnog čitanja (druga sesija, čitalac bez pristupa punom kontekstu knjige) koje je uporedilo tekst sa velikim piscima. Duffy je te argumente prepoznao kao tačne. Prošli smo kroz svaku tačku u razgovoru pre pisanja ovog dokumenta — neke smo potvrdili, neke ublažili, jednu odbacili kao pogrešnu za ovu knjigu.
 
