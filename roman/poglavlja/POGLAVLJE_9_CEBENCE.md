@@ -106,13 +106,13 @@ Nasmešila se. „Dobro. Ne na silu."
 
 Nosila je čaše do sudopere kad sam progovorio.
 
-„Kosa ti je na sve strane."
+„Naročito to", rekao sam.
 
 Stala je. Čaše u obe ruke, na pola puta.
 
 „Molim?"
 
-„Ništa. Tako mi se učinilo."
+„Ništa."
 
 Okrenula se polako. Gledala me je onim pogledom koji traži gde je zamka, pa je našla, pa joj je krenulo u lice pre nego što je stigla da ga zaustavi.
 
