@@ -10,7 +10,7 @@ Konobar je doneo kafu i vodu pre nego što sam seo. Pogledao je dve prazne stoli
 
 „Ne", rekao sam. „Ne čeka se niko."
 
-Ostao sam sam za stolom za četvoro. Navikao sam na stolove na kojima fali ljudi.
+Ostao sam sam za stolom za četvoro.
 
 Telefon je zazvonio.
 
