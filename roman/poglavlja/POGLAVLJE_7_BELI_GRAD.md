@@ -22,7 +22,7 @@ Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i pr
 
 „Ništa. Umoran."
 
-„Nisi umoran. Umornog znam." Sačekala je. Ona ume da ćuti baš onoliko koliko treba da čovek čuje sam sebe kako je rekao premalo. „Ćutiš otkad te je zvao onaj na kapiji."
+„Nisi umoran. Umornog znam." Sačekala je onoliko koliko je trebalo. „Ćutiš otkad te je zvao onaj na kapiji."
 
 „Drugarica imala udes. Preksinoć. Kolima." Povukao sam dim. „Neki kreten vozio kao lud po kiši, pa izašao iz kola bez ogrebotine. Nju vadili na delove."
 
