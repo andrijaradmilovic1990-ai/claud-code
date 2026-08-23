@@ -60,7 +60,7 @@ Njoj sam rekao samo da se taj dan nećemo videti. Nije pitala zašto, a ja nisam
 
 A onda je Andrijana došla po mene kolima, jednog jutra, i krenuli smo za Beli grad.
 
-Pošao sam ka njenim kolima tako da mi ostanu sa strane, ne iza mene. Čak i tad. Čak ni kad idem ka njoj telo nije znalo da prestane.
+Pošao sam ka njenim kolima tako da mi ostanu sa strane, ne iza mene. Čak ni tog jutra telo nije znalo da prestane.
 
 ⁂
 
