@@ -29,6 +29,34 @@ arhiva — na drugoj živi materijal za IV koji nije uzet (utrnula noga, blok
 
 ---
 
+## MORATORIJUM NA I–V (odluka autora, 23.08.2026.)
+
+**I–V se ne otvaraju dok VIII ne bude napisan.** Ni na nalaz, ni na pitanje, ni u
+opštoj oceni.
+
+**Dijagnoza koja je do ovoga dovela.** Pet sesija se ponavljao isti krug: zatvori se
+poglavlje, napiše sledeće, pa se pročita „sve do tog poglavlja" — i svaki put nešto
+padne, pa se otključava. Uzrok nije u poglavljima. **Mera je rasla brže od rukopisa:**
+Deo 0, pet dugova knjige i pravila H7/N/O upisani su 21.08., a I–IV su zaključani
+pre toga, po meri koja je merila samo rečenicu i poglavlje. Sve zaključano pod starom
+merom mora pasti pod novom — to nije nalaz nego artefakt zadatka. Zahtev „pročitaj
+sve do ovog poglavlja" garantuje nalaz, uvek, beskonačno.
+
+**Pravilo P — dug se plaća unapred, nikad unazad.**
+Ako se u kasnijem poglavlju vidi da nešto nije postavljeno u ranijem, to se ne rešava
+u ranijem. Rešava se tamo gde je nađeno. Nađeno ide **u registar propuštenog**, ne u
+fajl.
+
+**Iz toga sledi:**
+- Retroaktivno čitanje se ne radi. Kad se otvori poglavlje, čita se spisak dugova koje
+  ono plaća — ne prethodna poglavlja „da se vidi kako stoje".
+- Opšta ocena zaključanog poglavlja se ne daje osim ako autor ne kaže **„otvaram"** tom
+  rečju.
+- **Jedan jedini prolaz kroz I–V ostaje zakazan za trenutak kad VIII bude napisan** —
+  tada mera prestaje da raste, jer nema više poglavlja koje bi je promenilo.
+
+---
+
 ## VI — gde je tačno stalo
 
 **Urađeno:**
