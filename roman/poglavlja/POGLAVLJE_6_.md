@@ -110,6 +110,12 @@ On je vozio. Uniforma mu je stajala malo zategnuto oko stomaka, kapa bačena na 
 
 Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.
 
+„Vodu da vam dopunim?"
+
+„Može", rekao sam.
+
+Jezik mi je bio pun ljuski.
+
 U gepeku iza nas bilo je nešto što nije smelo da se vidi. Nešto zbog čega smo se i vozili baš ovako — u kolima koja niko ne zaustavlja, koja prolaze kroz svaki punkt kao kroz vazduh, jer ko će zaustaviti sopstvena kola. Ne kriješ se od patrole. Patrola te vozi.
 
 Na jednom semaforu, drugi auto, civilni, zatrubio je nestrpljivo iza nas. Čovek za volanom je samo pogledao u retrovizor. Ništa nije rekao, ništa nije uradio. Onaj iza je video šta vozi ispred njega, i ućutao, i propao u svoje sedište kao da bi da nestane. Crveno je trajalo dugo. Niko više nije trubio.

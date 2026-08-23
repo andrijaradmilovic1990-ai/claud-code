@@ -112,11 +112,13 @@ još nije imala~~, dovela me ovamo pre nego što je Andrijana pozvala~~."
 
 ### Šta VI još duguje
 
-**D4 — figura.** VI je šesti put isti potez: okvir → okidač → zaron → povratak.
-Model za prekid je III, gde okvir **probija** zaron („Je l' ima još luka?" usred
-magacina). Materijal u VI postoji i sam se rimuje: u zaronu pljuje ljuske semenki
-kroz prozor, u okviru stoji „ljuske semenki nigde — nije ih ni bilo". **Rima je tu,
-probijanje nije.** Traži napisanu rečenicu, pa ide posebno i čeka „da".
+**D4 — figura. PLAĆENO 23.08.** Okvir sada probija zaron. Usred vožnje patrolnim
+kolima upada konobarev glas iz srede — „Vodu da vam dopunim?" / „Može", rekao sam. /
+**Jezik mi je bio pun ljuski.** — i David odgovara **ne izlazeći iz sećanja**; zaron
+se nastavlja bez šava. Ništa se ne objašnjava: račun se sam isplaćuje dvanaest redova
+kasnije, na već postojećem „ljuske semenki nigde — nije ih ni bilo… ali jezik mi je
+tražio gorčinu pod zubom". Model je III („Je l' ima još luka?"), predmet je drugi.
+Napisano u autorovo ime, odobreno pojedinačno po Pravilu K.
 
 ---
 
