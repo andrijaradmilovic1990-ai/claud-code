@@ -6,19 +6,36 @@ svi predlozi i sve izmene idu na srpskom.
 
 ## PRVO — pre bilo čega
 
-Pročitaj **`roman/NASTAVAK.md`**. To je handoff: gde je revizija stala, šta je
-blokirano, šta čeka odobrenje. Bez toga ne znaš gde si.
+**Dva fajla, tim redom:**
+
+1. **`roman/NASTAVAK.md`** — handoff: gde je revizija stala, šta je sledeće.
+2. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
+   predloga izmene, ne samo na početku sesije.
+
+Bez ta dva ne znaš gde si i otvorićeš nešto što je već zatvoreno.
 
 Zatim, po potrebi:
 
 | Fajl | Kad ga otvaraš |
 |------|----------------|
-| `roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md` | uvek pre otvaranja poglavlja — sadrži Deo 0, radna pravila, spisak zaštićenog |
+| `roman/dokumenti/DUGOVI_KNJIGE.md` | pre otvaranja poglavlja — koji dug knjige pada baš tu |
+| `roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog |
 | `roman/dokumenti/PRAVILA_STILA.md` | zanat — kako se piše |
 | `roman/dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta |
-| `roman/dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada, status po poglavlju |
+| `roman/dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — **istorija, ne registar** |
 
-Poglavlja su u `roman/poglavlja/`.
+**Razlika koja se stalno meša:** dnevnik pamti *šta se radilo i zašto*; registar
+pamti *šta se ne dira*. **Kad se sukobe — važi registar.**
+
+## Knjiga ima devet poglavlja
+
+Od **23.08.2026.** Stari VII (5.896 reči, 38% knjige) podeljen je na **VII — Beli
+grad** i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**.
+
+**Svaki zapis stariji od tog datuma koji kaže „VIII" misli na Ćebence (danas IX).**
+Stari zapisi se ne prepisuju — oni su istorija rada.
+
+Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 
 ## Pravila koja se ne krše
 
@@ -49,11 +66,30 @@ zatečen zastareo za pet upisanih izmena.)
 **Pravilo G — ako se dvoumiš, ne diraj.**
 Prag je „ovo je merljivo bolje", ne „ovo bi moglo drugačije".
 
+**Pravilo P — dug se plaća unapred, nikad unazad.**
+Ako se u kasnijem poglavlju vidi da nešto nije postavljeno u ranijem, **to se ne
+rešava u ranijem.** Rešava se tamo gde je nađeno; nađeno ide u registar propuštenog,
+ne u stariji fajl. **Retroaktivno čitanje se ne radi** — kad se otvori poglavlje, ne
+čitaju se prethodna „da se vidi kako stoje". Opšta ocena zaključanog poglavlja se ne
+daje **osim ako autor ne kaže „otvaram"** tom rečju.
+
+*Zašto ovo pravilo postoji:* pet sesija se ponavljao isti krug — zatvori se poglavlje,
+napiše sledeće, pa se traži „pročitaj sve do tog poglavlja", pa nešto padne, pa se
+otključava. Uzrok nije u poglavljima nego u meri: **mera je rasla brže od rukopisa.**
+Zahtev „pročitaj sve do ovog poglavlja" garantuje nalaz, uvek, beskonačno.
+
+**MORATORIJUM: I–V se ne otvaraju dok IX ne bude napisan.** Jedan jedini prolaz kroz
+njih zakazan je za trenutak kad knjiga bude cela — tada mera prestaje da raste.
+
 **ZAMRZNUTO — ne otvara se ni na pitanje:**
-redosled poglavlja i sadržaj radnje · hronologija i registar · zapečaćena imena
+sadržaj radnje i njen redosled · hronologija i registar · zapečaćena imena
 (Davidovo, ime grada, Katarinino u naraciji, Jovanino van dozvoljenih mesta) ·
-zaštićeni pasusi sa spiska u `FINALNI_PROLAZ_PRAVILA.md` · **nove scene, novi
-likovi, nova mesta radnje**.
+zaštićena mesta iz `REGISTAR_ODLUKA.md` · **nove scene, novi likovi, nova mesta
+radnje**.
+
+*Jedini izuzetak ikad napravljen:* broj poglavlja — 23.08.2026, na inicijativu
+autora, VII je podeljen na dva. Redosled radnje time nije promenjen; nijedna
+rečenica nije premeštena.
 
 **Stil je autorov.** Ne uvodi tuđi ton. Zabranjeno dodavati rečenice koje „zvuče
 kao Bukovski" — pastiš je gori od trenutnog stanja. David ne psuje; to je
