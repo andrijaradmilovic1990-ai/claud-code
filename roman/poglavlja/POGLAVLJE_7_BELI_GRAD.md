@@ -46,7 +46,7 @@ Rekao sam to bez težine, kao da se žalim na nekog ko mi je dosadio. To je bila
 
 „Jesi. Ćutiš." Uhvatila mi ruku, onu slobodnu, hladnu od vetra, grejala je između svoje dve. „Nemoj da se opterećuješ tuđim problemima. Ne možeš ti sve da poneseš na sebe. Naljutiš se na nju, a posle ne spavaš zbog nje. Takav si."
 
-Pustio sam je da misli da je u pravu. Da sam ljut na drugaricu koja ne pazi na sebe, da mi je zato teško, da je to sve. Sve tačno. Drugarica. Ne pazi. Teško mi. Svaku reč bih ponovio pod zakletvom — a opet bi sve zajedno bilo laž. Ruka mi je bila između njene dve, topla, a ja sam gledao u onaj pravac.
+Pustio sam je da misli da je u pravu. Da sam ljut na drugaricu koja ne pazi na sebe, da mi je zato teško, da je to sve. Drugarica. Ne pazi. Teško mi. Ruka mi je bila između njene dve, topla, a ja sam gledao u onaj pravac.
 
 Popušio sam do kraja, bacio pikavac, zgazio. Grad se dole sasvim upalio.
 
