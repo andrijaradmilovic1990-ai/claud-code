@@ -122,6 +122,8 @@ Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao
 
 Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
 
+Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli.
+
 ⁂
 
 Posle toga je počelo nešto što nismo nazvali ničim, jer čim nazoveš nešto, moraš da odgovaraš za njega.
