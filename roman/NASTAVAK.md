@@ -41,6 +41,25 @@ nisu videle; objedinjen je i spojen. Ostale grane su arhiva.
 
 ---
 
+## PLAN DO KRAJA — četiri koraka, tim redom *(odluka autora, 23.08.)*
+
+**Ovaj redosled se ne pregovara i ne preskače.**
+
+| | korak | stanje |
+|---|---|---|
+| **1** | **Sanacija repoa** — dokumenti usklađeni s tekstom, sve zatvoreno na jednom mestu | **GOTOVO 23.08.** |
+| **2** | **VII, VIII, IX** — sva tri se otvore i završe | **u toku** |
+| **3** | **Čitanje cele knjige u nizu** — prvi put da postoji kao celina | čeka |
+| **4** | **Rad na celoj knjizi po CILJU** — obe polovine, rečenica i knjiga | čeka |
+
+**Zašto baš tako:** dok IX nije gotov, mera i dalje raste, pa svako vraćanje unazad
+proizvodi lažne nalaze (vidi moratorijum). Tek kad knjiga postoji cela, mera prestaje
+da se menja — i tek tada se čita u jednom dahu i radi po cilju.
+
+**Korak 3 je jedini trenutak kad se I–V otvaraju.**
+
+---
+
 ## ŠTA JE SLEDEĆE — po redu
 
 ### 1. VII — Beli grad *(otvoren, u toku)*
@@ -81,9 +100,10 @@ Na **1.573 reči** nosi tri stvari odjednom:
 
 **Ovo je najveći strukturni rizik u knjizi i zna se unapred.**
 
-### 4. Tek kad IX bude gotov — jedan prolaz kroz I–V
+### 4. Tek kad IX bude gotov — čitanje cele knjige, pa rad po cilju
 
-Prvi i poslednji. Do tada se **ne diraju** (vidi moratorijum u registru).
+Prvi i poslednji prolaz kroz I–V. Do tada se **ne diraju** (vidi moratorijum u
+registru). To je korak 3 i 4 iz plana gore.
 
 ---
 
