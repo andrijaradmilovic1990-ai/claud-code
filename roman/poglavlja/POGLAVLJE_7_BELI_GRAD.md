@@ -16,7 +16,7 @@ To je bilo pre vidikovca. Gore sam doneo samo ono što je od toga ostalo u meni.
 
 „Kako nema. Vidi se sve." Naslonila se na betonsku ogradu, gledala dole. „Ti si čudak. Dovedeš čoveka na najlepše mesto u gradu u šest ujutru i kažeš nema se šta videti."
 
-Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i preko pruge, bio je drugi grad i u njemu bolnica i u njoj ona, polomljena, na aparatima. Nisam znao tačno gde. Znao sam pravac. Čovek zna gde mu je rana i kad je ne vidi.
+Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i preko pruge, bio je drugi grad i u njemu bolnica i u njoj ona, polomljena, na aparatima. Nisam znao tačno gde. Znao sam pravac, i gledao sam u njega kao da se odande nešto vidi.
 
 „Šta je s tobom danas?"
 
