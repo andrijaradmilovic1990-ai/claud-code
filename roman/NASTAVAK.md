@@ -176,10 +176,23 @@ Po zatvaranju: fajl + upis u dnevnik + commit, **bez traženja.**
 ## Prompt za novu sesiju
 
 ```
-Nastavi.
+Nastavi. Na redu je VII — Beli grad.
 
-(Sve je u roman/NASTAVAK.md — otvori ga prvi, pa REGISTAR_ODLUKA.md.
-Ne objašnjavaj mi ispočetka i ne prepričavaj mi šta piše u fajlu.)
+Pre bilo čega pročitaj, tim redom:
+  roman/NASTAVAK.md
+  roman/dokumenti/REGISTAR_ODLUKA.md
+  roman/dokumenti/DUGOVI_KNJIGE.md
+pa poglavlje roman/poglavlja/POGLAVLJE_7_BELI_GRAD.md celo, red po red.
+
+Repo je saniran 23.08. i dokumenti su usklađeni s tekstom — veruj im.
+Ne prepričavaj mi šta u njima piše i ne objašnjavaj mi ispočetka.
+
+I–V se ne otvaraju. Ni na nalaz, ni na pitanje, ni u opštoj oceni.
+Ako nešto nađeš u njima — u registar propuštenog, ne u fajl (Pravilo P).
+
+Kad pročitaš VII, javi ulazni list i kreni s predlozima — najviše četiri odjednom,
+jedno po jedno čeka „da". Najmanje trećina unetog mora biti napisana rečenica,
+ne rez (Pravilo J).
 
 Piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
 ```
