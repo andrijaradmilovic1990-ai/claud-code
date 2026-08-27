@@ -144,7 +144,7 @@ Katarina je primetila telefon pre nego što je primetila bilo šta drugo. Ne lju
 
 Pogledala me je, dugo, kao da proverava nešto što ne piše na ekranu.
 
-„Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno, i baš zato je bolelo.
+„Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno.
 
 Meseci su prolazili kroz telefon. Ona je ustala iz kreveta, pa iz sobe, pa hodala uz štap, pa bez njega, sve to saznao sam u porukama, slovo po slovo, kao čovek koji čita knjigu o nečijem oporavku umesto da je gleda. Smejala se opet, u porukama se to oseti, neka rečenica koja je odjednom imala onaj njen stari obrt, onu oštricu. Vraćala se u sebe.
 
