@@ -147,7 +147,29 @@ zgradi, i menja li se „u kući" u IV?*
 **Napomena:** i da odgovor bude „menja se", izmena čeka prolaz kroz I–V posle IX —
 moratorijum važi.
 
-### 2. Kvota 2.4 u V — upisano a nerešeno
+### 2. Eho VII 95 ↔ VIII 465 — polomljen izmenom od 27.08. *(pitanje autoru, otvoreno)*
+
+Ista konstrukcija stajala je na dva mesta, u obrnutom smeru:
+
+- **VII, red 95** *(pre izmene)*: „…onako kako se **prelazi preko nečeg što se boji
+  da ne povredi**." — njegova ruka na njenom obrazu, u bolnici.
+- **VIII, red 465** *(i dalje tako)*: „…onako kako se **drži nešto što se boji da ne
+  povredi**." — njene ruke na njegovom licu, za stolom.
+
+Isti pokret, obrnut smer. **Verovatno namerni eho.** Prepisom u VII od 27.08. jedna
+polovina je promenjena u „nečega što se ne sme pritisnuti" — eho je pukao. Propust
+je nastao jer se VIII tada nije otvaralo.
+
+**Tri izlaza, čeka se odluka autora:**
+
+1. vratiti VII 95 na staro — ali se vraća i „pređem" (prezent usred prošlog), pravi kvar
+2. **preneti novu formulaciju i u VIII 465** („onako kako se drži nešto što se ne sme
+   pritisnuti") — eho preživi u novim rečima *(preporuka)*
+3. ostaviti kako jeste — eho pukne
+
+**Pitanje se postavlja pre bilo kog predloga u VIII.**
+
+### 3. Kvota 2.4 u V — upisano a nerešeno
 
 Vodi se kao popunjena preko Andrijaninog „Dva broja, dva traga." Ona jeste pritisak
 i ona ne skreće — ali pritiska **postupak koji je već poznat**, ne ono što se u V
