@@ -40,7 +40,7 @@ Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i pr
 
 Rekao sam to bez težine, kao da se žalim na nekog ko mi je dosadio. To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton.
 
-„Što si onda ovakav, ako je samo drugarica koja stalno upadne u nešto?" Tačno. I zato je peklo.
+„Što si onda ovakav, ako je samo drugarica koja stalno upadne u nešto?" Tačno.
 
 „Nisam nikakav."
 
