@@ -148,7 +148,7 @@ Pogledala me je, dugo, kao da proverava nešto što ne piše na ekranu.
 
 Meseci su prolazili kroz telefon. Ona je ustala iz kreveta, pa iz sobe, pa hodala uz štap, pa bez njega, sve to saznao sam u porukama, slovo po slovo, kao čovek koji čita knjigu o nečijem oporavku umesto da je gleda. Smejala se opet, u porukama se to oseti, neka rečenica koja je odjednom imala onaj njen stari obrt, onu oštricu. Vraćala se u sebe.
 
-I što se ona vraćala, to sam ja postajao manje potreban, i oboje smo to znali, i nijedno nije reklo.
+I što se ona vraćala, to sam ja postajao manje potreban. Poruke su počele da stižu ujutru.
 
 Pa je pozvala, pred kraj godine, glasom punim, celim, glasom koji više nije bio onaj tanki izduvani iz one sobe.
 
