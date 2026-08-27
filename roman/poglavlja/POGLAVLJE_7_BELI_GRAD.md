@@ -142,7 +142,7 @@ Katarina je primetila telefon pre nego što je primetila bilo šta drugo. Ne lju
 
 „Teško joj je da spi."
 
-Pogledala me je, dugo, onako kako gleda žena koja ne sumnja u činjenice nego u nešto ispod njih što ne ume da imenuje.
+Pogledala me je, dugo, kao da proverava nešto što ne piše na ekranu.
 
 „Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno, i baš zato je bolelo.
 
