@@ -58,7 +58,7 @@ Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi 
 
 A onda je Andrijana došla po mene kolima, jednog jutra, i krenuli smo za Beli grad.
 
-Pošao sam ka njenim kolima tako da mi ostanu sa strane, ne iza mene. Čak i tad. Čak ni kad idem ka njoj telo nije znalo da prestane.
+Pošao sam ka njenim kolima tako da mi ostanu sa strane, ne iza mene. Čak i tad. Ni kad sam išao ka njoj telo nije znalo da prestane.
 
 ⁂
 
@@ -86,7 +86,7 @@ Stajao sam pred tim vratima duže nego što se stoji pred vratima. Onda sam uša
 
 Ležala je nasred sobe sva u onome u šta ih spakuju kad se mnogo toga slomi odjednom — noga gore, u nečemu, ruka u gipsu preko grudi, grudni koš povijen tako da se videlo da diše plitko, da je svaki dublji udah negde boli. Aparat je merio nešto i pikao na svaki otkucaj, strpljivo, glupo. Ispod čaršava je bila manja nego što je pamtim. Uvek je bila mršava, ali ovo nije bila mršavost, ovo je bilo koliko od čoveka ostane kad mu telo krene da troši samo sebe da bi se krpilo.
 
-A lice joj je bilo skoro čitavo. To me je saseklo gore od svega ostalog. Sve ispod polomljeno, a lice njeno — bledo, ispucalih usana, jedno oko podliveno crveno gde je negde pukla žila, posekotina prelepljena na obrazu, još jedna manja na čelu. Lice koje znam. Lice koje se na semaforu smejalo celim sobom, zubi beli u tami, posle noći u kojoj smo gazili tuđu krv.
+A lice joj je bilo skoro čitavo. Sve ispod polomljeno, a lice njeno — bledo, ispucalih usana, jedno oko podliveno crveno gde je negde pukla žila, posekotina prelepljena na obrazu, još jedna manja na čelu. Lice koje znam. Lice koje se na semaforu smejalo celim sobom, zubi beli u tami, posle noći u kojoj smo gazili tuđu krv.
 
 Otvorila je oči. Trebalo joj je trenutak da me uhvati pogledom, kroz lekove, kroz sve.
 
@@ -114,9 +114,9 @@ Jedan ugao usne joj je uspeo ovaj put. Malo.
 
 Nisam imao šta na to. Gledao sam aparat kraj kreveta, brojeve koji su skakali.
 
-Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek bili hladni, i držao je, i nijedno od nas nije reklo ništa, i aparat je pikao na svaki otkucaj, strpljivo, brojeći nešto čemu ni on ni ja nismo znali kraj.
+Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek bili hladni, i držao je, i nijedno od nas nije reklo ništa, i aparat je pikao na svaki otkucaj, brojeći nešto čemu ni on ni ja nismo znali kraj.
 
-Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Zid mi je bio iza leđa, po prvi put tog dana nisam morao da biram gde ću da stanem. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
+Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
 Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
 
@@ -142,13 +142,13 @@ Katarina je primetila telefon pre nego što je primetila bilo šta drugo. Ne lju
 
 „Teško joj je da spi."
 
-Pogledala me je, dugo, onako kako gleda žena koja ne sumnja u činjenice nego u nešto ispod njih što ne ume da imenuje.
+Pogledala me je, dugo, kao da proverava nešto što ne piše na ekranu.
 
-„Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno, i baš zato je bolelo.
+„Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno.
 
 Meseci su prolazili kroz telefon. Ona je ustala iz kreveta, pa iz sobe, pa hodala uz štap, pa bez njega, sve to saznao sam u porukama, slovo po slovo, kao čovek koji čita knjigu o nečijem oporavku umesto da je gleda. Smejala se opet, u porukama se to oseti, neka rečenica koja je odjednom imala onaj njen stari obrt, onu oštricu. Vraćala se u sebe.
 
-I što se ona vraćala, to sam ja postajao manje potreban, i oboje smo to znali, i nijedno nije reklo.
+I što se ona vraćala, to sam ja postajao manje potreban. Poruke su počele da stižu ujutru.
 
 Pa je pozvala, pred kraj godine, glasom punim, celim, glasom koji više nije bio onaj tanki izduvani iz one sobe.
 
