@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 23.08.2026.
+> Poslednje ažuriranje: 27.08.2026.
 
 ---
 
@@ -119,10 +119,11 @@ Dozvoljeno **najviše 2–3 puta u celoj knjizi.**
 |---|---|---|
 | 1 | III | *„…za to sam i kopao raku… najveća koju sam u životu izvojevao"* |
 | 2 | VI | *„Za nju nikad nisam pitao smem li."* |
-| 3 | — | **SLOBODNO — najviše jedno, za VII, VIII ili IX** |
+| 3 | VII | *„To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton."* (red 41) — **potrošeno 27.08.2026, odluka autora** |
 
-**Potrošeno 2 od 2–3.** Pre svakog zadržavanja takve formule u preostalim
-poglavljima — proveriti ovu tabelu. *(23.08. je iz VI izbačena treća instanca —
+**Potrošeno 3 od 3 — spisak je pun.** U VIII i IX se formula više ne sme pojaviti,
+ni kao „prirodna" rečenica — proveriti ovu tabelu pre zatvaranja oba poglavlja.
+*(23.08. je iz VI izbačena treća instanca —
 „To je bila cela lepota." — jer je stajala petnaest redova od mesta #2.)*
 
 ### Mehanizam „svaka reč tačna, zbir laž"
