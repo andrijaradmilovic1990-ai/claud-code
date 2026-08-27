@@ -86,7 +86,7 @@ Stajao sam pred tim vratima duže nego što se stoji pred vratima. Onda sam uša
 
 Ležala je nasred sobe sva u onome u šta ih spakuju kad se mnogo toga slomi odjednom — noga gore, u nečemu, ruka u gipsu preko grudi, grudni koš povijen tako da se videlo da diše plitko, da je svaki dublji udah negde boli. Aparat je merio nešto i pikao na svaki otkucaj, strpljivo, glupo. Ispod čaršava je bila manja nego što je pamtim. Uvek je bila mršava, ali ovo nije bila mršavost, ovo je bilo koliko od čoveka ostane kad mu telo krene da troši samo sebe da bi se krpilo.
 
-A lice joj je bilo skoro čitavo. To me je saseklo gore od svega ostalog. Sve ispod polomljeno, a lice njeno — bledo, ispucalih usana, jedno oko podliveno crveno gde je negde pukla žila, posekotina prelepljena na obrazu, još jedna manja na čelu. Lice koje znam. Lice koje se na semaforu smejalo celim sobom, zubi beli u tami, posle noći u kojoj smo gazili tuđu krv.
+A lice joj je bilo skoro čitavo. Sve ispod polomljeno, a lice njeno — bledo, ispucalih usana, jedno oko podliveno crveno gde je negde pukla žila, posekotina prelepljena na obrazu, još jedna manja na čelu. Lice koje znam. Lice koje se na semaforu smejalo celim sobom, zubi beli u tami, posle noći u kojoj smo gazili tuđu krv.
 
 Otvorila je oči. Trebalo joj je trenutak da me uhvati pogledom, kroz lekove, kroz sve.
 
