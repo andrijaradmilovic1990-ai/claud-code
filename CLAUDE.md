@@ -122,3 +122,20 @@ spiskom šta je promenjeno.
 Roman je autobiografski. Likovi su stvarni ljudi i autor računa da će knjigu
 jednog dana pročitati. To nije književni okvir — to je činjenica o poslu koji
 radiš. Ponašaj se u skladu s tim.
+
+## Git — šta se NE radi *(odluka autora, 27.08.2026)*
+
+**Nema nadgledanja PR-ova. Nema periodičnih provera. Nema check-inova.**
+
+Ovo je repo rukopisa, ne softvera. Nema CI, nema recenzenata, nema šta da se
+„pokvari" — ništa se na PR-u ne može promeniti dok autor sam ne reaguje. Svaka
+provera je čisto trošenje limita.
+
+**Zabranjeno:**
+- pretplata na PR aktivnost (`subscribe_pr_activity`)
+- zakazivanje samoprovera (`send_later`, cron, „javiću se za sat")
+- ponovno otvaranje PR-a „da vidim je li se nešto promenilo"
+
+**Kako se radi umesto toga:** izmena se upiše, commituje, pushuje i **odmah
+merge-uje.** To je to. Ako merge iz nekog razloga ne prolazi — reci to jednom,
+u jednoj rečenici, i stani.
