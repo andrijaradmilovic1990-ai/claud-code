@@ -1481,3 +1481,70 @@ autorova.
 zgradi, i menja li se „u kući" u IV?
 
 **Ništa nije dirano.** Pitanje je upisano, ne rešeno.
+
+---
+
+# VII — BELI GRAD: PROLAZ I ZATVARANJE (27.08.2026)
+
+Prvi prolaz kroz VII posle podele od 23.08. Poglavlje je pročitano do kraja, red po
+red. **2.190 → 2.126 reči.**
+
+## Odluka pre prolaza — rezervisano mesto #3
+
+Red 41: *„To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima —
+taj ton."*
+
+Postavljeno kao jedno pitanje, bez argumenta. **Autor je odlučio: troši se ovde.**
+Upisano u `REGISTAR_ODLUKA.md` — **spisak formula je pun, 3 od 3.** U VIII i IX se
+formula ne sme pojaviti ni kao „prirodna" rečenica.
+
+*Obrazloženje koje je pratilo predlog:* vrhunac VIII je izgovorena reč („Kukavica"),
+a kraj IX je zaštićeni refren — formula bi se na oba mesta takmičila s onim što tamo
+već stoji. Ovde ne imenuje emociju nego mehanizam knjige: laž je bila u tonu, ne u
+rečima.
+
+## Deset unetih izmena — pet rezova, pet prepisa
+
+**Pravilo J je pokriveno s viškom** (traži se trećina, uneto je pola).
+
+| red | vrsta | šta | zašto |
+|---|---|---|---|
+| 43 | rez | `Tačno. I zato je peklo.` → `Tačno.` | veznik uzroka + imenovana emocija (mehanika, Pravilo K) |
+| 61 | prepis | `Čak ni kad idem` → `Ni kad sam išao` | drugo „Čak" zaredom; prezent usred prošlog vremena |
+| 89 | rez | pala `To me je saseklo gore od svega ostalog.` | rangira reakciju umesto da je pokaže; uz to iz porodice formule zaključane na 3/3 |
+| 95 | prepis | `pređem` → `prešao`; `nečeg što se boji da ne povredi` → `nečega što se ne sme pritisnuti` | prezent usred prošlog; obrnut subjekat — ispadalo je da se obraz boji |
+| 117 | rez | pao prilog `strpljivo` | ponavljao se doslovno iz reda 87; okvir s aparatom ostaje, ali s varijacijom |
+| 119 | rez | pao umetak `po prvi put tog dana nisam morao da biram gde ću da stanem` | prevodio gest u reči, a sledeća rečenica ga pokazuje |
+| 119 | prepis | `Zid mi je bio iza leđa.` → `Leđa su mi bila pokrivena.` | prethodni rez ostavio „zid" dvaput zaredom; „svejedno" zadržalo oslonac |
+| 145 | prepis | `onako kako gleda žena koja ne sumnja u činjenice nego u nešto ispod njih što ne ume da imenuje` → `kao da proverava nešto što ne piše na ekranu` | pogled je objašnjavao sam sebe; sumnja prebačena u predmet |
+| 147 | rez | pao `i baš zato je bolelo` | ista klasa kao rez u redu 43 (mehanika, Pravilo K) |
+| 151 | prepis | `i oboje smo to znali, i nijedno nije reklo` → `Poruke su počele da stižu ujutru.` | udaljavanje se vidi kroz vreme slanja umesto da se izjavi |
+
+**Napomena o redu 145.** Autor je odbio rez i tražio da se na to mesto nešto ubaci,
+ne da se skrati. Ponuđene dve varijante, izabrana ona koja drži dužinu originala.
+*To je pravilo za dalje: kad rez skraćuje Katarininu prisutnost, prvo probati prepis.*
+
+## Prijavljeno a nedirano
+
+**Red 19** — *„Čovek zna gde mu je rana i kad je ne vidi."* Formalno rečenica koja
+potpisuje sopstvenu sliku (*„Znao sam pravac."* već nosi sve), po mehanici bi pala.
+**Zadržana:** nije objašnjenje nego proširenje — jedini put u poglavlju da glas
+izađe iz sobe. Prag „merljivo bolje" nije pređen (Pravilo G). Upisano da naredni
+prolaz ne pomisli da je previđeno.
+
+**Redovi 41 / 49 / 133** — poglavlje izgovara mehanizam knjige („svaka reč tačna,
+zbir laž") tri puta. Nalaz podnet kao jedno pitanje. **Autor: ne dira se.** Tema je
+gotova, ne otvara se ponovo.
+
+## Dugovi knjige — stanje po zatvaranju
+
+Ništa novo nije naplaćeno i ništa nije trebalo. **D3 (Katarina) je plaćen rasporedom
+23.08.** — VII počinje s njom na vidikovcu i završava se njom u drugoj sobi. D1 i D2
+hronologija ne dopušta (VII se dešava pre I). D5 nosi VIII.
+
+**Test D3, na izlazu:** *„Nemoj da se opterećuješ tuđim problemima... Takav si."* i
+*„Dobar si prijatelj."* — obe rečenice ona izgovara zbog sebe, ne zbog njega. Prolazi.
+
+**S čim čitalac izlazi:** *„Pitanje je samo kad odeš."* Gleda unapred.
+
+**STATUS: VII je zaključan. Sledeće je VIII — Kukavica.**

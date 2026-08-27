@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **23.08.2026.**
+> Poslednje ažuriranje: **27.08.2026.**
 
 ---
 
@@ -20,7 +20,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.561 reč.**
+Knjiga ima **devet poglavlja, 15.497 reči.**
 
 | # | Poglavlje | Stanje | reči | „kao" |
 |---|-----------|--------|------|-------|
@@ -30,8 +30,8 @@ Knjiga ima **devet poglavlja, 15.561 reč.**
 | IV | Pariz | zaključano | 1.782 | 0,56% |
 | V | Nestanak | zaključano | 1.327 | 0,68% |
 | VI | Prazna stolica | zaključano *(23.08.)* | 1.437 | 1,04% |
-| **VII** | **Beli grad** | **OTVOREN** | 2.190 | 0,64% |
-| VIII | Kukavica | čeka *(novo, iz podele)* | 3.709 | 1,02% |
+| VII | Beli grad | zaključano *(27.08.)* | 2.126 | 0,75% |
+| **VIII** | **Kukavica** | **na redu** *(novo, iz podele)* | 3.709 | 1,02% |
 | IX | Ćebence | čeka *(bilo VIII)* | 1.573 | 0,38% |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
@@ -62,24 +62,23 @@ da se menja — i tek tada se čita u jednom dahu i radi po cilju.
 
 ## ŠTA JE SLEDEĆE — po redu
 
-### 1. VII — Beli grad *(otvoren, u toku)*
+### 1. VII — Beli grad *(ZAKLJUČAN 27.08.2026)*
 
-Posle podele **duguje samo sebi.** Dugovi knjige su rešeni:
+Prolaz urađen do kraja, red po red. **2.190 → 2.126 reči. Deset izmena — pet rezova,
+pet prepisa** (Pravilo J pokriveno s viškom). Ceo spisak s razlozima u dnevniku.
 
-- **D3 Katarina — plaćena rasporedom.** VII je sad njeno poglavlje: počinje s njom
-  na vidikovcu, završava se njom u drugoj sobi dok on gleda telefon. Nijedna nova
-  rečenica nije bila potrebna.
-- **D2 dodir spolja — prebačen u IX**, hronologija ne dopušta drugačije.
-- **Kvota 2.2 dostojanstvo** — zatečena kao već plaćena u VIII („Kukavica", rekla je.
-  Samo to.). Skinuta sa spiska.
+Dva upisa koja se nose dalje:
 
-**Šta preostaje:** prolaz red po red kroz celu ček-listu. Najviše 15 predloga, u
-porcijama od najviše četiri. **Najmanje trećina unetog mora biti napisana rečenica**
-(Pravilo J).
+- **Rezervisano mesto #3 (formula) potrošeno** u redu 41, odlukom autora.
+  **Spisak je pun: 3 od 3.** U VIII i IX se formula ne sme pojaviti ni kao
+  „prirodna" rečenica — provera je obavezna pre zatvaranja oba.
+- **Kad rez skraćuje Katarininu prisutnost — prvo probati prepis.** Odluka autora
+  na redu 145: „radije bih ubacio nešto drugo nego da sečem toliko."
 
-**Nijedna izmena na nivou rečenice još nije rađena u VII posle podele.**
+D3 je bio plaćen rasporedom još 23.08. i na izlazu je proveren: Katarina ima dve
+rečenice koje izgovara zbog sebe, ne zbog njega.
 
-### 2. VIII — Kukavica *(novo poglavlje)*
+### 2. VIII — Kukavica *(NA REDU)*
 
 Najduže u knjizi — 3.709 reči, jedna noć za stolom. **Nijedna izmena nikad nije
 rađena pod ovim brojem**; sve što dnevnik pominje o „VII" odnosi se na tekst pre
@@ -132,7 +131,12 @@ Puno obrazloženje u `DUGOVI_KNJIGE.md`.
 - **V:** „**Vrata zgrade** dole, ona teška, gvozdena." — zgrada sa stepeništem niz
   koje se čuju koraci.
 
-Oba su sadašnjost, oba isti dom. Jedno kaže kuća, drugo zgrada.
+- **VII, red 161** *(upisano 27.08.)*: „…u **stanu** u kom sam još uvek imao jednu
+  fioku." Treći podatak. VII je prošlost — pre zajedničkog života — pa nije isti dom
+  i ne rešava pitanje sam po sebi, ali je jedino mesto u knjizi gde dom nosi reč
+  „stan".
+
+Prva dva su sadašnjost, oba isti dom. Jedno kaže kuća, drugo zgrada.
 
 **Ograda:** „u kući" na srpskom najčešće znači *u domu*, ne kuću kao objekat, pa se
 može braniti i uz stan. To je razlika između stvarne greške i idioma.
@@ -176,21 +180,23 @@ Po zatvaranju: fajl + upis u dnevnik + commit, **bez traženja.**
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Na redu je VII — Beli grad.
+Nastavi. Na redu je VIII — Kukavica.
 
 Pre bilo čega pročitaj, tim redom:
   roman/NASTAVAK.md
   roman/dokumenti/REGISTAR_ODLUKA.md
   roman/dokumenti/DUGOVI_KNJIGE.md
-pa poglavlje roman/poglavlja/POGLAVLJE_7_BELI_GRAD.md celo, red po red.
+pa poglavlje roman/poglavlja/POGLAVLJE_8_KUKAVICA.md celo, red po red.
 
-Repo je saniran 23.08. i dokumenti su usklađeni s tekstom — veruj im.
+Repo je saniran 23.08, VII zaključan 27.08. Dokumenti su usklađeni s tekstom — veruj im.
 Ne prepričavaj mi šta u njima piše i ne objašnjavaj mi ispočetka.
 
-I–V se ne otvaraju. Ni na nalaz, ni na pitanje, ni u opštoj oceni.
+I–VII se ne otvaraju. Ni na nalaz, ni na pitanje, ni u opštoj oceni.
+Formula „to je bila cela X / to je bilo najgore" je potrošena 3 od 3 — ne sme se
+pojaviti u VIII ni kao „prirodna" rečenica.
 Ako nešto nađeš u njima — u registar propuštenog, ne u fajl (Pravilo P).
 
-Kad pročitaš VII, javi ulazni list i kreni s predlozima — najviše četiri odjednom,
+Kad pročitaš VIII, javi ulazni list i kreni s predlozima — najviše četiri odjednom,
 jedno po jedno čeka „da". Najmanje trećina unetog mora biti napisana rečenica,
 ne rez (Pravilo J).
 
