@@ -136,6 +136,7 @@ provera je čisto trošenje limita.
 - zakazivanje samoprovera (`send_later`, cron, „javiću se za sat")
 - ponovno otvaranje PR-a „da vidim je li se nešto promenilo"
 
-**Kako se radi umesto toga:** izmena se upiše, commituje, pushuje i **odmah
-merge-uje.** To je to. Ako merge iz nekog razloga ne prolazi — reci to jednom,
-u jednoj rečenici, i stani.
+**Kako se radi umesto toga:** izmena se upiše, commituje i pushuje kako ide.
+**PR i merge se ne rade posle svake izmene nego na kraju, kad se skupi**
+*(odluka autora, 27.08.2026)* — jedan PR, jedan merge, pa gotovo. Ako merge iz
+nekog razloga ne prolazi — reci to jednom, u jednoj rečenici, i stani.

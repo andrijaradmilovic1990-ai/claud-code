@@ -114,7 +114,7 @@ Jedan ugao usne joj je uspeo ovaj put. Malo.
 
 Nisam imao šta na to. Gledao sam aparat kraj kreveta, brojeve koji su skakali.
 
-Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek bili hladni, i držao je, i nijedno od nas nije reklo ništa, i aparat je pikao na svaki otkucaj, strpljivo, brojeći nešto čemu ni on ni ja nismo znali kraj.
+Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek bili hladni, i držao je, i nijedno od nas nije reklo ništa, i aparat je pikao na svaki otkucaj, brojeći nešto čemu ni on ni ja nismo znali kraj.
 
 Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Zid mi je bio iza leđa, po prvi put tog dana nisam morao da biram gde ću da stanem. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
