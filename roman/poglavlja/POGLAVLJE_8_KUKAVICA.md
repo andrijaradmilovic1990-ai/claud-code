@@ -462,7 +462,7 @@ Prišla je. Osetio sam toplinu pre dodira.
 
 Pa me je poljubila.
 
-Nije bio oprez, nije bio pokušaj — bio je odgovor na nešto što je čekalo godinama i nikad nije bilo izgovoreno. Ruke su joj bile uz moje lice, lagano, onako kako se drži nešto što se ne sme pritisnuti.
+Nije bio oprez i nije bio pokušaj. Ruke su joj bile uz moje lice, lagano, onako kako se drži nešto što se ne sme pritisnuti.
 
 I u toj sekundi — parfem. Ne onaj njen stari, ne ono što pamtim — novi, tuđi skoro, i ispod njega nešto njeno što je ostalo. I ispod toga nešto što nije njeno ni staro ni novo nego moje i njeno. Njena krv na mojim rukama.
 
