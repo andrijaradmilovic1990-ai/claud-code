@@ -20,7 +20,7 @@ Nisam znao zašto stojim. Telo me je zaustavilo, a glava je bila zauzeta nečim 
 
 Onda sam čuo kako se jorgan pomeri.
 
-Andrijana. Nije spavala — ili je bila na ivici i čula me kroz nju, jer Andrijana i san nikad nisu bili tako čvrsti. Okrenula glavu na jastuku. U procepu odškrinutih vrata, u mraku sobe, video sam kako otvara oči.
+Andrijana. Nije spavala — ili je bila na ivici i čula me kroz nju, jer Andrijana i san nikad nisu bili blizu. Okrenula glavu na jastuku. U procepu odškrinutih vrata, u mraku sobe, video sam kako otvara oči.
 
 Pogledala me je. Ja nju.
 
