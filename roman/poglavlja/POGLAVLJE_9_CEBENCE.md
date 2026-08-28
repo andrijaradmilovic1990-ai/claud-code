@@ -160,7 +160,7 @@ Otišao sam do kupatila.
 
 Pustio sam hladnu vodu — ne toplu, hladnu, jer mi je trebalo nešto konkretno. Stavio ruke ispod.
 
-Gledao sam ih kako stoje pod mlazom. Duge ruke, sek koji mi je neko odavno ostavio na desnom kažiprstu i koji je zacelio koso i ostao kao pitanje koje niko nikad nije postavio. Ruke koje su radile svašta. Ruke koje su maločas namestile ćebence oko jedne žene i utihnule i otišle.
+Gledao sam ih kako stoje pod mlazom. Duge ruke, sek koji mi je neko odavno ostavio na desnom kažiprstu i koji pod hladnom vodom pobeli pre ostale kože. Ruke koje su radile svašta. Ruke koje su maločas namestile ćebence oko jedne žene i utihnule i otišle.
 
 Voda je bila hladna.
 
