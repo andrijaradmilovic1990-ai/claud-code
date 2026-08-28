@@ -136,7 +136,7 @@ Sela je ponovo, sporije, i dolila mi vino do vrha, preko mere, onako kako se nek
 
 „Neću ti pobeći."
 
-„Hoćeš." Vedro, kao šala. Nasmejala se i nastavila da jede, i niko za stolom nije znao koliko je u pravu osim nje i mene.
+„Hoćeš." Vedro, kao šala. Nasmejala se i nastavila da jede, i niko za stolom nije podigao glavu.
 
 Sveća na stolu je dogorela do pola. Napolju je prošao autobus, čuo se kroz odškrinut prozor, pa ništa.
 
