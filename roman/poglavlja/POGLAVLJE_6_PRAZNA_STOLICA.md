@@ -128,7 +128,7 @@ Stao je pred jednom kapijom koja se otvorila pre nego što smo stigli, jer su na
 
 Izašao sam. Ali leđa su mi i tamo, dok sam izlazio, tražila zid — okrenuo sam se tako da kola ostanu sa strane, ne iza mene, a da to nisam ni odlučio. Čovek za volanom mi je nešto dobacio za pozdrav i ja sam ga čuo postrance, nikad sasvim okrenut.
 
-Svi su mislili da sam bog. Bogovi se ne plaše. Samo se ja, i kao bog, nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja.
+Mislili su da se ničega ne plašim, a ja se ni tada nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja.
 
 Ruke sam pravio da rade to što sam sad tražio od tuđih. Znao sam tačno gde ide prvi udarac jer sam ga sam brojao, u mrak, dovoljno puta.
 
