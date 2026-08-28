@@ -39,7 +39,7 @@
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | ~2.000 |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
 | **9** | **NOVO 4 — Majka** | **novo** | prva godina posle | ~2.000 |
-| **10** | **NOVO 5 — Fabrika** | **novo** | novi život, rano | ~2.500 |
+| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | ~2.500 |
 | **11** | **Prazna stolica** | staro `VI` | 10 g. posle nestanka | 1.405 |
 | **12** | **Beli grad** | staro `VII` | +1 godina | 2.150 |
 | **13** | **Kukavica** | staro `VIII` | isto putovanje | 3.635 |
