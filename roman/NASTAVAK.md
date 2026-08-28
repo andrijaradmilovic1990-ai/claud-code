@@ -10,8 +10,9 @@
 ## Redosled čitanja — tri fajla, tim redom
 
 1. **ovaj fajl** — gde si, šta je sledeće
-2. **`dokumenti/REGISTAR_ODLUKA.md`** — šta se **ne dira**; čita se pre svakog predloga
-3. **`dokumenti/DUGOVI_KNJIGE.md`** — šta poglavlje duguje knjizi
+2. **`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`** — **presuda o gotovoj knjizi i ideja autora o novoj; tu je razgovor stao**
+3. **`dokumenti/REGISTAR_ODLUKA.md`** — šta se **ne dira**; čita se pre svakog predloga
+4. **`dokumenti/DUGOVI_KNJIGE.md`** — šta poglavlje duguje knjizi
 
 Sve ostalo se otvara samo kad zatreba. **Dnevnik je istorija, ne registar** — kad se
 sukobi s registrom, važi registar.
@@ -185,12 +186,24 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 
 ## ŠTA VISI
 
-**Ništa, i plan je iscrpljen.** Sva četiri koraka su odrađena. Dugova nema — svih pet
-plaćeno, šesti razmotren i odbačen. Jedina neplaćena stavka cilja je **tačka 1
-(jedno pitanje)**, i ona je **upisana kao cena, ne kao dug** — ne rešava se, jer bi
-tražila izmišljanje sadržaja radnje.
+**U rukopisu ništa.** Sva četiri koraka su odrađena, sva poglavlja zaključana. Dugova
+nema — svih pet plaćeno, šesti razmotren i odbačen. Jedina neplaćena stavka cilja je
+**tačka 1 (jedno pitanje)**, i ona je **upisana kao cena, ne kao dug.**
 
-**Šta se s rukopisom radi dalje nije upisano nigde. To je odluka autora — ne otvarati.**
+**Visi jedna odluka, i ona je autorova.**
+
+Posle koraka 4 knjiga je pročitana cela i ocenjena — presuda je **jako dobra, s
+jednom pravom zamerkom: prekratka je** (15.497 reči, novela a ne roman). Iz toga je
+izašla autorova ideja o **novoj, većoj knjizi — polu-ljubavnoj, polu-„Godfather"**.
+
+**Ceo taj razgovor, presuda i nalazi stoje u `dokumenti/PRESUDA_I_NOVA_KNJIGA.md`.**
+Tamo je i pitanje na kom se stalo:
+
+> **Da li postojećih devet poglavlja ulazi u novu knjigu kao njen deo — ili nova
+> knjiga stoji pored njih, a „Sahrana bez tela" ostaje ovakva kakva jeste?**
+
+**Dok autor ne odgovori, ništa se ne radi.** Sadašnjih devet poglavlja ostaju
+zaključana i registar važi u punom obimu.
 
 ---
 
@@ -223,46 +236,56 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Sva četiri koraka iz plana su gotova. Knjiga je cela, pročitana u nizu tri
-puta, i ništa ne visi.
+Nastavi. Rukopis „Sahrana bez tela" je gotov — devet poglavlja, 15.497 reči, sva
+zaključana. Plan od četiri koraka je iscrpljen i u rukopisu ništa ne visi.
 
 Pre bilo čega pročitaj, tim redom:
   roman/NASTAVAK.md
+  roman/dokumenti/PRESUDA_I_NOVA_KNJIGA.md
   roman/dokumenti/REGISTAR_ODLUKA.md
-  roman/dokumenti/DUGOVI_KNJIGE.md
+  roman/dokumenti/IDEJE_ZA_KORAK_3.md
 
 Ne prepričavaj mi šta u njima piše.
 
-Registar je posle koraka 4 deblji nego pre. Pravilo L stoji. Zapamti naročito:
-  · nova scena na početku IV je ZAŠTIĆENA — previd, ne pretnja; ne dodavati joj
-    posmatrača, posledicu ni događaj, i ne ponavljati isti potez u I ni u III
-  · formula „to je bila cela X / to je bilo najgore" je 3 od 3, provereno u svih
-    devet — ne sme se pojaviti nigde više, ni kao „prirodna" rečenica
-  · Katarinina i Natašina tanjina su funkcija, ne propust — ne dodavati prisutnost
-  · dugova nema; jedina neplaćena stavka cilja (jedno pitanje kroz celu knjigu) je
-    upisana kao CENA, ne kao dug, i ne rešava se
+── GDE SMO STALI ──
 
-Sadržaj radnje, redosled, hronologija i zapečaćena imena ostaju zamrznuti. Nema
-novih scena, novih likova ni novih mesta radnje — zabrana je otvarana tačno jednom
-i odmah zatvorena.
+Knjiga je pročitana cela i ocenjena. Presuda: jako dobra, glas drži, kraj je tačan.
+Prati Hemingveja visoko, Bukovskog malo (80:20) i to nije greška nego karakter.
+Jedina prava zamerka: PREKRATKA JE. Novela, ne roman.
 
-Ako predlažeš izmenu: skidanje potpisa ne znači kraću rečenicu. Telegrafski registar
-je već jednom odbijen kao sterilan. Najmanje trećina unetog mora biti napisana
-rečenica, ne rez (Pravilo J).
+Iz toga je izašla moja ideja: nova, veća knjiga — polu-ljubavna, polu-„Godfather".
+Prva scena koja mi pada na pamet je Italija (već upisana u IDEJE_ZA_KORAK_3.md),
+i uz nju gomila sličnih ideja. Hoću da razradimo to — šta ide gde i kako.
 
-Fajlovi poglavlja ne završavaju prelomom reda — proveri PRE rada, alatom koji stvarno
-radi, i proveri ishod komande a ne samo njen izlaz (xxd ovde ne postoji; od -An -c
-na poslednjem bajtu radi).
+Nalaz koji stoji uz tu ideju: „Godfather" materijal je u sadašnjoj knjizi namerno
+IZA ZIDA. Registar zaključava da se David kao izvršilac nikad ne pokazuje, i ta
+rupa je nosiva petlja knjige. Znači ovo nije dopuna postojećih devet poglavlja
+nego druga knjiga — ili veća knjiga u kojoj je ova jedan deo.
+
+Pitanje na kom smo stali, i na koje ću ti odgovoriti ja:
+  Da li postojećih devet poglavlja ulazi u novu knjigu kao njen deo — ili nova
+  knjiga stoji pored njih, a „Sahrana bez tela" ostaje ovakva kakva jeste?
+
+── ŠTA VAŽI I DALJE ──
+
+Sadašnjih devet poglavlja su zaključana. Registar važi u punom obimu: zaštićena
+mesta, zapečaćena imena, zabrana novih scena. Nijedno poglavlje se ne otvara zbog
+nove ideje dok ja ne kažem „otvaram".
+
+Pravila rada se ne menjaju: mehanika bez pitanja i prijavi posle (K) · zatvoreno
+se ne otvara (L) · uz svaki nalaz reci sprat (M) · tekst je autoritet nad
+dokumentima (E) · ako se dvoumiš ne diraj (G) · rez nije prolaz (J).
+
+Skidanje objašnjenja NE znači kraća rečenica — telegrafski registar je već jednom
+odbijen kao sterilan. Moj glas su duge rečenice koje se lepe veznikom.
+
+Fajlovi poglavlja ne završavaju prelomom reda — proveri alatom koji stvarno radi
+i proveri ishod komande, ne samo izlaz (xxd ne postoji; `od -An -c` na poslednjem
+bajtu radi).
 
 Nema PR-ova posle svake izmene, nema pretplate na PR i nema samoprovera — commit
 kako ide, jedan PR i merge na kraju. Ako se pretplata sama upali, ugasi je.
 
-PLAN JE ISCRPLJEN. Šta se s rukopisom radi dalje nije upisano nigde i to je moja
-odluka, ne tvoj predlog. Ne otvaraj tu temu dok je ne otvorim ja — sačekaj šta ti
-kažem.
-
-Javi mi prvo NALAZ, bez predloga izmena. Reci na kom spratu govoriš (Pravilo M).
-Tek kad kažem „krećemo", idu predlozi — jedan po jedan, svaki čeka „da".
-
-Piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
+Piši kratko. Kratke rečenice, u crtama. Jedno po jedno pitanje, nikad više od
+jednog. Ne šalji mi knjigu na čitanje.
 ```
