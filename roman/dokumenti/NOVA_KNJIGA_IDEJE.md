@@ -331,8 +331,9 @@ izgovori umesto njega.
   svih novih reči u jednom poglavlju. U redu ako je nosiva, ali mora se znati pri mapi.
 - **Baka je naplaćena u istoj sceni** — ona je **Anjina**, pa je David odbijanjem Anje
   gubi zajedno s njom. *(Ispravljeno 28.08.2026; ranije vođena kao Davidova i kao dug.)*
-  **Čovek koji nema svoju porodicu ulazi u tuđu na jedan dan, žena ga uči da mesi kao
-  svoje, i on to uveče odbije.**
+  **David u Italiju redovno ide** — baka ga zna, to mu je drugi dom — pa odbijanjem
+  **ne gubi jedno veče nego godine.** Iz toga sledi i kako se scena piše: **nema
+  upoznavanja i nema objašnjavanja ko je ko**, David ulazi kao svoj.
 
 ---
 

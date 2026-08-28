@@ -118,8 +118,13 @@ Davidovu, pa i kao Davidov dug. Netačno.)*
 **Time cena pada i figura postaje jača.** Baka pripada Anjinom svetu, pa **kad David
 odbije Anju, gubi i baku.** Naplaćuje se u istoj sceni — **nema duga.**
 
-Čovek koji nema svoju porodicu ulazi u tuđu na jedan dan, žena ga uči da mesi kao svoje,
-i on to uveče odbije. **Baka je ono što se odbija, ne samo Anja.**
+**Italija nije jednokratna poseta** *(autor, 28.08.2026)*. David tamo **redovno ide** —
+baka ga zna, ekipa ga zna, to mu je drugi dom. Znači odbijanjem **ne gubi jedno veče nego
+godine**, i gubi kuću u koju je mogao da dođe. **Baka je ono što se odbija, ne samo Anja.**
+
+**Kako se to piše:** **nema upoznavanja i nema objašnjavanja ko je ko.** David ulazi kao
+svoj, baka mu otima ćufte iz ruke kao što je već sto puta, i čitalac to vidi **iz načina
+na koji se ljudi ponašaju**, ne iz rečenice koja to kaže.
 
 ---
 
