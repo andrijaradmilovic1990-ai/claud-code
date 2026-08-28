@@ -98,4 +98,13 @@ Ne gomilati izmene.
 
 **Šta se NE radi** *(odluka autora, 27.08.2026)*: nema nadgledanja PR-ova, nema
 pretplate na PR aktivnost, nema zakazanih samoprovera. Izmena se commituje i pushuje
-kako ide; **PR i merge idu na kraju, kad se skupi** — jedan PR, jedan merge.
+kako ide.
+
+**Merge ide na kraju SVAKOG razgovora** *(odluka autora, 28.08.2026)*. Autor radi
+jedan chat = jedno poglavlje, pa „na kraju" znači na kraju tog chata, ne na kraju
+knjige. **Poglavlje nije zatvoreno dok njegov rad nije na glavnoj grani; draft PR ne
+važi kao sačuvano.** Puno pravilo i razlog: `CLAUDE.md`.
+
+**Prvo u novom razgovoru:** proveri ima li grana s neuvezanim radom (komanda je u
+`CLAUDE.md`). Ako nešto ispliva — ne mergovati granu na slepo, nego preneti izmenu
+po izmenu.

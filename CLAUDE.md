@@ -145,6 +145,38 @@ provera je čisto trošenje limita.
 - ponovno otvaranje PR-a „da vidim je li se nešto promenilo"
 
 **Kako se radi umesto toga:** izmena se upiše, commituje i pushuje kako ide.
-**PR i merge se ne rade posle svake izmene nego na kraju, kad se skupi**
-*(odluka autora, 27.08.2026)* — jedan PR, jedan merge, pa gotovo. Ako merge iz
-nekog razloga ne prolazi — reci to jednom, u jednoj rečenici, i stani.
+**PR i merge se ne rade posle svake izmene nego na kraju razgovora**
+*(odluka autora, 27.08.2026; pooštreno 28.08.2026)* — jedan PR, jedan merge, pa
+gotovo. Ako merge iz nekog razloga ne prolazi — reci to jednom, u jednoj rečenici,
+i stani.
+
+### Merge ide na kraju SVAKOG razgovora *(odluka autora, 28.08.2026)*
+
+**Autor radi jedan chat = jedno poglavlje.** Zato „na kraju, kad se skupi" ne znači
+na kraju knjige — znači **na kraju ovog razgovora.**
+
+- **Poglavlje nije zatvoreno dok njegov rad nije na glavnoj grani.**
+- **Draft PR ne važi kao sačuvano.** Ni PR koji stoji otvoren.
+- Pre nego što razgovor dođe do kraja: napravi PR, **merguj ga**, i proveri da je
+  razlika prema glavnoj grani prazna.
+
+**Zašto ovo pravilo postoji.** 27.08.2026. je VII rađen u svom chatu, PR je napravljen
+kao draft i nikad spojen. Sledeći chat je počeo VIII **od stare osnove**, i petnaest
+izmena je mesec dana stajalo van knjige — otkriveno tek 28.08. Rad nije bio izgubljen,
+ali knjiga ga nije imala.
+
+**Prvo što se radi u novom razgovoru:** proveri ima li grana s neuvezanim radom.
+
+```
+git fetch -q origin
+M=origin/claude/nesto-zanimljivo-z4j3s0   # glavna grana repoa
+for b in $(git branch -r --format='%(refname:short)' | grep -v HEAD); do
+  [ "$b" = "$M" ] && continue
+  c=$(git rev-list --count $M..$b 2>/dev/null)
+  [ "${c:-0}" -gt 0 ] && echo "$b — $c commit(a) van glavne"
+done
+```
+
+Ako nešto ispliva — **ne mergovati granu na slepo.** Uporediti izmenu po izmenu i
+preneti pojedinačno; grana može biti starija osnova, pa bi merge vratio unazad ono
+što je u međuvremenu urađeno.
