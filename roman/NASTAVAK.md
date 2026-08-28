@@ -21,7 +21,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.497 reči, i od 28.08.2026. postoji cela.**
+Knjiga ima **devet poglavlja, 15.510 reči, i od 28.08.2026. postoji cela.**
 Brojevi ispod su stanje **posle koraka 4.**
 
 | # | Poglavlje | Stanje | reči |
@@ -32,7 +32,7 @@ Brojevi ispod su stanje **posle koraka 4.**
 | IV | Pariz | zaključano *(korak 4: **nova scena** na početku)* | 1.973 |
 | V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis)* | 1.278 |
 | VI | Prazna stolica | zaključano *(korak 4: 3 prepisa)* | 1.405 |
-| VII | Beli grad | zaključano *(korak 4: 1 prepis, 1 dopuna)* | 2.137 |
+| VII | Beli grad | zaključano *(korak 4 + prenos 28.08.)* | 2.150 |
 | VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
 | IX | Ćebence | zaključano *(korak 4: 1 prepis)* | 1.571 |
 
@@ -236,7 +236,7 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Rukopis „Sahrana bez tela" je gotov — devet poglavlja, 15.497 reči, sva
+Nastavi. Rukopis „Sahrana bez tela" je gotov — devet poglavlja, 15.510 reči, sva
 zaključana. Plan od četiri koraka je iscrpljen i u rukopisu ništa ne visi.
 
 Pre bilo čega pročitaj, tim redom:

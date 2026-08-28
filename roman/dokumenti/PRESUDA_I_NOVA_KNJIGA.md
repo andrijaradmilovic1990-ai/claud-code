@@ -60,7 +60,7 @@ traži ostala je uglavnom van knjige, **i to ne greškom.**
 
 ## Jedina prava zamerka
 
-**Prekratka je. 15.497 reči.**
+**Prekratka je. 15.510 reči.**
 
 - Pročita se za sat i po, u jednom sedenju. Roman počinje otprilike na 70.000; ovo je
   po dužini **novela**, bliže dugoj pripovetki.

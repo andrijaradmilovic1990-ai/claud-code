@@ -63,10 +63,16 @@ Katarinu — je li to nesklad koji treba platiti šestim dugom. **Odgovor autora
   1. **IV** — traži adresu. *„Prestala je da priča. Stajala je s onom šoljom, čekala,
      i nije sela."*
   2. **V** — imenuje mu mehanizam. *„Staneš i čekaš da prođe. Kao kiša."*
-  3. **IX** — ceduljica u kaputu. Jedini sopstveni čin koji ima u celoj knjizi.
-  4. **IX, kraj** — *„Mart je u međuvremenu prošao. Nije me podsetila."* Odustala je.
+  3. **VII** — postavlja uslov. *„Zovi je danju", rekla je. „Noću si mi potreban
+     ovde."* **Dopuna uneta 28.08.2026** iz autorove verzije VII.
+  4. **IX** — ceduljica u kaputu. Jedini sopstveni čin koji ima u celoj knjizi.
+  5. **IX, kraj** — *„Mart je u međuvremenu prošao. Nije me podsetila."* Odustala je.
 
-  **Traži → imenuje → daje → odustane.** Tiho, jer je David tih.
+  **Traži → imenuje → traži opet → daje → odustane.** Tiho, jer je David tih.
+
+  > **Ispravljeno 28.08.2026 po Pravilu E.** Luk je do tada vođen kao **četiri**
+  > poteza. Dopuna u VII ga čini **petim** — i to je jedini put da ona traži nešto
+  > za sebe **usred njegovog odlaska ka Jovani**, a ne posle.
 
 **Ne dodavati joj prisutnost, dubinu ni scenu — kao ni Nataši.** Nalaz „Katarina je
 slabo napisana" nastaje kad se broje rečenice umesto poteza. Pojaviće se ponovo i
@@ -108,8 +114,12 @@ Ne brišu se, ne skraćuju, ne prepisuju.
 - **Zavet o neimenovanju** (zapečaćeno ime).
 - Tag *„ona pod šeširom"*.
 - **Katarinina želja** — lična karta na njegovu adresu, mart. **IV je jedino mesto
-  u celoj knjizi gde je rok izgovoren naglas** i jedino gde Katarina traži nešto
-  za sebe.
+  u celoj knjizi gde je rok izgovoren naglas.**
+
+  > **Ispravljeno 28.08.2026 po Pravilu E.** Ranije je ovde pisalo i da je IV
+  > **jedino** mesto gde Katarina traži nešto za sebe. Više nije tačno — dopuna u
+  > VII (*„Zovi je danju… Noću si mi potreban ovde."*) je drugo takvo mesto.
+  > Tvrdnja o **roku** stoji i dalje: mart se izgovara naglas samo u IV.
 - **Jovanin ivičnjak ostaje svesno go, bez stida** — njena nežnost je žaljenje za
   nedostupnim, ne skrivanje. Presedan u odnosu na PRAVILA_STILA tačku 6.
 

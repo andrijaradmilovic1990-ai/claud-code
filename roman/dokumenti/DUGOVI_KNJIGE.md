@@ -192,8 +192,12 @@ Jovani, a Katarinin sat otkuca u jednoj rečenici i knjiga ide dalje.
 2. **Katarina ne sme biti ravnopravna sa Jovanom.** Ona je ono što David bira
    *umesto*. Da je ravnopravna, izbor ga ne bi ništa koštao.
 3. **Nalaz je bio pogrešno meren.** Tražena je dubina umesto luka. Luk postoji i
-   potpun je: **IV** traži adresu → **V** imenuje mu mehanizam → **IX** ceduljica u
-   kaputu → **IX kraj** prestane da traži. Tiho, jer je David tih.
+   potpun je: **IV** traži adresu → **V** imenuje mu mehanizam → **VII** postavlja
+   uslov (*„Zovi je danju… Noću si mi potreban ovde."*) → **IX** ceduljica u kaputu →
+   **IX kraj** prestane da traži. Tiho, jer je David tih.
+
+   > **Dopunjeno 28.08.2026.** Treći potez (VII) unet je tog dana iz autorove
+   > verzije poglavlja; luk je dotad vođen kao četiri poteza.
 
 Puni zapis i zabrana dodavanja stoje u `REGISTAR_ODLUKA.md`, sekcija 2.
 
