@@ -136,7 +136,7 @@ Andrijana je dugo ćutala. Predugo.
 
 Dobro.
 
-Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem, preko istog tuđeg ekrana. Ona nije htela da budem bezbedan. Htela je da bira sama, a ja sam joj oduzeo izbor.
+Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem. Svi ostali su moju poruku dobili od mene. Ona od Andrijane.
 
 I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna.
 
