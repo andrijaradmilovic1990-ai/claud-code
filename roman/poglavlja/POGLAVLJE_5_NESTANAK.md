@@ -78,7 +78,7 @@ Rekao sam ime grada u kom nikad nisam bio.
 
 „U jednom pravcu.“
 
-To je bio ceo razgovor. Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja.
+Poslednje reči koje sam izgovorio kao čovek koji jesam. Ta polupesma mi je ostala u glavi godinama, bez kraja.
 
 Samo sam jednog jutra bio, i sledećeg nisam, i između ta dva jutra stao je ceo jedan život.
 
