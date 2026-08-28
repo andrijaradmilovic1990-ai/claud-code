@@ -3,16 +3,17 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **28.08.2026.** *(posle koraka 4)*
+> Poslednje ažuriranje: **28.08.2026.** *(posle prvog razgovora o novoj knjizi)*
 
 ---
 
 ## Redosled čitanja — tri fajla, tim redom
 
 1. **ovaj fajl** — gde si, šta je sledeće
-2. **`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`** — **presuda o gotovoj knjizi i ideja autora o novoj; tu je razgovor stao**
+2. **`dokumenti/NOVA_KNJIGA_IDEJE.md`** — **radni fajl nove knjige: odluke, zid, prazna mesta, ideje. TU SE RADI.**
 3. **`dokumenti/REGISTAR_ODLUKA.md`** — šta se **ne dira**; čita se pre svakog predloga
-4. **`dokumenti/DUGOVI_KNJIGE.md`** — šta poglavlje duguje knjizi
+4. **`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`** — presuda o gotovoj knjizi; **istorija, odluka je pala**
+5. **`dokumenti/DUGOVI_KNJIGE.md`** — šta poglavlje duguje knjizi
 
 Sve ostalo se otvara samo kad zatreba. **Dnevnik je istorija, ne registar** — kad se
 sukobi s registrom, važi registar.
@@ -30,7 +31,7 @@ Brojevi ispod su stanje **posle koraka 4.**
 | II | Pukotina | zaključano *(korak 4: 1 prepis)* | 1.574 |
 | III | Krv | zaključano *(korak 4: 1 dopuna na kraju)* | 1.135 |
 | IV | Pariz | zaključano *(korak 4: **nova scena** na početku)* | 1.973 |
-| V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis)* | 1.278 |
+| V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis; 28.08. otvoren za rodni grad, 1 prepis)* | 1.281 |
 | VI | Prazna stolica | zaključano *(korak 4: 3 prepisa)* | 1.405 |
 | VII | Beli grad | zaključano *(korak 4 + prenos 28.08.)* | 2.150 |
 | VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
@@ -186,26 +187,41 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 
 ## ŠTA VISI
 
-**U rukopisu ništa.** Sva četiri koraka su odrađena, sva poglavlja zaključana. Dugova
-nema — svih pet plaćeno, šesti razmotren i odbačen. Jedina neplaćena stavka cilja je
-**tačka 1 (jedno pitanje)**, i ona je **upisana kao cena, ne kao dug.**
+**MAPA NOVE KNJIGE.** To je jedini sledeći korak i pravi se **pre nego što se napiše
+prva nova rečenica.**
 
-**Visi jedna odluka, i ona je autorova.**
+Sve pripremno je gotovo: ideje su skupljene, razgovor je vođen, odluke su pale, zid je
+upisan. **Radni fajl je `dokumenti/NOVA_KNJIGA_IDEJE.md`** — sve što sledi kreće odatle.
 
-Posle koraka 4 knjiga je pročitana cela i ocenjena — presuda je **jako dobra, s
-jednom pravom zamerkom: prekratka je** (15.510 reči, novela a ne roman). Iz toga je
-izašla autorova ideja o **novoj, većoj knjizi — polu-ljubavnoj, polu-„Godfather"**.
+### Odluke autora, 28.08.2026 *(sve pale u prvom razgovoru o novoj knjizi)*
 
-**Ceo taj razgovor, presuda i nalazi stoje u `dokumenti/PRESUDA_I_NOVA_KNJIGA.md`.**
-Tamo je i pitanje na kom se stalo:
+- **Oblik je C — ukrštanje.** Postojećih devet ulazi u veću knjigu; stari svet se
+  **umeće između njih**, ne u njih.
+- **Obim: duplo, oko 31.000 ukupno** — ne 70.000. Znači **oko 15.500 novih reči**, šest
+  do sedam novih poglavlja.
+- **Knjiga počinje postojećim I.** *„Ono mi otvara priču."*
+- **Knjiga mora imati uspone, padove i trzavice** — a da ostane jaka.
+- **Redosled rada:** ideje → razgovor → **mapa** → pisanje.
 
-> **Da li postojećih devet poglavlja ulazi u novu knjigu kao njen deo — ili nova
-> knjiga stoji pored njih, a „Sahrana bez tela" ostaje ovakva kakva jeste?**
+### Šta mapa mora da sadrži
 
-**Dok autor ne odgovori, ništa se ne radi.** Sadašnjih devet poglavlja ostaju
-zaključana i registar važi u punom obimu.
+Mapa svih poglavlja u konačnom redosledu (staro/novo, kom vremenu pripada) · za svako
+novo: šta radi za knjigu, koje mesto u luku drži, brojka reči · **zid** · šta novo sme
+da uzme iz postojećeg a da ga ne otvara · zbir, da se duplo dostigne a ne prebaci.
 
----
+### Zid — uslov, ne napomena
+
+**David kao izvršilac se i dalje ne pokazuje.** Sve ostalo sme. Puni opis i dokaz sa
+živog čitaoca: `NOVA_KNJIGA_IDEJE.md`.
+
+### Uneto u tekst u ovoj sesiji — jedna rečenica
+
+`V 75`, uz izričito **„otvaram"** autora, pa ponovo zatvoreno. Nestanak je **povratak u
+rodni grad**, ne odlazak u nepoznato. Puno obrazloženje: **`REGISTAR_ODLUKA.md`,
+sekcija 7.**
+
+**U rukopisu ništa drugo ne visi.** Devet poglavlja su zaključana, dugova nema, registar
+važi u punom obimu.
 
 ## Pravila — kratko
 
@@ -238,8 +254,9 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Rukopis „Sahrana bez tela" je gotov — devet poglavlja, 15.510 reči, sva
-zaključana. Plan od četiri koraka je iscrpljen i u rukopisu ništa ne visi.
+Nastavi. „Sahrana bez tela" je gotova — devet poglavlja, zaključanih. Odlučeno je da
+se širi na DUPLO (oko 31.000 ukupno, ~15.500 novih reči, šest-sedam novih poglavlja),
+oblikom C — ukrštanjem, gde se stari svet UMEĆE između postojećih poglavlja.
 
 PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   git fetch -q origin
@@ -249,66 +266,64 @@ PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
     c=$(git rev-list --count $M..$b 2>/dev/null)
     [ "${c:-0}" -gt 0 ] && echo "$b — $c commit(a) van glavne"
   done
-Ako nešto ispliva — NE mergovati granu na slepo. Uporedi izmenu po izmenu i javi mi;
-grana može biti starija osnova pa bi merge vratio unazad ono što je urađeno posle.
+Ako nešto ispliva — NE mergovati na slepo. Uporedi izmenu po izmenu i javi mi.
 
 Zatim pročitaj, tim redom:
   roman/NASTAVAK.md
-  roman/dokumenti/PRESUDA_I_NOVA_KNJIGA.md
-  roman/dokumenti/REGISTAR_ODLUKA.md
-  roman/dokumenti/IDEJE_ZA_KORAK_3.md
+  roman/dokumenti/NOVA_KNJIGA_IDEJE.md      ← tu se radi
+  roman/dokumenti/REGISTAR_ODLUKA.md         ← sekcija 7 je nova
+  roman/dokumenti/IDEJE_ZA_KORAK_3.md        ← puna istorija ideje o Italiji
 
 Ne prepričavaj mi šta u njima piše.
 
 ── GDE SMO STALI ──
 
-Knjiga je pročitana cela i ocenjena. Presuda: jako dobra, glas drži, kraj je tačan.
-Prati Hemingveja visoko, Bukovskog malo (80:20) i to nije greška nego karakter.
-Jedina prava zamerka: PREKRATKA JE. Novela, ne roman.
+Ideje su skupljene i razgovor je vođen. VISI MAPA — konačan redosled poglavlja, i ona
+se pravi PRE nego što se napiše prva nova rečenica. To je sledeći posao.
 
-Iz toga je izašla moja ideja: nova, veća knjiga — polu-ljubavna, polu-„Godfather".
-Prva scena koja mi pada na pamet je Italija (već upisana u IDEJE_ZA_KORAK_3.md),
-i uz nju gomila sličnih ideja. Hoću da razradimo to — šta ide gde i kako.
+Na stolu su tri ideje: Italija (Anja, njena baka, ekipa, posao), majka (David je rođen
+u malom gradu, tamo se vratio kad je nestao, doselio joj se posle prve godine, ona ne
+zna šta je radio nego sluti), i Katarina — upoznali se na poslu, u istoj firmi.
 
-Nalaz koji stoji uz tu ideju: „Godfather" materijal je u sadašnjoj knjizi namerno
-IZA ZIDA. Registar zaključava da se David kao izvršilac nikad ne pokazuje, i ta
-rupa je nosiva petlja knjige. Znači ovo nije dopuna postojećih devet poglavlja
-nego druga knjiga — ili veća knjiga u kojoj je ova jedan deo.
+Uz njih: devet praznih mesta u knjizi, četiri Godfather pravca, i nalaz da knjizi fali
+VISINA koju čitalac vidi kako se gradi — bez nje je pad informacija, ne udarac.
 
-Pitanje na kom smo stali, i na koje ću ti odgovoriti ja:
-  Da li postojećih devet poglavlja ulazi u novu knjigu kao njen deo — ili nova
-  knjiga stoji pored njih, a „Sahrana bez tela" ostaje ovakva kakva jeste?
+── ŠTA VAŽI ──
 
-── ŠTA VAŽI I DALJE ──
+ZID: David kao izvršilac se i dalje ne pokazuje. Sve ostalo sme — kuća, sto, ekipa,
+putovanja, porodica, smeh, tuča. Ali ne šta on tačno radi i za koga. Ta rupa drži
+knjigu, i imamo dokaz sa živog čitaoca da radi.
 
-Sadašnjih devet poglavlja su zaključana. Registar važi u punom obimu: zaštićena
-mesta, zapečaćena imena, zabrana novih scena. Nijedno poglavlje se ne otvara zbog
-nove ideje dok ja ne kažem „otvaram".
+KARAKTER: David je low key TEK POSLE. U starom životu bio je agresivan i dominantan,
+psihološki. Stari David sme i mora da bude takav — inače pad nema šta da obori.
 
-Pravila rada se ne menjaju: mehanika bez pitanja i prijavi posle (K) · zatvoreno
-se ne otvara (L) · uz svaki nalaz reci sprat (M) · tekst je autoritet nad
-dokumentima (E) · ako se dvoumiš ne diraj (G) · rez nije prolaz (J).
+Nasilje ostaje van kadra kao i dosad. Doza se ne menja, menja se šta se oko nje vidi.
+Naslednik je odbačen — Mali se ne vraća kao neko ko nastavlja liniju.
 
-Skidanje objašnjenja NE znači kraća rečenica — telegrafski registar je već jednom
-odbijen kao sterilan. Moj glas su duge rečenice koje se lepe veznikom.
+Devet postojećih poglavlja su zaključana. Registar važi u punom obimu. Nijedno se ne
+otvara dok ne kažem „otvaram" tom rečju.
 
-Fajlovi poglavlja ne završavaju prelomom reda — proveri alatom koji stvarno radi
-i proveri ishod komande, ne samo izlaz (xxd ne postoji; `od -An -c` na poslednjem
-bajtu radi).
+Pravila rada: mehanika bez pitanja i prijavi posle (K) · zatvoreno se ne otvara (L) ·
+uz svaki nalaz reci sprat (M) · tekst je autoritet nad dokumentima (E) · ako se
+dvoumiš ne diraj (G) · rez nije prolaz (J) · dug se plaća unapred (P).
 
-── GIT — PROMENJENO PRAVILO, 28.08.2026 ──
+Skidanje objašnjenja NE znači kraća rečenica — telegrafski registar je odbijen kao
+sterilan. Moj glas su duge rečenice koje se lepe veznikom.
+
+Fajlovi poglavlja ne završavaju prelomom reda — proveri alatom koji stvarno radi, iz
+pravog direktorijuma, i proveri ISHOD komande, ne samo izlaz (`od -An -c` na poslednjem
+bajtu radi; xxd ne postoji). Prazan izlaz grepa nije dokaz — dvaput je već prevario.
+
+Poglavlje se ne locira po naslovu. VII se zove po gradu u koji junak putuje, ne po
+gradu u kom se dešava.
+
+── GIT ──
 
 Nema pretplate na PR i nema samoprovera; ako se pretplata sama upali, ugasi je.
 
-MERGE IDE NA KRAJU SVAKOG RAZGOVORA, ne na kraju knjige. Ja radim jedan chat =
-jedno poglavlje. Poglavlje nije zatvoreno dok rad nije na glavnoj grani, i DRAFT
-PR NE VAŽI KAO SAČUVANO. Pre nego što razgovor dođe do kraja: napravi PR, merguj
-ga, pa proveri da je razlika prema glavnoj grani prazna.
+MERGE IDE NA KRAJU SVAKOG RAZGOVORA. Draft PR ne važi kao sačuvano. Pre kraja: napravi
+PR, merguj ga, pa proveri da je razlika prema glavnoj grani prazna.
 
-Ovo pravilo postoji zato što je 27.08. VII rađen u svom chatu, PR je ostao kao
-draft, sledeći chat je počeo VIII od stare osnove, i petnaest izmena je stajalo
-van knjige dok nisu nađene 28.08.
-
-Piši kratko. Kratke rečenice, u crtama. Jedno po jedno pitanje, nikad više od
-jednog. Ne šalji mi knjigu na čitanje.
+Piši kratko. Kratke rečenice, u crtama. Jedno po jedno pitanje, nikad više od jednog.
+Ne šalji mi knjigu na čitanje.
 ```

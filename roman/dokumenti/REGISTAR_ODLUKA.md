@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 28.08.2026. *(korak 4)*
+> Poslednje ažuriranje: 28.08.2026. *(korak 4 + otvaranje V za rodni grad)*
 
 ---
 
@@ -29,13 +29,17 @@ Ne otvara se **ni na pitanje.**
   05.08.2026.
 - **CILJ knjige** — dve polovine (rečenica / knjiga), upisano jednom zasvagda.
 
-**Izuzeci ikad napravljeni — dva, oba na izričitu inicijativu autora:**
+**Izuzeci ikad napravljeni — tri, sva na izričitu inicijativu autora:**
 
 1. **Broj poglavlja. 23.08.2026.** VII je podeljen na dva (vidi 5). Redosled radnje
    time nije promenjen — nijedna rečenica nije premeštena.
 2. **Jedna nova scena na početku IV. 28.08.2026, korak 4** (vidi 3, IV). Zabrana je
    otvorena za taj jedan potez i **zatvorena je posle njega.** Radnja, redosled i
    hronologija nisu promenjeni.
+
+3. **Rodni grad. 28.08.2026.** Autor je rekao **„otvaram"** za `V 75` — jednu rečenicu
+   koja je tvrdila da David beži u grad u kom nikad nije bio. **Otvoreno za taj jedan
+   potez i zatvoreno posle njega.** Vidi 7.
 
 ---
 
@@ -180,6 +184,11 @@ mesta radnje — samo saopštenje unutar sažetka meseca čekanja.
   emociju nego samoobmanu, druga kategorija.
 - **Hronika kao forma je odobrena** za ovo poglavlje — pokriva dvanaest godina, uz
   dva scenska uporišta (autobuska stanica, dijalog s Andrijanom).
+- **Red 75 — nova rečenica, uneta 28.08.2026 uz izričito „da" autora. ZAŠTIĆENA.**
+  *„Rekao sam ime grada u kom sam rođen, i žena ga je otkucala kao da sam rekao bilo
+  koje drugo."* Zamenila je *„Rekao sam ime grada u kom nikad nisam bio."* **Ne
+  imenovati grad, ne dodavati njenu reakciju, ne objašnjavati ironiju** — udarac nosi
+  čitalac. Vidi 7.
 
 ### VI — Prazna stolica
 - *„Za nju nikad nisam pitao smem li."* — **rezervisano mesto #2** (vidi 4).
@@ -340,3 +349,41 @@ Redosled po učestalosti, iz istorije rada:
    slabo napisanom. Njen luk je četiri poteza kroz IV, V i IX.
 
 Ako se uhvatiš da ideš ka nekoj od ovih pet — stani i pročitaj ovaj fajl ponovo.
+
+---
+
+# 7 — RODNI GRAD *(otvoreno i zatvoreno 28.08.2026)*
+
+**Odluka autora, izričito „otvaram".** Zaključano kao činjenica sveta:
+
+- **David je rođen u malom gradu**, ne u Belom gradu.
+- **Kad je nestao (`V`), otišao je u svoj rodni grad** — ne u nepoznat grad.
+- **Prvu godinu je proveo u sobi kod gazdarice** koja ne pita ništa dok plaćaš unapred
+  (`V 89`) — **u tom istom gradu.** Tek posle te godine se doselio kod majke.
+- **Vidikovac iz `VII 3` je u tom gradu**, ne u Belom gradu.
+
+**Zašto je tekst već stajao bliže ovome nego dotadašnjem zapisu** *(Pravilo E)*:
+
+`VII 3` kaže *„Na vidikovac sam dolazio sam, **oduvek, otkad znam ovaj grad**."* Ako je
+David u taj grad prvi put došao pre jedanaest godina, „oduvek" je natezanje. **Ako je
+tu rođen, „oduvek" je doslovno tačno.** `VII` to potvrđuje i drugde: povratak s treće
+smene iz fabrike, *„ona ti najbliža, ona iz Belog grada"* (Jovana, ne on), i *„preko
+brda i preko pruge bio je drugi grad i u njemu bolnica"* — Beli grad gledan izdaleka.
+
+**Poglavlje se zove „Beli grad" zato što David tamo tek kreće, na kraju.**
+
+**Šta se promenilo u tekstu: tačno jedna rečenica**, `V 75`. Sve ostale pomene grada u
+svih devet poglavlja provereno — `I 9` (*„kad sam došao"*) radi i za povratak, `II 71`
+radi, ostalo se odnosi na Beli grad.
+
+### Šta ovo znači za smisao V — upisano da se ne pročita kao slabljenje
+
+`V` više nije savršen nestanak nego **povratak.** Čovek beži i ode kući, u prvo mesto
+gde bi ga tražili.
+
+**To je jače, ne slabije, i piše se namerno:** David se sakrio na najočiglednijem mestu
+i **niko nije došao po njega.** Nije bio dobar u nestajanju — nikom nije ni bio toliko
+važan. To je gore od bekstva i bliže je knjizi nego savršen nestanak.
+
+**Ne prepravljati `V` da to „popravi".** Poglavlje je posle ove jedne rečenice ponovo
+zatvoreno.

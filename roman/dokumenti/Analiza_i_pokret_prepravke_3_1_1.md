@@ -2116,3 +2116,89 @@ da je previđeno.
 
 **STATUS: VII je usklađen s obe verzije. Ništa iz autorovog rada nije ostalo napolju
 osim onoga što je on sam odbio.**
+
+---
+
+# 28.08.2026 — SESIJA: NOVA KNJIGA, PRVI RAZGOVOR
+
+Prva sesija posle iscrpljenog plana od četiri koraka. **Nije rađena revizija** — rađen
+je razgovor o proširenju, uz **jednu unetu izmenu u tekstu.**
+
+## Šta je odlučeno
+
+**Oblik je C — ukrštanje.** Postojećih devet ulazi u veću knjigu; stari svet se umeće
+između njih. **Obim: duplo, oko 31.000 reči ukupno** — ne 70.000. **Knjiga počinje
+postojećim I**, jer, autorovim rečima, *„ono mi otvara priču."*
+
+**Redosled rada koji je autor postavio:** prvo ideje → razgovor o njima → **pa mapa** →
+pa pisanje. Mapa još **nije** napravljena.
+
+## Uneto u tekst — jedna rečenica, V 75
+
+**Otvoreno izričitim „otvaram" autora**, i zatvoreno posle poteza.
+
+| | |
+|---|---|
+| **bilo** | *Rekao sam ime grada u kom nikad nisam bio.* |
+| **sad** | *Rekao sam ime grada u kom sam rođen, i žena ga je otkucala kao da sam rekao bilo koje drugo.* |
+
+Ponuđene tri varijante, autor izabrao ovu. Druga polovina rečenice radi ono što knjiga
+stalno radi — **svet ne primeti ništa**; najveći trenutak njegovog života prolazi kroz
+tuđe prste kao svaka druga karta, i priprema ženu koja dvadeset redova niže gasi pesmu
+usred refrena.
+
+**Pravilo J:** uneta izmena je **prepis, ne rez.**
+
+## Kako se do toga došlo — i gde sam pogrešio usput
+
+Autor je rekao da je David rođen u malom gradu i da mu je majka tamo. Prvo čitanje je
+to proglasilo sukobom s `VII 3` (*„otkad znam ovaj grad"*), pod pretpostavkom da je
+vidikovac u Belom gradu. **Netačno.** `VII` sam pokazuje suprotno — povratak s treće
+smene iz fabrike, *„ona ti najbliža, ona iz Belog grada"* (Jovana, ne on), *„preko brda
+i preko pruge bio je drugi grad i u njemu bolnica."* Poglavlje se zove „Beli grad" zato
+što David tamo tek **kreće**, na kraju.
+
+**Pravilo E u punom obimu:** tekst je već stajao bliže autorovoj verziji nego zapisu.
+*„Oduvek, otkad znam ovaj grad"* je natezanje ako je došao pre jedanaest godina, a
+**doslovno tačno ako je tu rođen.**
+
+**Pouka:** poglavlje se ne locira po naslovu. `VII` se zove po gradu u koji junak putuje,
+ne po gradu u kom se dešava.
+
+## Upisano u registar — nova sekcija 7
+
+David rođen u malom gradu · nestanak je **povratak**, ne odlazak u nepoznato · prva
+godina kod gazdarice **u tom istom gradu** · tek posle doseljenje kod majke · vidikovac
+iz `VII` je tamo. Nova rečenica `V 75` upisana kao **zaštićena.**
+
+Upisano i zašto se to **ne čita kao slabljenje**: `V` prestaje da bude savršen nestanak
+i postaje povratak — David se sakrio na najočiglednijem mestu i **niko nije došao po
+njega.** Nikom nije ni bio toliko važan. To je gore od bekstva.
+
+## Osnovan zbornik — NOVA_KNJIGA_IDEJE.md
+
+Sadrži: odluke autora · **zid** (David kao izvršilac se i dalje ne pokazuje) · **devet
+praznih mesta** provereno u tekstu · nalaz o nedostajućoj visini · Ideju 1 (Italija),
+**Ideju 2 (majka)**, **Ideju 3 (Katarina i David s posla)** · **karakter: low key je tek
+posle** · četiri Godfather pravca.
+
+**Zid je dobio dokaz sa živog čitaoca.** Spoljna analiza opisala je Davida kao *„bivšeg
+operativca iz sveta nasilja i tajnih poslova"* — knjiga to **nigde ne kaže**; jedino
+mesto gde reč „tajni agent" pada je Natašina šala u `VIII 65`, kroz smeh. Isto s
+vitiligom (knjiga daje sliku, ne dijagnozu) i s imenom grada (zapečaćeno, a pročitano
+svejedno). **Čitalac sam sagradi čoveka većeg nego što bi ijedna napisana rečenica.**
+
+**Druga pouka o proveri, ista vrsta kao ona s `xxd`:** provera citata *„čudovište koje
+je naučilo da pije kafu kao čovek"* prvo je vratila prazno i zaključeno je da citat ne
+postoji. **Grep je bio pokrenut iz pogrešnog direktorijuma.** Rečenica postoji i to je
+**poslednja rečenica I**, zaštićena. **Proverava se ishod komande, ne samo njen izlaz.**
+
+## Odbačeno u ovoj sesiji
+
+**Naslednik.** Predloženo da se Mali vrati kao neko ko nastavlja liniju. **Autor ne želi
+naslednika u knjizi.** Mali ostaje u spisku praznih mesta, ali ne kao naslednik.
+
+## Šta visi
+
+**Mapa.** Ideje su skupljene i razgovor je vođen; konačan redosled poglavlja nije
+napravljen. To je sledeći korak, i pravi se pre nego što se napiše prva nova rečenica.

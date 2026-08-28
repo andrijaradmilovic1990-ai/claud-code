@@ -72,7 +72,7 @@ Na autobuskoj je žena na šalteru imala upaljen radio. Neka pesma je svirala do
 
 „Gde ćemo?“
 
-Rekao sam ime grada u kom nikad nisam bio.
+Rekao sam ime grada u kom sam rođen, i žena ga je otkucala kao da sam rekao bilo koje drugo.
 
 „Povratna?“
 
