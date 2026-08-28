@@ -154,7 +154,7 @@ Konobar je prošao, pogledao praznu šolju.
 
 „Ne." Ustao sam. „Idem."
 
-Onu stolicu do mene, treću, gurnuo sam nogom pod sto u prolazu, da stoji uredno, da ne smeta nikom. Tako se sklanja prazna stolica kad odlaziš. Tako se ne sklanja čovek kog si već počeo da vraćaš iz mrtvih.
+Onu stolicu do mene, treću, gurnuo sam nogom pod sto u prolazu, da stoji uredno, da ne smeta nikom. Njenu. Danas mi je smetala.
 
 Napolju je bila sreda, i dalje. Dan koji ne volim. Sad ga volim još manje, i sad imam jedan razlog više koji isto neću izgovoriti.
 
