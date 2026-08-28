@@ -54,7 +54,7 @@ Sklopio sam papirić. Vratio u džep.
 
 Vozač je promenio radio na nešto sporije.
 
-Gledao sam kroz prozor u grad koji se proređivao — zgrade na razmak, pa kuće, pa polja počinju, prva svetla da nestaju, nebo da gusne prema obzoru. Između dva sveta uvek je ovako — sat i po u autobusu kroz mrak dok se jedno ne ugasi a drugo ne upali.
+Gledao sam kroz prozor u grad koji se proređivao — zgrade na razmak, pa kuće, pa polja počinju, prva svetla da nestaju, nebo da gusne prema obzoru. Sat i po autobusa kroz mrak, i za to vreme se jedno ugasi a drugo upali, i ja sam u tom satu i po niko.
 
 Nisam mislio ništa posebno.
 
