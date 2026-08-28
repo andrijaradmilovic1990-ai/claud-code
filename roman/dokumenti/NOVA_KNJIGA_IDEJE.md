@@ -112,4 +112,88 @@ je mogao da drži govor; onaj koji ćuti je David posle. Ista usta, dva čoveka.
 
 ---
 
+### IDEJA 2 — MAJKA *(autor, 28.08.2026)*
+
+**Najveći potez dat u ovoj sesiji.** Zatvara prazna mesta **2** (nema krvnog srodnika)
+i dodiruje **9** (odakle je), i **ne pokazuje posao nijednom rečju.**
+
+**Šta je autor rekao:**
+- David je **rođen u malom gradu**, tamo mu je majka.
+- Kad je nestao, otišao je **tamo** — prvu godinu kod gazdarice, **pa se doselio kod
+  majke.**
+- Kroz tih dvanaest godina **dolazio joj je par puta**, pre nego što se doselio.
+- **Majka ne zna šta je radio.** Sluti, ali nije sigurna.
+
+**Zaključano u registru 28.08.2026, sekcija 7.** Zbog toga je `V 75` otvoren i
+prepisan — jedina rečenica u knjizi koja se s tim sudarala.
+
+**Zašto je ovo i Godfather materijal — sprat: knjiga.**
+
+U Godfather-u žene znaju i ne pitaju; to ćutanje drži porodicu i ono je ubija. Ako
+majka primi sina posle godina i **ne pita gde je bio**, onda se zna **odakle mu
+ćutanje: nije ga naučio u poslu, doneo ga je od kuće.**
+
+Andrijanina replika u `II` (*„Ti samo izostaviš"*) time dobija koren koji sad nema.
+
+**Nenaplaćeno, čeka mapu:** ako majka uđe, mora se znati **da li se i kad naplaćuje** —
+uvedena figura koja se ne vrati postaje dug (isti nalaz kao za baku u Ideji 1).
+
+---
+
+### IDEJA 3 — KATARINA I DAVID SU SE UPOZNALI NA POSLU *(autor, 28.08.2026)*
+
+**Radili su u istoj firmi.** Zatvara prazno mesto **5**.
+
+Slaže se s postojećim tekstom bez ijedne izmene: `VII 5` ih zatiče kako se zajedno
+vraćaju **s treće smene, ruku koje mirišu na fabriku.**
+
+---
+
+## KARAKTER — ŠTA JE UPISANO 28.08.2026
+
+### David je low key TEK POSLE *(autor — ovo je posledica, ne crta)*
+
+**U starom životu:** agresivan i **dominantan — psihološki, ne pesnicama.**
+
+**U novom životu, od dolaska u mali grad:** tih, skroman, ne traži tuču, *„dobro,
+uradiću."*
+
+**Ista usta, dva čoveka.** To je isti nalaz koji već stoji uz zdravicu iz Ideje 1:
+David pre pada je mogao da drži govor; onaj koji ćuti je David posle.
+
+**Pravilo za sve novo:** stari David **sme i mora** da bude dominantan — inače pad nema
+šta da obori. Novi ostaje onakav kakav je u devet postojećih poglavlja: `I 31` (*„Ja
+radim fizički posao, šta se nađe. Leđa me bole uveče"*), mir nad krvlju u `III`.
+
+Do sada ovo nije bilo upisano nigde, pa bi u novim poglavljima palo prvo.
+
+---
+
+## GODFATHER — KAKO SE POSTIŽE *(razgovor 28.08.2026)*
+
+**Godfather nije nasilje.** Nasilja u njemu ima malo i skoro sve je van kadra.
+**Postojeća knjiga to već radi** — autorova ocena: *nasilje se u knjizi vrlo retko
+vidi, i to je dobar start.* **Doza se ne menja. Menja se šta se oko nje vidi.**
+
+**Četiri pravca — nijedan ne traži da se pokaže šta David radi:**
+
+1. **Sto.** Sve važno se dešava dok ljudi jedu. Knjiga to zna u sadašnjosti (kafić,
+   prazna stolica, špagete u `VIII`), ali **stari svet nema nijedan sto.** Italija je
+   tačno to.
+2. **Čovek iznad Davida.** Knjiga **nema nikoga iznad njega** — u `III` već odlučuje, u
+   `VI` ga slušaju. Nikad se ne vidi kome je odgovarao, čije je „da" čekao. **Najveća
+   Godfather rupa**, i puni se jednim čovekom i jednim razgovorom u kom David ćuti.
+3. **Usluga koja se vraća.** Film počinje čovekom koji dolazi da **traži** uslugu;
+   knjiga počinje čovekom koji dolazi da je **vrati**, dvanaest godina kasnije, kad je
+   David više ne želi. **Isti mehanizam naopako, i jači.** Ali postoji **samo jednom u
+   celoj knjizi.** Ponovljen dva-tri puta u starom svetu daje celu Godfather logiku bez
+   ijednog metka.
+4. **Cena ulaska.** Knjiga nema Davidov ulazak u taj svet — prazno mesto **9**.
+
+**ODBAČENO 28.08.2026, odluka autora: naslednik.** Predloženo je da se Mali (prazno
+mesto 3) vrati kao neko ko nastavlja liniju. **Autor ne želi naslednika u knjizi.**
+Mali kao nedovršena figura ostaje u spisku praznih mesta, ali **ne kao naslednik.**
+
+---
+
 ### *(mesto za sledeće ideje — hvataju se kako dolaze, ne komentarišu se dok se ne stane)*
