@@ -23,7 +23,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.510 reči, i od 28.08.2026. postoji cela.**
+Knjiga ima **devet poglavlja, 15.518 reči, i od 28.08.2026. postoji cela.**
 Brojevi ispod su stanje **posle koraka 4.**
 
 | # | Poglavlje | Stanje | reči |
@@ -32,7 +32,7 @@ Brojevi ispod su stanje **posle koraka 4.**
 | II | Pukotina | zaključano *(korak 4: 1 prepis)* | 1.574 |
 | III | Krv | zaključano *(korak 4: 1 dopuna na kraju)* | 1.135 |
 | IV | Pariz | zaključano *(korak 4: **nova scena** na početku)* | 1.973 |
-| V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis; 28.08. otvoren za rodni grad, 1 prepis)* | 1.281 |
+| V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis; 28.08. otvoren za rodni grad, 1 prepis)* | 1.289 |
 | VI | Prazna stolica | zaključano *(korak 4: 3 prepisa)* | 1.405 |
 | VII | Beli grad | zaključano *(korak 4 + prenos 28.08.)* | 2.150 |
 | VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
