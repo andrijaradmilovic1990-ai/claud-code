@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 28.08.2026. *(korak 4 + otvaranje V za rodni grad)*
+> Poslednje ažuriranje: 28.08.2026. *(NOVO 2 — Italija zaključana; Pariz razmotren i nije otvoren)*
 
 ---
 
@@ -387,3 +387,36 @@ važan. To je gore od bekstva i bliže je knjizi nego savršen nestanak.
 
 **Ne prepravljati `V` da to „popravi".** Poglavlje je posle ove jedne rečenice ponovo
 zatvoreno.
+
+---
+
+# 8 — NOVA KNJIGA: ITALIJA *(zaključano 28.08.2026)*
+
+**`NOVO 2 — Italija` je napisana i zaključana.** 3.368 reči. Sve odluke ispod su
+autorove i **ne predlažu se za izmenu.**
+
+- **Bez okvira sadašnjosti.** Ne dodavati kadar iz sadašnjosti ni na početak ni na kraj.
+- **Jovane nema u Italiji.** Ne uvoditi je. Andrijana i Nataša jesu u kadru.
+- **Baka govori isključivo italijanski i nijedna njena replika se ne prevodi u tekstu.**
+  Ne dodavati prevod u zagradi, fusnoti ni kroz Anju. Anja prevodi tačno jednom
+  (*„Rekla je: zato."*) i to se ne umnožava.
+- **Kraj — ključ koji se okreće.** Ne dodavati Davidovu reakciju, ne dodavati rečenicu
+  posle poslednjeg prozora. Poslednja slika je soba u kojoj od srede stoje čiste stvari.
+- **Odbijanje: Anja izgovori, David ćuti.** Ne davati mu repliku, ni kratku.
+- **Zdravica ostaje prelomljena upadicama.** Ne spajati je u blok.
+
+### Pariz — razmotren za otvaranje, NIJE otvoren *(pitanje autora, 28.08.2026)*
+
+Autor je primetio da su Pariz i Italija napisani različito, i pitao treba li Pariz
+uskladiti. **Odgovor: ne, i to nije opreznost nego nalaz.**
+
+- **Pariz ima okvir, Italija nema.** Pariz pripoveda čovek s dlanom na frižideru
+  dvanaest godina kasnije, pa je setan pre nego što počne, i vreme mu je namerno rasuto
+  (*„dani su se lepili jedan na drugi kao da im je neko skinuo brojeve"*). To je sećanje.
+- **Italija je noć koja se dešava** i nema ko da je gleda unazad, pa ide linearno, kroz
+  dijalog i sobu.
+- **Usklađivanje bi Parizu oduzelo jedino što on ima** — to da je izgubljen dok ga čitaš.
+- **I otvorilo bi petlju zbog koje postoje Pravilo P i moratorijum:** novo poglavlje
+  obori meru za staro, pa padne i Krv zbog Ulaska, i Nestanak zbog Preloma.
+
+**Smenjivanje scene i sećanja je disanje knjige, ne nesklad. Ne otvarati ponovo.**
