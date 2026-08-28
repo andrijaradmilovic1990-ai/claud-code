@@ -102,7 +102,12 @@ Puni opis, autorova zdravica doslovno, i svi raniji nalazi o ceni stoje u
 **Šta se promenilo u novom okviru:** tri od šest ranijih nalaza o ceni **padaju** u
 duploj knjizi (gustina hronologije, odsustvo smeha, toplo-pa-krv kao figura). Ostaju
 dva: **Anja se sudara s Natašinom funkcijom**, i **baka je najjača i najskuplja stvar
-u ideji** — uvedena figura koja se ne naplati postaje dug.
+u ideji.**
+
+> **Oba su rešena 28.08.2026, u istoj sesiji.** Sudar s Natašom pada podelom funkcija
+> (Andrijana ljubavnica / Anja ljubav — vidi niže). **Baka je ANJINA, ne Davidova** —
+> stari zapis ju je vodio kao Davidovu i zato kao dug. Pošto pripada Anjinom svetu,
+> **David odbijanjem Anje gubi i baku**, pa se naplaćuje u istoj sceni. **Duga nema.**
 
 **Zašto Italija radi baš uz zid:** ona je stari svet **bez opisa posla.** Dan, kuća,
 ćufte, ekipa, tuča oko robe čiji se sadržaj ne imenuje. Puni knjigu a ne puni rupu.
@@ -193,6 +198,223 @@ vidi, i to je dobar start.* **Doza se ne menja. Menja se šta se oko nje vidi.**
 **ODBAČENO 28.08.2026, odluka autora: naslednik.** Predloženo je da se Mali (prazno
 mesto 3) vrati kao neko ko nastavlja liniju. **Autor ne želi naslednika u knjizi.**
 Mali kao nedovršena figura ostaje u spisku praznih mesta, ali **ne kao naslednik.**
+
+---
+
+## GODFATHER I LJUBAV SU ISTA STVAR *(razgovor 28.08.2026)*
+
+**Autorov uvid, i on je ceo odgovor:** *„Godfather story is actually a love for the
+family and for obligation and honor."* To nisu dve kategorije koje se spajaju — to je
+jedna sila koja se zove čas ljubav, čas dužnost, i tragedija je što niko ne zna koja je
+koja dok ne bude kasno.
+
+**Knjiga to već radi:**
+- `VIII` — Jovana pita, David kaže *„Ne."* **Ljubav odbijena iz obaveze.**
+- `VI` — diže dva telefona iz ljubavi prema Jovani i time ruši mir koji je gradio za
+  Katarinu. **Obaveza koja pojede ljubav.**
+
+**Ne uvodi se — proširuje se.**
+
+### Šest pravaca
+
+1. **Ista reč, dva čoveka.** Jedna rečenica koju David u starom svetu izgovori iz
+   ljubavi, a u novom iz obaveze — ili obrnuto. Knjiga to već ume (`telo ne zna za
+   kalendar`).
+2. **Anja.** Vidi niže — razrešeno u ovoj sesiji.
+3. **Ritual.** Godfather počinje venčanjem, završava krštenjem: obred u jednoj sobi,
+   posao u drugoj. **Knjiga nema nijedan ritual.** Sahrana u starom svetu daje oba
+   registra u jednom kadru — ko koga grli, ko prilazi Davidu i šta traži dok se grob
+   zatrpava.
+4. **Izbor između čoveka kom duguje i žene koju voli.** `VI` to ima u sadašnjosti;
+   stari svet nema svoju verziju, a tamo je skuplja jer je David još u sistemu.
+5. **Zdravica je ljubavna izjava, ne govor.** *„Naša priča je o slobodi, iskupljenju i
+   porodici"* — to nije monolog o moći nego čovek koji za stolom kaže ljudima da ih
+   voli, jedini način na koji sme.
+6. **Ono što voli je ono što ga uništi.** Naslov to već nosi.
+
+### Pravilo — ljubav se ne izgovara
+
+U Godfather-u nijedan lik ne kaže „volim te" na način koji nešto znači. Kaže se kroz to
+**ko sedi gde, ko koga vozi, ko čije dete drži.** Knjiga to već zna — magnet na
+frižideru, ceduljica u kaputu, ćebence. **Ne menjati to u novim poglavljima.**
+
+---
+
+## ISPRAVKE I ZAKLJUČANO 28.08.2026 *(odluke autora)*
+
+### Pogrešan nalaz, povučen
+
+Tvrđeno je da knjiga **nema nikoga „iznutra"** — ženu iz tog sveta. **Netačno.**
+**Andrijana je iznutra potpuno** (Pariz, kafić, replika o izostavljanju), **i Jovana je**
+— ona je vozila kola u `III` i stajala na vratima magacina.
+
+**Prava rupa je uža i tačnija: stari svet nema nijednu ljubavnu scenu.** Ima rat s
+Andrijanom (*„s njom se nije vodila ljubav, s njom se ratovalo"*) i ćutanje s Jovanom na
+ivičnjaku. To je sve — dvadeset godina, nijedna scena u kojoj David nekoga voli **dok je
+još taj čovek.**
+
+### David stvarno voli Katarinu *(autor)*
+
+*„He actually do love Catarina. He actually wanna stay with her."*
+
+**Ne sukobljava se s registrom** (gde stoji da je ona ono što bira *umesto*, i da ne sme
+biti ravnopravna Jovani), **ali menja kako se piše:**
+
+- `VIII` nije čovek koji odbija ljubav zbog dužnosti — nego **čovek koji bira jednu
+  ljubav protiv druge.** Teže, skuplje, i bliže Godfather-u.
+- **Katarina se ne sme pisati kao utešna nagrada.** Nijedna nova scena ne sme je
+  postaviti kao ono na šta je David pristao.
+
+### Anja i Andrijana — podela funkcija *(autor)*
+
+| | funkcija |
+|---|---|
+| **Andrijana** | **ljubavnica.** Ne voli ga i on ne voli nju; odnos je fizički. **Ne traži nijednu izmenu** — `IV` to već kaže doslovno. |
+| **Anja** | **ljubav iz tog sveta.** |
+
+**Time pada stari nalaz o sudaru s Natašinom funkcijom** — Nataša je bezbolna prošlost,
+Anja je nešto sasvim drugo. Funkcije se više ne mešaju.
+
+**Nov rizik koji to otvara: Anja se sudara s Jovanom.** Dve ljubavi iz istog sveta, a
+Jovana je nosiva i kraj pripada njoj (zaključano). **Ako Anja bude jača ili svežija, kraj
+slabi.** I ista cena kao za baku: uvedena ljubav koja se ne naplati postaje dug.
+
+### Rešenje — Anja je žena koju je David ODBIO zbog posla *(prihvaćeno)*
+
+Ne izgubio, ne rastali se, ne umrla. **Odbio.** Prvi put kad je birao posao umesto
+ljubavi.
+
+- **Ne konkuriše Jovani** — gotova stvar, zatvorena pre nego što knjiga počne.
+- **Naplaćuje se u istoj sceni.** Nema duga.
+- **Daje `VIII` koren koji sad nema.** Kad David kaže Jovani *„Ne."*, to više nije prvi
+  put nego **poslednji put.** Isti čovek, ista rečenica, i sad zna šta ga to košta jer je
+  već platio.
+
+---
+
+## IDEJA 1 — ITALIJA: STRUKTURA POGLAVLJA *(zaključano 28.08.2026)*
+
+**Četiri pokreta, i redosled je jedini koji radi:**
+
+**toplo → tuča → zdravica → odbijanje**
+
+Anja, baka, ćufte, smeh · frka oko robe i tuča u kojoj i Davida izlupaju · svi za sto i
+zdravica · **pa, kod vrata, poslednji razgovor s Anjom.**
+
+**Zašto baš taj redosled.** Zdravica se time **sama naplaćuje**: David za stolom drži
+govor o porodici i pripadanju, pa deset minuta kasnije odbije ženu koja mu tačno to
+nudi. **Ne treba nijedna rečenica koja to imenuje** — čitalac je čuo govor i vidi šta
+čovek radi. Zdravica prestaje da bude govor koji David nema; ona je **ono što je slagao
+ne slagavši.**
+
+**Da je odbijanje pre zdravice, ništa od ovoga ne radi.**
+
+### Kako se odbijanje piše — zaključano *(odluka autora)*
+
+**Anja to izgovori. David ćuti.**
+
+*Znači nećemo se više viđati* — ili nešto njeno, kraće. **David ne potvrdi, ne porekne,
+ne objasni.** To ćutanje je odgovor i oboje to znaju.
+
+**Odbačeno:** *„Mislim da nije dobra ideja da se viđamo"* iz Davidovih usta — predugačko
+i objašnjava. On ne objašnjava. U `VIII` na isto pitanje kaže jednu reč.
+
+**Zašto je ovo jače:** `II` kaže da David nikad ne slaže, samo izostavi, pa čovek ode
+kući s pogrešnom slikom. **Ovde ne kaže nijednu reč — i ona ode kući s tačnom.** Prvi put
+u knjizi njegovo ćutanje ne vara nikoga. I ostaje mu na duši, jer ju je pustio da to
+izgovori umesto njega.
+
+### Cena, upisana pre mape
+
+- **Italija prestaje da bude bezbolna.** Smeha ima, ali se ne završava smehom.
+- **Četiri pokreta znače oko 3.500 reči** — veličina `VIII`. To je skoro **četvrtina**
+  svih novih reči u jednom poglavlju. U redu ako je nosiva, ali mora se znati pri mapi.
+- **Baka je naplaćena u istoj sceni** — ona je **Anjina**, pa je David odbijanjem Anje
+  gubi zajedno s njom. *(Ispravljeno 28.08.2026; ranije vođena kao Davidova i kao dug.)*
+  **David u Italiju redovno ide** — baka ga zna, to mu je drugi dom — pa odbijanjem
+  **ne gubi jedno veče nego godine.** Iz toga sledi i kako se scena piše: **nema
+  upoznavanja i nema objašnjavanja ko je ko**, David ulazi kao svoj.
+
+---
+
+## DUGOVI NOVIH POGLAVLJA *(iz spoljne kritike, 28.08.2026)*
+
+> **Odakle.** Druga spoljna analiza (Gemini) dala je kritiku **postojeće knjige** — nije
+> znala za proširenje. **Tri njena nalaza su tačna, sva tri leka pogrešna**, i sva tri
+> traže otvaranje zaključanih poglavlja.
+>
+> **Pravilo P rešava to čisto:** dug se plaća unapred. Nalazi se uzimaju, lekovi
+> odbacuju, **plaćanje ide u nova poglavlja.** Nijedno od devet se zbog ovoga ne otvara.
+
+### DUG 1 — sadašnjost mora nositi opasnost, i to kao scena
+
+**Nalaz je tačan:** sadašnji život je bezbedan, pa je statičan; služi uglavnom kao okvir
+za sećanja.
+
+**Lek je pogrešan** — predloženo je da Katarina primeti zategnut vrat ili ruku ka
+džepu. Pada na tri mesta: ona **ne sumnja i ne proverava do `IX`** (ceo njen luk);
+**„ruka ka praznom džepu" je refren s upisanim rasporedom** (I, II, IV, VIII, IX) i
+šesta instanca ga troši; i upisano je pravilom da se **strah ne montira u postojeću
+rečenicu** — dva takva pokušaja autor je već odbio.
+
+**Dublja greška:** kritika traži **trilersku ivicu**, doslovno. Knjiga je nikad nije
+imala i ne treba je.
+
+**Kako se plaća:** u **novim poglavljima sadašnjosti**, gde opasnost sme da bude scena.
+**Održavanje maske mora da košta** — ne mora niko da puca.
+
+### DUG 2 — Katarini ne fali dubina, fali RAZLOG
+
+**Kritika je upala u zamku broj šest iz registra** — izmerila ju je rečenicama umesto
+potezima. I predložila je ono što je već u knjizi, samo naglas: ceduljica u kaputu
+**jeste** njen svestan čin, *„Mart je u međuvremenu prošao. Nije me podsetila"* **jeste**
+njena odluka.
+
+**Ali jedan delić stoji, i autor ga je istog dana sam otvorio.** Ako je David **stvarno
+voli**, knjiga nigde ne pokazuje **zašto.**
+
+**Kako se plaća:** u poglavlju o **upoznavanju na poslu** (prazno mesto 5), i nigde
+drugde.
+
+### DUG 3 — cena izbora se plaća PRE kraja, ne u kraju
+
+**Kraj `IX` ostaje kakav jeste.** Predlog o *„stisku ruke u prazno"* pada — to je gest
+koji **potpisuje sopstvenu sliku**, ista greška koju je korak 4 skinuo s devet mesta,
+samo rukom umesto rečju. A vožnja autobusom *„opisana kao zatvorska kazna"* je poređenje
+koje izgovara zaključak.
+
+**Kraj već ima slom — samo nije na Davidu nego na ćebencetu.** On pokriva ženu koju
+ostavlja. Dodati drugi gest znači dva tamo gde jedan radi.
+
+**Ali traženje cene nije pogrešno — pogrešno je mesto.** Da bi se kraj osetio, **stari
+svet mora pokazati šta David tačno gubi kad bira.** Sad se to samo tvrdi.
+
+**Kako se plaća:** Italija to već radi — **Anja je prvi put kad plaća.**
+
+### DUG 4 — bes je zona komfora, ranjivost ga plaši
+
+**Najbolja rečenica u celoj kritici, i nije bila upisana nigde.**
+
+**David ume da naredi da nekog prebiju bez trunke oklevanja, a ne ume da bude ranjiv ni
+na sekundu.** To nije stil nego **strah**, i to je karakterizacija.
+
+**Kako se koristi:** **stari David je lako besan i nijednom ranjiv.** Slaže se s već
+upisanim — u starom životu dominantan, low key tek posle. Ranjivost je jedina stvar koju
+taj čovek ne ume, i zato Anja prolazi neodgovorena.
+
+### Šta je odbačeno u celini
+
+Stisak ruke u prazno · autobus kao zatvorska kazna · Katarina koja prepoznaje tuđ parfem
+na kaputu · trilerska ivica. **Sve četiri traže da knjiga izgovori ono što pokazuje.**
+
+### Napomena o obe spoljne analize
+
+**Nijedna ne kaže da je knjiga kratka.** To je jedina zamerka koju je autor prihvatio kao
+pravu, i nijedan spoljni čitalac je ne vidi — jer mere **gustinu, ne dužinu.** **Obim
+ostaje autorov nalaz.**
+
+Druga analiza završava pozivom da joj se pošalje nova verzija na uvid. Ne menja vrednost
+nalaza, ali objašnjava zašto su **sva tri predloga dodavanja, nijedan rez.**
 
 ---
 
