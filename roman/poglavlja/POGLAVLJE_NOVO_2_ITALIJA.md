@@ -20,7 +20,9 @@ Baka je stajala tu odnekud, iako maločas nije bila, i gledala me je odozdo jer 
 
 „Šta no?“
 
-Rekla je nešto brzo, celu rečenicu, pa još jednu, pa treću, i ništa od toga nije bilo na jeziku koji ja govorim, a ni na onom koji uče u školi — baka je govorila kako se govorilo u njenom selu, i pola ljudi u toj kući ju je razumelo tek iz drugog puta. Mahnula je rukom prema mesu kao da se od njega diže dim. Onda je uzela moju šaku, otvorila mi prste jedan po jedan, i istresla meso nazad u činiju kao da vraća nešto što sam uzeo bez pitanja.
+„Cosa fai? Ma cosa fai. Non è cemento, quello. Lascia stare, dammi qua.“
+
+Govorila je brzo i nije stajala između rečenica, i to nije bio jezik koji uče u školi nego onaj kojim se govorilo u njenom selu, i pola ljudi u toj kući razumelo ju je tek iz drugog puta. Mahnula je rukom prema mesu kao da se od njega diže dim. Onda je uzela moju šaku, otvorila mi prste jedan po jedan, i istresla meso nazad u činiju kao da vraća nešto što sam uzeo bez pitanja.
 
 Pogledao sam u Anju.
 
@@ -32,9 +34,11 @@ Anja je stajala kod šporeta s rukama prekrštenim i gledala me kako čekam, i n
 
 „Šta je rekla?“
 
-„Čula si ga, nonna“, rekla je Anja na italijanskom, glasno, da svi čuju. „Pita šta si rekla.“
+„L'ha sentito, nonna“, rekla je Anja glasno, da čuje cela kuhinja. „Chiede cosa hai detto.“
 
-Baka je ponovila isto, sporije, kao što se ponavlja detetu, i to je bilo gore, jer sam sad razumeo svaku treću reč i one tri nisu značile ništa zajedno. Neko za stolom se nasmejao. Anja je uzela krpu i obrisala ruke i nastavila da me gleda.
+„Cemento“, rekla je baka meni, pravo u lice, i lupnula dvaput kašikom o ivicu činije. „Ce-men-to.“
+
+To sam razumeo. Ostalo je ponovila sporije, kao što se ponavlja detetu, i to je bilo gore, jer sam sad hvatao svaku treću reč a one tri zajedno nisu značile ništa. Neko za stolom se nasmejao. Anja je uzela krpu, obrisala ruke, i nastavila da me gleda.
 
 „Ne prevodim ti“, rekla je. „Peta si godina.“
 
@@ -48,7 +52,9 @@ Onda mi je pokazala. Ruke joj nisu bile ruke koje mese, nego ruke koje broje —
 
 „Zašto se ne gnječi?“
 
-Ovog puta je Anja prevela pitanje. Baka je odgovorila jednom rečju i vratila se leđima.
+Ovog puta je Anja prevela pitanje.
+
+„Perché“, rekla je baka, i vratila se leđima.
 
 „Šta je rekla?“
 
@@ -56,11 +62,17 @@ Ovog puta je Anja prevela pitanje. Baka je odgovorila jednom rečju i vratila se
 
 Napravio sam prvu i bila je kriva. Napravio sam drugu i baka ju je uzela iz mog dlana pre nego što sam je spustio, okrenula je jednom između svojih ruku i vratila mi je u dlan okruglu. Nije rekla ništa. Nije se ni nasmešila. Uzela je i treću, i četvrtu, i posle pete sam prestao da ih spuštam sam i samo sam ih pružao njoj, a ona ih je uzimala iz vazduha ne gledajući, kao što se uzima alat s poda.
 
-„Polpette“, rekla je u jednom trenutku, pokazujući na tepsiju, i lupnula me kašikom po nadlanici kad sam posegnuo prerano. „Polpette.“
+„Polpette“, rekla je u jednom trenutku, pokazujući na tepsiju, i lupnula me kašikom po nadlanici kad sam posegnuo prerano. „Polpette. Non toccare.“
 
 „Znam kako se zove.“
 
-Rekla je nešto duže i Anja se okrenula ka sudoperi da ne vidim da se smeje.
+„Ha le mani di un fabbro“, rekla je preko mog ramena, nekom, bilo kome, celoj kuhinji, „e vuole fare le polpette.“
+
+Anja se okrenula ka sudoperi da ne vidim da se smeje.
+
+„Šta je sad?“
+
+„Ništa.“ Ramena su joj išla gore-dole. „Ništa, ništa. Radi ti.“
 
 ⁂
 
@@ -96,7 +108,11 @@ Nataša je spustila torbu na sto, pravo među tanjire, i izvadila iz nje sunčan
 
 Toni je pao preko stola. Sale je pitao može li i on da nauči nekog, i Andrijana mu je rekla da on ne ume ni cipele da veže bez svedoka.
 
-Baka je uzela naočare sa stola, pogledala ih s obe strane, rekla nešto kratko i vratila ih Nataši u ruku.
+Baka je uzela naočare sa stola, pogledala ih s obe strane, okrenula ih naopako.
+
+„Queste non le hai pagate.“
+
+Vratila ih je Nataši u ruku.
 
 „Šta kaže?“ pitala je Nataša.
 
@@ -234,7 +250,9 @@ Sedeo sam i pustio je.
 
 Radila je bez reči. Voda, pa ono što peče, pa palac kojim mi je zategla kožu iznad obrve dok je gledala koliko je duboko. Ruke su joj bile iste one ruke koje su brojale nad mesom, i držala mi je glavu kao što je držala i te ćufte — čvrsto koliko treba, ni gram više.
 
-Govorila je celo vreme. Tiho, u sebe, u onom svom selu, ne meni nego negde ispod mene, isti niz reči koji se vraćao svakih desetak sekundi.
+Govorila je celo vreme. Tiho, u sebe, ne meni nego negde ispod mene, isti niz koji se vraćao svakih desetak sekundi.
+
+„Ma guarda... guarda cosa ti fanno. Guarda che facce mi tornano a casa.“
 
 „Šta govori?“
 
@@ -246,7 +264,9 @@ Anja je stajala na vratima kuhinje s krpom u ruci.
 
 „Neću.“ Pa je otišla po jod.
 
-U jednom trenutku je baka stala. Pogledala me je, blizu, i rekla mi je nešto, tri ili četiri reči, ovog puta polako, tako da niko za stolom ne čuje.
+U jednom trenutku je baka stala. Pogledala me je, blizu, i rekla mi je nešto polako, tako da niko za stolom ne čuje.
+
+„Non tornare più così.“
 
 Nisam pitao šta znači. Nisam ni morao.
 
@@ -292,7 +312,9 @@ Anja je gledala u svoju. Nije je bila digla.
 
 „Nemojte da zaboravite: naša priča nije kao bilo čija.“
 
-Baka je nešto rekla u tom trenutku i pola stola se nasmejalo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
+„Parla, parla“, rekla je baka u tom trenutku, nikom posebno. „Intanto si fredda tutto.“
+
+Pola stola je palo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
 
 „Naša priča je o slobodi“, rekao sam. „O iskupljenju. I o porodici.“
 
