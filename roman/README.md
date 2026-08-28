@@ -47,11 +47,23 @@ Git prati preimenovanja — istorija nije prekinuta.
 
 ---
 
+## Stanje
+
+Rukopis je **gotov i zaključan.** Plan od četiri koraka iscrpljen je 28.08.2026.
+
+Knjiga je zatim pročitana cela i ocenjena: **jako dobra, s jednom pravom zamerkom —
+prekratka je** (novela, ne roman). Iz toga je izašla autorova ideja o **novoj, većoj
+knjizi.** Presuda, nalazi i pitanje na kom je razgovor stao:
+**[`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/PRESUDA_I_NOVA_KNJIGA.md)**.
+
+---
+
 ## Dokumenti
 
 | Fajl | Šta pokriva | Kad ga otvaraš |
 |------|-------------|----------------|
 | **[`NASTAVAK.md`](NASTAVAK.md)** | **handoff — stanje, dugovi, šta je sledeće** | **prvo, uvek** |
+| **[`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/PRESUDA_I_NOVA_KNJIGA.md)** | **presuda o gotovoj knjizi i ideja o novoj** | **odmah posle NASTAVAK.md** |
 | `dokumenti/REGISTAR_ODLUKA.md` | šta je zatvoreno i **ne otvara se** | pre svakog predloga izmene |
 | `dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog | pre otvaranja poglavlja |
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
