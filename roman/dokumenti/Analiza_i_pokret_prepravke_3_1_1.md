@@ -1749,3 +1749,135 @@ i to je odluka autora, zaštićena, ne previd.
 **STATUS: IX je zaključan. Knjiga postoji cela — devet poglavlja.**
 **Sledeće je korak 3 iz plana: čitanje cele knjige u nizu, prvi i jedini prolaz kroz
 I–V. Moratorijum time pada.**
+
+---
+
+# KORAK 3 — čitanje cele knjige u nizu *(28.08.2026)*
+
+Prvi put da knjiga postoji kao celina, i jedini zakazani prolaz kroz I–V.
+Moratorijum je pao zatvaranjem IX. Pravilo L nije palo s njim.
+
+**Uneto: tri izmene, sve u V. Dva prepisa, jedan rez.** Pravilo J ispunjeno.
+Nijedno drugo poglavlje nije dirano.
+
+## Šta je zatvoreno
+
+**1. Kuća/stan — pitanje otvoreno od 21.08, sad zatvoreno u celoj knjizi.**
+
+Odluka autora: Katarina je pre zajedničkog života živela u stanu na trećem spratu
+zgrade bez lifta, s gvozdenim ulaznim vratima. David je živeo u svojoj kući. Kad su
+počeli zajedno, **ona se uselila kod njega u kuću.**
+
+Iz toga sledi, provereno u tekstu:
+
+- **IV 247** *„jedini grob koji imam u kući"* — više nije idiom nego doslovno tačno.
+  Ne dira se.
+- **VII 161** *„u stanu u kom sam još uvek imao jednu fioku"* — njen stan, pre
+  useljenja. Tačno i precizno. Ne dira se.
+- **II 187** *„Slušala je korake na stepeništu"* + *„u stanu koji još nije moj"* —
+  njen stan, treći sprat. Tačno. Ne dira se.
+- **V 65** *„spremam kuću za nekog ko dolazi"* — stari dom pre nestanka, dvanaest
+  godina ranije. Nije sukob; upisano da naredni prolaz ne posegne.
+
+**Sukob je bio na dva mesta, oba u istoj sceni u V** — Katarina odlazi kod sestre iz
+zajedničkog doma, dakle iz kuće, a tekst je opisivao zgradu:
+
+| red | staro | novo |
+|---|---|---|
+| 41 | „Pa se **s pola stepeništa** vratila treći put…" | „Pa se **već ispred kuće** vratila treći put…" |
+| 49 | „…slušao kako joj koraci silaze. **Vrata zgrade dole, ona teška, gvozdena.** Zatvorila su se jednom." | „…slušao je kako izlazi. **Vrata su se zatvorila jednom.**" |
+
+Prvo mesto je promaklo u prvom javljanju i našao ga je autor pitanjem „proveri da nema
+još". Gvozdena i teška padaju po izričitoj odluci autora — kućna vrata nisu takva.
+*„Jednom"* ostaje na kraju: nosi *„Tri pozdrava i dva poljupca"* iznad i *„A ja sam
+otišao zauvek, i nije bilo nijednog"* ispod.
+
+Provera cele knjige na `zgrada|sprat|lift|stepen`: preostali pogoci su njen stan u II,
+Jovanin stan u VIII i dve metafore u I i IX. Ništa više.
+
+**2. Formula — bila je 4 od 3, ne 3 od 3.**
+
+`V 99` je nosio četvrtu instancu, doslovnog oblika: *„I to je bila cela mudrost te
+godine…"*. I–V nikad nisu prošli kroz ovu proveru jer je moratorijum stajao — VIII i
+IX jesu, 28.08.
+
+Rečenica je imala dva kvara odjednom: potpisivala je sopstvenu sliku, i **doslovno je
+ponavljala repliku izgovorenu red iznad** (*„Nemoj da se zamišljaš pod teretom,
+poginućeš"*). Rez oba: *„Džabe dobijeno, od čoveka koji me znao tri nedelje. Naučio sam
+da se odazivam."* Pouka ostaje tamo gde je jača — u njegovim ustima, jednom.
+
+Posle unosa: nula instanci u celoj knjizi. Spisak je opet pun i zatvoren.
+
+**3. Kvota 2.4 u V — popunjena, ali na drugom mestu nego što je upisano.**
+
+Vodila se kao popunjena preko Andrijaninog *„Dva broja, dva traga."* Ona jeste pritisak
+i ne skreće — ali pritiska **postupak koji je već poznat**, i to prošli.
+
+Mesto koje kvotu stvarno popunjava je **Katarinino, na početku V**: *„Ti nju nikad ne
+pitaš… Staneš i čekaš da prođe. Kao kiša."* Meri se protiv same definicije kvote
+(FINALNI_PROLAZ_PRAVILA 2.4 — *neko dođe do ivice i ne skrene sam; David skreće ili
+ćuti, ali cena ćutanja se vidi*):
+
+- ona dođe do ivice — imenuje mu mehanizam, ne događaj;
+- **ne skreće** — *„Eto. Vidiš."* i pusti torbu;
+- **on skreće** — *„Nisam rekao ništa."*;
+- **cena se vidi odmah**, u sledećem redu: *„Stajao sam u hodniku i čekao da prođe."*
+  Tekst mu potvrdi da je bila u pravu, u akciji, u istom pasusu.
+
+Okidač bekstva ostaje nedodirnut i to više ne otvara kvotu: on je zapečaćen po H1, pa
+kvota koja bi tražila da se dodirne bila bi nepopunjiva po definiciji. Ono što se u V
+krije ima dva sloja — događaj i čovek. Katarina dodiruje drugi.
+
+**Ispravka dokumenta, ne teksta.** Nijedno slovo u V nije dirano zbog ovoga (Pravilo E).
+
+## Šesti dug — razmotren i odbačen
+
+Nalaz na spratu knjige, prvo formulisan ovako: knjiga devet poglavlja gradi Jovanu, a
+David bira Katarinu; poslednja strana pripada Jovani, a Katarinin sat otkuca u jednoj
+rečenici (*„Mart je u međuvremenu prošao. Nije me podsetila."*) i knjiga ide dalje.
+
+**Autor je nalaz oborio, i s pravom.** Knjiga jeste i o Jovani, i naslov to nosi — V
+kaže doslovno *„Kao nekog ko ju je jednom već sahranio živu."* Sahrana bez tela nije
+samo Davidov nestanak nego ono što je uradio njoj. Kraj koji pripada Jovani je **tačan
+kraj**, ne nesklad.
+
+Dalje: Katarina **ne sme** biti ravnopravna sa Jovanom. Ona je ono što David bira
+*umesto*. Da je ravnopravna, izbor ga ne bi ništa koštao.
+
+I sam nalaz je bio pogrešno meren — tražena je dubina, a trebalo je gledati luk. Luk
+postoji i potpun je: **IV** traži adresu → **V** imenuje mehanizam → **IX** ceduljica →
+**IX kraj** odustane. Traži → imenuje → daje → odustane. Tiho, jer je David tih.
+
+Upisano u registar kao **zatvoreno**, i dodato u spisak najčešće kršenog — jer je to
+tačno ono što bi naredni prolaz „otkrio" za pola sata i krenuo da popravlja, kao
+Natašu. **Dugova ostaje pet, svih pet plaćeno.**
+
+## Mehanika, prijavljeno posle unosa
+
+**Završni prelom reda — tri fajla su ga i dalje imala: IV, V, VII.** Registar to
+zabranjuje od 28.08. (pravilo je nastalo posle štete u VIII, gde je prelom odsekao
+poslednju rečenicu pri čitanju). Uklonjen završni bajt; nijedno slovo nije dirano.
+Svih devet je sad usklađeno.
+
+Napomena o samoj proveri, jer je greška poučna: prvi izveštaj u ovoj sesiji tvrdio je
+da nijedan fajl ne završava prelomom. Bilo je netačno — `xxd` u okruženju ne postoji,
+komanda je tiho pukla, i zaključak je izveden iz `cat` konkatenacije koja poslednji
+fajl u nizu ne pokazuje. **Poslednji red se proverava alatom koji stvarno radi, i
+proverava se ishod komande, ne samo njen izlaz.**
+
+## Nalaz na spratu knjige — prenosi se u korak 4, ništa od ovoga nije dirano
+
+- **Knjiga se lomi na pola i to radi u njenu korist.** I–V su mozaik bez sata:
+  sadašnjost → predmet → zaron → povratak. VI–IX su lanac — poziv u VI pokrene sve i
+  ne stane do kraja.
+- **Jedino mesto gde čitalac može da spusti knjigu je šav V→VI.** Do kraja V dobio je
+  odgovor na pitanje iz I (*šta je ovaj čovek radio*), pa je radoznalost potrošena, a
+  novo pitanje počinje tek u VI. Jedan šav, ne pet poglavlja.
+- **Kičma radi.** Jovana: bezimena u III → prazna stolica u V → dva poziva u VI → dva
+  ujutru u VII → „Kukavica" u VIII → ćebence u IX. Devet poglavlja bez preskoka.
+- **I–V nisu jedno vreme.** II se dešava pre IV i V — u II je *„stan koji još nije
+  moj"* i brijač je njen, u IV i V je dom već zajednički. Poglavlja to ne signalizuju.
+  Sadržaj radnje i redosled su zamrznuti; upisano da se cena zna (Pravilo O).
+
+**STATUS: korak 3 je zatvoren. Na redu je korak 4 — rad na celoj knjizi po CILJU,
+obe polovine. To je poslednji korak upisan u plan.**
