@@ -166,7 +166,7 @@ Jovana je gledala u sto. Pa u mene. Pa se nasmejala.
 
 „Kukavica. Skini majicu."
 
-Skinuo sam je, prebacio preko naslona. Jovana je zviznula kroz zube — ne kao komentar, kao potvrdu nečega što je već znala.
+Skinuo sam je, prebacio preko naslona. Jovana je zviznula kroz zube i nije skrenula pogled kad sam je uhvatio da gleda.
 
 „Drži se", rekla je, ali ne meni. Andrijani, tiho. „Vidi ga."
 
