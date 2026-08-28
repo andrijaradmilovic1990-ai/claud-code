@@ -112,8 +112,14 @@ Prvi put u knjizi njegovo ćutanje **ne vara nikoga.**
 **Daje `Kukavici` koren:** kad David kasnije kaže Jovani *„Ne."*, to nije prvi put nego
 **poslednji.**
 
-**OTVORENO — baka.** Uvedena figura koja se ne naplati postaje dug. **Mora se odlučiti
-pre pisanja da li se i gde vraća.**
+**Baka je ANJINA, ne Davidova.** *(Ispravka 28.08.2026 — stari zapis ju je vodio kao
+Davidovu, pa i kao Davidov dug. Netačno.)*
+
+**Time cena pada i figura postaje jača.** Baka pripada Anjinom svetu, pa **kad David
+odbije Anju, gubi i baku.** Naplaćuje se u istoj sceni — **nema duga.**
+
+Čovek koji nema svoju porodicu ulazi u tuđu na jedan dan, žena ga uči da mesi kao svoje,
+i on to uveče odbije. **Baka je ono što se odbija, ne samo Anja.**
 
 ---
 
@@ -202,11 +208,13 @@ odluku.
 
 ## ŠTA MORA BITI ODLUČENO PRE PRVE REČENICE
 
-1. **Baka** — naplaćuje li se, i gde. *(Otvoreno od 26.08.)*
-2. **Prelom** — je li to sahrana, i čija.
-3. **Majka** — vraća li se kasnije u knjigu.
-4. **Redosled pisanja** — kojim poglavljem se počinje. *(Predlog: `Italija`, jer je
+1. **Prelom** — je li to sahrana, i čija.
+2. **Majka** — vraća li se kasnije u knjigu.
+3. **Redosled pisanja** — kojim poglavljem se počinje. *(Predlog: `Italija`, jer je
    najduže, najviše nosi, i najbrže pokazuje da li glas drži u novom materijalu.)*
+
+> **Baka je skinuta s ovog spiska 28.08.2026** — ona je Anjina i naplaćuje se u istoj
+> sceni. Vidi `NOVO 2 — Italija`.
 
 ---
 

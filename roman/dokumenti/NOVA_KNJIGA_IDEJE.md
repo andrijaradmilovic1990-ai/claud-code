@@ -102,7 +102,12 @@ Puni opis, autorova zdravica doslovno, i svi raniji nalazi o ceni stoje u
 **Šta se promenilo u novom okviru:** tri od šest ranijih nalaza o ceni **padaju** u
 duploj knjizi (gustina hronologije, odsustvo smeha, toplo-pa-krv kao figura). Ostaju
 dva: **Anja se sudara s Natašinom funkcijom**, i **baka je najjača i najskuplja stvar
-u ideji** — uvedena figura koja se ne naplati postaje dug.
+u ideji.**
+
+> **Oba su rešena 28.08.2026, u istoj sesiji.** Sudar s Natašom pada podelom funkcija
+> (Andrijana ljubavnica / Anja ljubav — vidi niže). **Baka je ANJINA, ne Davidova** —
+> stari zapis ju je vodio kao Davidovu i zato kao dug. Pošto pripada Anjinom svetu,
+> **David odbijanjem Anje gubi i baku**, pa se naplaćuje u istoj sceni. **Duga nema.**
 
 **Zašto Italija radi baš uz zid:** ona je stari svet **bez opisa posla.** Dan, kuća,
 ćufte, ekipa, tuča oko robe čiji se sadržaj ne imenuje. Puni knjigu a ne puni rupu.
@@ -324,7 +329,10 @@ izgovori umesto njega.
 - **Italija prestaje da bude bezbolna.** Smeha ima, ali se ne završava smehom.
 - **Četiri pokreta znače oko 3.500 reči** — veličina `VIII`. To je skoro **četvrtina**
   svih novih reči u jednom poglavlju. U redu ako je nosiva, ali mora se znati pri mapi.
-- **Baka i dalje nije naplaćena.** Ostaje otvoreno.
+- **Baka je naplaćena u istoj sceni** — ona je **Anjina**, pa je David odbijanjem Anje
+  gubi zajedno s njom. *(Ispravljeno 28.08.2026; ranije vođena kao Davidova i kao dug.)*
+  **Čovek koji nema svoju porodicu ulazi u tuđu na jedan dan, žena ga uči da mesi kao
+  svoje, i on to uveče odbije.**
 
 ---
 
