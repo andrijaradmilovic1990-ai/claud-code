@@ -20,7 +20,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja i od 28.08.2026. postoji cela.**
+Knjiga ima **devet poglavlja, 15.506 reči, i od 28.08.2026. postoji cela.**
 
 | # | Poglavlje | Stanje | reči | „kao" |
 |---|-----------|--------|------|-------|
@@ -31,7 +31,7 @@ Knjiga ima **devet poglavlja i od 28.08.2026. postoji cela.**
 | V | Nestanak | zaključano | 1.327 | 0,68% |
 | VI | Prazna stolica | zaključano *(23.08.)* | 1.437 | 1,04% |
 | VII | Beli grad | zaključano *(27.08.)* | 2.126 | 0,75% |
-| VIII | Kukavica | zaključano *(28.08., navod autora — vidi napomenu)* | 3.709 | 1,02% |
+| VIII | Kukavica | zaključano *(28.08.)* | 3.648 | 1,10% |
 | **IX** | **Ćebence** | **zaključano** *(28.08.)* | **1.568** | **0,26%** |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
@@ -74,8 +74,9 @@ je uslov ispunjen: **nema više poglavlja koje bi meru promenilo.**
 - Ne otvara se poglavlje nego se **plaća imenovani dug** ili se rešava upisano
   otvoreno pitanje. Sve ostalo iz `REGISTAR_ODLUKA.md` i dalje stoji zatvoreno
   (Pravilo L ne pada zajedno s moratorijumom).
-- Tri pitanja koja niže vise (kuća/stan, eho VII↔VIII, kvota 2.4 u V) čekala su
-  baš ovaj trenutak. Ona su jedini razlog za dodirivanje I–V.
+- Dva pitanja koja niže vise (**kuća/stan** u IV, **kvota 2.4** u V) čekala su baš
+  ovaj trenutak. Ona su jedini razlog za dodirivanje I–V. Treće — eho VII↔VIII —
+  rešeno je 28.08. i više ne visi.
 
 Posle toga ide **korak 4** — rad na celoj knjizi po CILJU, obe polovine.
 
@@ -92,16 +93,28 @@ Dva upisa koja se nose dalje:
 - **Rezervisano mesto #3 (formula) potrošeno.** Spisak je pun: **3 od 3.** Formula
   se ne sme pojaviti nigde više, ni kao „prirodna" rečenica. IX je proveren i čist.
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probati
-  prepis.** Odluka autora; primenjena i u IX (gest u „Vidiš").
+  prepis.** Odluka autora. U VIII je primenjena svih deset puta (otud nijedan rez), u
+  IX na gestu u „Vidiš".
+- **Fajlovi poglavlja ne završavaju prelomom reda** — poslednji red proveriti
+  posebno, pre rada, ne posle.
 
-### VIII — Kukavica *(zaključan 28.08.2026 — navod autora)*
+### VIII — Kukavica *(zaključan 28.08.2026)*
 
-**Napomena, da naredna sesija ne traži ono čega nema.** Zatvaranje VIII je autorov
-navod s ulaza u sesiju od 28.08. **U repou ga nema:** `POGLAVLJE_8_KUKAVICA.md`
-poslednji put je diran 23.08. pri podeli, nijedan commit ne nosi VIII, i dnevnik
-skače s VII na IX. Po Pravilu E to je najverovatnije **neuploadovana verzija, a ne
-sukob** — proveriti pre nego što se zaključi bilo šta. VIII nije otvaran ni čitan
-28.08. (Pravilo P).
+3.666 → **3.648 reči.** Deset izmena — **osam prepisa, dve dopune, nijedan rez.**
+
+- **D5 — strah: plaćen ovde.** Ceduljica se vraća na kraj poglavlja, neotvorena.
+  Čitalac prvi put izlazi napred.
+- **Eho VII 95 ↔ VIII 465 razrešen** — nova formulacija preneta i u VIII, eho
+  preživeo u novim rečima. Pitanje koje je do 28.08. visilo je zatvoreno.
+- **Fajlovi poglavlja ne završavaju prelomom reda.** U VIII je prvo čitanje zbog toga
+  odseklo poslednju rečenicu. U IX je poslednji red proveren u bajtovima, pre rada.
+
+**Napomena o granama, da naredna sesija ne traži ono čega nema na jednom mestu.**
+VIII je bio zaključan na svojoj grani (`claude/kukavica-poglavlje-viii-zy4ms4`), a
+IX je rađen na grani izašloj iz tačke pre nje. **Obe su spojene 28.08. pre jednog
+PR-a.** Rad na IX je u jednom trenutku pogrešno zapisao da zatvaranja VIII u repou
+nema — gledana je samo jedna grana. Ispravljeno istog dana; upisano ovde jer je to
+tačno slučaj koji Pravilo E opisuje.
 
 ### IX — Ćebence *(zaključan 28.08.2026)*
 
@@ -118,8 +131,9 @@ Nosio je tri stvari odjednom i sve tri su isporučene:
   kao u I: on ne odustaje, skreće David.
 - **kraj knjige** — zaštićen, netaknut, proveren u bajtovima.
 
-**D5 (strah) je zatvoren kao nenaplativ na kraju IX** — kraj gleda unazad i to je
-odluka autora, ne previd. Ne predlagati preradu kraja zbog D5.
+**D5 (strah) je bio plaćen u VIII** i u IX se ne naplaćuje ponovo: kraj knjige je
+zaštićen odlukom autora i gleda unazad. To je odluka, ne previd — ne predlagati
+preradu kraja zbog D5.
 
 ---
 
@@ -131,13 +145,16 @@ odluka autora, ne previd. Ne predlagati preradu kraja zbog D5.
 | **D2 dodir spolja** | **PLAĆEN 28.08.** u IX — starčev broj u listi |
 | **D3 Katarina** | **PLAĆEN 23.08.** podelom — VII je njeno poglavlje |
 | **D4 figura** | **PLAĆEN 23.08.** u VI — konobar probija zaron |
-| **D5 strah** | nosi ga VIII; **na kraju IX zatvoren kao nenaplativ**, odlukom |
+| **D5 strah** | **PLAĆEN 28.08.** u VIII — ceduljica na kraju, neotvorena |
 
 Puno obrazloženje u `DUGOVI_KNJIGE.md`.
 
 ---
 
 ## ŠTA VISI — otvorena pitanja
+
+> **Eho VII 95 ↔ VIII 465 — REŠEN 28.08.**, odlukom autora: nova formulacija
+> preneta i u VIII. Pitanje je zatvoreno.
 
 ### 1. Kuća ili stan? *(pitanje autoru, otvoreno od 21.08.)*
 
@@ -160,36 +177,14 @@ može braniti i uz stan. To je razlika između stvarne greške i idioma.
 **Jedno pitanje, bez argumenta** (Pravilo L — IV je zaključan): *je li dom stan u
 zgradi, i menja li se „u kući" u IV?*
 
-**Napomena:** i da odgovor bude „menja se", izmena čeka prolaz kroz I–V posle IX —
-moratorijum važi.
+**Napomena:** moratorijum je pao 28.08. — ovo pitanje se rešava u koraku 3, u okviru
+čitanja cele knjige, ne kao pojedinačno otvaranje IV.
 
-### 2. Eho VII 95 ↔ VIII 465 — polomljen izmenom od 27.08. *(pitanje autoru, otvoreno)*
-
-Ista konstrukcija stajala je na dva mesta, u obrnutom smeru:
-
-- **VII, red 95** *(pre izmene)*: „…onako kako se **prelazi preko nečeg što se boji
-  da ne povredi**." — njegova ruka na njenom obrazu, u bolnici.
-- **VIII, red 465** *(i dalje tako)*: „…onako kako se **drži nešto što se boji da ne
-  povredi**." — njene ruke na njegovom licu, za stolom.
-
-Isti pokret, obrnut smer. **Verovatno namerni eho.** Prepisom u VII od 27.08. jedna
-polovina je promenjena u „nečega što se ne sme pritisnuti" — eho je pukao. Propust
-je nastao jer se VIII tada nije otvaralo.
-
-**Tri izlaza, čeka se odluka autora:**
-
-1. vratiti VII 95 na staro — ali se vraća i „pređem" (prezent usred prošlog), pravi kvar
-2. **preneti novu formulaciju i u VIII 465** („onako kako se drži nešto što se ne sme
-   pritisnuti") — eho preživi u novim rečima *(preporuka)*
-3. ostaviti kako jeste — eho pukne
-
-**Pitanje se postavlja pre bilo kog predloga u VIII.**
-
-### 3. Kvota 2.4 u V — upisano a nerešeno
+### 2. Kvota 2.4 u V — upisano a nerešeno
 
 Vodi se kao popunjena preko Andrijaninog „Dva broja, dva traga." Ona jeste pritisak
 i ona ne skreće — ali pritiska **postupak koji je već poznat**, ne ono što se u V
-zaista krije (okidač bekstva, zapečaćen). Isto: čeka prolaz posle IX.
+zaista krije (okidač bekstva, zapečaćen). Isto: rešava se u koraku 3.
 
 ---
 
@@ -229,9 +224,8 @@ Pre bilo čega pročitaj, tim redom:
 Moratorijum na I–V je pao zatvaranjem IX — ali Pravilo L nije. Zatvoreno u registru
 ostaje zatvoreno. I–V se čitaju kao celina, u jednom prolazu, ne pojedinačno.
 
-Ne otvaraj poglavlje nego plati imenovani dug ili reši jedno od tri upisana pitanja
-(kuća/stan, eho VII 95 ↔ VIII 465, kvota 2.4 u V). Ona su jedini razlog za dodirivanje
-I–V.
+Ne otvaraj poglavlje nego plati imenovani dug ili reši jedno od dva upisana pitanja
+(kuća/stan u IV, kvota 2.4 u V). Ona su jedini razlog za dodirivanje I–V.
 
 Formula „to je bila cela X / to je bilo najgore" je potrošena 3 od 3 i ne sme se
 pojaviti nigde više.

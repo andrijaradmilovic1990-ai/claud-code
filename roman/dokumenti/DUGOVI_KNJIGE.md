@@ -167,7 +167,7 @@ previd.**
 | **D2 — dodir spolja** | **PLAĆEN** | **IX** — starčev broj bez imena stoji u listi poruka, iznad Andrijane, nesačuvan i neobrisan. Ništa se ne dešava, samo se vidi. Isti potez kao u I: on ne odustaje, skreće David |
 | **D3 — Katarina** | **PLAĆEN 23.08.** | **VII** podelom — njeno poglavlje |
 | **D4 — figura** | **PLAĆEN 23.08.** | **VI** — konobar probija zaron, po modelu iz III |
-| **D5 — strah** | nosi ga **VIII**; **na kraju IX zatvoren kao nenaplativ** | kraj IX je zaštićen odlukom autora i gleda unazad — to je odluka, ne previd. Ono što je moglo unapred ušlo je ranije u IX: sat koji odbrojava i kanal ka starom svetu koji stoji otvoren |
+| **D5 — strah** | **PLAĆEN 28.08.** | **VIII** — ceduljica se vraća na kraj poglavlja, neotvorena; čitalac prvi put izlazi napred. U IX se ne naplaćuje ponovo: kraj knjige je zaštićen odlukom autora i gleda unazad. Ono što je moglo unapred ušlo je ranije u IX — sat koji odbrojava i kanal ka starom svetu koji stoji otvoren |
 
 **Šta ova tabela sada kaže naglas:** knjiga nije propustila nijednu priliku —
 odložila ih je, svaku uz razlog, i svaku naplatila pre nego što je zatvorena.

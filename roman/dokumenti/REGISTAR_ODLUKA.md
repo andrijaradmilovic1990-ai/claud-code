@@ -103,6 +103,18 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   Razlog: VI je **jedino poglavlje u kom je David neprikosnoven**, i to mu je
   funkcija — VII, VIII i IX moraju imati s čega da padnu.
 
+### VIII — Kukavica *(zaključano 28.08.2026)*
+- **Eho VII 95 ↔ VIII 465 — zatvoren, odluka autora.** Nova formulacija preneta iz
+  VII u VIII: *„onako kako se drži nešto što se ne sme pritisnuti."* Isti pokret na
+  dva mesta, obrnut smer. **Ne vraćati na staro i ne otvarati ponovo.**
+- **Kraj poglavlja** — *„Nisam gledao na sat. Znao sam da je vreme."* Nedirano; jedna
+  dopuna je 28.08. uneta iznad njega pa odmah povučena kao višak.
+- **Dopuna za D5** — *„Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen,
+  ugao izlizan od prstiju. Nisam ga vadio."* Time je **D5 plaćen.** Papir ostaje
+  neotvoren — sadržaj pripada IX.
+- **Zadržano po odluci prolaza, ne predlagati ponovo:** *„šampon isti kao nekad"*
+  dvaput (r. 23 i 127) i r. 103 o Andrijaninoj rečenici koja se napuni sama.
+
 ### IX — Ćebence
 - **Zaključan 28.08.2026.** Deset unetih izmena — osam napisanih rečenica, dva reza.
 - **D1 (sat) — plaćen ovde, u dva poteza i nigde drugde.** Navijanje u kuhinjskom
@@ -114,8 +126,9 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   iznad Andrijane, nesačuvan i neobrisan. **Ne pretvarati u događaj** — nove scene i
   nova mesta radnje su zamrznuti, a ovo radi baš zato što se ništa ne dešava. Isti
   potez kao u I: on ne odustaje, skreće David.
-- **D5 (strah) — zatvoren kao nenaplativ na kraju IX.** Kraj je zaštićen i gleda
-  unazad; to je odluka, ne previd. Ne predlagati preradu kraja zbog D5.
+- **D5 (strah) — plaćen u VIII, ne naplaćuje se ponovo u IX.** Kraj knjige je
+  zaštićen i gleda unazad; to je odluka, ne previd. Ne predlagati preradu kraja
+  zbog D5.
 - **Kraj poglavlja i knjige** — *„Dvanaest godina u tom džepu nema ničega. Ali telo
   ne zna za kalendar."* Doslovno ponavljanje I, red 7. **ZAŠTIĆENO po odluci
   autora.** Predlog reza je već jednom podnet i odbijen; ne podnosi se ponovo.
@@ -134,7 +147,8 @@ Dozvoljeno **najviše 2–3 puta u celoj knjizi.**
 | 3 | VII | *„To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton."* (red 41) — **potrošeno 27.08.2026, odluka autora** |
 
 **Potrošeno 3 od 3 — spisak je pun.** Formula se više ne sme pojaviti nigde, ni kao
-„prirodna" rečenica. **IX je proveren na sve tri varijante 28.08.2026 — čist.**
+„prirodna" rečenica. **Oba poslednja poglavlja proverena 28.08.2026 — VIII nula
+instanci, IX čist na sve tri varijante.**
 *(23.08. je iz VI izbačena treća instanca —
 „To je bila cela lepota." — jer je stajala petnaest redova od mesta #2.)*
 
@@ -180,6 +194,11 @@ Iz toga sledi:
 - Retroaktivno čitanje se ne radi.
 - Opšta ocena zaključanog poglavlja se ne daje **osim ako autor ne kaže „otvaram"**
   tom rečju.
+
+### Poslednji red fajla *(upisano 28.08.)*
+**Fajlovi poglavlja ne završavaju prelomom reda.** U VIII je zbog toga prvo čitanje
+odseklo poslednju rečenicu poglavlja, i dopuna je uneta na pogrešno mesto pa
+povučena. **Poslednji red se proverava posebno, pre bilo kog predloga.**
 
 ### Pravilo J — rez nije prolaz *(pooštreno 23.08.)*
 Meri se **uneto**, ne predloženo. Najmanje trećina unetih izmena mora biti
