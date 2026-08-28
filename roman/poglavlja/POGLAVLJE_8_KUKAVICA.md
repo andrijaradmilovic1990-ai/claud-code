@@ -368,7 +368,7 @@ Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držal
 
 „Maločas nije zagustilo."
 
-Pogledala me je, i nešto joj je prešlo licem — ne uvreda, nešto strpljivije. Kao da je dobila potvrdu nečega što je odavno znala i samo čekala da vidi hoće li se promeniti.
+Pogledala me je, i nešto joj je prešlo licem — ne uvreda, nešto strpljivije. Kao da je odavno znala i tek sad prestala da se nada da greši.
 
 „Jovana." Nataša. „Istina ili izazov."
 
