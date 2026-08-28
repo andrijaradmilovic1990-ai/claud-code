@@ -184,6 +184,10 @@ Ruka mi je otišla ka telefonu.
 
 Znao sam šta radim. Otvorio sam poruke, krenuo, kucao — tri slova, četiri, pa petim stao prstom i obrisao. Zatvorio.
 
+Pre nego što sam zatvorio, video sam ga u listi — broj bez imena, iznad Andrijane. Starčev, iz onog dana kad me je pomešao s nekim. Ime radionice, i lim, i „ako ikad zatreba."
+
+Nisam ga sačuvao. Nisam ga ni obrisao.
+
 Ostao sam malo tako, s telefonom na stolu, ekranom nadole.
 
 Pa sam ga uzeo i otvorio Andrijanu.
