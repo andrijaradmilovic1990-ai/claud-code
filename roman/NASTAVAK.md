@@ -193,7 +193,7 @@ nema — svih pet plaćeno, šesti razmotren i odbačen. Jedina neplaćena stavk
 **Visi jedna odluka, i ona je autorova.**
 
 Posle koraka 4 knjiga je pročitana cela i ocenjena — presuda je **jako dobra, s
-jednom pravom zamerkom: prekratka je** (15.497 reči, novela a ne roman). Iz toga je
+jednom pravom zamerkom: prekratka je** (15.510 reči, novela a ne roman). Iz toga je
 izašla autorova ideja o **novoj, većoj knjizi — polu-ljubavnoj, polu-„Godfather"**.
 
 **Ceo taj razgovor, presuda i nalazi stoje u `dokumenti/PRESUDA_I_NOVA_KNJIGA.md`.**
