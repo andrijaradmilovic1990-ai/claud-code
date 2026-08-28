@@ -304,7 +304,7 @@ Pa je opet došlo na Andrijanu da skine, jer je odbila da kaže koji joj je bio 
 
 Ustala je bez žurbe, bez one sekunde nelagode koju su druge dve glumile da nemaju, i skinula bluzu. Po koži, preko ramena i niz jednu ruku, išle su one svetle mrlje — kao da je neko prosuo mleko po njoj pa se osušilo u kontinente. Koža koju je nekad krila, a sad nosila kao najskuplju stvar na sebi. Sela je nazad, zapalila, gola do pojasa kao da je sama u sobi.
 
-Ona se ne skine da bi je gledali. Ona se skine i tebi ostane da se snalaziš s tim što gledaš.
+Nije proverila gleda li je iko. Ni mene.
 
 Jovana ju je gledala — taj mir, tu ravnodušnost — i video sam je kako pokušava da je preslika, kako se zavaljuje isto tako, pali cigaretu, i kako joj ne polazi za rukom. Ramena su joj ostala gore.
 

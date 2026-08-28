@@ -97,3 +97,5 @@ I dovoljno mi je da ona to ne zna. Za to sam i kopao raku. Da neko, jednog dana,
 Oprao sam ruke. Voda je otišla rumena, zavrtela se, nestala.
 
 Seo sam za sto sa kog se, slučajno ili ne, vide vrata. Ona je sela naspram, leđima ka njima, i nije ni primetila, jer nikad nije morala da primeti.
+
+Vrata su bila zatvorena. Gledao sam ih dok smo jeli.

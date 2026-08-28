@@ -128,7 +128,7 @@ Stao je pred jednom kapijom koja se otvorila pre nego što smo stigli, jer su na
 
 Izašao sam. Ali leđa su mi i tamo, dok sam izlazio, tražila zid — okrenuo sam se tako da kola ostanu sa strane, ne iza mene, a da to nisam ni odlučio. Čovek za volanom mi je nešto dobacio za pozdrav i ja sam ga čuo postrance, nikad sasvim okrenut.
 
-Svi su mislili da sam bog. Bogovi se ne plaše. Samo se ja, i kao bog, nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja.
+Mislili su da se ničega ne plašim, a ja se ni tada nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja.
 
 Ruke sam pravio da rade to što sam sad tražio od tuđih. Znao sam tačno gde ide prvi udarac jer sam ga sam brojao, u mrak, dovoljno puta.
 
@@ -144,7 +144,7 @@ Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina 
 
 Za nju nikad nisam pitao smem li.
 
-Ovi telefoni su trebalo da ostanu zakopani — jer čim ih dignem, čim me taj svet ponovo čuje, vraća se i sve ostalo, i pitanja po gradu, i ljudi koji te znaju a ti njih ne, i računi koji se naplaćuju od onoga što čovek voli.
+Ovi telefoni su trebalo da ostanu zakopani — jer čim ih dignem, čim me taj svet ponovo čuje, vraća se i sve ostalo, i pitanja po gradu, i ljudi koji te znaju a ti njih ne, i neko ko će je jednog dana pitati odakle joj taj doktor.
 
 A ja sam ih digao za jedno popodne. Za nju.
 
@@ -154,7 +154,7 @@ Konobar je prošao, pogledao praznu šolju.
 
 „Ne." Ustao sam. „Idem."
 
-Onu stolicu do mene, treću, gurnuo sam nogom pod sto u prolazu, da stoji uredno, da ne smeta nikom. Tako se sklanja prazna stolica kad odlaziš. Tako se ne sklanja čovek kog si već počeo da vraćaš iz mrtvih.
+Onu stolicu do mene, treću, gurnuo sam nogom pod sto u prolazu, da stoji uredno, da ne smeta nikom. Njenu. Danas mi je smetala.
 
 Napolju je bila sreda, i dalje. Dan koji ne volim. Sad ga volim još manje, i sad imam jedan razlog više koji isto neću izgovoriti.
 

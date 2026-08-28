@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 28.08.2026.
+> Poslednje ažuriranje: 28.08.2026. *(korak 4)*
 
 ---
 
@@ -29,9 +29,13 @@ Ne otvara se **ni na pitanje.**
   05.08.2026.
 - **CILJ knjige** — dve polovine (rečenica / knjiga), upisano jednom zasvagda.
 
-**Jedini izuzetak ikad napravljen:** broj poglavlja. **23.08.2026.**, na izričitu
-inicijativu autora, VII je podeljen na dva (vidi 5). Redosled radnje time nije
-promenjen — nijedna rečenica nije premeštena.
+**Izuzeci ikad napravljeni — dva, oba na izričitu inicijativu autora:**
+
+1. **Broj poglavlja. 23.08.2026.** VII je podeljen na dva (vidi 5). Redosled radnje
+   time nije promenjen — nijedna rečenica nije premeštena.
+2. **Jedna nova scena na početku IV. 28.08.2026, korak 4** (vidi 3, IV). Zabrana je
+   otvorena za taj jedan potez i **zatvorena je posle njega.** Radnja, redosled i
+   hronologija nisu promenjeni.
 
 ---
 
@@ -94,6 +98,9 @@ Ne brišu se, ne skraćuju, ne prepisuju.
 ### III — Krv
 - Formula *„…za to sam i kopao raku… najveća koju sam u životu izvojevao"* —
   **rezervisano mesto #1** (vidi 4).
+- **Kraj poglavlja** — *„Vrata su bila zatvorena. Gledao sam ih dok smo jeli."*
+  Dopuna iz koraka 4. Ona sedi leđima ka vratima, on ih gleda; ništa se ne imenuje.
+  Ne brisati kao višak — to je jedino mesto u I–III gde se opasnost vidi.
 
 ### IV — Pariz
 - Kraj: *„Nismo mogli."* + pasus o grobu.
@@ -105,6 +112,30 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   za sebe.
 - **Jovanin ivičnjak ostaje svesno go, bez stida** — njena nežnost je žaljenje za
   nedostupnim, ne skrivanje. Presedan u odnosu na PRAVILA_STILA tačku 6.
+
+#### Nova scena na početku IV *(28.08.2026, korak 4 — ZAŠTIĆENA)*
+
+Veče pred jutro s ceduljom: David u kafiću, kombi napolju, neko dovikne ime, i
+**David se okrene ceo.** Nije njemu — onaj drugi nosi ime koje je David nosio nekad.
+Vrati se, plati, prođe pored kombija ne gledajući unutra. Kod kuće Katarina spava s
+knjigom na grudima. Kraj scene: *„Nije to bilo ništa. Dva klinca i kombi."*
+
+**Zašto postoji.** I–V nisu imali nikoga za koga čitalac brine — sve je prošlost i svi
+su preživeli. **Dva pokušaja da se to plati rečenicom autor je odbio**, uz razlog koji
+stoji kao pravilo: **strah se ne montira u postojeću rečenicu.** Ili scena nosi da
+nešto može da se desi, ili ne nosi.
+
+**Scena je previd, ne pretnja — i to se ne sme pomeriti.** Niko ne gleda Davida, niko
+ne pita za njega, ništa se ne dešava. Greši on, jednom, telom, pa sam sebe otpiše.
+**Ne dodavati posmatrača, ne dodavati posledicu, ne pretvarati u događaj.**
+
+**Ne dirati formulaciju *„ime koje sam ja nosio nekad"*.** Ime „David" pada tačno
+dvaput u knjizi (`VIII 65`, `VIII 67`), oba puta iz usta Nataše i Andrijane. Katarina
+ga ne imenuje nijednom, ni pripovedač sebe. **Na kraju knjige se ne zna kako se on
+danas zove**, i ova rečenica to zaključava. Ime se ovde **ne sme napisati.**
+
+**Ne ponavljati isti potez u I ni u III.** Jedan previd je previd; tri su figura (D4).
+Odlučeno 28.08.2026.
 
 ### V — Nestanak
 - Poslednja rečenica: *„…i ja sam to čitavo vreme zvao milošću."*
@@ -183,9 +214,16 @@ Rezervisan **samo za par II i IX.** III, IV, V, VI, VII, VIII se **ne popunjavaj
 u tabeli — odlučeno, stoji.
 
 ### Refren „telo zna pre glave / telo ne zna za kalendar"
-Vraća se **s varijacijom**, ne doslovno. Raspored: **I, II, IV, VI, IX.**
+Vraća se **s varijacijom**, ne doslovno. Raspored: **I, II, IV, VIII, IX.**
 Završno mesto: poslednja rečenica IX, doslovno kao I red 7 — odluka autora,
 zaštićeno.
+
+> **ISPRAVLJENO 28.08.2026 po Pravilu E** *(tekst je autoritet nad dokumentom)*.
+> Raniji zapis je vodio **VI**, gde instance nema. Provereno u tekstu, pet mesta:
+> `I 7` (*„telo ne zna za kalendar"*) · `II 3` (*„Telo uvek zna pre glave"*) ·
+> `IV 137` (*„Telo je već tada znalo nešto što glava nije htela"*) · `VIII 459`
+> (*„Telo je steglo nešto ispod rebara"*) · `IX 227` (završno, doslovno kao I).
+> **VI nema instancu i ne dodaje se.**
 
 ---
 

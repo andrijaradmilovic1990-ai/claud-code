@@ -11,12 +11,22 @@
 > pročita i pomisli „ovo treba uraditi" — ne treba, dok autor ne kaže „otvaram".
 >
 > Osnovan: 26.08.2026.
+>
+> **AŽURIRANO 28.08.2026.** Korak 3 (čitanje cele knjige u nizu) i korak 4 (rad po
+> CILJU) su odrađeni. **Nijedna ideja iz ovog fajla nije otvarana ni u jednom od
+> njih**, jer autor to nije tražio — pa i dalje stoje kao odložene, ne kao odbačene.
+> Ime fajla ostaje kakvo jeste da se ne prekida istorija; čitaj ga kao
+> **„odložene ideje autora"**, ne kao vezan za korak 3.
+>
+> **Pravilo nije promenjeno:** ideja u ovom fajlu **nije odluka.** Ne otvara se dok
+> autor ne kaže „otvaram" tom rečju.
 
 ---
 
 ## IDEJA 1 — ITALIJA *(autor, 26.08.2026)*
 
-**Status: ODLOŽENO ZA KORAK 3. Nije odobreno, nije odbačeno.**
+**Status: ODLOŽENO. Nije odobreno, nije odbačeno.** *(Korak 3 je prošao 28.08.2026
+i ova ideja u njemu nije otvarana.)*
 
 ### Šta je autor želeo
 

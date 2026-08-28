@@ -1,5 +1,31 @@
 # IV — Pariz
 
+Bio sam u kafiću do kasno, ne zato što sam hteo, nego zato što je kod kuće sve bilo gotovo i ništa nije trebalo raditi. Konobar je već brisao susedne stolove. Kafa treća, hladna, nisam je ni pio.
+
+Napolju je stao kombi i iz njega su izašla dvojica, mladi, dovikuju se preko krova.
+
+Onda je jedan viknuo ime.
+
+Okrenuo sam se ceo. Ne glavom — celim telom, sa stolicom, onako kako se čovek okrene kad zna da mu je neko za leđima.
+
+Nije bilo meni. Bio je onaj drugi, kod zadnjih vrata kombija, i imao je isto ime koje sam ja nosio nekad, i digao je ruku i viknuo da dolazi.
+
+Vratio sam se. Uzeo šolju. Ruka je bila mirna.
+
+Konobar je došao po pepeljaru i pitao hoću li još jednu. Rekao sam da neću.
+
+Platio sam i izašao. Kombi je i dalje stajao. Prošao sam pored njega i nisam pogledao unutra, i to nisam odlučio.
+
+Kod kuće je gorelo svetlo u kuhinji. Ušao sam tiho, iako nije bilo razloga da ulazim tiho.
+
+Spavala je s knjigom na grudima i televizor je i dalje radio. Isključio sam ga. Uzeo joj knjigu, obeležio stranu, spustio na pod.
+
+Legao sam i ležao budan. Nije to bilo ništa. Dva klinca i kombi.
+
+Ujutru sam prvi ustao.
+
+⁂
+
 Cedulja je htela da padne. Magnet je popustio, onaj žuti, jeftini, i papir je krenuo niz vrata frižidera — njen rukopis, mleko, kafa, nešto treće što nisam stigao da pročitam — i ja sam ga uhvatio pre nego što je dotakao pod, pritisnuo nazad, i prst mi je pao na magnet.
 
 Pariz.

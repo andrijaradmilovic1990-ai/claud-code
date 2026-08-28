@@ -134,7 +134,7 @@ Bilo je lako. Toliko lako da sam u jednom trenutku zaboravio da brojim minute do
 
 Skoro o svemu.
 
-Postoji jedna linija. Oboje je vidimo. Nijedno je ne prelazi. Nije zid, nije zabrana — samo dogovor koji nikad nismo izgovorili. Kad razgovor dođe do ivice — do toga zašto sam stvarno otišao, do onoga što sam radio pre, do toga šta smo bili — skrenemo. Oboje. U isto vreme.
+Postoji jedna linija i oboje je vidimo. Nije zid, nije zabrana — samo dogovor koji nikad nismo izgovorili. Kad razgovor dođe do ivice — do toga zašto sam stvarno otišao, do onoga što sam radio pre, do toga šta smo bili — skrenemo, oboje, u isto vreme, i sledeći minut se smejemo nečemu što nije smešno.
 
 Jednom je došla blizu.
 
