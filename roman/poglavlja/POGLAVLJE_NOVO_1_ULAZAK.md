@@ -1,116 +1,140 @@
 # Ulazak
 
-Prao sam sudove u tom stanu jer nisam imao čime drugim da platim.
+Prvo su bile cigare.
 
-Stan je bio Jovanin, a novac njenog oca, i o tome se nije govorilo — ne zato što je bila tajna nego zato što nije bilo šta da se kaže. Njen otac je iz tog sveta izašao pre nego što sam ja u njega ušao. Ostavio je pare i uzeo mir, i ljudi su o njemu i posle deset godina pričali tiše nego o onima koji su ostali.
+Kafana je bila na uglu, ispod naše zgrade, i ispred nje su leti stajala četiri stola koja niko nikad nije sklanjao. Za ta četiri stola sedeli su ljudi koje sam znao iz viđenja pre nego što sam znao da čitam. Kola su im bila parkirana na trotoaru i niko im ništa nije govorio.
 
-Ja sam imao dve majice, jedne farmerke, kopačke i sat koji sam kasnije izgubio negde u Italiji.
+„Mali.“
 
-Andrijana je uzela sobu s balkonom prve večeri, bez pitanja, i to niko nije osporio jer se Andrijani ništa nije osporavalo. Jovana je uzela onu do kupatila. Meni je ostala ona do kuhinje, u kojoj je bilo vruće leti i hladno zimi i u kojoj se čulo sve.
+Podigao bih glavu s lopte.
 
-Pravilo je bilo da onaj ko ustane prvi skuva kafu za troje.
+„Skoči po cigare. Kusur ti.“
 
-Ustajao sam prvi. Ne zbog pravila.
+Imao sam jedanaest godina i trčao sam do kioska i nazad, i kusur je bio veći od cigareta, i ja sam ga trošio na sladoled i na sličice i posle na kredit za telefon koji nisam imao. To je sve. Nije bilo ničeg drugog u tome. Ko misli da je bilo, taj nije odrastao u takvoj ulici.
+
+Prao sam im i kola. Pola dana, dvojica-trojica nas iz zgrade, kofa i sunđer i onaj crevo iz podruma, i oni bi izlazili i gledali i govorili nam da nismo obrisali ispod kvake, i platili bi nam koliko im se tog dana platilo.
+
+Bilo je i onih dana kad su iznosili stolove na ulicu.
+
+Ne znam čemu se to slavilo. Nikad nisam pitao. Znam da su spajali one četiri stola u jedan dugačak i da su donosili stolice iz kafane i iz stanova, i da sam ja nosio te stolice jer sam bio najmlađi i najbrži. Znam da se peklo iza kafane i da je dim išao pravo u prozor komšinici s prvog sprata i da ona nikad nije rekla ni reč.
+
+Jeo sam za tim stolom. Na kraju, tamo gde se seda kad si klinac, ali za tim stolom.
+
+I znao sam, dok sam sedeo tu s tanjirom u krilu, da bih dao ne znam šta da jednog dana sednem gore.
 
 ⁂
 
-Brata sam našao ja.
+Italijana sam viđao od početka.
 
-Vrata su bila odškrinuta, a on je bio čovek koji vrata nikad nije ostavljao odškrinuta, i ja sam to znao dok sam ih još gurao, i svejedno sam ih gurnuo do kraja i ušao i video.
+Dolazio je retko i nikad nije sedeo dugo. Ljudi bi ustajali kad on stigne, i to ne naglo, nego onako kako se ustaje kad ti se nešto samo od sebe ispravi u leđima. Govorio je naš jezik dobro ali ne do kraja — reči bi mu bile tačne pa bi mu na kraju rečenice ispala jedna koja nije, i on je nije ispravljao nego bi je ostavio tu i nastavio dalje.
 
-Imao sam četrnaest godina. Nije bilo nikog da me pomeri odatle, pa sam stajao dok neko nije došao.
+Meni je govorio dobar dan.
 
-Teča i tetka su se do tada već bili razišli, svako na svoju stranu, i ni jedno ni drugo nije uzelo nikog sa sobom. Došli su na sahranu odvojeno, stali sa dve strane rake, i oboje su me pitali je l' mi treba nešto — istu rečenicu, u razmaku od deset minuta, i nijedno nije sačekalo odgovor.
+„Dobar dan, mali.“
 
-Posle sahrane me je nedelju dana neko nešto pitao, pa su prestali.
+„Dobar dan.“
 
-Jovana je došla po mene kolima svog oca, s vozačem koji nije izlazio, i stala je na vrata tog stana i pogledala unutra i nije ušla.
+Jednom mi je dao za sladoled i rekao nešto što nisam razumeo, i onaj do njega se nasmejao, i ja sam se nasmejao jer se smejao onaj do njega.
 
-„Uzmi šta ti treba.“
+Tako je to išlo godinama.
 
-„Šta mi treba?“
+⁂
 
-„Otkud znam šta ti treba. Uzmi.“
+Trenirao sam od šeste. Ljudi to izgovaraju kao da nešto znači. Meni je značilo utorak, četvrtak i subotu, i onih petnaest minuta posle treninga kad devojke iz gimnazije prolaze pored ograde, i tada je bolje biti mokre kose i u dresu nego u ono dvoje što sam imao.
 
-Uzeo sam dve majice i kopačke i sat. Ostalo je ostalo, i koliko ja znam stoji i danas.
+Bio sam brz. To su svi govorili istim redom — prvo brz, pa onda ostalo.
+
+Brat me odveo na taj teren treće nedelje otkad sam došao u grad, i to nije uradio zato što je mislio da od mene može nešto da bude nego zato što je hteo da me nema po podne. Njega za tim stolovima nije bilo. Njega nigde nije bilo. On je radio nešto svoje, s nekim svojim ljudima koje ja nisam poznavao, i jedina stvar koju sam o tome znao jeste da nikad nije jeo s tim stolovima ispred kafane.
+
+Kasnije mi je jedan čovek to rekao u lice, kao da mi objašnjava vreme napolju: nije bio naš.
+
+⁂
+
+Našao sam ga ja.
+
+Vrata su bila odškrinuta, a on je bio čovek koji vrata nikad nije ostavljao odškrinuta, i ja sam to znao dok sam ih još gurao, i svejedno sam ih gurnuo do kraja.
+
+Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko nije došao.
 
 Heroin, ako neko pita. Niko nije pitao.
 
-⁂
+Teča i tetka su se do tada već bili razišli, svako na svoju stranu, i došli su na sahranu odvojeno i stali sa dve strane rake. Oboje su me pitali je l' mi treba nešto — istu rečenicu, u razmaku od deset minuta, i nijedno nije sačekalo odgovor. Posle sahrane me je nedelju dana neko nešto pitao, pa su prestali.
 
-Bio sam bednik.
+Stan je ostao kakav je bio. Njegove stvari, njegova šolja, njegov ranac na stolici. Nisam pomerio ništa i nisam mogao da spavam tamo, pa sam prestao.
 
-To kažem bez plakanja, jer sam tada tako i govorio. Nisam bio nesrećan klinac iz onih priča, nisam čitao knjige u sobi i nisam mrzeo svet — hteo sam pare i hteo sam devojke, tim redom, i sve što se između mene i toga isprečilo bilo je isprečeno.
+Spavao sam kod Jovane. Kod nje je bila kuća, i u toj kući je bio njen otac, čovek koji je iz tog sveta izašao pre nego što sam ja u njega ušao, i o kome se u kafani govorilo tiše nego o onima koji su ostali. Mene je pustio unutra i nikad me ništa nije pitao. Jovana je iznosila jastuk na kauč u dnevnoj sobi svaki put s onim izrazom kao da to radi već godinama.
 
-Trenirao sam od šeste godine. Ljudi to izgovaraju kao da nešto znači. Meni je značilo utorak, četvrtak i subotu, i ono petnaest minuta posle treninga kad devojke iz gimnazije prolaze pored ograde i kad je bolje biti mokre kose i u dresu nego u ona moja dva komada. Bio sam brz. To su svi govorili istim redom — prvo brz, pa onda ostalo — i ja sam se navikao da to čujem kao da mi je neko dao nešto besplatno.
+Spavao sam i kod Andrijane, kod njene majke, na dušeku u sobičku pored kuhinje, i njena majka mi je ujutru davala hleb i govorila mi da sam mršav.
 
-Petkom smo pušili na Andrijaninom balkonu, njih dve umotane u ćebad i ja u dva džempera, jer je Andrijana odbijala da zatvori vrata. Dopadalo mi se. Neću da lažem da mi se nije dopadalo. Bilo mi je petnaest godina i ceo grad je dole ležao sitan, i smejali smo se glupostima po sat i po, i onda bih ja ustajao i pravio nešto da se jede jer su njih dve u tom stanju umele samo da otvore kesu.
+I spavao sam u onom stanu, kad ni jedno ni drugo nije moglo.
 
-Andrijana je već tada bila ono što će biti. Nosila je cipele po kući iako smo se svi izuvali, i kad bi joj neko rekao da to ne radi, uradila bi to sporije. Sedela je na naslonu fotelje umesto u njoj. Kad bih ulazio u kupatilo ona je izlazila iz njega, svaki put, kao da je to raspored a ne slučajnost, i jednom mi je rekla da mi bolje stoji kad se ne brijem, i ja se posle toga dve nedelje nisam brijao i pravio sam se da je to zaboravljeno.
-
-Petkom je dovodila nekog. Ujutru ga ne bi bilo. Ja sam ležao u onoj sobi u kojoj se čulo sve, i ujutru kuvao kafu za troje, i ništa nisam rekao ni jednom ni drugom.
-
-Jovana je bila godinu dana mlađa i ponašala se kao da je pet godina starija. Ona je plaćala račune, ona je znala kad ističe nešto, ona je govorila Andrijani da je prostakuša i Andrijana bi joj rekla da je bogatašica i to bi trajalo dva minuta i završilo se u smehu, dva puta nedeljno, cele te godine.
-
-Jednom, u novembru, doneli su mi jaknu.
-
-Bila je na mom krevetu kad sam se vratio s treninga, s etiketom skinutom, prava veličina. Rekao sam hvala Andrijani i Andrijana je rekla da nije ona. Rekao sam hvala Jovani i Jovana je rekla „Nema na čemu“ i produžila u kuhinju, i ja sam se okrenuo za Andrijanom da joj kažem nešto o jakni.
-
-Nosio sam je četiri godine.
+Tako je izgledala moja petnaesta godina. Tri adrese i nijedna moja.
 
 ⁂
 
-Čovek koji me je prvi pitao stanovao je u zgradi preko puta i imao je onaj auto koji je stalno prao a nikud njime nije išao.
+Posle brata sam bio ispred kafane češće.
 
-Sačekao me kod ulaza, s torbom u ruci, i pitao me prolazim li iza pijace.
+Ne zato što me neko zvao. Zato što je tamo bilo toplo i zato što je tamo neko govorio sa mnom, i zato što se tamo jelo u pola dvanaest uveče kad nigde drugde nema šta da se jede.
 
-Prolazio sam iza pijace.
+I onda su počele stvari koje nisu cigare.
 
-Nije mi objasnio ništa i ja nisam pitao ništa, i to nije bila hrabrost nego račun — čovek koji pita dobija odgovor, a s odgovorom dolazi i to da si ga tražio. Bilo mi je petnaest godina i nisam bio glup. Znao sam u kojoj ulici živim i znao sam od čega mi je brat umro i znao sam da čovek s onim autom ne prevozi voće.
+Odnesi ovo do onog broja, sačekaj da izađe, vrati mi ključeve. Ostani tu i ako neko dođe, zovi. Uzmi ovu torbu i idi kući peške, ne autobusom.
 
-Uzeo sam torbu i rekao „dobro“.
+Nisam pitao šta je unutra i to nije bila hrabrost nego račun — čovek koji pita dobija odgovor, a s odgovorom dolazi i to da si ga tražio. Imao sam petnaest godina i nisam bio glup. Znao sam u kojoj ulici živim i znao sam od čega mi je brat umro.
 
-Nosio sam je preko ramena preko svoje, kao da nosim dve svoje. Petnaestogodišnjak s mokrom kosom i sportskom torbom prolazi kroz taj grad kao vazduh. Niko me nije pogledao — ni tog dana ni ijedan sledeći put, i čovek s autom je to znao pre mene, jer nije video mene nego to što mene niko ne vidi.
+Novac je dolazio presavijen, u ruci koja se ne zadržava. Prebrojavao sam ga u parku, sedeći, po dvaput.
 
-Na vratima je neko uzeo torbu i zatvorio pre nego što sam se okrenuo.
+Kupio sam patike. Kupio sam Jovani nove jer su njene propuštale vodu, i rekla je da ne treba i uzela ih je. Andrijanu sam vodio na picu tri puta i jednom u bioskop, i ona je celim putem nazad pričala o nekom Vladi iz njene škole, a ja sam slušao i platio taksi.
 
-Dole me je čekala ruka s presavijenim novcem i nije se zadržala.
+Ali nije me novac držao tamo.
 
-Prebrojao sam ga tek u parku, sedeći, dvaput.
+Jedne večeri, pred svima, dok su se stolovi spajali, jedan od njih je rekao nekom koga nisam poznavao da sam ja u redu. Rekao je to preko mog ramena, kao usput, kao da govori o kolima.
+
+Nisam mogao da zaspim te noći.
 
 ⁂
 
-Posle toga je išlo samo od sebe, i to je stvar koju ljudi ne razumeju kad pitaju kako je neko ušao. Niko me nije uvodio. Nije bilo večeri kad sam odlučio.
+Trener je počeo da me čeka ispred zgrade.
 
-Bilo je torbi, i koverata, i jednom kutije obuće koja je bila preteška da u njoj budu cipele. Bilo je čekanja ispred zgrada i vožnji u tuđim kolima do mesta gde bih izašao i rekao dve reči i vratio se. Zimus tri puta, u proleće češće. Uvek isto: ne pitaš, ne otvaraš, ne kasniš.
+Prvo lepo. Pa manje lepo. Pa mi je jednog utorka rekao da zna kod koga sam, i da to nije igra, i da će ako treba naći teču i tetku i reći im gde mu klinac provodi večeri.
 
-I bilo je para.
+Rekao sam mu da nema šta da im kaže i da ionako niko ne javlja.
 
-Kupio sam patike. Kupio sam Jovani nove jer su njene propuštale vodu, i rekla je da ne treba i uzela ih je. Andrijanu sam vodio na picu tri puta i jednom u bioskop na film koji nijedno od nas nije gledalo, i ona je celim putem nazad pričala o nekom Vladi iz njene škole i ja sam slušao i plaćao taksi.
+Nisam nikom ništa rekao o tome. Ni jednom rečju, i to znam sigurno, jer sam se posle mnogo puta vraćao na to i tražio gde sam pogrešio.
 
-Prestao sam da idem na trening četvrtkom, pa i utorkom. Trener me je jednom sačekao ispred zgrade, stajao je tu s rukama u džepovima i nije ulazio, i pitao me je l' se nešto desilo. Rekao sam da radim. Klimnuo je glavom i otišao, i to je bio poslednji put da sam ga video izbliza.
+U četvrtak je pred kafanom neko pitao ko je onaj u trenerci što me čeka.
 
-U martu, umesto torbe, adresa.
+Slegnuo sam ramenima.
 
-„U sedam. Bez torbe. I nemoj u trenerci.“
+Sledećeg utorka trener nije bio ispred zgrade. Bio je na terenu, i imao je flaster iznad oka, i objasnio je momcima da je pao niz stepenice u svlačionici. Momci su se smejali. Ja sam se smejao s njima.
+
+Posle treninga nije mi stavio ruku na potiljak.
+
+Nije mi je stavio ni sledeći put, ni onaj posle, i nikad me više nije pitao gde sam bio, i nikad me više nije čekao ispred zgrade, i kad bih izlazio s terena gledao je negde pored mene, u onu ogradu.
+
+Trebalo je da mi bude teško.
+
+Išao sam još tri nedelje, pa dve subote, pa nijednom.
+
+⁂
+
+U martu su mi rekli da dođem u sedam.
+
+„Bez torbe. I nemoj u trenerci.“
 
 „Nemam ništa što nije trenerka.“
 
-Pogledao me je onako kako me do tada nije pogledao. „Onda u onome što imaš.“
+„Onda u onome što imaš.“
 
-⁂
-
-Bila je to kafana kod stare pekare, ona koja se zatvarala u pet i palila svetlo pozadi u šest.
-
-Ušao sam kroz sporedna vrata i unutra je bila prostorija sa četiri stola, tri prazna, a na četvrtom ništa još nije bilo posluženo. Rekli su mi da sednem.
+Kafana je bila zatvorena spreda i upaljena pozadi. Ušao sam kroz sporedna vrata i unutra je bila prostorija sa četiri stola, tri prazna, a na četvrtom ništa još nije bilo posluženo. Rekli su mi da sednem.
 
 Čekao sam sat i dvadeset.
 
 Znam koliko, jer sam gledao u onaj sat na zidu koji je kasnio pa sam računao koliko kasni, pa ponovo. Iz kuhinje se čulo kako neko pere nešto pod vodom i staje, pa opet, i to staje je bilo gore od vode. U jednom trenutku sam prestao da osećam noge od kolena naniže pa sam ih namerno pomerio da vidim da li mogu.
 
-Nisam se plašio nikog određenog. Nisam znao koga bih se plašio, a to nije pomagalo nego odmagalo. Znao sam samo da sam u sobi iz koje vode troja vrata i da ni jedna nisu moja, i da niko na svetu tog trenutka ne zna gde sam.
+Nisam se plašio nikog određenog. Nisam znao koga bih se plašio, a to nije pomagalo nego odmagalo.
 
-Mogao sam da ustanem. Vrata kroz koja sam ušao bila su iza mene i niko ih nije čuvao i ja sam ih gledao dvaput.
+Vrata kroz koja sam ušao bila su iza mene i niko ih nije čuvao. Pogledao sam ih dvaput.
 
 Ostao sam da sedim.
 
@@ -118,19 +142,17 @@ Ostao sam da sedim.
 
 Ušao je u pola devet i nije se izvinio.
 
-Bio je krupan na onaj način na koji su krupni ljudi koji su nekad bili mršavi, i skinuo je kaput i okačio ga sam iako je neko pošao da mu pomogne. Seo je preko puta mene, ne pored, i pomerio pepeljaru u stranu da mu ne stoji između.
+Skinuo je kaput i okačio ga sam iako je neko pošao da mu pomogne. Seo je preko puta mene, ne pored, i pomerio pepeljaru u stranu da mu ne stoji između.
 
-Govorio je naš jezik dobro, ali ne do kraja. Reči bi mu bile tačne pa bi mu na kraju rečenice ispala jedna koja nije, i on je nije ispravljao, nego bi je ostavio tu i nastavio dalje, i ti si morao da je preskočiš sam ako hoćeš da razumeš.
+„Dobar dan, mali.“
 
-„Ti si taj.“
-
-Nisam znao je l' to pitanje. Ćutao sam.
+„Dobar dan.“
 
 Iz kuhinje je izašla žena i spustila pred njega tanjir čorbe i hleb i otišla. Preda me nije spustila ništa, i ja sam prvih pet minuta potrošio na to da odlučim je l' to zato što se meni ne služi ili zato što se mene nije ni pitalo.
 
 Jeo je polako. Ne otmeno — polako. Kao čovek koji ceo dan nije stigao da sedne i sad ne da nikom da mu to ubrza.
 
-„Znao sam tvog brata“, rekao je između dve kašike.
+„Znao sam tvog brata.“
 
 Nisam ništa rekao.
 
@@ -138,15 +160,13 @@ Nisam ništa rekao.
 
 Iza mene je neko upalio radio pa ga odmah utišao.
 
-Pričao je dvadesetak minuta i ja sam za to vreme izgovorio četiri reči, i sve četiri su bile „da“ ili „znam“ na mestima gde se to govori. Nije mi objašnjavao posao. Nije mi rekao za koga radim ni koliko ću dobijati. Pričao je o gradu, o tome ko se gde doselio i ko je kome brat, o jednoj kafani koja je promenila tri vlasnika za godinu dana, o svojoj ćerki koja neće da jede meso pa je on natera pa se ona zaključa.
+Pričao je dvadesetak minuta i ja sam za to vreme izgovorio četiri reči, i sve četiri su bile „da“ ili „znam“ na mestima gde se to govori. Nije mi objašnjavao posao. Nije mi rekao za koga radim ni koliko ću dobijati.
 
-Sve vreme sam znao da to nije razgovor nego gledanje.
+Pričao je o tome ko je kome brat i ko se s kim ne pozdravlja i zašto. Pričao je o jednom čoveku koji je uzeo pare od svog i o tome šta je s tim čovekom bilo, i nije rekao šta je bilo nego je rekao da se to zna. Pričao je o svojoj ćerki koja neće da jede meso pa je on natera pa se ona zaključa, i o tome kako se ženi u kuću ne ulazi bez pitanja, nikad, ni njemu ni bilo kome.
 
-„Šta radiš po podne?“
+„Čovek nije šta priča. Čovek je šta radi kad niko ne gleda.“
 
-„Trenirao sam.“
-
-„Trenirao.“ Ponovio je to kao da proverava reč. „E.“
+Klimnuo sam glavom kao da to razumem. Deo mene je stvarno razumeo.
 
 Obrisao je hleb po dnu tanjira, pojeo ga, spustio kašiku.
 
@@ -174,11 +194,11 @@ Nije se nasmešio i nije se naljutio. Izvadio je cigaretu i nije je zapalio nego
 
 „So.“ Klimnuo je glavom jednom, kratko. „Va bene.“
 
-I to je bilo sve. Nije rekao da pristaje, nije rekao da neće, nije mi objasnio kakva je to razlika i ima li je uopšte. Okrenuo je glavu ka kuhinji i podigao dva prsta, i žena je izašla i spustila preda me tanjir.
+Okrenuo je glavu ka kuhinji i podigao dva prsta, i žena je izašla i spustila preda me tanjir.
 
 Gledao sam u njega i nisam se micao.
 
-„Mangia“, rekao je. „Hladi se.“
+„Mangia.“ Gurnuo mi je hleb preko stola. „Hladi se.“
 
 Jeo sam.
 
@@ -192,18 +212,16 @@ Kad sam spustio kašiku, ustao je i uzeo kaput.
 
 ⁂
 
-Vratio sam se u pola dvanaest i petak je bio.
+Nisam otišao u bratov stan.
 
-Iz Andrijanine sobe se čuo smeh, njen i još nečiji, i onaj zvuk kad neko nekog ućutkuje pa se od toga smeju još više. Jovanina vrata su bila zatvorena i ispod njih nije bilo svetla.
+Prešao sam pola grada peške, iako sam imao za taksi, i stigao kod Jovane u pola dvanaest i otključao onim ključem koji su mi dali a nikad ništa uz njega nisu rekli.
 
-Na stolu u kuhinji stajao je tanjir pokriven drugim tanjirom, i pored njega viljuška, i čaša okrenuta naopako da ne uđe prašina.
+U kuhinji je gorelo svetlo i vrata su bila zatvorena. Iza njih je neko pomerio šolju po stolu.
 
-Podigao sam gornji tanjir i vratio ga.
+Nisam ušao.
 
-Oprao sam ruke, pa ih oprao još jednom, i obrisao sam sudoperu iako je bila suva.
+Na kauču je stajao jastuk i preko naslona presavijeno ćebe, kao svake večeri, i ja sam legao u odeći i gurnuo novac pod jastuk i okrenuo se ka naslonu.
 
-U sobi sam izvadio novac iz džepa i prebrojao ga sedeći na krevetu, u mraku, po debljini i po ivici, kako sam naučio da se broji kad se ne pali svetlo. Bilo ga je više nego prošli put. Gurnuo sam ga pod dušek, uz zid, tamo gde je već stajao onaj od pre.
+Svetlo u kuhinji se ugasilo posle nekog vremena.
 
-Kroz zid se i dalje smejala.
-
-Ležao sam na leđima i slušao, i mislio o tome koliko će mi trebati.
+Ležao sam još dugo posle toga i mislio o tome kako je izgledao onaj dugački sto na ulici kad se sve četiri spoje.
