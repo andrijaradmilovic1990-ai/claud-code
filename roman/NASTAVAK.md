@@ -229,7 +229,9 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 - **Fajlovi poglavlja ne završavaju prelomom reda.** Poslednji red se proverava
   **pre** rada, alatom koji stvarno radi.
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
-- **Nema PR-ova posle svake izmene** — commit kako ide, jedan PR i merge na kraju.
+- **Nema PR-ova posle svake izmene** — commit kako ide, jedan PR i merge **na kraju
+  svakog razgovora.** Poglavlje nije zatvoreno dok rad nije na glavnoj grani; draft PR
+  ne važi kao sačuvano. **Prvo u novom chatu: proveri ima li grana s neuvezanim radom.**
 
 ---
 
@@ -239,7 +241,18 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 Nastavi. Rukopis „Sahrana bez tela" je gotov — devet poglavlja, 15.510 reči, sva
 zaključana. Plan od četiri koraka je iscrpljen i u rukopisu ništa ne visi.
 
-Pre bilo čega pročitaj, tim redom:
+PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
+  git fetch -q origin
+  M=origin/claude/nesto-zanimljivo-z4j3s0
+  for b in $(git branch -r --format='%(refname:short)' | grep -v HEAD); do
+    [ "$b" = "$M" ] && continue
+    c=$(git rev-list --count $M..$b 2>/dev/null)
+    [ "${c:-0}" -gt 0 ] && echo "$b — $c commit(a) van glavne"
+  done
+Ako nešto ispliva — NE mergovati granu na slepo. Uporedi izmenu po izmenu i javi mi;
+grana može biti starija osnova pa bi merge vratio unazad ono što je urađeno posle.
+
+Zatim pročitaj, tim redom:
   roman/NASTAVAK.md
   roman/dokumenti/PRESUDA_I_NOVA_KNJIGA.md
   roman/dokumenti/REGISTAR_ODLUKA.md
@@ -283,8 +296,18 @@ Fajlovi poglavlja ne završavaju prelomom reda — proveri alatom koji stvarno r
 i proveri ishod komande, ne samo izlaz (xxd ne postoji; `od -An -c` na poslednjem
 bajtu radi).
 
-Nema PR-ova posle svake izmene, nema pretplate na PR i nema samoprovera — commit
-kako ide, jedan PR i merge na kraju. Ako se pretplata sama upali, ugasi je.
+── GIT — PROMENJENO PRAVILO, 28.08.2026 ──
+
+Nema pretplate na PR i nema samoprovera; ako se pretplata sama upali, ugasi je.
+
+MERGE IDE NA KRAJU SVAKOG RAZGOVORA, ne na kraju knjige. Ja radim jedan chat =
+jedno poglavlje. Poglavlje nije zatvoreno dok rad nije na glavnoj grani, i DRAFT
+PR NE VAŽI KAO SAČUVANO. Pre nego što razgovor dođe do kraja: napravi PR, merguj
+ga, pa proveri da je razlika prema glavnoj grani prazna.
+
+Ovo pravilo postoji zato što je 27.08. VII rađen u svom chatu, PR je ostao kao
+draft, sledeći chat je počeo VIII od stare osnove, i petnaest izmena je stajalo
+van knjige dok nisu nađene 28.08.
 
 Piši kratko. Kratke rečenice, u crtama. Jedno po jedno pitanje, nikad više od
 jednog. Ne šalji mi knjigu na čitanje.
