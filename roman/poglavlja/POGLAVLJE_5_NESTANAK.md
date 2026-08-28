@@ -38,7 +38,7 @@ Otišla je po njega. Vratila se s punjačem u jednoj ruci i pola kifle u ustima,
 
 „Kupi hleb“, rekla je. „I nemoj da jedeš iz šerpe stojeći. Ostavila sam ti u tanjiru.“
 
-Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
+Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet. Pa se već ispred kuće vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
 
 „Javi mi se kad stigneš“, rekao sam.
 
@@ -46,7 +46,7 @@ Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i osta
 
 Tri pozdrava i dva poljupca. Za dva dana odsustva.
 
-Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona teška, gvozdena. Zatvorila su se jednom.
+Stajao sam u hodniku i slušao je kako izlazi. Vrata su se zatvorila jednom.
 
 Otišao sam u kuhinju i jeo iz šerpe, stojeći.
 
@@ -96,7 +96,7 @@ Jednom, na istovaru, neko je viknuo ime. Novo, moje, ono na koje sam se potpisiv
 
 „Nemoj da se zamišljaš pod teretom, poginućeš.“
 
-I to je bila cela mudrost te godine, džabe dobijena od čoveka koji me znao tri nedelje: nemoj da se zamišljaš, poginućeš. Naučio sam da se odazivam. Prvih pola godine sam se okretao za sekund prekasno.
+Džabe dobijeno, od čoveka koji me znao tri nedelje. Naučio sam da se odazivam. Prvih pola godine sam se okretao za sekund prekasno.
 
 I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 

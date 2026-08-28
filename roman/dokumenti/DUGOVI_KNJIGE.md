@@ -175,3 +175,26 @@ odložila ih je, svaku uz razlog, i svaku naplatila pre nego što je zatvorena.
 > Ovaj registar više ne pokazuje šta se duguje nego **gde je šta plaćeno.** Ako
 > naredni prolaz poželi da nešto od ovoga „doradi", neka prvo pročita zbog čega je
 > palo baš tu — razlog je uz svaki upis.
+
+---
+
+## Šesti dug — razmotren u koraku 3 i odbačen *(28.08.2026)*
+
+Čitanje cele knjige u nizu iznelo je kandidata za šesti dug, pod imenom **ULOG**:
+knjiga devet poglavlja gradi Jovanu, a David bira Katarinu; poslednja strana pripada
+Jovani, a Katarinin sat otkuca u jednoj rečenici i knjiga ide dalje.
+
+**Odluka autora: nije dug.** Tri razloga, svaki iz teksta:
+
+1. **Knjiga jeste i o Jovani, i naslov to nosi.** V: *„Kao nekog ko ju je jednom već
+   sahranio živu."* Sahrana bez tela nije samo Davidov nestanak nego ono što je uradio
+   njoj. **Kraj koji pripada Jovani je tačan kraj.**
+2. **Katarina ne sme biti ravnopravna sa Jovanom.** Ona je ono što David bira
+   *umesto*. Da je ravnopravna, izbor ga ne bi ništa koštao.
+3. **Nalaz je bio pogrešno meren.** Tražena je dubina umesto luka. Luk postoji i
+   potpun je: **IV** traži adresu → **V** imenuje mu mehanizam → **IX** ceduljica u
+   kaputu → **IX kraj** prestane da traži. Tiho, jer je David tih.
+
+Puni zapis i zabrana dodavanja stoje u `REGISTAR_ODLUKA.md`, sekcija 2.
+
+**Dugova ostaje pet, svih pet plaćeno. Šesti se ne otvara.**

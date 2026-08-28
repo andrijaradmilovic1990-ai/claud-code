@@ -45,6 +45,32 @@ promenjen — nijedna rečenica nije premeštena.
 | **David** | **Ne psuje** — karakter, ne cenzura. **Ne laže — izostavlja.** Zaključano u II („Ti nikad ne slažeš" / „Nisam."). Svaka dopuna u kojoj David izgovori neistinu je zabranjena. |
 | **Katarina** | Ime je **zapečaćeno — ne rasipa se**, ali nije zabranjeno. Pada **tačno dvaput u celoj knjizi, oba puta u VII** (redovi 135 i 161), i oba puta u trenutku kad ona nešto uradi. Nigde drugde ni u jednom poglavlju. **To je namerno i ne otvara se** — VII je njeno poglavlje. Ne dodavati ime nigde, ne brisati ga s ta dva mesta. |
 
+### Katarina — tanjina je funkcija, ne propust *(upisano 28.08.2026, korak 3)*
+
+Čitanje cele knjige u nizu otvorilo je pitanje: knjiga gradi Jovanu, a David bira
+Katarinu — je li to nesklad koji treba platiti šestim dugom. **Odgovor autora: nije.**
+
+- **Knjiga jeste i o Jovani, i naslov to nosi.** V: *„Kao nekog ko ju je jednom već
+  sahranio živu."* Sahrana bez tela nije samo Davidov nestanak nego ono što je uradio
+  njoj. **Kraj koji pripada Jovani je tačan kraj** — ne prepravljati ga zbog Katarine.
+- **Katarina ne sme biti ravnopravna sa Jovanom.** Ona je ono što David bira *umesto*.
+  Da je ravnopravna, izbor ga ne bi ništa koštao.
+- **Njen luk postoji i potpun je — meri se potezima, ne rečenicama:**
+  1. **IV** — traži adresu. *„Prestala je da priča. Stajala je s onom šoljom, čekala,
+     i nije sela."*
+  2. **V** — imenuje mu mehanizam. *„Staneš i čekaš da prođe. Kao kiša."*
+  3. **IX** — ceduljica u kaputu. Jedini sopstveni čin koji ima u celoj knjizi.
+  4. **IX, kraj** — *„Mart je u međuvremenu prošao. Nije me podsetila."* Odustala je.
+
+  **Traži → imenuje → daje → odustane.** Tiho, jer je David tih.
+
+**Ne dodavati joj prisutnost, dubinu ni scenu — kao ni Nataši.** Nalaz „Katarina je
+slabo napisana" nastaje kad se broje rečenice umesto poteza. Pojaviće se ponovo i
+zatvara se **ovim zapisom, ne izmenom.**
+
+**Šesti dug knjige nije upisan** — razmotren u koraku 3 i odbačen. Dugova ostaje pet,
+svih pet plaćeno.
+
 ---
 
 # 3 — ZAŠTIĆENA MESTA PO POGLAVLJIMA
@@ -241,5 +267,7 @@ Redosled po učestalosti, iz istorije rada:
 3. **Kraj IX** — svaki prolaz vidi doslovno ponavljanje i poseže za rezom.
 4. **Formula na rezervisanom mestu** — ulazi neprimetno, kao „prirodna" rečenica.
 5. **Opšta ocena zaključanih poglavlja** — dolazi u obliku „dobro je, ali fali…"
+6. **Katarina** — svaki prolaz je izmeri rečenicama, ne potezima, pa je proglasi
+   slabo napisanom. Njen luk je četiri poteza kroz IV, V i IX.
 
 Ako se uhvatiš da ideš ka nekoj od ovih pet — stani i pročitaj ovaj fajl ponovo.
