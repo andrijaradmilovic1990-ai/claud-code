@@ -1,11 +1,16 @@
-# MAPA NOVE KNJIGE — prvi predlog
+# MAPA NOVE KNJIGE
 
-> **Status: PREDLOG. Ništa u ovom fajlu nije odluka.** Autor kida, menja i briše;
-> tek posle njegovog „da" ovo postaje mapa.
+> **Status: ZAKLJUČANA. Odobrena od autora 28.08.2026.**
 >
-> **Ništa se ne piše dok mapa ne bude zaključana.**
+> **Redosled od petnaest poglavlja i mesto svakog novog su odluka, ne predlog.**
+> Ne predlaže se za izmenu — ni kao izmena, ni kao mišljenje, ni u opštoj oceni
+> (Pravilo L). Ako neko misli da poglavlje treba pomeriti: **jedno pitanje**, bez
+> argumenta, pa čekaj „da".
 >
-> Osnovana: 28.08.2026.
+> **Šta ovim NIJE zaključano:** sadržaj novih poglavlja. Mapa kaže **gde stoje i šta
+> plaćaju**; šta se u njima dešava piše se poglavlje po poglavlje, uz Pravilo K.
+>
+> Osnovana i zaključana: 28.08.2026.
 
 ---
 
