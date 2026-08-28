@@ -38,7 +38,7 @@ Otišla je po njega. Vratila se s punjačem u jednoj ruci i pola kifle u ustima,
 
 „Kupi hleb“, rekla je. „I nemoj da jedeš iz šerpe stojeći. Ostavila sam ti u tanjiru.“
 
-Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet. Pa se s pola stepeništa vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
+Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i ostavila na komodu. Pa me poljubila opet. Pa se već ispred kuće vratila treći put, po naočare za sunce, opsovala sebi u bradu i nasmejala se sama sebi.
 
 „Javi mi se kad stigneš“, rekao sam.
 
