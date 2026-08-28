@@ -346,7 +346,7 @@ Jovana se nasmejala. „Niko. Otkad sam izašla iz bolnice spavam kao top. Polom
 
 „Piješ za uvredu suda."
 
-Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držalo svašta* visilo je u sobi duže nego što je smelo, i znao sam tačno na šta misli, i ona je znala da znam.
+Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držalo svašta* ostalo je da stoji nad stolom i posle nje, i niko ga nije sklonio.
 
 „Ti opet." Nataša, prst u mene. „Istina ili izazov."
 
