@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **27.08.2026.**
+> Poslednje ažuriranje: **28.08.2026.**
 
 ---
 
@@ -20,7 +20,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.497 reči.**
+Knjiga ima **devet poglavlja i od 28.08.2026. postoji cela.**
 
 | # | Poglavlje | Stanje | reči | „kao" |
 |---|-----------|--------|------|-------|
@@ -31,8 +31,8 @@ Knjiga ima **devet poglavlja, 15.497 reči.**
 | V | Nestanak | zaključano | 1.327 | 0,68% |
 | VI | Prazna stolica | zaključano *(23.08.)* | 1.437 | 1,04% |
 | VII | Beli grad | zaključano *(27.08.)* | 2.126 | 0,75% |
-| **VIII** | **Kukavica** | **na redu** *(novo, iz podele)* | 3.709 | 1,02% |
-| IX | Ćebence | čeka *(bilo VIII)* | 1.573 | 0,38% |
+| VIII | Kukavica | zaključano *(28.08., navod autora — vidi napomenu)* | 3.709 | 1,02% |
+| **IX** | **Ćebence** | **zaključano** *(28.08.)* | **1.568** | **0,26%** |
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
 
@@ -48,75 +48,91 @@ nisu videle; objedinjen je i spojen. Ostale grane su arhiva.
 | | korak | stanje |
 |---|---|---|
 | **1** | **Sanacija repoa** — dokumenti usklađeni s tekstom, sve zatvoreno na jednom mestu | **GOTOVO 23.08.** |
-| **2** | **VII, VIII, IX** — sva tri se otvore i završe | **u toku** |
-| **3** | **Čitanje cele knjige u nizu** — prvi put da postoji kao celina | čeka |
+| **2** | **VII, VIII, IX** — sva tri se otvore i završe | **GOTOVO 28.08.** |
+| **3** | **Čitanje cele knjige u nizu** — prvi put da postoji kao celina | **NA REDU** |
 | **4** | **Rad na celoj knjizi po CILJU** — obe polovine, rečenica i knjiga | čeka |
 
 **Zašto baš tako:** dok IX nije gotov, mera i dalje raste, pa svako vraćanje unazad
 proizvodi lažne nalaze (vidi moratorijum). Tek kad knjiga postoji cela, mera prestaje
 da se menja — i tek tada se čita u jednom dahu i radi po cilju.
 
-**Korak 3 je jedini trenutak kad se I–V otvaraju.**
+**Korak 3 je jedini trenutak kad se I–V otvaraju — i taj trenutak je sada.**
+Moratorijum je pao 28.08. zatvaranjem IX. I–V se otvaraju **kao celina, u jednom
+čitanju**, ne pojedinačno „da se vidi kako stoje".
 
 ---
 
-## ŠTA JE SLEDEĆE — po redu
+## ŠTA JE SLEDEĆE — korak 3: čitanje cele knjige u nizu
 
-### 1. VII — Beli grad *(ZAKLJUČAN 27.08.2026)*
+**Sva devet poglavlja su zaključana. Rukopis prvi put postoji kao celina.**
+Time je pao i moratorijum na I–V — ne zato što je neko predomišljanje, nego zato što
+je uslov ispunjen: **nema više poglavlja koje bi meru promenilo.**
 
-Prolaz urađen do kraja, red po red. **2.190 → 2.126 reči. Deset izmena — pet rezova,
-pet prepisa** (Pravilo J pokriveno s viškom). Ceo spisak s razlozima u dnevniku.
+**Kako se korak 3 radi:**
+
+- I–V se otvaraju **kao celina, u jednom čitanju**, ne pojedinačno.
+- Ne otvara se poglavlje nego se **plaća imenovani dug** ili se rešava upisano
+  otvoreno pitanje. Sve ostalo iz `REGISTAR_ODLUKA.md` i dalje stoji zatvoreno
+  (Pravilo L ne pada zajedno s moratorijumom).
+- Tri pitanja koja niže vise (kuća/stan, eho VII↔VIII, kvota 2.4 u V) čekala su
+  baš ovaj trenutak. Ona su jedini razlog za dodirivanje I–V.
+
+Posle toga ide **korak 4** — rad na celoj knjizi po CILJU, obe polovine.
+
+---
+
+## Zatvoreno u ovoj rundi
+
+### VII — Beli grad *(zaključan 27.08.2026)*
+
+2.190 → 2.126 reči. Deset izmena — pet rezova, pet prepisa.
 
 Dva upisa koja se nose dalje:
 
-- **Rezervisano mesto #3 (formula) potrošeno** u redu 41, odlukom autora.
-  **Spisak je pun: 3 od 3.** U VIII i IX se formula ne sme pojaviti ni kao
-  „prirodna" rečenica — provera je obavezna pre zatvaranja oba.
-- **Kad rez skraćuje Katarininu prisutnost — prvo probati prepis.** Odluka autora
-  na redu 145: „radije bih ubacio nešto drugo nego da sečem toliko."
+- **Rezervisano mesto #3 (formula) potrošeno.** Spisak je pun: **3 od 3.** Formula
+  se ne sme pojaviti nigde više, ni kao „prirodna" rečenica. IX je proveren i čist.
+- **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probati
+  prepis.** Odluka autora; primenjena i u IX (gest u „Vidiš").
 
-D3 je bio plaćen rasporedom još 23.08. i na izlazu je proveren: Katarina ima dve
-rečenice koje izgovara zbog sebe, ne zbog njega.
+### VIII — Kukavica *(zaključan 28.08.2026 — navod autora)*
 
-### 2. VIII — Kukavica *(NA REDU)*
+**Napomena, da naredna sesija ne traži ono čega nema.** Zatvaranje VIII je autorov
+navod s ulaza u sesiju od 28.08. **U repou ga nema:** `POGLAVLJE_8_KUKAVICA.md`
+poslednji put je diran 23.08. pri podeli, nijedan commit ne nosi VIII, i dnevnik
+skače s VII na IX. Po Pravilu E to je najverovatnije **neuploadovana verzija, a ne
+sukob** — proveriti pre nego što se zaključi bilo šta. VIII nije otvaran ni čitan
+28.08. (Pravilo P).
 
-Najduže u knjizi — 3.709 reči, jedna noć za stolom. **Nijedna izmena nikad nije
-rađena pod ovim brojem**; sve što dnevnik pominje o „VII" odnosi se na tekst pre
-podele.
+### IX — Ćebence *(zaključan 28.08.2026)*
 
-Duguje **D5 — strah.** To je poglavlje u kom David kaže „Ne" i u kom mu ruka nađe
-ceduljicu u džepu.
+1.541 → **1.568 reči.** Deset izmena — **osam napisanih rečenica, dva reza**
+(Pravilo J traži trećinu, uneto je četiri petine). „kao": 6 → 4.
 
-### 3. IX — Ćebence *(nosi najviše)*
+Nosio je tri stvari odjednom i sve tri su isporučene:
 
-Na **1.573 reči** nosi tri stvari odjednom:
+- **D1 — sat: plaćen u dva poteza.** Navijen u kuhinjskom razgovoru („Ono za ličnu —
+  moraću u martu. Podsetiću te."), otkuca u poslednjem bloku („Mart je u međuvremenu
+  prošao. Nije me podsetila."). **Poteza su dva i drže se zajedno.**
+- **D2 — dodir spolja: plaćen.** Starčev broj bez imena stoji u listi poruka, iznad
+  Andrijane, nesačuvan i neobrisan. Ništa se ne dešava — samo se vidi. Isti potez
+  kao u I: on ne odustaje, skreće David.
+- **kraj knjige** — zaštićen, netaknut, proveren u bajtovima.
 
-- **D1 — sat** (mart). Postavljen u IV, otad ne kuca. IX je jedina preostala
-  sadašnjost.
-- **D2 — dodir spolja.** Materijal čeka: starčeva limarska radionica u Belom gradu
-  (I), dva zakopana telefona (VI), Andrijanin telefon.
-- **kraj knjige.**
-
-**Ovo je najveći strukturni rizik u knjizi i zna se unapred.**
-
-### 4. Tek kad IX bude gotov — čitanje cele knjige, pa rad po cilju
-
-Prvi i poslednji prolaz kroz I–V. Do tada se **ne diraju** (vidi moratorijum u
-registru). To je korak 3 i 4 iz plana gore.
+**D5 (strah) je zatvoren kao nenaplativ na kraju IX** — kraj gleda unazad i to je
+odluka autora, ne previd. Ne predlagati preradu kraja zbog D5.
 
 ---
 
-## Dugovi knjige — stanje
+## Dugovi knjige — svih pet zatvoreno
 
-| dug | stanje | gde se plaća |
-|-----|--------|--------------|
-| **D1 sat** (mart) | postavljen u IV, ne kuca dalje | **IX** — jedina preostala sadašnjost |
-| **D2 dodir spolja** | plaćen u I, prenet iz II i III | **IX** — VII i VIII ne mogu (dešavaju se pre I) |
-| **D3 Katarina** | **PLAĆEN 23.08.** podelom — VII je njeno poglavlje | — |
-| **D4 figura** | **PLAĆEN 23.08.** u VI — konobar probija zaron | — |
-| **D5 strah** | nijedno ga još ne nosi | **VIII**, IX |
+| dug | stanje |
+|-----|--------|
+| **D1 sat** | **PLAĆEN 28.08.** u IX — navijen i otkucao |
+| **D2 dodir spolja** | **PLAĆEN 28.08.** u IX — starčev broj u listi |
+| **D3 Katarina** | **PLAĆEN 23.08.** podelom — VII je njeno poglavlje |
+| **D4 figura** | **PLAĆEN 23.08.** u VI — konobar probija zaron |
+| **D5 strah** | nosi ga VIII; **na kraju IX zatvoren kao nenaplativ**, odlukom |
 
-**Ono što knjizi fali nije propušteno — odloženo je, svaki dug uz razlog.**
 Puno obrazloženje u `DUGOVI_KNJIGE.md`.
 
 ---
@@ -202,25 +218,26 @@ Po zatvaranju: fajl + upis u dnevnik + commit, **bez traženja.**
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Na redu je VIII — Kukavica.
+Nastavi. Knjiga je cela — svih devet poglavlja je zaključano. Na redu je korak 3:
+čitanje cele knjige u nizu.
 
 Pre bilo čega pročitaj, tim redom:
   roman/NASTAVAK.md
   roman/dokumenti/REGISTAR_ODLUKA.md
   roman/dokumenti/DUGOVI_KNJIGE.md
-pa poglavlje roman/poglavlja/POGLAVLJE_8_KUKAVICA.md celo, red po red.
 
-Repo je saniran 23.08, VII zaključan 27.08. Dokumenti su usklađeni s tekstom — veruj im.
-Ne prepričavaj mi šta u njima piše i ne objašnjavaj mi ispočetka.
+Moratorijum na I–V je pao zatvaranjem IX — ali Pravilo L nije. Zatvoreno u registru
+ostaje zatvoreno. I–V se čitaju kao celina, u jednom prolazu, ne pojedinačno.
 
-I–VII se ne otvaraju. Ni na nalaz, ni na pitanje, ni u opštoj oceni.
-Formula „to je bila cela X / to je bilo najgore" je potrošena 3 od 3 — ne sme se
-pojaviti u VIII ni kao „prirodna" rečenica.
-Ako nešto nađeš u njima — u registar propuštenog, ne u fajl (Pravilo P).
+Ne otvaraj poglavlje nego plati imenovani dug ili reši jedno od tri upisana pitanja
+(kuća/stan, eho VII 95 ↔ VIII 465, kvota 2.4 u V). Ona su jedini razlog za dodirivanje
+I–V.
 
-Kad pročitaš VIII, javi ulazni list i kreni s predlozima — najviše četiri odjednom,
-jedno po jedno čeka „da". Najmanje trećina unetog mora biti napisana rečenica,
-ne rez (Pravilo J).
+Formula „to je bila cela X / to je bilo najgore" je potrošena 3 od 3 i ne sme se
+pojaviti nigde više.
+
+Javi ulazni list i kreni s predlozima — jedan po jedan, svaki čeka „da".
+Najmanje trećina unetog mora biti napisana rečenica, ne rez (Pravilo J).
 
 Piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
 ```

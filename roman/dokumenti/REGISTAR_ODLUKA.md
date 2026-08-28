@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 27.08.2026.
+> Poslednje ažuriranje: 28.08.2026.
 
 ---
 
@@ -104,6 +104,18 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   funkcija — VII, VIII i IX moraju imati s čega da padnu.
 
 ### IX — Ćebence
+- **Zaključan 28.08.2026.** Deset unetih izmena — osam napisanih rečenica, dva reza.
+- **D1 (sat) — plaćen ovde, u dva poteza i nigde drugde.** Navijanje u kuhinjskom
+  razgovoru (*„Ono za ličnu — moraću u martu. Podsetiću te."* → *Nisam pitao na koju
+  adresu. Znao sam.*), otkucaj na početku poslednjeg bloka (*Mart je u međuvremenu
+  prošao. Nije me podsetila.*). **Oba poteza se drže zajedno** — sat koji se navije a
+  ne oglasi je rupa, ne napetost. Ne brisati jedan bez drugog.
+- **D2 (dodir spolja) — plaćen ovde.** Starčev broj bez imena stoji u listi poruka,
+  iznad Andrijane, nesačuvan i neobrisan. **Ne pretvarati u događaj** — nove scene i
+  nova mesta radnje su zamrznuti, a ovo radi baš zato što se ništa ne dešava. Isti
+  potez kao u I: on ne odustaje, skreće David.
+- **D5 (strah) — zatvoren kao nenaplativ na kraju IX.** Kraj je zaštićen i gleda
+  unazad; to je odluka, ne previd. Ne predlagati preradu kraja zbog D5.
 - **Kraj poglavlja i knjige** — *„Dvanaest godina u tom džepu nema ničega. Ali telo
   ne zna za kalendar."* Doslovno ponavljanje I, red 7. **ZAŠTIĆENO po odluci
   autora.** Predlog reza je već jednom podnet i odbijen; ne podnosi se ponovo.
@@ -121,8 +133,8 @@ Dozvoljeno **najviše 2–3 puta u celoj knjizi.**
 | 2 | VI | *„Za nju nikad nisam pitao smem li."* |
 | 3 | VII | *„To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton."* (red 41) — **potrošeno 27.08.2026, odluka autora** |
 
-**Potrošeno 3 od 3 — spisak je pun.** U VIII i IX se formula više ne sme pojaviti,
-ni kao „prirodna" rečenica — proveriti ovu tabelu pre zatvaranja oba poglavlja.
+**Potrošeno 3 od 3 — spisak je pun.** Formula se više ne sme pojaviti nigde, ni kao
+„prirodna" rečenica. **IX je proveren na sve tri varijante 28.08.2026 — čist.**
 *(23.08. je iz VI izbačena treća instanca —
 „To je bila cela lepota." — jer je stajala petnaest redova od mesta #2.)*
 
@@ -139,8 +151,13 @@ zaštićeno.
 
 # 5 — ODLUKE O PROCESU (23.08.2026)
 
-### MORATORIJUM NA I–V
-**I–V se ne otvaraju dok IX ne bude napisan.** Ni na nalaz, ni na pitanje, ni u
+### MORATORIJUM NA I–V — PAO 28.08.2026.
+**Uslov je bio: dok IX ne bude napisan. IX je zaključan 28.08.2026.** Knjiga postoji
+cela, mera prestaje da raste, i jedini zakazani prolaz kroz I–V je sada otvoren — kao
+**korak 3 iz plana (čitanje cele knjige u nizu)**, ne kao pojedinačno otvaranje
+poglavlja. Zapis ispod ostaje kao razlog zbog kog je moratorijum postojao.
+
+**I–V se nisu otvarali dok IX nije bio napisan.** Ni na nalaz, ni na pitanje, ni u
 opštoj oceni.
 
 **Dijagnoza koja je do ovoga dovela.** Pet sesija se ponavljao isti krug: zatvori se
