@@ -394,7 +394,7 @@ Ja nisam skrenuo. Gledao sam to mesto, i nešto mi se steglo u grudima.
 
 „Lep je", rekao sam.
 
-Pogledala me je. Na sekund — samo sekund — ispod svega nije bilo ničeg osim nje, i u tom pogledu je stajalo nešto što nije smelo da stoji za stolom.
+Pogledala me je. Na sekund — samo sekund — nije bilo ni igre ni stola ni ostalih. Ja sam prvi spustio pogled.
 
 Pa je uzela viljušku i nastavila da jede.
 
