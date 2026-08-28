@@ -174,7 +174,7 @@ Isti čovek.
 
 ⁂
 
-Bilo je to, onako otprilike, pre godinu dana.
+Bilo je to, onako otprilike, pre godinu dana. Mart je u međuvremenu prošao. Nije me podsetila.
 
 Sad sedim za istim stolom u istom kafiću. Isti ugao, leđa ka zidu, sto odakle se vide vrata. Konobar me zna i donosi crnu kafu i čašu mlake vode pre nego što sednem. Ne pita za ručak. Zna da neću.
 
