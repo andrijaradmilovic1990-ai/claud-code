@@ -56,6 +56,8 @@ Popušio sam do kraja, bacio pikavac, zgazio. Grad se dole sasvim upalio.
 
 Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi seo u prva kola i jurio. Ja sam čekao. Mesec dana sam se čuo preko Zvezdana i Andrijane, slušao kako se cifre menjaju — koliko operacija, koliko dana na aparatima, kad su je skinuli s intenzivne. Mesec dana sam bio čovek koji ide na posao, vraća se, ćuti.
 
+Uveče pre puta, u njenoj kuhinji, rekao sam samo da me sutra neće biti. Nije pitala gde, a ja nisam rekao.
+
 A onda je Andrijana došla po mene kolima, jednog jutra, i krenuli smo za Beli grad.
 
 Pošao sam ka njenim kolima tako da mi ostanu sa strane, ne iza mene. Čak i tad. Ni kad sam išao ka njoj telo nije znalo da prestane.

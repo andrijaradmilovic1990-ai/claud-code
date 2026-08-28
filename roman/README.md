@@ -16,7 +16,7 @@ Idi na **[`NASTAVAK.md`](NASTAVAK.md)**. To je jedini ulaz — gde je revizija s
 
 ## Poglavlja
 
-Devet poglavlja, **15.476 reči.** Knjiga je cela od **28.08.2026.**
+Devet poglavlja, **15.497 reči.** Knjiga je cela od **28.08.2026.**
 **Sva poglavlja su zaključana.**
 
 | # | Fajl | Naslov | reči |
@@ -27,7 +27,7 @@ Devet poglavlja, **15.476 reči.** Knjiga je cela od **28.08.2026.**
 | IV | `POGLAVLJE_4_PARIZ.md` | Pariz | 1.973 |
 | V | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.278 |
 | VI | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.405 |
-| VII | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.116 |
+| VII | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.137 |
 | VIII | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.635 |
 | IX | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.571 |
 
