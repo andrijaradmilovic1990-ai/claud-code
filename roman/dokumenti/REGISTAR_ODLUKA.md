@@ -137,6 +137,27 @@ danas zove**, i ova rečenica to zaključava. Ime se ovde **ne sme napisati.**
 **Ne ponavljati isti potez u I ni u III.** Jedan previd je previd; tri su figura (D4).
 Odlučeno 28.08.2026.
 
+#### Dopuna pred polazak u Beli grad *(28.08.2026 — ZAŠTIĆENA)*
+
+Između `VII 57` i `VII 59`: *„Uveče pre puta, u njenoj kuhinji, rekao sam samo da me
+sutra neće biti. Nije pitala gde, a ja nisam rekao."*
+
+**Zašto postoji.** Put u Beli grad bio je **potpuno prećutan** — David ode, a knjiga
+nikad ne kaže šta je rekao kod kuće. Provereno u svih devet poglavlja: to je bilo
+jedino mesto u knjizi gde David odlazi a da se ne vidi kako je to prešao.
+
+**Zašto baš ovakva formulacija — ne dirati je:**
+- **Ime se ne piše.** Katarinino pada tačno dvaput, `VII 135` i `VII 161`.
+- *„u njenoj kuhinji"* nije ukras nego **razrešenje referenta**: rečenica dolazi odmah
+  posle *„kad su je skinuli s intenzivne"*, pa bi svako *„njoj"* ili *„ona"* čitalac
+  vezao za Jovanu. Uz to se slaže s registrom — u VII **ne žive zajedno**, to je njen
+  stan, isti u kom on ima jednu fioku (`VII 161`).
+- **David ne laže, izostavlja.** Ne kaže neistinu, samo ne kaže gde.
+- **Ona ne pita, ne sumnja, ne proverava** — kako registar traži do IX.
+
+**Ne pretvarati u scenu.** Nema dijaloga, nema njenog odgovora, nema kuhinje kao
+mesta radnje — samo saopštenje unutar sažetka meseca čekanja.
+
 ### V — Nestanak
 - Poslednja rečenica: *„…i ja sam to čitavo vreme zvao milošću."*
 - *„Bezbedan sam. Ne tražite."*
