@@ -198,7 +198,7 @@ Tri reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati
 
 Kafa se hladila. Nisam žurio.
 
-Ona je negde — u ovom gradu, u drugom, u nekom stanu koji nisam video, s nogama koje hodaju i rukama koje kuvaju i jednim ožiljkom koji ode s proleća. Hoda negde. Diše. Verovatno ove kiše gleda kroz prozor, verovatno joj je to neka sitna stvar o danu.
+Ona je negde — u ovom gradu, u drugom, u nekom stanu koji nisam video, s nogama koje hodaju i rukama koje kuvaju i jednim ožiljkom koji ode s proleća. Hoda negde. Diše. Verovatno ove kiše gleda kroz prozor, verovatno joj je to samo kiša.
 
 Nema me u toj sobi.
 
