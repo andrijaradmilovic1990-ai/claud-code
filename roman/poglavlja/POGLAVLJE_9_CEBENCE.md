@@ -10,7 +10,7 @@ Naslonio sam se i poljubio je u čelo. Kratko. Suvo. Tačka, ne rečenica.
 
 Nije se probudila. Ostalo je tiho.
 
-Uspravio sam se i stajao sekund nad njom, nad tim ćebencetom i tom mirnom dužinom ispod njega, i nešto u meni je znalo šta radi i nije htelo da to izgovori.
+Uspravio sam se i stajao sekund nad njom, nad tim ćebencetom i tom mirnom dužinom ispod njega.
 
 Ustao sam, oprao tanjir koji sam doneo, vratio ga na sušilo. Onih nekoliko stvari što se ponese kad se dolazi a ne ostaje — ostavio sam ih, nije bilo šta da se nosi nazad. Prošao sam hodnikom pored vrata sobe u kojoj su zaspale. Vrata malo odškrinutih, onoliko koliko ih Nataša nikad ne zatvori sasvim.
 
