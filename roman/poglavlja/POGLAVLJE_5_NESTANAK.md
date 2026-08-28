@@ -46,7 +46,7 @@ Pa me poljubila. Pa se s vrata vratila po punjač koji je maločas donela i osta
 
 Tri pozdrava i dva poljupca. Za dva dana odsustva.
 
-Stajao sam u hodniku i slušao kako joj koraci silaze. Vrata zgrade dole, ona teška, gvozdena. Zatvorila su se jednom.
+Stajao sam u hodniku i slušao je kako izlazi. Vrata su se zatvorila jednom.
 
 Otišao sam u kuhinju i jeo iz šerpe, stojeći.
 
