@@ -1881,3 +1881,126 @@ proverava se ishod komande, ne samo njen izlaz.**
 
 **STATUS: korak 3 je zatvoren. Na redu je korak 4 — rad na celoj knjizi po CILJU,
 obe polovine. To je poslednji korak upisan u plan.**
+
+---
+
+# KORAK 4 — rad na celoj knjizi po CILJU *(28.08.2026)*
+
+Knjiga pročitana u nizu po treći put, ovog puta protiv obe polovine cilja.
+
+## Polovina A — REČENICA
+
+**Nalaz, sprat rečenice.** Glavni tik knjige nije pridev nego **objašnjavajući potpis
+na kraju pasusa**: slika stoji, pa dođe rečenica koja imenuje šta je slika značila.
+Nađeno sedam mesta, gusto u V–VIII. Sporedni nalaz: konstrukcija *„onako kako se…"*
+osamnaest puta, šest u VIII.
+
+**Uneto jedanaest izmena — jedan rez, devet prepisa, jedna dopuna.**
+
+| gde | šta |
+|---|---|
+| `V 81` | rez — *„To je bio ceo razgovor."* Formula je bila **4 od 3**; V nikad nije prošao proveru pod moratorijumom. Sad opet 3 od 3. |
+| `V 139` | pale dve rečenice koje imenuju izbor; na to mesto *„Svi ostali su moju poruku dobili od mene. Ona od Andrijane."* Zaštićeno Jovanino *„Dobro."* nedirnuto. |
+| `VII 133` | palo *„Tako se to gradi. Ne odlukom. Navikom koja se uvuče…"* — imenovalo je glavnu mašinu knjige pre nego što je čitalac vidi. Alibiji dignuti u tri samostalne rečenice + *„a niko nije tražio odbranu."* |
+| `VI 157` | palo dvostruko *„Tako se sklanja… Tako se ne sklanja…"*; umesto toga *„Njenu. Danas mi je smetala."* |
+| `VIII 307` | palo *„Ona se ne skine da bi je gledali…"*; umesto toga *„Nije proverila gleda li je iko. Ni mene."* |
+| `II 137` | četiri krnje rečenice spojene u tok, s novim krajem *„i sledeći minut se smejemo nečemu što nije smešno."* **Duže nego pre.** |
+| `VI 147` | poslednji član nabrajanja više ne ponavlja `V 61`; umesto sentence o računima — *„i neko ko će je jednog dana pitati odakle joj taj doktor."* |
+| `VI 131` | palo *„Svi su mislili da sam bog. Bogovi se ne plaše."*; umesto toga *„Mislili su da se ničega ne plašim."* |
+| `IX 57` | palo *„Između dva sveta uvek je ovako"*; dodat treći član *„i ja sam u tom satu i po niko."* |
+| `III` kraj | dopuna — *„Vrata su bila zatvorena. Gledao sam ih dok smo jeli."* |
+| `IV` početak | **nova scena** — vidi niže. |
+
+**Pouka o registru izmena, upisana zato što se ponovila.** Prva runda prepisa bila je
+sva u istom, telegrafskom registru — kratke krnje rečenice. **Autorova ocena: sterilno,
+kao medicinski udžbenik.** Tačno. Skidanje potpisa **ne traži kraću rečenicu**, traži
+da rečenica ne izgovara zaključak. Autorov glas su duge rečenice koje se lepe
+veznikom. Od tog trenutka prepisi su pisani u toj dužini ili duže (`II 137`, `IX 57`).
+
+**Dva nalaza povučena kao pogrešna:** `V 83` i `III 63`. `III 63` (*„Mislio sam da joj
+je tako brže."*) nije potpis nego obrnuto — David tu **ne shvata**. Najbolja rečenica
+te vrste u knjizi.
+
+**Odbijeno od autora:** dopuna uz `VIII 387` (disanje uz ožiljak) i prepis `VII 11`.
+
+## Polovina B — KNJIGA
+
+**Presuda po četiri tačke cilja:**
+
+| tačka | stanje |
+|---|---|
+| **1 — jedno pitanje koje se mora odgovoriti** | **ne plaća se.** Knjiga ima **dva pitanja u nizu**: *šta je ovaj čovek radio* (I, odgovoreno u V) i *koju bira* (VI, odgovoreno u VIII). |
+| **2 — čovek za koga se brine** | **plaćeno u koraku 4**, novom scenom u IV. Ranije postojalo tek od VI. |
+| **3 — nešto raste bez Davidove volje** | prolazi. `VII 127–133`, prepiska u dva ujutru. |
+| **4 — svaki lik hoće nešto za sebe** | **prolazi u celini**, David uključen. |
+
+### Tačka 1 — zašto se ne plaća, i zašto se ne pokušava ponovo
+
+Pokušan je jedan potez: produžiti prvo pitanje preko šava preko `V 61` (*„Šta je
+tačno prelilo čašu, to ostavljam tamo gde je"*), dopunom u `VI 101` — David drži na
+vezi čoveka koji bi mu rekao ime, i spusti.
+
+**Oboreno od autora, i s pravom:** *„sam ne razumem koje ime."* Knjiga nikad ne kaže
+šta je prelilo čašu — postoji samo izjava da nešto postoji. Dopuna bi uvela misteriju
+bez referenta, tj. **rupu, ne napetost.** Da bi se pitanje produžilo, morao bi se
+izmisliti sadržaj radnje. **Zamrznuto.**
+
+**Cena se upisuje, ne rešava** (Pravilo O). Knjiga ostaje s dva pitanja u nizu.
+
+### Tačka 4 — nalaz „David ne traži ništa za sebe" je oboren
+
+Prolaz je tvrdio da svi likovi imaju svoju želju osim Davida. **Oboreno od autora, uz
+tekst:** `I 9` (*„Sto sa kog se vide vrata, šolju kafe, i da me niko ne pita ništa"*),
+`II 217` (*„Na život koji još nisam izabrao do kraja"*), `III 83`. Želja je ispisana
+tri puta u prva tri poglavlja. **Nalaz je nastao merenjem izgovorenog umesto
+ispisanog.**
+
+## NOVA SCENA U IV — jedini put da je zabrana otvorena
+
+**Zabrana novih scena otvorena je 28.08.2026, na inicijativu autora, za jedan potez.**
+
+**Zašto je bila potrebna.** Presuda je pokazala da I–V nemaju nikoga za koga čitalac
+brine — sve je prošlost i svi su preživeli. Pokušana su **dva rešenja rečenicom**
+(`IV 133`, i ranije `III`) i autor je odbio uz tačan razlog: *„to bi morala da bude
+nova scena, a ne sitne rečenice da se ubacuju u već dobre rečenice."* **Strah se ne
+montira u postojeću rečenicu.**
+
+**Šta scena jeste.** Veče pred jutro s ceduljom. David u kafiću; napolju stane kombi,
+neko dovikne ime, i **David se okrene ceo** — telom, sa stolicom. Nije njemu: onaj
+drugi nosi ime koje je David nosio nekad. Vrati se, popije, plati, prođe pored kombija
+ne gledajući unutra. Kod kuće Katarina spava s knjigom na grudima.
+
+**Zahtev autora: to mora biti previd, ne pretnja.** Niko ne gleda Davida, niko ne pita
+za njega, ništa se ne dešava. **Greši on, jednom, telom, pa sam sebe otpiše** —
+*„Nije to bilo ništa. Dva klinca i kombi."*
+
+**Šta scena ne dira:** redosled, hronologiju, zapečaćena imena. Nema novog lika
+(konobar postoji u I, VI, IX) ni novog mesta (kafić, kuća). **Katarina ništa ne
+sazna** — registar joj zabranjuje buđenje do IX. Nijedna postojeća replika nije
+promenjena.
+
+**Šta scena radi za knjigu:** `IV 135` i `IV 137` (*„Ima vremena do marta"*) čitaju se
+drugačije a nisu dirani — Davidovo ćutanje kod frižidera prestaje da bude hladnoća.
+Naplaćuje se u IX: starčev broj bez imena u listi poruka više nije prvi put da stari
+svet dodirne sadašnjost. `I 45` dobija razlog unazad.
+
+**Autorov razlog zbog kog je scena prošla:** formulacija *„ime koje sam ja nosio
+nekad"*. Provereno u tekstu — **„David" pada tačno dvaput u celoj knjizi**, `VIII 65`
+i `VIII 67`, oba puta iz usta Nataše i Andrijane. Katarina ga ne imenuje nijednom, ni
+pripovedač sebe. **Na kraju knjige se ne zna kako se on danas zove**, i scena to
+zaključava umesto da otvara.
+
+**Odluka: ne ponavljati isti potez u I i III.** Jedan previd je previd; tri su figura
+(D4), i čitalac počne da ih čeka.
+
+## Mehanika, prijavljeno posle unosa
+
+- Poslednji red proveren **pre** rada, `od -An -c` na poslednjem bajtu, po fajlu.
+  Svih devet završava tačkom. Provereno ponovo posle svake izmene.
+- Formula: `V 81` bila je četvrta instanca (vidi gore). Posle unosa **3 od 3.**
+- Hronologija preračunata iz brojeva u tekstu: VI = deset godina posle nestanka,
+  VII–VIII = plus godina, IX skok *„pre godinu dana"* → dvanaest u I i IX. **Sabira se
+  tačno**, nije nalaz nego potvrda.
+
+**STATUS: korak 4 je odrađen u obe polovine. Šta se s rukopisom radi posle njega nije
+upisano nigde — to je odluka autora i ne otvara se ovde.**

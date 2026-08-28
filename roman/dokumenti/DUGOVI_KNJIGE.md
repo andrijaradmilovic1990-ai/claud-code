@@ -198,3 +198,26 @@ Jovani, a Katarinin sat otkuca u jednoj rečenici i knjiga ide dalje.
 Puni zapis i zabrana dodavanja stoje u `REGISTAR_ODLUKA.md`, sekcija 2.
 
 **Dugova ostaje pet, svih pet plaćeno. Šesti se ne otvara.**
+
+---
+
+## Korak 4 — šta se promenilo u ovom registru *(28.08.2026)*
+
+**Dugova i dalje nema.** Nijedan od pet nije ponovo otvoren i šesti se ne otvara.
+Menja se jedno mesto u dijagnozi **D5**:
+
+**D5 je bio plaćen samo na kraju (VIII).** Presuda po cilju B u koraku 4 pokazala je
+da to znači da **I–V nemaju nikoga za koga čitalac brine** — sve je prošlost i svi su
+preživeli. Test iz D5 (*gleda li čitalac unazad ili unapred*) prvih pet poglavlja
+padaju.
+
+**Plaćeno novom scenom na početku IV** — jedini put da je zabrana novih scena
+otvorena posle podele VII. Puni opis i zabrane oko nje: `REGISTAR_ODLUKA.md`,
+sekcija 3, IV. Ukratko: **previd, ne pretnja.**
+
+**Pravilo koje iz ovoga ostaje, i vredi za svaki naredni prolaz:**
+**strah se ne montira u postojeću rečenicu.** Ili scena nosi da nešto može da se
+desi, ili ne nosi. Dva pokušaja da se D5 u I–V plati doterivanjem dobrih rečenica
+odbijena su, i s pravom.
+
+**Ne ponavljati isti potez u I ni u III.** Jedan previd je previd; tri su **D4**.
