@@ -144,7 +144,7 @@ Za dva poziva, za nepunih deset minuta, uradio sam dve stvari koje deset godina 
 
 Za nju nikad nisam pitao smem li.
 
-Ovi telefoni su trebalo da ostanu zakopani — jer čim ih dignem, čim me taj svet ponovo čuje, vraća se i sve ostalo, i pitanja po gradu, i ljudi koji te znaju a ti njih ne, i računi koji se naplaćuju od onoga što čovek voli.
+Ovi telefoni su trebalo da ostanu zakopani — jer čim ih dignem, čim me taj svet ponovo čuje, vraća se i sve ostalo, i pitanja po gradu, i ljudi koji te znaju a ti njih ne, i neko ko će je jednog dana pitati odakle joj taj doktor.
 
 A ja sam ih digao za jedno popodne. Za nju.
 
