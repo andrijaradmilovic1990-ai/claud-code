@@ -196,4 +196,136 @@ Mali kao nedovršena figura ostaje u spisku praznih mesta, ali **ne kao nasledni
 
 ---
 
+## GODFATHER I LJUBAV SU ISTA STVAR *(razgovor 28.08.2026)*
+
+**Autorov uvid, i on je ceo odgovor:** *„Godfather story is actually a love for the
+family and for obligation and honor."* To nisu dve kategorije koje se spajaju — to je
+jedna sila koja se zove čas ljubav, čas dužnost, i tragedija je što niko ne zna koja je
+koja dok ne bude kasno.
+
+**Knjiga to već radi:**
+- `VIII` — Jovana pita, David kaže *„Ne."* **Ljubav odbijena iz obaveze.**
+- `VI` — diže dva telefona iz ljubavi prema Jovani i time ruši mir koji je gradio za
+  Katarinu. **Obaveza koja pojede ljubav.**
+
+**Ne uvodi se — proširuje se.**
+
+### Šest pravaca
+
+1. **Ista reč, dva čoveka.** Jedna rečenica koju David u starom svetu izgovori iz
+   ljubavi, a u novom iz obaveze — ili obrnuto. Knjiga to već ume (`telo ne zna za
+   kalendar`).
+2. **Anja.** Vidi niže — razrešeno u ovoj sesiji.
+3. **Ritual.** Godfather počinje venčanjem, završava krštenjem: obred u jednoj sobi,
+   posao u drugoj. **Knjiga nema nijedan ritual.** Sahrana u starom svetu daje oba
+   registra u jednom kadru — ko koga grli, ko prilazi Davidu i šta traži dok se grob
+   zatrpava.
+4. **Izbor između čoveka kom duguje i žene koju voli.** `VI` to ima u sadašnjosti;
+   stari svet nema svoju verziju, a tamo je skuplja jer je David još u sistemu.
+5. **Zdravica je ljubavna izjava, ne govor.** *„Naša priča je o slobodi, iskupljenju i
+   porodici"* — to nije monolog o moći nego čovek koji za stolom kaže ljudima da ih
+   voli, jedini način na koji sme.
+6. **Ono što voli je ono što ga uništi.** Naslov to već nosi.
+
+### Pravilo — ljubav se ne izgovara
+
+U Godfather-u nijedan lik ne kaže „volim te" na način koji nešto znači. Kaže se kroz to
+**ko sedi gde, ko koga vozi, ko čije dete drži.** Knjiga to već zna — magnet na
+frižideru, ceduljica u kaputu, ćebence. **Ne menjati to u novim poglavljima.**
+
+---
+
+## ISPRAVKE I ZAKLJUČANO 28.08.2026 *(odluke autora)*
+
+### Pogrešan nalaz, povučen
+
+Tvrđeno je da knjiga **nema nikoga „iznutra"** — ženu iz tog sveta. **Netačno.**
+**Andrijana je iznutra potpuno** (Pariz, kafić, replika o izostavljanju), **i Jovana je**
+— ona je vozila kola u `III` i stajala na vratima magacina.
+
+**Prava rupa je uža i tačnija: stari svet nema nijednu ljubavnu scenu.** Ima rat s
+Andrijanom (*„s njom se nije vodila ljubav, s njom se ratovalo"*) i ćutanje s Jovanom na
+ivičnjaku. To je sve — dvadeset godina, nijedna scena u kojoj David nekoga voli **dok je
+još taj čovek.**
+
+### David stvarno voli Katarinu *(autor)*
+
+*„He actually do love Catarina. He actually wanna stay with her."*
+
+**Ne sukobljava se s registrom** (gde stoji da je ona ono što bira *umesto*, i da ne sme
+biti ravnopravna Jovani), **ali menja kako se piše:**
+
+- `VIII` nije čovek koji odbija ljubav zbog dužnosti — nego **čovek koji bira jednu
+  ljubav protiv druge.** Teže, skuplje, i bliže Godfather-u.
+- **Katarina se ne sme pisati kao utešna nagrada.** Nijedna nova scena ne sme je
+  postaviti kao ono na šta je David pristao.
+
+### Anja i Andrijana — podela funkcija *(autor)*
+
+| | funkcija |
+|---|---|
+| **Andrijana** | **ljubavnica.** Ne voli ga i on ne voli nju; odnos je fizički. **Ne traži nijednu izmenu** — `IV` to već kaže doslovno. |
+| **Anja** | **ljubav iz tog sveta.** |
+
+**Time pada stari nalaz o sudaru s Natašinom funkcijom** — Nataša je bezbolna prošlost,
+Anja je nešto sasvim drugo. Funkcije se više ne mešaju.
+
+**Nov rizik koji to otvara: Anja se sudara s Jovanom.** Dve ljubavi iz istog sveta, a
+Jovana je nosiva i kraj pripada njoj (zaključano). **Ako Anja bude jača ili svežija, kraj
+slabi.** I ista cena kao za baku: uvedena ljubav koja se ne naplati postaje dug.
+
+### Rešenje — Anja je žena koju je David ODBIO zbog posla *(prihvaćeno)*
+
+Ne izgubio, ne rastali se, ne umrla. **Odbio.** Prvi put kad je birao posao umesto
+ljubavi.
+
+- **Ne konkuriše Jovani** — gotova stvar, zatvorena pre nego što knjiga počne.
+- **Naplaćuje se u istoj sceni.** Nema duga.
+- **Daje `VIII` koren koji sad nema.** Kad David kaže Jovani *„Ne."*, to više nije prvi
+  put nego **poslednji put.** Isti čovek, ista rečenica, i sad zna šta ga to košta jer je
+  već platio.
+
+---
+
+## IDEJA 1 — ITALIJA: STRUKTURA POGLAVLJA *(zaključano 28.08.2026)*
+
+**Četiri pokreta, i redosled je jedini koji radi:**
+
+**toplo → tuča → zdravica → odbijanje**
+
+Anja, baka, ćufte, smeh · frka oko robe i tuča u kojoj i Davida izlupaju · svi za sto i
+zdravica · **pa, kod vrata, poslednji razgovor s Anjom.**
+
+**Zašto baš taj redosled.** Zdravica se time **sama naplaćuje**: David za stolom drži
+govor o porodici i pripadanju, pa deset minuta kasnije odbije ženu koja mu tačno to
+nudi. **Ne treba nijedna rečenica koja to imenuje** — čitalac je čuo govor i vidi šta
+čovek radi. Zdravica prestaje da bude govor koji David nema; ona je **ono što je slagao
+ne slagavši.**
+
+**Da je odbijanje pre zdravice, ništa od ovoga ne radi.**
+
+### Kako se odbijanje piše — zaključano *(odluka autora)*
+
+**Anja to izgovori. David ćuti.**
+
+*Znači nećemo se više viđati* — ili nešto njeno, kraće. **David ne potvrdi, ne porekne,
+ne objasni.** To ćutanje je odgovor i oboje to znaju.
+
+**Odbačeno:** *„Mislim da nije dobra ideja da se viđamo"* iz Davidovih usta — predugačko
+i objašnjava. On ne objašnjava. U `VIII` na isto pitanje kaže jednu reč.
+
+**Zašto je ovo jače:** `II` kaže da David nikad ne slaže, samo izostavi, pa čovek ode
+kući s pogrešnom slikom. **Ovde ne kaže nijednu reč — i ona ode kući s tačnom.** Prvi put
+u knjizi njegovo ćutanje ne vara nikoga. I ostaje mu na duši, jer ju je pustio da to
+izgovori umesto njega.
+
+### Cena, upisana pre mape
+
+- **Italija prestaje da bude bezbolna.** Smeha ima, ali se ne završava smehom.
+- **Četiri pokreta znače oko 3.500 reči** — veličina `VIII`. To je skoro **četvrtina**
+  svih novih reči u jednom poglavlju. U redu ako je nosiva, ali mora se znati pri mapi.
+- **Baka i dalje nije naplaćena.** Ostaje otvoreno.
+
+---
+
 ### *(mesto za sledeće ideje — hvataju se kako dolaze, ne komentarišu se dok se ne stane)*
