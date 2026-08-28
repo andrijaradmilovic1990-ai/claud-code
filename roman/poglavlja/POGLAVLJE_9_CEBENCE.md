@@ -34,7 +34,7 @@ Okrenuo sam se i otišao.
 
 Autobus je krenuo u pet i sedam minuta. Bio sam jedini putnik prvih pola sata, ja i vozač koji nije imao ni zašto da me gleda.
 
-Seo sam iza, s leve strane — prozor odakle se vide raskrsnice pre nego što autobus uđe u njih. Navika. Nijedna navika me ne pita, samo radi.
+Seo sam iza, s leve strane — prozor odakle se vide raskrsnice pre nego što autobus uđe u njih. Navika.
 
 Gurnuo sam ruku u džep kaputa — onaj desni, u koji nikad ništa ne stavljam jer mi je ceo život bio prazan, samo materijal i šav i ništa unutra.
 
