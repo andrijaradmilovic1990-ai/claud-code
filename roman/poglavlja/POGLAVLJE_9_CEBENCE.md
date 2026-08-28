@@ -146,7 +146,7 @@ Nije to bilo tako. Lojalnost se tamo odakle dolazim merila drugačije — ja bih
 
 Nisam ga izgovorio.
 
-„Vidiš", rekla je, i pomilovala me po glavi, jednom, kao što se miluje ono što je upravo imenovala. „Ne ljutiš se ni sad."
+„Vidiš", rekla je, i pomilovala me po glavi. Jednom, pa još jednom, i ostavila dlan tu. „Ne ljutiš se ni sad."
 
 „Umoran si", rekla je posle, i sklonila ruku.
 
