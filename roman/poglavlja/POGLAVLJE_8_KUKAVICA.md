@@ -482,6 +482,8 @@ Jovana je spustila pogled. Uzela čašu, pa je ostavila. Ravnala je ugao salvete
 
 „Dobro", rekla je.
 
+Trebalo je da ustanem i odem. Nisam.
+
 ⁂
 
 Nataša se promeškoljila, otvorila jedno oko.
