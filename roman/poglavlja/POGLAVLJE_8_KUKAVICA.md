@@ -532,4 +532,8 @@ Nisam se pomerio.
 
 Sedeo sam i slušao — Natašino disanje iz sobe, daleko, i ovo uz mene, i frižider u kuhinji, i ulicu napolju koja je bila sasvim tiha osim jednog auta negde daleko koji je prošao i nestao.
 
+Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen, ugao izlizan od prstiju. Nisam ga vadio.
+
+Ujutru sam morao kući.
+
 Nisam gledao na sat. Znao sam da je vreme.
