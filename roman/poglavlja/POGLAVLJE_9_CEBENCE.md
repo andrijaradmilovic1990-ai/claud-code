@@ -12,7 +12,7 @@ Nije se probudila. Ostalo je tiho.
 
 Uspravio sam se i stajao sekund nad njom, nad tim ćebencetom i tom mirnom dužinom ispod njega.
 
-Ustao sam, oprao tanjir koji sam doneo, vratio ga na sušilo. Onih nekoliko stvari što se ponese kad se dolazi a ne ostaje — ostavio sam ih, nije bilo šta da se nosi nazad. Prošao sam hodnikom pored vrata sobe u kojoj su zaspale. Vrata malo odškrinutih, onoliko koliko ih Nataša nikad ne zatvori sasvim.
+Ustao sam, oprao tanjir koji sam doneo, vratio ga na sušilo. Nisam ni raspakovao ništa, pa nije bilo ni šta da se pakuje. Prošao sam hodnikom pored vrata sobe u kojoj su zaspale. Vrata malo odškrinutih, onoliko koliko ih Nataša nikad ne zatvori sasvim.
 
 Stao sam.
 
