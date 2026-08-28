@@ -102,6 +102,12 @@ Onda me je videla.
 
 Nasmešila se. „Dobro. Ne na silu."
 
+Onda je, već ustajući, rekla: „Ono za ličnu — moraću u martu. Podsetiću te."
+
+„Dobro."
+
+Nisam pitao na koju adresu. Znao sam.
+
 ⁂
 
 Nosila je čaše do sudopere kad sam progovorio.
