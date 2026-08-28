@@ -408,7 +408,7 @@ Nataša je zevnula, prekrila usta.
 
 Za dva minuta je bila gotova — tiho, kako samo ona zaspi, usred sopstvene rečenice. Andrijana je ustala, podmetnula joj jastuk, otišla do prozora, zapalila. Okrenula leđa sobi.
 
-I ostali smo Jovana i ja sami za stolom, u sobi punoj laganog dima i ostataka večere i sveće koja je dogorela do dna — i Andrijane kraj prozora, koja je bila tu i nije bila tu.
+I ostali smo Jovana i ja sami za stolom, u sobi punoj laganog dima i ostataka večere i sveće koja je dogorela do dna — i Andrijane kraj prozora, koja nas je čula sve vreme.
 
 Jovana je spustila čašu, polako.
 
