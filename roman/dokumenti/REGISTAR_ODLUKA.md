@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 27.08.2026.
+> Poslednje ažuriranje: 28.08.2026.
 
 ---
 
@@ -103,6 +103,18 @@ Ne brišu se, ne skraćuju, ne prepisuju.
   Razlog: VI je **jedino poglavlje u kom je David neprikosnoven**, i to mu je
   funkcija — VII, VIII i IX moraju imati s čega da padnu.
 
+### VIII — Kukavica *(zaključano 28.08.2026)*
+- **Eho VII 95 ↔ VIII 465 — zatvoren, odluka autora.** Nova formulacija preneta iz
+  VII u VIII: *„onako kako se drži nešto što se ne sme pritisnuti."* Isti pokret na
+  dva mesta, obrnut smer. **Ne vraćati na staro i ne otvarati ponovo.**
+- **Kraj poglavlja** — *„Nisam gledao na sat. Znao sam da je vreme."* Nedirano; jedna
+  dopuna je 28.08. uneta iznad njega pa odmah povučena kao višak.
+- **Dopuna za D5** — *„Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen,
+  ugao izlizan od prstiju. Nisam ga vadio."* Time je **D5 plaćen.** Papir ostaje
+  neotvoren — sadržaj pripada IX.
+- **Zadržano po odluci prolaza, ne predlagati ponovo:** *„šampon isti kao nekad"*
+  dvaput (r. 23 i 127) i r. 103 o Andrijaninoj rečenici koja se napuni sama.
+
 ### IX — Ćebence
 - **Kraj poglavlja i knjige** — *„Dvanaest godina u tom džepu nema ničega. Ali telo
   ne zna za kalendar."* Doslovno ponavljanje I, red 7. **ZAŠTIĆENO po odluci
@@ -120,6 +132,8 @@ Dozvoljeno **najviše 2–3 puta u celoj knjizi.**
 | 1 | III | *„…za to sam i kopao raku… najveća koju sam u životu izvojevao"* |
 | 2 | VI | *„Za nju nikad nisam pitao smem li."* |
 | 3 | VII | *„To je bila najveća laž tog jutra, a jedina koju sam izgovorio rečima — taj ton."* (red 41) — **potrošeno 27.08.2026, odluka autora** |
+
+**VIII provereno 28.08.2026 — nula instanci.** Ostaje provera pred zatvaranje IX.
 
 **Potrošeno 3 od 3 — spisak je pun.** U VIII i IX se formula više ne sme pojaviti,
 ni kao „prirodna" rečenica — proveriti ovu tabelu pre zatvaranja oba poglavlja.
@@ -163,6 +177,11 @@ Iz toga sledi:
 - Retroaktivno čitanje se ne radi.
 - Opšta ocena zaključanog poglavlja se ne daje **osim ako autor ne kaže „otvaram"**
   tom rečju.
+
+### Poslednji red fajla *(upisano 28.08.)*
+**Fajlovi poglavlja ne završavaju prelomom reda.** U VIII je zbog toga prvo čitanje
+odseklo poslednju rečenicu poglavlja, i dopuna je uneta na pogrešno mesto pa
+povučena. **Poslednji red se proverava posebno, pre bilo kog predloga.**
 
 ### Pravilo J — rez nije prolaz *(pooštreno 23.08.)*
 Meri se **uneto**, ne predloženo. Najmanje trećina unetih izmena mora biti
