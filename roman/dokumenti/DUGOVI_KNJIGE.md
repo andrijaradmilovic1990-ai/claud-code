@@ -159,19 +159,19 @@ previd.**
 
 ---
 
-## Šta stvarno ostaje
+## Šta stvarno ostaje — ništa. Svih pet je zatvoreno *(28.08.2026)*
 
-| dug | stanje | gde se plaća |
-|-----|--------|--------------|
-| **D1 — sat** | postavljen u IV, ne kuca dalje | **VIII** — jedina preostala sadašnjost |
-| **D2 — dodir spolja** | plaćen u I, prenet iz II i III | **VII ili VIII** — mora skrenuti David, a ona ostati |
-| **D3 — Katarina** | raste IV → V → VIII | **VII** — jedini razmak koji je prazan |
-| **D4 — figura** | ponovljena u IV i V | **VI** — model je III |
-| **D5 — strah** | nijedno poglavlje ga još ne nosi | VI, VII, **VIII** |
+| dug | stanje | gde je plaćen |
+|-----|--------|---------------|
+| **D1 — sat** | **PLAĆEN** | **IX**, u dva poteza: navijen u kuhinjskom razgovoru („Ono za ličnu — moraću u martu. Podsetiću te."), otkucao u poslednjem bloku („Mart je u međuvremenu prošao. Nije me podsetila.") |
+| **D2 — dodir spolja** | **PLAĆEN** | **IX** — starčev broj bez imena stoji u listi poruka, iznad Andrijane, nesačuvan i neobrisan. Ništa se ne dešava, samo se vidi. Isti potez kao u I: on ne odustaje, skreće David |
+| **D3 — Katarina** | **PLAĆEN 23.08.** | **VII** podelom — njeno poglavlje |
+| **D4 — figura** | **PLAĆEN 23.08.** | **VI** — konobar probija zaron, po modelu iz III |
+| **D5 — strah** | **PLAĆEN 28.08.** | **VIII** — ceduljica se vraća na kraj poglavlja, neotvorena; čitalac prvi put izlazi napred. U IX se ne naplaćuje ponovo: kraj knjige je zaštićen odlukom autora i gleda unazad. Ono što je moglo unapred ušlo je ranije u IX — sat koji odbrojava i kanal ka starom svetu koji stoji otvoren |
 
-**Šta ova tabela kaže naglas:** knjiga nije propustila prilike — **odložila ih je,
-svaku uz razlog.** Sve odloženo pada u tri poglavlja koja su još otvorena. VIII nosi
-najviše: sat, dodir spolja, Katarinu i kraj knjige odjednom.
+**Šta ova tabela sada kaže naglas:** knjiga nije propustila nijednu priliku —
+odložila ih je, svaku uz razlog, i svaku naplatila pre nego što je zatvorena.
 
-> Ako autor odluči da otvori neko od zatvorenih poglavlja, ovaj registar kaže
-> **koje i zbog čega** — ne otvara se poglavlje nego se plaća imenovani dug.
+> Ovaj registar više ne pokazuje šta se duguje nego **gde je šta plaćeno.** Ako
+> naredni prolaz poželi da nešto od ovoga „doradi", neka prvo pročita zbog čega je
+> palo baš tu — razlog je uz svaki upis.

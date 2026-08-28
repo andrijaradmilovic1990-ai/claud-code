@@ -1548,3 +1548,204 @@ hronologija ne dopušta (VII se dešava pre I). D5 nosi VIII.
 **S čim čitalac izlazi:** *„Pitanje je samo kad odeš."* Gleda unapred.
 
 **STATUS: VII je zaključan. Sledeće je VIII — Kukavica.**
+
+---
+
+# VIII — KUKAVICA: prolaz i zatvaranje (28.08.2026)
+
+**Prvo poglavlje ikad rađeno pod ovim brojem.** Nastalo podelom 23.08; do ovog dana
+nijedna izmena nije bila uneta u njega.
+
+**3.666 → 3.648 reči. Deset izmena: osam prepisa, dve dopune, nijedan rez.**
+Pravilo J pokriveno s viškom — nije bilo nijednog brisanja kao samostalne izmene.
+
+## Eho VII 95 ↔ VIII 465 — razrešeno
+
+Pitanje otvoreno 27.08. posle prepisa u VII. **Odluka autora: preneti novu
+formulaciju i u VIII** (izlaz 2 od tri ponuđena). VIII 465 sada glasi
+*„onako kako se drži nešto što se ne sme pritisnuti"*. Eho preživeo u novim rečima;
+oba mesta u istoj konstrukciji, obrnut smer pokreta (njegova ruka na njenom obrazu
+u VII, njene ruke na njegovom licu u VIII). **Pitanje je zatvoreno, ne otvara se.**
+
+## Unete izmene
+
+| red | vrsta | šta | zašto |
+|---|---|---|---|
+| 465 | prepis | `boji da ne povredi` → `ne sme pritisnuti` | prenos eha iz VII; „zabrana" bolje sedi u poglavlju u kom on kaže „Ne" |
+| 349 | prepis | pao rep `i znao sam tačno na šta misli, i ona je znala da znam`, umesto njega `ostalo je da stoji nad stolom i posle nje, i niko ga nije sklonio` | rečenica je potpisivala sopstvenu sliku; uz to prvo od četiri „nego što je smelo" |
+| 169 | prepis | `ne kao komentar, kao potvrdu nečega što je već znala` → `i nije skrenula pogled kad sam je uhvatio da gleda` | druga instanca iste konstrukcije; tumačenje zamenjeno radnjom, postavlja „Vidi ga" dva reda niže |
+| 397 | prepis | `ispod svega nije bilo ničeg osim nje… nešto što nije smelo da stoji za stolom` → `nije bilo ni igre ni stola ni ostalih. Ja sam prvi spustio pogled.` | doslovno ponavljanje konstrukcije iz r. 387, deset redova ranije; **dodato: ožiljak izdrži, njen pogled ne** |
+| 139 | prepis | `i niko za stolom nije znao koliko je u pravu osim nje i mene` → `i niko za stolom nije podigao glavu` | isti naratorski potez kao u 349 |
+| kraj | **dopuna** | dodato `Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen, ugao izlizan od prstiju. Nisam ga vadio.` | **D5** — ceduljica iz r. 471 vraćena na kraj, neotvorena |
+| 411 | prepis | `koja je bila tu i nije bila tu` → `koja nas je čula sve vreme` | gotova figura, uz to netačna; postavlja dim na pola udaha (423) i neotresen pepeo (479) |
+| 483 | **dopuna** | dodato `Trebalo je da ustanem i odem. Nisam.` | Davidova strana trenutka posle „Ne" nije bila upisana nigde |
+| 371 | prepis | `dobila potvrdu nečega što je odavno znala i samo čekala da vidi hoće li se promeniti` → `odavno znala i tek sad prestala da se nada da greši` | administrativna konstrukcija za gubitak nade; ona ne optužuje, ona odustaje |
+| 465 | prepis | pao `bio je odgovor na nešto što je čekalo godinama i nikad nije bilo izgovoreno` | objašnjavao poljubac koji se upravo desio; rečenica s rukama nosi sve |
+
+## Greška u čitanju, prijavljena i ispravljena isti čas
+
+Fajl nema završni prelom reda, pa je prvo čitanje **odseklo poslednju rečenicu
+poglavlja** — *„Nisam gledao na sat. Znao sam da je vreme."* Dopuna za D5 je zbog
+toga prvo unetа s viškom (`Ujutru sam morao kući.`), koji je odmah skinut: postojeći
+kraj to već nosi, i nosi bolje jer ne imenuje. **Kraj poglavlja ostao netaknut.**
+
+*Za dalje: proveriti poslednji red fajla posebno kad fajl ne završava prelomom reda.*
+
+## Prijavljeno a nedirano
+
+**Red 23 i 127** — *„šampon isti kao nekad"* dvaput. Doslovno ponavljanje, po
+mehanici bi palo. **Zadržano:** radi kao refren tela (zakači ga dvaput, oba puta pre
+nego što stigne da se odbrani). Prag „merljivo bolje" nije pređen (Pravilo G).
+
+**Red 103** — *„jer Andrijana ponekad ispali rečenicu koju nije nameravala da
+napuni, pa se napuni sama."* Imenuje mehanizam. **Zadržano** iz istog razloga.
+
+**Red 459 i 421** — preostale dve instance „smeti". Posle četiri svedene na dve,
+više nije tik. Ne dira se.
+
+**Red 227** — Jovanin monolog u trećem licu. Registar: njoj se ne dodaje dubina,
+scena nosi dovoljno. Nedirano.
+
+## Dugovi knjige — stanje po zatvaranju
+
+**D5 (strah) — PLAĆEN.** Ne novom scenom nego povratkom materijala koji je već bio
+u poglavlju: ceduljica se pomene u r. 471 usred poljupca i nikad više. Sada se vraća
+na kraj, neotvorena, i poglavlje prvi put u knjizi izlazi napred.
+
+**D1 i D2 nisu dirani** — hronologija ne dopušta (VIII se dešava pre I). Oba ostaju
+IX-u, kako je odlučeno 23.08.
+
+**Test D5, na izlazu:** čitalac izlazi s *„šta piše na tom papiru i šta će biti kad
+dođe kući"*. Gleda unapred.
+
+## Provera pred zatvaranje
+
+- **Formula „to je bila cela X / to je bilo najgore": nula instanci u VIII.**
+  Spisak ostaje pun na 3 od 3 (III, VI, VII). Provera obavezna i pred zatvaranje IX.
+- „kao": 40 puta = 1,10%.
+- Nataša, Jovana, Andrijanina replika iz II — nedirane.
+- Katarinino ime se u VIII ne pojavljuje. Ostaje dvaput u knjizi, oba puta u VII.
+
+**STATUS: VIII je zaključan. Sledeće je IX — Ćebence, poslednje poglavlje knjige.**
+
+---
+
+# 28.08.2026. — IX, ĆEBENCE: PROLAZ I ZATVARANJE
+
+**Poslednje poglavlje knjige.** 1.541 → **1.568 reči.** Deset unetih izmena —
+**osam napisanih rečenica, dva reza.** Pravilo J traži trećinu; uneto je četiri
+petine.
+
+**Napomena o VIII — ispravka istog dana.** U prvoj verziji ovog upisa stajalo je da
+zatvaranja VIII nema u repou. **Netačno, i ispravljeno pre nego što je spojeno.**
+VIII je zaključan na svojoj grani (`claude/kukavica-poglavlje-viii-zy4ms4`), koja
+tada još nije bila spojena — dvanaest commita, uključujući razrešenje eha VII 95 ↔
+VIII 465. Autorov navod s ulaza u sesiju bio je tačan; greška je bila u tome što je
+gledana samo jedna grana. **Ovo je tačno slučaj koji Pravilo E opisuje: starija
+verzija fajla nije sukob nego neuploadovana verzija.** Obe grane su spojene pre
+jednog PR-a. VIII pritom nije otvaran ni čitan u radu na IX (Pravilo P).
+
+## Dugovi knjige — oba plaćena u ovom prolazu
+
+### D1 — SAT. Plaćen, u dva poteza.
+
+Sat je bio postavljen u IV („Ima vremena do marta") i od tada nije kucao. IX je bio
+jedina preostala sadašnjost i **mart se u njemu nije pominjao nijednom rečju.**
+
+- **Navijanje** — u kuhinjski razgovor, posle „Dobro. Ne na silu.", dodato:
+  *„Ono za ličnu — moraću u martu. Podsetiću te." / „Dobro." / Nisam pitao na koju
+  adresu. Znao sam.*
+  Mesto je izabrano jer je taj razgovor jedini put u IX gde Katarina traži nešto za
+  sebe, a mart je u IV bio njena reč. Izgovoren je kao sitnica, ne kao zahtev.
+- **Otkucaj** — na početku poslednjeg bloka, uz „Bilo je to, onako otprilike, pre
+  godinu dana." dodato: *Mart je u međuvremenu prošao. Nije me podsetila.*
+  Tri reči vraćaju njeno „Podsetiću te" i **ne tvrde ništa** — ni gde je, ni šta je
+  bilo s adresom. Hronologija nedirnuta (zamrznuta je).
+
+*Zašto u dva poteza, a ne u jednom:* sat koji se navije a ne oglasi ne pravi
+napetost nego rupu. Prvi potez bez drugog bio bi gori od zatečenog stanja.
+
+### D2 — DODIR SPOLJA. Plaćen, unutar postojeće scene.
+
+Andrijanin telefon u poslednjem bloku **ne plaća D2** — David ga sam otvara, pa
+stari svet ne dodiruje sadašnjost nego biva pozvan. Materijal koji je čekao od I je
+starčeva limarska radionica.
+
+Uneto posle „Znao sam šta radim… Zatvorio.":
+
+> *Pre nego što sam zatvorio, video sam ga u listi — broj bez imena, iznad
+> Andrijane. Starčev, iz onog dana kad me je pomešao s nekim. Ime radionice, i lim,
+> i „ako ikad zatreba."*
+>
+> *Nisam ga sačuvao. Nisam ga ni obrisao.*
+
+**Zašto ovako, a ne kao događaj:** nove scene, novi likovi i nova mesta radnje su
+zamrznuti. Broj koji **već stoji na ekranu** koji je David ionako otvorio ne traži
+ništa od toga — ništa se ne dešava, samo se vidi. I ponavlja potez iz I: starac ne
+odustaje, **skreće David.**
+
+### D5 — STRAH. Plaćen u VIII; na kraju IX se ne naplaćuje ponovo, i nije smeo.
+
+Kraj knjige je zaštićen odlukom autora i ne otvara se, a on gleda unazad. Ono što je
+moglo unapred ušlo je ranije u poglavlje: sat koji odbrojava i kanal ka starom svetu
+koji stoji otvoren. Upisano da naredni prolaz ne pomisli da je previđeno.
+
+## Deset unetih izmena
+
+| gde | vrsta | šta | zašto |
+|---|---|---|---|
+| kuhinja, posle „Ne na silu." | **dopuna** | lična karta, mart, „Nisam pitao na koju adresu." | D1 — navijanje sata |
+| kafić, posle „Zatvorio." | **dopuna** | starčev broj u listi, nesačuvan i neobrisan | D2 — dodir spolja |
+| poslednji blok, prvi red | **dopuna** | „Mart je u međuvremenu prošao. Nije me podsetila." | D1 — otkucaj |
+| red 13 | rez | pao rep `i nešto u meni je znalo šta radi i nije htelo da to izgovori` | potpisivao sopstvenu sliku; duplirao „kad više ne mora da diše ispod" šest redova iznad |
+| autobus | rez | pala `Nijedna navika me ne pita, samo radi.` | „Navika." zatvara jednom rečju; treća rečenica objašnjava i uopštava |
+| red 15 | prepis | `Onih nekoliko stvari što se ponese kad se dolazi a ne ostaje — ostavio sam ih, nije bilo šta da se nosi nazad.` → `Nisam ni raspakovao ništa, pa nije bilo ni šta da se pakuje.` | rečenica se sama poništavala |
+| Andrijana se budi | prepis | `nikad nisu bili tako čvrsti` → `nikad nisu bili blizu` | poređenje bez druge strane |
+| „Vidiš", rekla je | prepis | `kao što se miluje ono što je upravo imenovala` → `Jednom, pa još jednom, i ostavila dlan tu.` | objašnjavao već izgovorenu šalu; prepis umesto reza jer rez skraćuje njenu prisutnost |
+| kupatilo, ožiljak | prepis | `zacelio koso i ostao kao pitanje koje niko nikad nije postavio` → `koji pod hladnom vodom pobeli pre ostale kože` | **ispravka autora: David nema kosi kažiprst.** Prst ostaje prav; ožiljak se vidi zbog scene, ne zbog metafore |
+| „Ona je negde" | prepis | `neka sitna stvar o danu` → `samo kiša` | konstrukcija nije stajala na srpskom; razlika njegovog i njenog dana postala vidljiva bez reči o njoj |
+
+**Napomena o gestu u „Vidiš".** Prepis je usput zatvorio i rupu koja je stajala od
+ranije: dva reda niže piše „…i sklonila ruku", a tekst dotad ruku nigde nije
+ostavio — bilo je samo jedno milovanje. Sad dlan ostaje i traje do sklanjanja.
+
+**Napomena o ožiljku.** Prva ponuđena varijanta dirala je samo rep rečenice i
+ostavljala „zacelio koso". Autor je to odbio kao netačno o liku. Menjana je cela
+druga polovina. Nova formulacija vezuje ožiljak za hladnu vodu koja u toj sceni već
+teče dva reda iznad i jedan red ispod.
+
+## Provere pre zatvaranja
+
+- **Formula „to je bila cela X / to je bilo najgore" — 3 od 3, spisak pun.**
+  Traženo u IX na sve tri varijante („to je bil…", „najgore/najveće", „naj- + koju
+  sam"). **Nema je nigde.** „Sahrana bez tela." nije formula nego naslov knjige.
+- **„kao"** — bilo 6, sad **4** (0,26%). Dva pala kroz prepise.
+- **Zaštićeno, provereno red po red:** kraj poglavlja i knjige stoji netaknut;
+  oprana šolja („Uzeo sam šolju. Spustio nazad.") netaknuta — ponavljanje kroz V i
+  IX ostaje; Katarinin čin s ceduljicom („Njen rukopis… Kaput je visio u hodniku od
+  jutra") netaknut.
+- **Poslednji red proveren u bajtovima.** Fajl ne završava prelomom reda; kraj je
+  cel. (U VIII je zbog istog prvo čitanje odseklo poslednju rečenicu — ovde je
+  provereno pre nego posle.)
+
+## Prijavljeno a nedirano
+
+**Mehanizam „svaka reč tačna, zbir laž"** — red s „Odgovor mi je stajao ceo, spreman,
+tačan, izbrojan. / Nisam ga izgovorio." Mehanizam je registrom rezervisan **za par
+II i IX**; ovo je njegovo mesto u IX. Ne dira se.
+
+**„Onako kako se nešto pokriva kad više ne mora da diše ispod."** — ista konstrukcija
+kao eho zabeležen između VII i VIII. Nije dirana; treća tačka istog obrta u knjizi,
+i jedina koja se odnosi na ćebence.
+
+**„Između dva sveta uvek je ovako…"** u autobusu. Formalno potpisuje sliku, po
+mehanici bi pala. **Zadržana:** „dva sveta" se vraća osam redova kasnije kao njegova
+izgovorena replika Katarini („To su dva različita sveta"), pa rez lomi eho. Prag
+„merljivo bolje" nije pređen (Pravilo G).
+
+**S čim čitalac izlazi:** prazan džep i telo koje ne zna za kalendar. Gleda unazad —
+i to je odluka autora, zaštićena, ne previd.
+
+**STATUS: IX je zaključan. Knjiga postoji cela — devet poglavlja.**
+**Sledeće je korak 3 iz plana: čitanje cele knjige u nizu, prvi i jedini prolaz kroz
+I–V. Moratorijum time pada.**

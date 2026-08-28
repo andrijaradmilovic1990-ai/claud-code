@@ -136,7 +136,7 @@ Sela je ponovo, sporije, i dolila mi vino do vrha, preko mere, onako kako se nek
 
 „Neću ti pobeći."
 
-„Hoćeš." Vedro, kao šala. Nasmejala se i nastavila da jede, i niko za stolom nije znao koliko je u pravu osim nje i mene.
+„Hoćeš." Vedro, kao šala. Nasmejala se i nastavila da jede, i niko za stolom nije podigao glavu.
 
 Sveća na stolu je dogorela do pola. Napolju je prošao autobus, čuo se kroz odškrinut prozor, pa ništa.
 
@@ -166,7 +166,7 @@ Jovana je gledala u sto. Pa u mene. Pa se nasmejala.
 
 „Kukavica. Skini majicu."
 
-Skinuo sam je, prebacio preko naslona. Jovana je zviznula kroz zube — ne kao komentar, kao potvrdu nečega što je već znala.
+Skinuo sam je, prebacio preko naslona. Jovana je zviznula kroz zube i nije skrenula pogled kad sam je uhvatio da gleda.
 
 „Drži se", rekla je, ali ne meni. Andrijani, tiho. „Vidi ga."
 
@@ -346,7 +346,7 @@ Jovana se nasmejala. „Niko. Otkad sam izašla iz bolnice spavam kao top. Polom
 
 „Piješ za uvredu suda."
 
-Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držalo svašta* visilo je u sobi duže nego što je smelo, i znao sam tačno na šta misli, i ona je znala da znam.
+Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držalo svašta* ostalo je da stoji nad stolom i posle nje, i niko ga nije sklonio.
 
 „Ti opet." Nataša, prst u mene. „Istina ili izazov."
 
@@ -368,7 +368,7 @@ Popila je. Ali me nije puštala iz pogleda dok je pila, i to *pre toga me držal
 
 „Maločas nije zagustilo."
 
-Pogledala me je, i nešto joj je prešlo licem — ne uvreda, nešto strpljivije. Kao da je dobila potvrdu nečega što je odavno znala i samo čekala da vidi hoće li se promeniti.
+Pogledala me je, i nešto joj je prešlo licem — ne uvreda, nešto strpljivije. Kao da je odavno znala i tek sad prestala da se nada da greši.
 
 „Jovana." Nataša. „Istina ili izazov."
 
@@ -394,7 +394,7 @@ Ja nisam skrenuo. Gledao sam to mesto, i nešto mi se steglo u grudima.
 
 „Lep je", rekao sam.
 
-Pogledala me je. Na sekund — samo sekund — ispod svega nije bilo ničeg osim nje, i u tom pogledu je stajalo nešto što nije smelo da stoji za stolom.
+Pogledala me je. Na sekund — samo sekund — nije bilo ni igre ni stola ni ostalih. Ja sam prvi spustio pogled.
 
 Pa je uzela viljušku i nastavila da jede.
 
@@ -408,7 +408,7 @@ Nataša je zevnula, prekrila usta.
 
 Za dva minuta je bila gotova — tiho, kako samo ona zaspi, usred sopstvene rečenice. Andrijana je ustala, podmetnula joj jastuk, otišla do prozora, zapalila. Okrenula leđa sobi.
 
-I ostali smo Jovana i ja sami za stolom, u sobi punoj laganog dima i ostataka večere i sveće koja je dogorela do dna — i Andrijane kraj prozora, koja je bila tu i nije bila tu.
+I ostali smo Jovana i ja sami za stolom, u sobi punoj laganog dima i ostataka večere i sveće koja je dogorela do dna — i Andrijane kraj prozora, koja nas je čula sve vreme.
 
 Jovana je spustila čašu, polako.
 
@@ -462,7 +462,7 @@ Prišla je. Osetio sam toplinu pre dodira.
 
 Pa me je poljubila.
 
-Nije bio oprez, nije bio pokušaj — bio je odgovor na nešto što je čekalo godinama i nikad nije bilo izgovoreno. Ruke su joj bile uz moje lice, lagano, onako kako se drži nešto što se boji da ne povredi.
+Nije bio oprez i nije bio pokušaj. Ruke su joj bile uz moje lice, lagano, onako kako se drži nešto što se ne sme pritisnuti.
 
 I u toj sekundi — parfem. Ne onaj njen stari, ne ono što pamtim — novi, tuđi skoro, i ispod njega nešto njeno što je ostalo. I ispod toga nešto što nije njeno ni staro ni novo nego moje i njeno. Njena krv na mojim rukama.
 
@@ -481,6 +481,8 @@ Andrijana se nije okrenula. Ali joj je pepeo pao s cigarete, neotresen.
 Jovana je spustila pogled. Uzela čašu, pa je ostavila. Ravnala je ugao salvete, onako kako se rade sitnice kada nema šta da se radi.
 
 „Dobro", rekla je.
+
+Trebalo je da ustanem i odem. Nisam.
 
 ⁂
 
@@ -531,5 +533,7 @@ Zaspala je tako, bez najave, kao što se spava kad si godinu dana čekao da bude
 Nisam se pomerio.
 
 Sedeo sam i slušao — Natašino disanje iz sobe, daleko, i ovo uz mene, i frižider u kuhinji, i ulicu napolju koja je bila sasvim tiha osim jednog auta negde daleko koji je prošao i nestao.
+
+Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen, ugao izlizan od prstiju. Nisam ga vadio.
 
 Nisam gledao na sat. Znao sam da je vreme.

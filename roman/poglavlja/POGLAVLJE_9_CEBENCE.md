@@ -10,9 +10,9 @@ Naslonio sam se i poljubio je u čelo. Kratko. Suvo. Tačka, ne rečenica.
 
 Nije se probudila. Ostalo je tiho.
 
-Uspravio sam se i stajao sekund nad njom, nad tim ćebencetom i tom mirnom dužinom ispod njega, i nešto u meni je znalo šta radi i nije htelo da to izgovori.
+Uspravio sam se i stajao sekund nad njom, nad tim ćebencetom i tom mirnom dužinom ispod njega.
 
-Ustao sam, oprao tanjir koji sam doneo, vratio ga na sušilo. Onih nekoliko stvari što se ponese kad se dolazi a ne ostaje — ostavio sam ih, nije bilo šta da se nosi nazad. Prošao sam hodnikom pored vrata sobe u kojoj su zaspale. Vrata malo odškrinutih, onoliko koliko ih Nataša nikad ne zatvori sasvim.
+Ustao sam, oprao tanjir koji sam doneo, vratio ga na sušilo. Nisam ni raspakovao ništa, pa nije bilo ni šta da se pakuje. Prošao sam hodnikom pored vrata sobe u kojoj su zaspale. Vrata malo odškrinutih, onoliko koliko ih Nataša nikad ne zatvori sasvim.
 
 Stao sam.
 
@@ -20,7 +20,7 @@ Nisam znao zašto stojim. Telo me je zaustavilo, a glava je bila zauzeta nečim 
 
 Onda sam čuo kako se jorgan pomeri.
 
-Andrijana. Nije spavala — ili je bila na ivici i čula me kroz nju, jer Andrijana i san nikad nisu bili tako čvrsti. Okrenula glavu na jastuku. U procepu odškrinutih vrata, u mraku sobe, video sam kako otvara oči.
+Andrijana. Nije spavala — ili je bila na ivici i čula me kroz nju, jer Andrijana i san nikad nisu bili blizu. Okrenula glavu na jastuku. U procepu odškrinutih vrata, u mraku sobe, video sam kako otvara oči.
 
 Pogledala me je. Ja nju.
 
@@ -34,7 +34,7 @@ Okrenuo sam se i otišao.
 
 Autobus je krenuo u pet i sedam minuta. Bio sam jedini putnik prvih pola sata, ja i vozač koji nije imao ni zašto da me gleda.
 
-Seo sam iza, s leve strane — prozor odakle se vide raskrsnice pre nego što autobus uđe u njih. Navika. Nijedna navika me ne pita, samo radi.
+Seo sam iza, s leve strane — prozor odakle se vide raskrsnice pre nego što autobus uđe u njih. Navika.
 
 Gurnuo sam ruku u džep kaputa — onaj desni, u koji nikad ništa ne stavljam jer mi je ceo život bio prazan, samo materijal i šav i ništa unutra.
 
@@ -102,6 +102,12 @@ Onda me je videla.
 
 Nasmešila se. „Dobro. Ne na silu."
 
+Onda je, već ustajući, rekla: „Ono za ličnu — moraću u martu. Podsetiću te."
+
+„Dobro."
+
+Nisam pitao na koju adresu. Znao sam.
+
 ⁂
 
 Nosila je čaše do sudopere kad sam progovorio.
@@ -140,7 +146,7 @@ Nije to bilo tako. Lojalnost se tamo odakle dolazim merila drugačije — ja bih
 
 Nisam ga izgovorio.
 
-„Vidiš", rekla je, i pomilovala me po glavi, jednom, kao što se miluje ono što je upravo imenovala. „Ne ljutiš se ni sad."
+„Vidiš", rekla je, i pomilovala me po glavi. Jednom, pa još jednom, i ostavila dlan tu. „Ne ljutiš se ni sad."
 
 „Umoran si", rekla je posle, i sklonila ruku.
 
@@ -154,7 +160,7 @@ Otišao sam do kupatila.
 
 Pustio sam hladnu vodu — ne toplu, hladnu, jer mi je trebalo nešto konkretno. Stavio ruke ispod.
 
-Gledao sam ih kako stoje pod mlazom. Duge ruke, sek koji mi je neko odavno ostavio na desnom kažiprstu i koji je zacelio koso i ostao kao pitanje koje niko nikad nije postavio. Ruke koje su radile svašta. Ruke koje su maločas namestile ćebence oko jedne žene i utihnule i otišle.
+Gledao sam ih kako stoje pod mlazom. Duge ruke, sek koji mi je neko odavno ostavio na desnom kažiprstu i koji pod hladnom vodom pobeli pre ostale kože. Ruke koje su radile svašta. Ruke koje su maločas namestile ćebence oko jedne žene i utihnule i otišle.
 
 Voda je bila hladna.
 
@@ -168,7 +174,7 @@ Isti čovek.
 
 ⁂
 
-Bilo je to, onako otprilike, pre godinu dana.
+Bilo je to, onako otprilike, pre godinu dana. Mart je u međuvremenu prošao. Nije me podsetila.
 
 Sad sedim za istim stolom u istom kafiću. Isti ugao, leđa ka zidu, sto odakle se vide vrata. Konobar me zna i donosi crnu kafu i čašu mlake vode pre nego što sednem. Ne pita za ručak. Zna da neću.
 
@@ -177,6 +183,10 @@ Vani je počelo da pada — sitna kiša, ona koja ne zvuči na staklu ali zamagl
 Ruka mi je otišla ka telefonu.
 
 Znao sam šta radim. Otvorio sam poruke, krenuo, kucao — tri slova, četiri, pa petim stao prstom i obrisao. Zatvorio.
+
+Pre nego što sam zatvorio, video sam ga u listi — broj bez imena, iznad Andrijane. Starčev, iz onog dana kad me je pomešao s nekim. Ime radionice, i lim, i „ako ikad zatreba."
+
+Nisam ga sačuvao. Nisam ga ni obrisao.
 
 Ostao sam malo tako, s telefonom na stolu, ekranom nadole.
 
@@ -188,7 +198,7 @@ Tri reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati
 
 Kafa se hladila. Nisam žurio.
 
-Ona je negde — u ovom gradu, u drugom, u nekom stanu koji nisam video, s nogama koje hodaju i rukama koje kuvaju i jednim ožiljkom koji ode s proleća. Hoda negde. Diše. Verovatno ove kiše gleda kroz prozor, verovatno joj je to neka sitna stvar o danu.
+Ona je negde — u ovom gradu, u drugom, u nekom stanu koji nisam video, s nogama koje hodaju i rukama koje kuvaju i jednim ožiljkom koji ode s proleća. Hoda negde. Diše. Verovatno ove kiše gleda kroz prozor, verovatno joj je to samo kiša.
 
 Nema me u toj sobi.
 
