@@ -328,4 +328,85 @@ izgovori umesto njega.
 
 ---
 
+## DUGOVI NOVIH POGLAVLJA *(iz spoljne kritike, 28.08.2026)*
+
+> **Odakle.** Druga spoljna analiza (Gemini) dala je kritiku **postojeće knjige** — nije
+> znala za proširenje. **Tri njena nalaza su tačna, sva tri leka pogrešna**, i sva tri
+> traže otvaranje zaključanih poglavlja.
+>
+> **Pravilo P rešava to čisto:** dug se plaća unapred. Nalazi se uzimaju, lekovi
+> odbacuju, **plaćanje ide u nova poglavlja.** Nijedno od devet se zbog ovoga ne otvara.
+
+### DUG 1 — sadašnjost mora nositi opasnost, i to kao scena
+
+**Nalaz je tačan:** sadašnji život je bezbedan, pa je statičan; služi uglavnom kao okvir
+za sećanja.
+
+**Lek je pogrešan** — predloženo je da Katarina primeti zategnut vrat ili ruku ka
+džepu. Pada na tri mesta: ona **ne sumnja i ne proverava do `IX`** (ceo njen luk);
+**„ruka ka praznom džepu" je refren s upisanim rasporedom** (I, II, IV, VIII, IX) i
+šesta instanca ga troši; i upisano je pravilom da se **strah ne montira u postojeću
+rečenicu** — dva takva pokušaja autor je već odbio.
+
+**Dublja greška:** kritika traži **trilersku ivicu**, doslovno. Knjiga je nikad nije
+imala i ne treba je.
+
+**Kako se plaća:** u **novim poglavljima sadašnjosti**, gde opasnost sme da bude scena.
+**Održavanje maske mora da košta** — ne mora niko da puca.
+
+### DUG 2 — Katarini ne fali dubina, fali RAZLOG
+
+**Kritika je upala u zamku broj šest iz registra** — izmerila ju je rečenicama umesto
+potezima. I predložila je ono što je već u knjizi, samo naglas: ceduljica u kaputu
+**jeste** njen svestan čin, *„Mart je u međuvremenu prošao. Nije me podsetila"* **jeste**
+njena odluka.
+
+**Ali jedan delić stoji, i autor ga je istog dana sam otvorio.** Ako je David **stvarno
+voli**, knjiga nigde ne pokazuje **zašto.**
+
+**Kako se plaća:** u poglavlju o **upoznavanju na poslu** (prazno mesto 5), i nigde
+drugde.
+
+### DUG 3 — cena izbora se plaća PRE kraja, ne u kraju
+
+**Kraj `IX` ostaje kakav jeste.** Predlog o *„stisku ruke u prazno"* pada — to je gest
+koji **potpisuje sopstvenu sliku**, ista greška koju je korak 4 skinuo s devet mesta,
+samo rukom umesto rečju. A vožnja autobusom *„opisana kao zatvorska kazna"* je poređenje
+koje izgovara zaključak.
+
+**Kraj već ima slom — samo nije na Davidu nego na ćebencetu.** On pokriva ženu koju
+ostavlja. Dodati drugi gest znači dva tamo gde jedan radi.
+
+**Ali traženje cene nije pogrešno — pogrešno je mesto.** Da bi se kraj osetio, **stari
+svet mora pokazati šta David tačno gubi kad bira.** Sad se to samo tvrdi.
+
+**Kako se plaća:** Italija to već radi — **Anja je prvi put kad plaća.**
+
+### DUG 4 — bes je zona komfora, ranjivost ga plaši
+
+**Najbolja rečenica u celoj kritici, i nije bila upisana nigde.**
+
+**David ume da naredi da nekog prebiju bez trunke oklevanja, a ne ume da bude ranjiv ni
+na sekundu.** To nije stil nego **strah**, i to je karakterizacija.
+
+**Kako se koristi:** **stari David je lako besan i nijednom ranjiv.** Slaže se s već
+upisanim — u starom životu dominantan, low key tek posle. Ranjivost je jedina stvar koju
+taj čovek ne ume, i zato Anja prolazi neodgovorena.
+
+### Šta je odbačeno u celini
+
+Stisak ruke u prazno · autobus kao zatvorska kazna · Katarina koja prepoznaje tuđ parfem
+na kaputu · trilerska ivica. **Sve četiri traže da knjiga izgovori ono što pokazuje.**
+
+### Napomena o obe spoljne analize
+
+**Nijedna ne kaže da je knjiga kratka.** To je jedina zamerka koju je autor prihvatio kao
+pravu, i nijedan spoljni čitalac je ne vidi — jer mere **gustinu, ne dužinu.** **Obim
+ostaje autorov nalaz.**
+
+Druga analiza završava pozivom da joj se pošalje nova verzija na uvid. Ne menja vrednost
+nalaza, ali objašnjava zašto su **sva tri predloga dodavanja, nijedan rez.**
+
+---
+
 ### *(mesto za sledeće ideje — hvataju se kako dolaze, ne komentarišu se dok se ne stane)*
