@@ -2202,3 +2202,36 @@ naslednika u knjizi.** Mali ostaje u spisku praznih mesta, ali ne kao naslednik.
 
 **Mapa.** Ideje su skupljene i razgovor je vođen; konačan redosled poglavlja nije
 napravljen. To je sledeći korak, i pravi se pre nego što se napiše prva nova rečenica.
+
+## Nastavak iste sesije — mapa zaključana
+
+**Odobrena od autora 28.08.2026.** Petnaest poglavlja: devet postojećih **netaknutih i u
+istom redosledu**, šest novih umetnutih između. Zbir **oko 30.500 reči** — duplo,
+pogođeno bez prebacivanja.
+
+**Nova poglavlja i mesta:** `Ulazak` (3) · `Italija` (5) · `Prelom` (7) · `Majka` (9) ·
+`Fabrika` (10) · `Maska` (14).
+
+**Luk:** penjanje u 3 → vrhunac funkcije u `Krvi` → **visina i prvi pad u istoj sceni**
+u `Italiji` → poslednja visina u `Parizu` → pad u `Prelomu` → dno u `Nestanku` i
+`Majci` → mali uspon u `Fabrici` → trzavica u 11–13 → cena u `Maski` → kraj.
+
+**Svesno nepokriveno:** Mali *(naslednik odbačen)* · Zvezdan *(radi bolje kao glas)* ·
+dvanaest godina bekstva *(prve dve pokrivene, ostatak ostaje hronika)* · Jovanina
+nesreća *(prikazana bi oslabila `Beli grad`)*.
+
+## Dve ispravke iz iste sesije
+
+**Baka je Anjina, ne Davidova.** Stari zapis ju je vodio kao Davidovu i zato kao
+nenaplaćen dug. **Pošto pripada Anjinom svetu, David je odbijanjem Anje gubi zajedno s
+njom** — naplaćuje se u istoj sceni. Skinuta sa spiska otvorenih odluka.
+
+**Italija nije jednokratna poseta.** David tamo **redovno ide**; baka i ekipa ga znaju,
+to mu je drugi dom. Odbijanjem **gubi godine i kuću u koju je mogao da dođe**, ne jedno
+veče. Iz toga sledi i kako se scena piše: **bez upoznavanja i bez objašnjavanja ko je
+ko.**
+
+## Šta je sledeće
+
+**Pisanje. Prvo poglavlje: `Italija`.** Struktura zaključana — **toplo → tuča →
+zdravica → odbijanje.**
