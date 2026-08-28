@@ -2026,3 +2026,93 @@ zaključava umesto da otvara.
 
 **STATUS: korak 4 je odrađen u obe polovine. Šta se s rukopisom radi posle njega nije
 upisano nigde — to je odluka autora i ne otvara se ovde.**
+
+---
+
+# VII — PRENOS IZ PARALELNE VERZIJE (28.08.2026)
+
+## Šta se dogodilo — dve sesije, isto poglavlje, isti dan
+
+**27.08.2026. VII je rađen dvaput, paralelno, u dve odvojene sesije.** Jedan prolaz
+je mergovan i on je u knjizi; drugi je ostao na grani
+`claude/nastavi-beli-grad-xt6s3d` i njegov PR (#5) nikad nije spojen. Autor je za
+drugi prolaz imao izlazni list (15 izmena, 2.190 → 2.197 reči) i mislio da je taj
+rad izgubljen.
+
+**Nije izgubljen** — bio je commitovan i guran, samo nije ušao u knjigu. PR #5 je
+28.08. zatvoren bez spajanja, uz obrazloženje na samom PR-u; **grana nije obrisana.**
+
+**Zašto grana nije mergovana ni tada ni sada:** njen merge bi vratio unazad rezove
+koje je druga verzija uradila (*„To me je saseklo gore od svega ostalog."*, *„i baš
+zato je bolelo"*, *„Zid mi je bio iza leđa, po prvi put tog dana…"*) i prepis iz
+koraka 4 (`r133`). Umesto merge-a, **svaka izmena je preneta pojedinačno.**
+
+## Poređenje svih 15 — šta je gde bilo
+
+**Već u knjizi, isti ili ekvivalentan potez (6):**
+
+| | izmena | kako je rešeno u knjizi |
+|---|---|---|
+| r95 | `pređem` → `prešao` | isto rešenje |
+| r43 | veznik uzroka *„I zato je peklo"* | rešeno **rezom** (golo *„Tačno."*), ne prepisom |
+| r63 | udvajanje *„Čak ni kad idem"* | *„Čak i tad. Ni kad sam išao"* |
+| r117 | doslovnost u ehu aparata | rešeno **rezom** priloga *„strpljivo"* (prva pojava u r89 zadržana) |
+| r95 | poređenje uz pokret po obrazu | *„ne sme pritisnuti"* — nosi eho s `VIII 465`, zato se ne menja |
+| — | dopuna: polazak u Beli grad | preneta 28.08. u popravljenoj formulaciji |
+
+**Namerno odbijeno, po odluci autora (2) — nisu propust:**
+
+- **`r41`, rezervisana formula.** Paralelna verzija je oslobađa; knjiga je **troši
+  ovde**, odlukom autora od 27.08. Spisak je 3 od 3 i pun.
+- **`r19`, uopštavanje** *(„Čovek zna gde mu je rana i kad je ne vidi.")*. Prijavljeno
+  pa zadržano — nije objašnjenje nego jedini put da glas izađe iz sobe (Pravilo G).
+
+## Uneto 28.08.2026 — sedam izmena
+
+Autor je pregledao spisak i tražio da uđu sve osim ta dva odbijena.
+
+| red | vrsta | šta |
+|---|---|---|
+| 25 | prepis | *„Sačekala je. Ona ume da ćuti baš onoliko koliko treba da čovek čuje sam sebe kako je rekao premalo."* → *„Sačekala je onoliko koliko je trebalo."* |
+| 49 | rez | palo *„Sve tačno."* i *„Svaku reč bih ponovio pod zakletvom — a opet bi sve zajedno bilo laž."* — **usput vraća mehanizam „svaka reč tačna, zbir laž" paru II–IX**, kako registar i traži |
+| 57 | dopuna | *„Telefon sam tih nedelja nosio u prednjem džepu, ne u zadnjem, da ga osetim i kad ne zvoni. Zvonio je retko, i svaki put bih prvo pogledao ko je, pa tek onda javio."* |
+| 113 | rez | pao rep replike *„Ti uvek dođeš kad je dovoljno grozno, a nestaneš kad je lepo."* |
+| 123 | dopuna | *„Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli."* — zatvara povratak iz bolnice, koji je dotad bio prećutan |
+| 149 | dopuna | *„Zovi je danju", rekla je. „Noću si mi potreban ovde."* — **Katarinin zahtev za sebe** |
+| 155 | prepis | *„kao čovek koji čita knjigu o nečijem oporavku umesto da je gleda"* → *„s tri sata razdaljine"* |
+
+**Pravilo J:** tri dopune i jedan prepis su napisane rečenice, dva su reza — **pokriveno.**
+
+**2.137 → 2.150 reči.** Ukupno **15.510.**
+
+## Posledica za registar — Katarinin luk je sad pet poteza
+
+Dopuna u `r149` obara tvrdnju koja je stajala u dva dokumenta: da je **IV jedino
+mesto gde Katarina traži nešto za sebe.** Više nije tačno.
+
+**Luk: IV traži adresu → V imenuje mehanizam → VII postavlja uslov → IX ceduljica →
+IX kraj odustane.** Pet poteza, ne četiri. Ispravljeno u `REGISTAR_ODLUKA.md` i
+`DUGOVI_KNJIGE.md` po Pravilu E.
+
+**Tvrdnja o roku stoji i dalje:** mart se izgovara naglas samo u IV.
+
+## Prijavljeno a nedirano
+
+**`„tri sata"` sada pada tri puta u VII** — `r79` (*„vozim tri sata po tebe"*),
+`r125` (*„Tri sata, isti put"*), `r155` (*„s tri sata razdaljine"*). Dve od tri su
+upravo unete. **Nije dirano** — obe su autorove rečenice koje je izričito tražio, i
+prag „merljivo bolje" nije pređen (Pravilo G). Upisano da naredni prolaz ne pomisli
+da je previđeno.
+
+## Provera posle unosa
+
+- VII: svih sedam uneto, oba odbijena stoje, ranije odluke (formula r41, Katarinino
+  ime na dva mesta, prepis iz koraka 4, dopuna pred polazak, eho s VIII) netaknute.
+- **VIII i IX provereni u celini** — eho `VII↔VIII 465`, kraj VIII, dopuna za D5,
+  Nataša *„Ja sam druga"*, izmene iz koraka 4, oba mesta sa šamponom, kraj IX, oba
+  poteza D1, D2, ceduljica, *„Isti čovek."* — **sve stoji.**
+- Formula: **3 od 3** (III, VI, VII), nula dodatnih instanci u svih devet.
+- Svih devet fajlova završava tačkom.
+
+**STATUS: VII je usklađen s obe verzije. Ništa iz autorovog rada nije ostalo napolju
+osim onoga što je on sam odbio.**

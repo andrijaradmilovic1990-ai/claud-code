@@ -22,7 +22,7 @@ Stao sam pored nje, pušio, gledao u pravcu. Negde tamo, daleko, preko brda i pr
 
 „Ništa. Umoran."
 
-„Nisi umoran. Umornog znam." Sačekala je. Ona ume da ćuti baš onoliko koliko treba da čovek čuje sam sebe kako je rekao premalo. „Ćutiš otkad te je zvao onaj na kapiji."
+„Nisi umoran. Umornog znam." Sačekala je onoliko koliko je trebalo. „Ćutiš otkad te je zvao onaj na kapiji."
 
 „Drugarica imala udes. Preksinoć. Kolima." Povukao sam dim. „Neki kreten vozio kao lud po kiši, pa izašao iz kola bez ogrebotine. Nju vadili na delove."
 
@@ -46,7 +46,7 @@ Rekao sam to bez težine, kao da se žalim na nekog ko mi je dosadio. To je bila
 
 „Jesi. Ćutiš." Uhvatila mi ruku, onu slobodnu, hladnu od vetra, grejala je između svoje dve. „Nemoj da se opterećuješ tuđim problemima. Ne možeš ti sve da poneseš na sebe. Naljutiš se na nju, a posle ne spavaš zbog nje. Takav si."
 
-Pustio sam je da misli da je u pravu. Da sam ljut na drugaricu koja ne pazi na sebe, da mi je zato teško, da je to sve. Sve tačno. Drugarica. Ne pazi. Teško mi. Svaku reč bih ponovio pod zakletvom — a opet bi sve zajedno bilo laž. Ruka mi je bila između njene dve, topla, a ja sam gledao u onaj pravac.
+Pustio sam je da misli da je u pravu. Da sam ljut na drugaricu koja ne pazi na sebe, da mi je zato teško, da je to sve. Drugarica. Ne pazi. Teško mi. Ruka mi je bila između njene dve, topla, a ja sam gledao u onaj pravac.
 
 Popušio sam do kraja, bacio pikavac, zgazio. Grad se dole sasvim upalio.
 
@@ -54,7 +54,7 @@ Popušio sam do kraja, bacio pikavac, zgazio. Grad se dole sasvim upalio.
 
 „Imam."
 
-Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi seo u prva kola i jurio. Ja sam čekao. Mesec dana sam se čuo preko Zvezdana i Andrijane, slušao kako se cifre menjaju — koliko operacija, koliko dana na aparatima, kad su je skinuli s intenzivne. Mesec dana sam bio čovek koji ide na posao, vraća se, ćuti.
+Nisam imao da spavam. Ali nisam ni krenuo nikud tog dana, ni sutradan. Drugi bi seo u prva kola i jurio. Ja sam čekao. Mesec dana sam se čuo preko Zvezdana i Andrijane, slušao kako se cifre menjaju — koliko operacija, koliko dana na aparatima, kad su je skinuli s intenzivne. Mesec dana sam bio čovek koji ide na posao, vraća se, ćuti. Telefon sam tih nedelja nosio u prednjem džepu, ne u zadnjem, da ga osetim i kad ne zvoni. Zvonio je retko, i svaki put bih prvo pogledao ko je, pa tek onda javio.
 
 Uveče pre puta, u njenoj kuhinji, rekao sam samo da me sutra neće biti. Nije pitala gde, a ja nisam rekao.
 
@@ -112,7 +112,7 @@ Jedan ugao usne joj je uspeo ovaj put. Malo.
 
 „Jesam matar."
 
-„Došao si." Zatvorila je oči na to, kao da je tih dve reči koštalo više od svega. „Znala sam da ćeš doći kad bude dovoljno grozno. Ti uvek dođeš kad je dovoljno grozno, a nestaneš kad je lepo."
+„Došao si." Zatvorila je oči na to, kao da je tih dve reči koštalo više od svega. „Znala sam da ćeš doći kad bude dovoljno grozno."
 
 Nisam imao šta na to. Gledao sam aparat kraj kreveta, brojeve koji su skakali.
 
@@ -121,6 +121,8 @@ Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek 
 Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
 Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
+
+Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli.
 
 ⁂
 
@@ -144,11 +146,13 @@ Katarina je primetila telefon pre nego što je primetila bilo šta drugo. Ne lju
 
 „Teško joj je da spi."
 
+„Zovi je danju", rekla je. „Noću si mi potreban ovde."
+
 Pogledala me je, dugo, kao da proverava nešto što ne piše na ekranu.
 
 „Dobar si prijatelj", rekla je na kraju. Nije bilo sarkazma. Bilo je iskreno.
 
-Meseci su prolazili kroz telefon. Ona je ustala iz kreveta, pa iz sobe, pa hodala uz štap, pa bez njega, sve to saznao sam u porukama, slovo po slovo, kao čovek koji čita knjigu o nečijem oporavku umesto da je gleda. Smejala se opet, u porukama se to oseti, neka rečenica koja je odjednom imala onaj njen stari obrt, onu oštricu. Vraćala se u sebe.
+Meseci su prolazili kroz telefon. Ona je ustala iz kreveta, pa iz sobe, pa hodala uz štap, pa bez njega, sve to saznao sam u porukama, slovo po slovo, s tri sata razdaljine. Smejala se opet, u porukama se to oseti, neka rečenica koja je odjednom imala onaj njen stari obrt, onu oštricu. Vraćala se u sebe.
 
 I što se ona vraćala, to sam ja postajao manje potreban. Poruke su počele da stižu ujutru.
 

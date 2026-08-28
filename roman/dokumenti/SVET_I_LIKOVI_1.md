@@ -201,11 +201,11 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 | IV | Pariz | 1.973 | sadašnjost (veče + jutro) → zaron |
 | V | Nestanak | 1.278 | sadašnjost → zaron |
 | VI | Prazna stolica | 1.405 | **prošlost** (~2 godine pre I) → zaron |
-| VII | Beli grad | 2.137 | nastavak VI, kroz godinu dana |
+| VII | Beli grad | 2.150 | nastavak VI, kroz godinu dana |
 | VIII | Kukavica | 3.635 | jedna noć, ~godinu pre I |
 | IX | Ćebence | 1.571 | ista noć → skok u sadašnjost |
 
-**Ukupno 15.497 reči.**
+**Ukupno 15.510 reči.**
 
 ---
 
