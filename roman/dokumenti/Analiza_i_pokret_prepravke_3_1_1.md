@@ -2235,3 +2235,56 @@ ko.**
 
 **Pisanje. Prvo poglavlje: `Italija`.** Struktura zaključana — **toplo → tuča →
 zdravica → odbijanje.**
+
+---
+
+## 28.08.2026 — NOVO 2, ITALIJA: napisano poglavlje
+
+**Prvo napisano poglavlje nove knjige.** 3.368 reči. Mapa je tražila ~3.500.
+Fajl: `poglavlja/POGLAVLJE_NOVO_2_ITALIJA.md`, bez preloma na kraju, provereno
+`od -An -c` na poslednjem bajtu.
+
+**Grana proverena pre rada** — nijedna grana nije imala commit van glavne.
+
+### Tok
+
+Prva verzija: 2.418 reči, četiri pokreta, bez okvira sadašnjosti. Autor je pročitao
+celu i dao pet nalaza. Sva četiri izvršena, peti (Jovana) razrešen u razgovoru:
+
+1. **Andrijana i Nataša ulaze u kadar, Jovana ne.** Moj predlog je bio da nijedna ne
+   uđe (Pariz stoji odmah posle i on je to poglavlje). Autor je uzeo srednje rešenje i
+   ono je bolje od oba: Andrijana i Nataša daju smeh i muvanje s Italijanima, a Jovana
+   ostaje van pa se ne sudara s Anjom.
+2. **Krađa iz zajebancije** — iz autorove izvorne ideje. Nataša, naočare, uživo.
+3. **Baka mora da se ČUJE.** Prva verzija ju je opisivala („rekla je nešto brzo").
+   Autorova zamerka, tačna. Uneto sedam replika doslovno na italijanskom.
+4. **Magacin izbačen** — ponavljao se iz Krvi. Zamenjen zatvorenom restoranskom
+   kuhinjom.
+5. **Geografija suptilno** — magla s reke u ravnici, polpette, nonna, salut. Grad se
+   ne imenuje.
+
+### Dva reza na kraju, oba potpisi *(nalaz predlagača, prihvaćen)*
+
+- *„Ne pamtim kad sam prestao da pazim kako to izgleda."* — prevodila prethodnu
+  rečenicu.
+- *„...i to je bilo sve što je imala da kaže o tome."* — prevodila Andrijanin gest.
+
+Isti kvar koji je korak 4 skidao s devet mesta. Pravilo J ispunjeno s viškom —
+celo poglavlje je napisano.
+
+### Šta je uneto a nije bilo traženo
+
+- **Meso.** Baka uči Davida da se ne gnječi prstima. U Krvi, dvanaest godina kasnije,
+  on to radi baš tako i to ga odnese u magacin. Retroaktivan udarac bez ijedne izmene
+  u Krvi.
+- **Stolica.** Anja mu drži mesto s pogledom na vrata i o tome se nikad ne govori.
+- **Kraj.** Andrijana i Nataša ostaju do subote; David jedini odlazi. Ključ se okreće
+  prvi put u poglavlju.
+
+### Pariz — pitanje autora, odgovor ne
+
+Autor je pitao treba li Pariz uskladiti s Italijom jer su različito pisani. Odgovor je
+bio ne, s razlogom upisanim u registar, sekcija 8. Autor je tražio da odgovor bude
+iskreno mišljenje a ne poštovanje pravila, i jeste bio. **Pariz nije otvoren.**
+
+**Formula „to je bila cela X" — nula instanci u Italiji, provereno.**

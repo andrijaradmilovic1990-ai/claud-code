@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **28.08.2026.** *(mapa nove knjige zaključana)*
+> Poslednje ažuriranje: **28.08.2026.** *(NOVO 2 — Italija napisana i zaključana)*
 
 ---
 
@@ -207,10 +207,40 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 
 ### Sledeći korak — PISANJE
 
-**Prvo poglavlje: `NOVO 2 — Italija`.** Najduže je (~3.500 reči), najviše nosi, i
-najbrže pokazuje da li glas drži u novom materijalu.
+**`NOVO 2 — Italija` je NAPISANA I ZAKLJUČANA 28.08.2026. 3.368 reči.**
+Fajl: `poglavlja/POGLAVLJE_NOVO_2_ITALIJA.md`.
 
-**Struktura je zaključana:** toplo → tuča → zdravica → odbijanje.
+Struktura je ispoštovana: toplo → tuča → zdravica → odbijanje.
+
+**Odluke koje su pale u toku pisanja — sve autorove:**
+
+- **Bez okvira sadašnjosti.** Italija počinje i završava u Italiji. Razlog: Krv stoji
+  tačno pre nje i već nosi zaron iz kuhinje; drugi zaredom bio bi figura. Šav radi kroz
+  isti predmet obrnut — Krv se zatvara na vratima koja David gleda jer su zatvorena,
+  Italija se otvara na vratima koja se ne zaključavaju. Izlaz isto: Italija se završava
+  ćutanjem kod vrata, Pariz odmah zatim počinje okretanjem na tuđe ime.
+- **Andrijana i Nataša su u kadru. Jovana nije.** Odluka autora. Jovana bi se sudarila
+  s Anjom uživo i poglavlje bi postalo o tome koju bira. Andrijana se te večeri muva
+  s Ninom — potvrđuje Pariz bez ijedne izmene.
+- **Krađa iz zajebancije ušla** — Nataša krade naočare koje joj ne trebaju. Baka joj
+  kaže *„Queste non le hai pagate."* i ona ih vraća u torbu; uveče ih Nataša stavi baki
+  na glavu i baka ih nosi do kraja večeri.
+- **Baka govori doslovno na italijanskom, sedam replika, nijedna prevedena u tekstu.**
+  Anja jednom prevede, dvaput odbije, jednom se smeje. Čitalac stoji tačno gde David.
+- **Nema magacina.** Tuča ide u zatvorenu restoransku kuhinju — isti nerđajući čelik
+  koji je David dva sata ranije gledao kod bake, hladan i prazan.
+- **Zdravica je ušla gotovo cela**, ali prelomljena — Sale upada, Toni ga lupi po
+  potiljku, baka dobaci *„Parla, parla. Intanto si fredda tutto."*
+- **Kraj:** Anja traži da ostane, David ćuti, ona kaže „Dobro" i *„Nemoj više da dolaziš
+  u sredu."* Pa se prvi put okrene ključ. Andrijana i Nataša ostaju do subote — **David
+  jedini odlazi.**
+- **Meso.** Baka ga uči da se ne gnječi prstima. U Krvi, dvanaest godina kasnije, on to
+  radi baš tako i to ga odnese u magacin. **Nijedno slovo Krvi nije dirano.**
+
+**Pariz razmotren za otvaranje i NIJE otvoren** — pitanje autora, odgovor upisan u
+registar, sekcija 8. Razlika između Pariza i Italije je funkcija, ne kvar.
+
+**Sledeće na redu: `NOVO 1 — Ulazak` (mesto 3, ~2.500 reči).**
 
 ### Tri odluke koje padaju u toku pisanja, ne pre
 

@@ -144,7 +144,7 @@ Jeli smo dugo. Baka je sedela na uglu, jela je manje od dece, i posle svake tre�
 
 Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada su svi pali. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
 
-Smejao sam se i ja. Ne pamtim kad sam prestao da pazim kako to izgleda.
+Smejao sam se i ja.
 
 Onda mi je zazvonio telefon.
 
@@ -172,7 +172,7 @@ Ne znam šta mi je bilo na licu. Znam da je Toni prestao da priča na pola reči
 
 Nataša je pitala gde ćemo.
 
-Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana nije pitala ništa. Uzela je Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene, i to je bilo sve što je imala da kaže o tome.
+Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana nije pitala ništa. Uzela je Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
 
 Anja je stala između mene i vrata.
 
