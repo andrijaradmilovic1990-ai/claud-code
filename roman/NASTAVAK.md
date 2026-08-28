@@ -182,8 +182,8 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Koraci 1–3 su gotovi; knjiga je cela i pročitana u nizu. Na redu je
-KORAK 4: rad na celoj knjizi po CILJU, obe polovine. To je poslednji korak u planu.
+Nastavi. Koraci 1–3 su gotovi. Knjiga je cela, pročitana u nizu, i ništa ne visi.
+Na redu je KORAK 4: rad na celoj knjizi po CILJU. To je poslednji korak u planu.
 
 Pre bilo čega pročitaj, tim redom:
   roman/NASTAVAK.md
@@ -192,19 +192,46 @@ Pre bilo čega pročitaj, tim redom:
 
 Ne prepričavaj mi šta u njima piše.
 
-Pravilo L stoji — zatvoreno u registru ostaje zatvoreno, i registar je posle koraka 3
-deblji nego pre. Dugova nema, svih pet je plaćeno, šesti je razmotren i odbačen.
-Oba pitanja koja su visila su zatvorena. Ništa ne visi.
+── CILJ — dve polovine, ne mere se zajedno ──
 
-Korak 4 nasleđuje četiri nalaza na spratu knjige — svi su u NASTAVAK.md, nijedan još
-nije diran. Šav V→VI je jedino mesto gde čitalac može da spusti knjigu.
+  A — REČENICA. Nasumična strana se čita naglas: ne sapliće se, ne objašnjava,
+      ne diči se. Mrak u predmetu. Nijedan potpis na kraju pasusa.
+  B — KNJIGA. Čitalac ima pitanje koje mu se mora odgovoriti i čoveka za koga
+      se boji. Nešto raste bez Davidove volje. Svaki lik hoće nešto za sebe.
 
-Formula je 3 od 3 i ne sme se pojaviti nigde više.
-Fajlovi poglavlja ne završavaju prelomom — proveri pre rada, alatom koji stvarno radi.
+Presuda kad se sudare na konkretnom mestu:
+  u RASPOREDU dobija kičma (šta se kad dogodi, gde pukne),
+  u IZVEDBI dobija rečenica (kako je napisano, bez ustupka žanru).
+Napetost je raspored informacije, ne pridev. Ne dodavati „napetost" rečenicom.
+
+── ŠTA KORAK 4 NASLEĐUJE ──
+
+Četiri nalaza sa sprata knjige, nijedan još nije diran. Puni tekst u NASTAVAK.md.
+Najkonkretniji je šav V→VI — jedino mesto gde čitalac može da spusti knjigu.
+
+Pravilo L stoji i registar je posle koraka 3 deblji nego pre. Dugova nema —
+svih pet je plaćeno, šesti je razmotren i odbačen. Katarinina tanjina je upisana
+kao funkcija, ne propust: ne dodavati joj prisutnost, kao ni Nataši.
+
+Sadržaj radnje, redosled, hronologija i zapečaćena imena ostaju zamrznuti.
+Nema novih scena, novih likova ni novih mesta radnje.
+
+── PRAVILA KOJA I DALJE VAŽE ──
+
+Formula „to je bila cela X / to je bilo najgore" je 3 od 3, provereno u svih devet.
+Ne sme se pojaviti nigde više, ni kao „prirodna" rečenica.
+Fajlovi poglavlja ne završavaju prelomom reda — proveri PRE rada, i alatom koji
+stvarno radi; proverava se ishod komande, ne samo njen izlaz (xxd ovde ne postoji).
+Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.
 Najmanje trećina unetog mora biti napisana rečenica, ne rez (Pravilo J).
+Nema PR-ova posle svake izmene, nema pretplate na PR i nema samoprovera —
+commit kako ide, jedan PR i merge na kraju. Ako se pretplata sama upali, ugasi je.
 
-Javi mi prvo nalaz, bez predloga izmena. Tek kad kažem „krećemo", idu predlozi —
-jedan po jedan, svaki čeka „da".
+Javi mi prvo NALAZ, bez predloga izmena. Reci na kom spratu govoriš (Pravilo M).
+Tek kad kažem „krećemo", idu predlozi — jedan po jedan, svaki čeka „da".
+
+Šta se s rukopisom radi POSLE koraka 4 nije upisano nigde i to je moja odluka,
+ne tvoj predlog. Ne otvaraj tu temu dok je ne otvorim ja.
 
 Piši kratko. Kratke rečenice, u crtama. Ne šalji mi knjigu na čitanje.
 ```
