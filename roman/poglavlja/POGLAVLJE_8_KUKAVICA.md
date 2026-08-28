@@ -534,6 +534,4 @@ Sedeo sam i slušao — Natašino disanje iz sobe, daleko, i ovo uz mene, i fri�
 
 Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen, ugao izlizan od prstiju. Nisam ga vadio.
 
-Ujutru sam morao kući.
-
 Nisam gledao na sat. Znao sam da je vreme.
