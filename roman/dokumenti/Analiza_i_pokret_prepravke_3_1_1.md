@@ -8,6 +8,28 @@
 > od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
 > zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
 
+> **KLJUČ ZA ČITANJE — upisan 28.08.2026, posle sređivanja svih dokumenata.**
+>
+> **Ovaj fajl je istorija, ne registar, i namerno NIJE ispravljan.** Ostali dokumenti
+> jesu. Ako se ovaj fajl razilazi s njima — **važi registar**, ne ovaj zapis.
+>
+> Kad čitaš stariji upis, prevedi ovako:
+>
+> | u starom zapisu piše | danas znači |
+> |---|---|
+> | „VIII" pre 23.08.2026. | **IX — Ćebence** |
+> | „VII" pre 23.08.2026. | **VII + VIII zajedno** (pre podele) |
+> | „osam poglavlja" | **devet** |
+> | brojevi reči bilo gde | zastareli — tačni su u `NASTAVAK.md` |
+>
+> **Dve stvari koje su u starijim zapisima ovog fajla netačne, a ispravljene su
+> drugde 28.08.2026 po Pravilu E:**
+> 1. **Raspored refrena „telo zna pre glave"** vodio je VI. Tačno je **I, II, IV,
+>    VIII, IX** — provereno u tekstu, VI nema instancu.
+> 2. **Tri namerna ponavljanja** vođena su kao (II→III→VII), (V→V→VIII) i (II→VIII).
+>    Tačno je **špagete II→III→VIII**, **oprana šolja V 65 → V 135 → IX 15**
+>    (varijacija: tanjir, ne šolja), **„Isti čovek." II 227 → IX 173**.
+
 ---
 
 ## KAKO SE OVAJ FAJL ČITA

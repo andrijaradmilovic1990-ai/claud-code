@@ -8,6 +8,11 @@
 > a dotadašnje VIII — Ćebence je postalo **IX**. Svaki zapis u ovom dokumentu stariji
 > od 23.08. koji kaže „VIII" misli na **Ćebence (danas IX)**, a „VII" na oba dela
 > zajedno. Stari zapisi se ne prepisuju — oni su istorija rada.
+>
+> **PROVEREN I ISPRAVLJEN 28.08.2026, posle koraka 4.** Sve oznake poglavlja u
+> **aktivnim** delovima ovog dokumenta (registri, spiskovi zaštićenog, otvorene
+> stavke) prevedene su na numeraciju od devet poglavlja i provereno u tekstu.
+> Odeljci koji su očigledno istorija rada ostavljeni su kakvi jesu.
 
 
 > Verzija 1 ovog dokumenta merila je **kako je rečenica napisana** i ništa drugo. Zato je knjiga prošla svaku provericu, a jedna polovina cilja ostala nepokrivena. Verzija 2 dodaje sprat iznad i ne ukida ništa ispod.
@@ -145,6 +150,7 @@ Osam redova, po jedno pitanje na poglavlje, formulisano kao pitanje čitaoca a n
 | **VI** | Šta se vraća sad kad je taj svet ponovo čuo njegovo ime? |
 | **VII** | Šta je izgubio kad je rekao „ne" — i šta bi izgubio da nije? |
 | **VIII** | Koliko dugo još može da drži dva sveta odvojena? |
+| **IX** | Šta mu je ostalo pošto je izabrao? |
 
 ### Šta se sa Delom 0 sme, a šta ne sme
 
@@ -464,7 +470,7 @@ Poglavlje se zatvara tako da čitalac ima **konkretno pitanje sa mogućim odgovo
 | **Sto sa kog se vide vrata** — I red 9, III poslednji red *(novo)* | Kičma. Ista rečenica na početku i dvanaest godina kasnije, u sopstvenoj kuhinji. Ovde se ne dodaje i ne varira. |
 | **Jovanin blok u VII** — igra istine, ožiljak, poljubac, „ne" | Jedina scena u knjizi gde neko vadi istinu iz njega. To je lov, i lov ne sme da se ublaži. |
 | **Andrijanin dogovor o skretanju** — II 137–147 *(novo)* | Neizgovoreni dogovor je mera koliko je tajna teška. Ako se prekrši, **prekršio ga je on, nikad ona.** |
-| **Katarina ne gleda ka vratima** — III poslednji red *(novo)* | Ona je poslednja koja stiže do istine. Do VIII se ne budi, ne sumnja, ne proverava. Njen test unutrašnjosti ostaje u VIII. |
+| **Katarina ne gleda ka vratima** — III, pretposlednji red | Ona je poslednja koja stiže do istine. **Do IX** se ne budi, ne sumnja, ne proverava. Njen test unutrašnjosti ostaje u **IX**. *(Oznake ispravljene 28.08.2026 — raniji zapis je govorio o starom VIII, tj. Ćebencetu.)* **III se od koraka 4 završava dopunom:** „Vrata su bila zatvorena. Gledao sam ih dok smo jeli." |
 | **Lov nosi ona pod šeširom** *(novo)* | Nijedan drugi lik ne postaje lovac usput. Starac zahvaljuje, limar ne pita, Andrijana skreće. Ako svi love, niko ne lovi. |
 | **Katarinino neznanje kao pobeda** — III 91 | Predmet cilja 0.2. To je ono što on gubi. Ne parafrazirati, ne pojačavati, ne ponavljati drugim rečima. |
 
@@ -475,17 +481,17 @@ Poglavlje se zatvara tako da čitalac ima **konkretno pitanje sa mogućim odgovo
 | stavka | stanje |
 |---|---|
 | **Kraj I** — „Jer čudovište koje je naučilo da pije kafu kao čovek mora bar nečemu da se smeje." | Pitanje potrošeno. Autor otvorio, Helena rekla svoje jednom, odluka stoji. **Novim ciljem se slabi** (daje odgovor gde cilj traži pitanje) — zapisano, ne argumentuje se dalje. |
-| **Kraj VIII** — „…ali telo ne zna za kalendar." | **Prelazi u arhitekturu na sledećoj reviziji ako autor to potvrdi.** Novim ciljem se pojačava: knjiga zatvorena istim telesnim redom kojim je otvorena je zaključena petlja, ne sentiment. |
+| **Kraj IX** *(bio VIII)* — „…ali telo ne zna za kalendar." | **POTVRĐENO I ZAŠTIĆENO** odlukom autora, upisano u `REGISTAR_ODLUKA.md`. Knjiga zatvorena istim telesnim redom kojim je otvorena je zaključena petlja, ne sentiment. Predlog reza je jednom podnet i odbijen; ne podnosi se ponovo. |
 | **Kraj IV** — magnet kao grob, „Nismo mogli." | Stoji. Nije mereno na spratu knjige. |
-| **Refren „telo ne zna za kalendar"** — raspored I, II, VI, VIII | Stoji, raspored konačan. |
-| **Tri namerna ponavljanja** — špagete (II→III→VII), oprana šolja (V→V→VIII), „Isti čovek." (II→VIII) | Stoje. Ne brisati kao previd. |
+| **Refren „telo ne zna za kalendar"** — raspored **I, II, IV, VIII, IX** | Stoji. **Ispravljeno 28.08.2026 po Pravilu E** — raniji zapis je vodio VI, a nije imao ni IV ni IX. Provereno u tekstu: `I 7`, `II 3`, `IV 137`, `VIII 459`, `IX 227`. **VI nema instancu.** |
+| **Tri namerna ponavljanja** — špagete (**II→III→VIII**), oprana šolja (**V 65 → V 135 → IX 15**, gde je varijacija: oprani tanjir, ne šolja), „Isti čovek." (**II 227 → IX 173**) | Stoje. Ne brisati kao previd. **Oznake ispravljene 28.08.2026, provereno u tekstu.** |
 | **III** — „Vozila je.", uštip, cipele, „Je l' ima još luka?", „Sipao sam iz inata." | Stoje. Poslednje dve su presedani za dodatak unutar scene. |
 
 ## REGISTAR 3 — KONTINUITET
 
 > Ovo nije zaštita nego činjenica. Ne pripada ovom dokumentu — **prenosi se u SVET_I_LIKOVI i odavde se briše pri sledećoj reviziji.**
 
-- „sat i po autobusom" (VIII) i „tri sata vožnje" (VII) — oba tačna, ne kose se.
+- „sat i po autobusa" (**IX 57**) i „tri sata vožnje" (**VII 77**) — oba tačna, ne kose se.
 - Katarina imenovana samo dvaput, oba puta u VII.
 - Mali: 17–18 godina, usklađeno.
 
@@ -500,9 +506,17 @@ Stavka ulazi u **arhitekturu** samo ako se čemu-služi može napisati u jednoj 
 1. **Deo 0 se odgovara prvi.** Poglavlje IV se ne otvara pre toga.
 2. Prolaz na spratu knjige kroz I, II, III.
 3. Poglavlja **IV → VIII redom**, svako sa svim tri sprata odjednom.
+
+> **Zastarelo od 28.08.2026.** Ovaj redosled je bio plan iz vremena kad knjiga nije
+> bila cela. Sva poglavlja su napisana i zaključana, a plan od četiri koraka je
+> iscrpljen — vidi `NASTAVAK.md`.
 4. Poglavlje se ne otvara dok se prethodno ne zatvori i ne izgeneriše fajl.
 
-Obim: I (59), II (229), III (99), IV (135), V (159), VI (156), VII (696), VIII (216). **VII se deli na tri dela.**
+Obim *(brojevi redova iz vremena pre podele VII — istorijski zapis)*: I (59), II (229), III (99), IV (135), V (159), VI (156), VII (696), VIII (216).
+
+> **Stanje na 28.08.2026, posle koraka 4 — u rečima:** I 797 · II 1.574 · III 1.135 ·
+> IV 1.973 · V 1.278 · VI 1.405 · VII 2.116 · VIII 3.635 · IX 1.571.
+> **Ukupno 15.476 reči.**
 
 ---
 
@@ -524,14 +538,25 @@ Obim: I (59), II (229), III (99), IV (135), V (159), VI (156), VII (696), VIII (
 
 # OSTAJE OTVORENO (nije za ovaj prolaz)
 
-- **IV** — prelomi pasusa su rekonstrukcija iz OCR-a. Autor pregleda očima uz original.
-- **VII** — stihovi postojeće pesme (271–279): dozvola za objavljivanje.
-- Prelom za štampu, korektura, PDF.
+- **IV** — prelomi pasusa su rekonstrukcija iz OCR-a. Autor pregleda očima uz
+  original. **I dalje otvoreno.**
+- **Stihovi postojeće pesme — dozvola za objavljivanje.** Ranije zapisano kao
+  „VII, redovi 271–279"; posle podele od 23.08. to je **VIII, redovi 109–117**
+  („Sve još miriše na nju" / „Molim sate da se vrate…" / „I dan i jutro što će
+  doći"). **Oznaka ispravljena 28.08.2026. I dalje otvoreno.**
+- Prelom za štampu, korektura, PDF. **I dalje otvoreno.**
 
 ---
 
 # KRAJ
 
-Kad se zatvori VIII, knjiga se **ne dira više.** Ako se posle toga javi ideja, ona ide u sledeću knjigu.
+Kad se zatvori poslednje poglavlje, knjiga se **ne dira više.** Ako se posle toga javi
+ideja, ona ide u sledeću knjigu.
+
+> **Stanje 28.08.2026.** „VIII" u rečenici iznad je stariji zapis i znači **Ćebence,
+> danas IX**. IX je zaključan 28.08., knjiga postoji cela, a plan od četiri koraka je
+> odrađen do kraja. Zabrana novih scena otvarana je posle toga tačno jednom, na
+> inicijativu autora, za **jednu scenu na početku IV**, i odmah zatvorena. Detalji:
+> `REGISTAR_ODLUKA.md`, sekcija 3.
 
 **I jedna stvar koja se ne sme zaboraviti do tada:** filter može da radi besprekorno i da knjiga pritom ne raste. Deo 1 i Deo 3 su alat. Deo 0 i Deo 2 su razlog.

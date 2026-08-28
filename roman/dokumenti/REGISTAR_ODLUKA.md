@@ -214,9 +214,16 @@ Rezervisan **samo za par II i IX.** III, IV, V, VI, VII, VIII se **ne popunjavaj
 u tabeli — odlučeno, stoji.
 
 ### Refren „telo zna pre glave / telo ne zna za kalendar"
-Vraća se **s varijacijom**, ne doslovno. Raspored: **I, II, IV, VI, IX.**
+Vraća se **s varijacijom**, ne doslovno. Raspored: **I, II, IV, VIII, IX.**
 Završno mesto: poslednja rečenica IX, doslovno kao I red 7 — odluka autora,
 zaštićeno.
+
+> **ISPRAVLJENO 28.08.2026 po Pravilu E** *(tekst je autoritet nad dokumentom)*.
+> Raniji zapis je vodio **VI**, gde instance nema. Provereno u tekstu, pet mesta:
+> `I 7` (*„telo ne zna za kalendar"*) · `II 3` (*„Telo uvek zna pre glave"*) ·
+> `IV 137` (*„Telo je već tada znalo nešto što glava nije htela"*) · `VIII 459`
+> (*„Telo je steglo nešto ispod rebara"*) · `IX 227` (završno, doslovno kao I).
+> **VI nema instancu i ne dodaje se.**
 
 ---
 

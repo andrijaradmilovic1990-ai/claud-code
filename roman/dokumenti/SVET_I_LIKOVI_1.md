@@ -2,6 +2,11 @@
 > Ovaj dokument pokriva ISKLJUČIVO priču: ko je ko, šta se desilo kad, zaključana pravila sveta, struktura poglavlja. Za zanat i stil pisanja — vidi PRAVILA_STILA.md. Za aktivni tok revizije — vidi Analiza_i_pokret_prepravke.
 >
 > Nastao spajanjem SVETILISTE_MASTER.md (delovi 5-8, 10-11) i obe DOPUNE (jun 2026, vreme). Gde su se izvori razilazili, obeleženo je eksplicitno — vidi NERAZREŠENO na dnu. Stari master i dopune ostaju u projektu kao arhiva/istorija odluka.
+>
+> **PROVEREN I ISPRAVLJEN 28.08.2026, posle koraka 4.** Ispravljeni: tabela registra
+> (vodila je „VIII — Ćebence" umesto IX), brojevi reči u tabeli strukture, rečenica
+> koja je VI i VIII vodila kao sadašnjost, i netačno citiran kraj IX. Dodata nova
+> scena na početku IV.
 
 
 > **NAPOMENA — PODELA VII, 23.08.2026.** Knjiga od tog dana ima **devet poglavlja**.
@@ -137,13 +142,16 @@ Knjiga ne ide hronološki — ide po pritisku (NAČELO KLATNA: svako poglavlje j
 | **V — Nestanak** | SADAŠNJOST | sad (Katarina ide kod sestre + zaron u bekstvo pre 12 god.) | DA |
 | **VI — Prazna stolica** | PROŠLOST | sreda, dan posle Jovanine nesreće; dan pre Vidikovca iz VII; ~2 god. pre I | NE |
 | **VII — Beli grad** | PROŠLOST | godina posle nesreće (oporavak, Vidikovac, Beli grad) | NE (vidi NERAZREŠENO) |
-| **VIII — Ćebence** | PROŠLOST + SADAŠNJOST | red 3–167: jutro posle Belog grada, pre godinu dana; red 171–217: sad (ogledalo I) | prošli deo NE / sadašnji DA |
+| **VIII — Kukavica** | PROŠLOST | jedna noć kod Jovane, ~godinu pre I | NE |
+| **IX — Ćebence** | PROŠLOST + SADAŠNJOST | red 3–173: ista noć i jutro posle, pre godinu dana; red 177–227: sad (ogledalo I) | prošli deo DA / sadašnji DA |
 
 *ISPRAVLJENO (revizija VIII): VI je PROŠLOST. Ranija odluka („sedi u istom kafiću iz koga priča") bila je pogrešna — isti kafić nije isto vreme. Nesreća se desila ~2 god. pre sadašnjosti; VI se dešava dan posle nesreće (Andrijana: „Sinoć."), a VII počinje sutradan na vidikovcu („Preksinoć."). VI i VII su uzastopni dani. Zajednički život počinje tek posle Belog grada, dakle u VI NE žive zajedno.
 
 **Kada počinju da žive zajedno:** u procepu IZMEĐU VII i sadašnjosti (I). Posle Belog grada, posle što je presekao s Jovanom — tada se useljava u zajednički život s Katarinom.
 
-**Posledica za pisca:** sadašnjost (I, III, IV, V, VI, VIII) je stabilan zajednički dom — kuhinja, ona, navike, „dom građen godinama". Prošlost (II, VII) — David i Katarina su par ali se još viđaju, nije zajednički dom.
+**Posledica za pisca:** sadašnjost je **I, III, IV, V i kraj IX** — stabilan zajednički dom, kuhinja, ona, navike, „dom građen godinama". **Prošlost je II, VI, VII, VIII i prvi deo IX** — David i Katarina su par ali se još viđaju, nije zajednički dom.
+
+> **Ispravljeno 28.08.2026 (korak 4).** Ranija verzija ove rečenice vodila je VI i VIII kao sadašnjost, a to protivreči tabeli iznad u istom dokumentu. VI je prošlost (~2 god. pre I), VIII je prošlost (~godinu pre I), a jedino IX ima oba registra.
 
 ---
 
@@ -182,17 +190,22 @@ vremenu, završava u drugom. NIKAD ne otkriva kraj prerano.
 Beli grad i noć kod Jovane (drugi poljubac + „ne") su **metak** — drže se za pred
 kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 
+> **Brojevi reči su stanje posle koraka 4 (28.08.2026).** Ranija verzija ove tabele
+> nosila je brojeve od 23.08. i bila je zastarela za dvanaest izmena.
+
 | # | Poglavlje | reči | vreme |
 |---|-----------|------|-------|
-| I | Susret | 805 | sadašnjost |
-| II | Pukotina | 1.597 | prošlost (~godinu i po pre I) |
-| III | Krv | 1.141 | sadašnjost → zaron |
-| IV | Pariz | 1.782 | sadašnjost → zaron |
-| V | Nestanak | 1.327 | sadašnjost → zaron |
-| VI | Prazna stolica | 1.437 | **prošlost** (~2 godine pre I) → zaron |
-| VII | Beli grad | 2.190 | nastavak VI, kroz godinu dana |
-| VIII | Kukavica | 3.709 | jedna noć, ~godinu pre I |
-| IX | Ćebence | 1.573 | ista noć → skok u sadašnjost |
+| I | Susret | 797 | sadašnjost |
+| II | Pukotina | 1.574 | prošlost (~godinu i po pre I) |
+| III | Krv | 1.135 | sadašnjost → zaron |
+| IV | Pariz | 1.973 | sadašnjost (veče + jutro) → zaron |
+| V | Nestanak | 1.278 | sadašnjost → zaron |
+| VI | Prazna stolica | 1.405 | **prošlost** (~2 godine pre I) → zaron |
+| VII | Beli grad | 2.116 | nastavak VI, kroz godinu dana |
+| VIII | Kukavica | 3.635 | jedna noć, ~godinu pre I |
+| IX | Ćebence | 1.571 | ista noć → skok u sadašnjost |
+
+**Ukupno 15.476 reči.**
 
 ---
 
@@ -210,10 +223,13 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
   ulicu"), semafor i prekinuti poljubac → nazad uz šerpu. **Ovde okvir jedini put
   probija zaron: „Je l' ima još luka?"** — model za D4.
 
-- **IV — PARIZ** — sadašnjost (magnet na frižideru) → Pariz, svih četvoro, Andrijana
-  uz prozor, bistro, ivičnjak i šešir, piknik u dva ujutru → nazad na magnet kao grob.
-  **Ovde živi mart:** jedino mesto u knjizi gde je rok izgovoren naglas i jedino gde
-  Katarina traži nešto za sebe. Kraj: „Nismo mogli."
+- **IV — PARIZ** — **od 28.08.2026. otvara se scenom u kafiću, veče ranije** (korak 4):
+  neko napolju dovikne ime, David se okrene ceo, nije njemu — onaj drugi nosi ime koje
+  je David nosio nekad. **Previd, ne pretnja.** Pa jutro: sadašnjost (magnet na
+  frižideru) → Pariz, svih četvoro, Andrijana uz prozor, bistro, ivičnjak i šešir,
+  piknik u dva ujutru → nazad na magnet kao grob. **Ovde živi mart:** jedino mesto u
+  knjizi gde je rok izgovoren naglas i jedino gde Katarina traži nešto za sebe.
+  Kraj: „Nismo mogli."
 
 - **V — NESTANAK** — sadašnjost (Katarina se pakuje kod sestre, tri pozdrava i dva
   poljupca) → zaron: odlazak pre dvanaest godina, poslednje jutro, autobuska stanica,
@@ -245,11 +261,11 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
   različita sveta") → „Naročito to." → „Ti si kao kuče." → ogledalo, isti čovek.
   **Pa skok: „Bilo je to, onako otprilike, pre godinu dana."** → sadašnjost, isti
   kafić kao u I, otkuca poruku i obriše je, piše Andrijani; „Pita za tebe nekad."
-  **Tu pada naslov.** Kraj: „Ruka mi je otišla ka džepu. Džep je prazan."
+  **Tu pada naslov.** Kraj: „Dvanaest godina u tom džepu nema ničega. Ali telo ne zna za kalendar." — doslovno ponavljanje I, red 7.
 
 **OKIDAČ PO POGLAVLJU (svako ima JEDAN, nikad isti):**
 I — starčeva ruka i zakletva · II — voda umesto pića · III — prsti u meso ·
-IV — magnet · V — tri pozdrava · VI — glas čoveka od poverenja na telefonu ·
+IV — ime dovikano napolju, pa magnet · V — tri pozdrava · VI — glas čoveka od poverenja na telefonu ·
 VII — Zvezdanov poziv na kapiji fabrike · VIII — Natašin predlog igre ·
 IX — ćebence, pa ceduljica u džepu kaputa.
 

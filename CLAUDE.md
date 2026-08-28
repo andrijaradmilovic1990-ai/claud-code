@@ -37,6 +37,14 @@ Stari zapisi se ne prepisuju — oni su istorija rada.
 
 Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 
+**Stanje na 28.08.2026: knjiga je cela i sva poglavlja su zaključana. 15.476 reči.**
+Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
+je **iscrpljen.** Šta se radi dalje nije upisano nigde — to je odluka autora.
+
+**Zabrana novih scena otvarana je posle podele VII tačno jednom**, 28.08.2026, na
+inicijativu autora, za **jednu scenu na početku IV**, i odmah zatvorena. Ta scena je
+zaštićena — vidi `REGISTAR_ODLUKA.md`.
+
 ## Pravila koja se ne krše
 
 Ova pravila su autorova, ne moja. Pisana su posle konkretnih promašaja i svako
