@@ -38,7 +38,7 @@
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.791 — NAPISANO** |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
-| **9** | **NOVO 4 — Majka** | **novo** | prva godina posle | ~2.000 |
+| **9** | **NOVO 4 — Majka** | **novo** | prva godina posle, David ima 25 | **1.571 — NAPISANO** |
 | **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | ~2.500 |
 | **11** | **Prazna stolica** | staro `VI` | 10 g. posle nestanka | 1.405 |
 | **12** | **Beli grad** | staro `VII` | +1 godina | 2.150 |
@@ -168,7 +168,13 @@ od kuće.** Majka ga primi i **ne pita gde je bio.** Andrijanina replika iz `Puk
 
 **Zid:** posao se ne pominje ni njenim ni njegovim rečima.
 
-**OTVORENO:** naplaćuje li se majka kasnije, i gde.
+**NAPISANO I ZAKLJUČANO 29.08.2026.** 1.571 reč, devet scena. Bez okvira sadašnjosti —
+`Nestanak` se završava u sadašnjosti pa bi drugi zamah zaredom bio figura. Sidro:
+*„Rekli su mi u avgustu da si tu."*
+
+**Naplata je zatvorena: majka se naplaćuje u `Fabrici` (mesto 10), ne ovde i ne u
+`Maski`.** U `Majci` **nema nijednog nagoveštaja bolesti** — između ovog poglavlja i
+raka je sedam godina. Sve odluke: `REGISTAR_ODLUKA.md`, sekcija 11.
 
 ---
 
@@ -183,6 +189,11 @@ bez ijedne izmene (povratak s treće smene, ruke koje mirišu na fabriku).
 **Zašto je ovo dug, a ne ukras.** Autor je rekao: **David stvarno voli Katarinu i hoće
 da ostane s njom.** Knjiga nigde ne pokazuje **zašto.** Ne fali joj dubina — fali
 **razlog.**
+
+**U ISTOM POGLAVLJU SE NAPLAĆUJE MAJKA** *(zaključano 29.08.2026)*. Te iste godine
+**majka oboli od raka. Preživi.** David je vodi u Beli grad na **PET skener** — **ona
+vozi, jer on nema vozačku dozvolu i nema je ni danas.** Dok čeka da završi, sedne na
+kafu kod parka i tu zatekne **Natašu**, posle mnogo godina.
 
 **Zabrana:** **Katarina se ne sme pisati kao utešna nagrada** ni kao ono na šta je David
 pristao. I ne dobija dubinu **rečenicama** nego **potezima** — kao i dosad.
@@ -222,7 +233,8 @@ odluku.
 ## ŠTA MORA BITI ODLUČENO PRE PRVE REČENICE
 
 1. ~~**Prelom** — je li to sahrana, i čija.~~ **Zatvoreno 29.08.2026: sahrana Malog.**
-2. **Majka** — vraća li se kasnije u knjigu.
+2. ~~**Majka** — vraća li se kasnije u knjigu.~~ **Zatvoreno 29.08.2026: naplaćuje se
+   u `Fabrici`** — rak, PET skener, Nataša kod parka. Registar, sekcija 11.
 3. ~~**Redosled pisanja**~~ — Italija, pa Ulazak, pa Prelom. Ostaju Majka, Fabrika, Maska.
 
 > **Baka je skinuta s ovog spiska 28.08.2026** — ona je Anjina i naplaćuje se u istoj
