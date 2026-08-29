@@ -23,7 +23,7 @@ sukobi s registrom, važi registar.
 
 ## Stanje po poglavljima
 
-Knjiga ima **devet poglavlja, 15.518 reči, i od 28.08.2026. postoji cela.**
+Knjiga ima **devet poglavlja, 15.529 reči, i od 28.08.2026. postoji cela.**
 Brojevi ispod su stanje **posle koraka 4.**
 
 | # | Poglavlje | Stanje | reči |
@@ -45,7 +45,7 @@ Brojevi ispod su stanje **posle koraka 4.**
 | 3 | **NOVO 1 — Ulazak** | **zaključano 29.08.2026** | **2.181** |
 | 5 | **NOVO 2 — Italija** | zaključano 28.08.2026 | 3.368 |
 
-**Ukupno: 21.067 reči od cilja od oko 30.500.** Ostaju četiri nova poglavlja.
+**Ukupno: 21.078 reči od cilja od oko 30.500.** Ostaju četiri nova poglavlja.
 
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
 **Formula je 3 od 3 i proverena u svih jedanaest** — vidi niže.
@@ -288,6 +288,12 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
   se pojaviti nigde više, ni kao „prirodna" rečenica. Provereno u svih devet, 28.08.
 - **Fajlovi poglavlja ne završavaju prelomom reda.** Poslednji red se proverava
   **pre** rada, alatom koji stvarno radi.
+- **Broj reči se meri običnim `wc -w`, u podrazumevanom lokalu.** `LC_ALL=C.UTF-8 wc -w`
+  daje **veći** broj na istom fajlu (Susret: 797 naspram 805) jer drugačije lomi reči oko
+  navodnika i crta. **Svi brojevi u knjizi su u prvom standardu.** *(Zatečeno 29.08.2026
+  — jedan prolaz je izmešao dva merenja i dobio pogrešan zbir.)*
+- **Zbir devet poglavlja je 15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
+  tabela se sabirala na 15.521. Ispravljeno po Pravilu E.
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
 - **Nema PR-ova posle svake izmene** — commit kako ide, jedan PR i merge **na kraju
   svakog razgovora.** Poglavlje nije zatvoreno dok rad nije na glavnoj grani; draft PR

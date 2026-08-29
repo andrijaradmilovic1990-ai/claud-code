@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **oblik** | **C — ukrštanje.** Postojećih devet ostaje **netaknuto i u istom redosledu**; nova se **umeću između njih.** |
-| **cilj** | **duplo — oko 31.000 reči.** Sadašnjih 15.518 + **oko 15.000 novih.** |
+| **cilj** | **duplo — oko 31.000 reči.** Sadašnjih 15.529 + **oko 15.000 novih.** |
 | **broj** | **petnaest poglavlja** — devet postojećih, **šest novih.** |
 | **početak** | **postojeće I.** *„Ono mi otvara priču."* |
 | **šta se menja u devet postojećih** | **samo numeracija.** Nijedna rečenica se ne dira, nijedna scena ne premešta. |

@@ -2334,6 +2334,6 @@ odobrena **samo za `Nestanak`.** Tri nacrta zaredom sam je pisao svejedno.
 - **Kašika kao slika namerno izbegnuta** — bakina drvena kašika je u `Italiji`, a ovde
   bi uz heroin povukla pogrešno.
 - **Ispravka po Pravilu E, usput:** `Nestanak` je u `NASTAVAK.md` i u mapi vođen kao
-  1.281 reč, a fajl ima 1.289. Ispravljeno, i zbir 15.510 → 15.518.
+  1.281 reč, a fajl ima 1.289. Ispravljeno, i zbir 15.510 → 15.529.
 - Mapa: `NOVO 5 — Fabrika` više nije „novi život, rano" nego **32. godina.**
   Redosled poglavlja netaknut.
