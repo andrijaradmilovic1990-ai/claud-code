@@ -229,6 +229,39 @@ prva tri nacrta pala su iz istog razloga: **pisao sam hroniku umesto scena.**
 monolog ja sam bio ovo, radio ono."* **Hronika je odobrena samo za `Nestanak`.**
 Nova poglavlja idu u **scenama s dijalogom**, i to se proverava pre prve rečenice.
 
+### ZAKAZANO ZA KRAJ — prolaz kroz šavove *(odluka autora, 29.08.2026)*
+
+**Kad svih šest novih poglavlja bude napisano, otvara se jedan prolaz kroz spojeve** —
+krajevi poglavlja koja stoje **pre** novog i početci onih koja stoje **posle**, da spust
+u novo poglavlje radi kako treba.
+
+**Ne radi se ranije.** Dok se poglavlja dodaju, mera raste, pa bi se isti šav dirao pet
+puta — isti razlog zbog kog je postojao moratorijum na I–V.
+
+**Nije revizija starih poglavlja nego posao na spojevima.** Zaključana ostaju zaključana
+do te tačke; tada ih autor otvara rečju „otvaram", i to samo na šavu.
+
+Šavovi kojih se tiče: **2→3** (Pukotina → Ulazak) · **4→5** (Krv → Italija) ·
+**6→7** (Pariz → Prelom) · **7→8** (Prelom → Nestanak) · **8→9** (Nestanak → Majka) ·
+**10→11** (Fabrika → Prazna stolica) · **13→14** (Kukavica → Maska).
+
+### SIDRO U VREMENU — umesto datuma *(odluka autora, 29.08.2026)*
+
+**Datumi i godine kao zaglavlje iznad poglavlja su odbačeni.** Razlog: knjiga radi na
+tome da čitalac ne zna razmak (`IV`: *„dani su se lepili jedan na drugi kao da im je
+neko skinuo brojeve"*), a sve što je u njoj imenovano imenovano je namerno — ime grada
+je zapečaćeno, Davidovo pada dvaput, Katarinino dvaput. Datum je ista vrsta činjenice.
+
+**Umesto toga: sidro u glasu, u prvih deset redova poglavlja bez okvira.** Rečenica u
+dijalogu iz koje čitalac sam sabere gde je u vremenu.
+
+- `Ulazak` ga ima — *„Imao sam četrnaest."*
+- `Italija` ga ima — *„Peta si godina." / „Šesta."*
+- `Prelom` ga dobija u dvorištu.
+
+**Sadržaj s godinama uz naslove, na kraju knjige**, ostaje dozvoljen — tekst time ostaje
+čist, a čitalac ima gde da proveri ako se izgubi.
+
 ### Sledeći korak — PISANJE
 
 **Ostaju četiri nova poglavlja:**
