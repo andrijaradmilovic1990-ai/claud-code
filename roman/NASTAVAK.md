@@ -416,7 +416,14 @@ U ISTOM POGLAVLJU SE NAPLAĆUJE MAJKA — to je zaključano 29.08.2026:
 majka oboli od raka te iste godine, preživi, i David je vodi u Beli grad na
 PET skener. ONA VOZI, jer David nema vozačku dozvolu i nema je ni danas.
 Dok čeka da ona završi, sedne na kafu kod jednog parka i tu zatekne NATAŠU,
-posle mnogo godina. To viđenje je odavno u SVET_I_LIKOVI, sad ima godinu.
+posle mnogo godina — lepo, čisto, bez tereta. To viđenje je odavno u
+SVET_I_LIKOVI, sad ima godinu i mesto. VAN RITUALA je: ritual pada u Davidovom
+rodnom gradu, ovo je slučajan susret u tuđem.
+
+KO JE ZA STOLOM U SADAŠNJOSTI, provereno u tekstu: I je David SAM sa starcem;
+u II je SAMO ANDRIJANA (ime „Nataša" u II ne pada nijednom); u IX su obe.
+Zapis „ritual, jednom godišnje isti sto" opisuje običaj, ne spisak prisutnih —
+ne izvoditi ko je u kadru iz njega.
 
 ZABRANA: Katarina se NE SME pisati kao utešna nagrada ni kao ono na šta je
 David pristao. Ne dobija dubinu rečenicama nego potezima.
