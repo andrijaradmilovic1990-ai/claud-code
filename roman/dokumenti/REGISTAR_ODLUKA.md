@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 28.08.2026. *(NOVO 2 — Italija zaključana; Pariz razmotren i nije otvoren)*
+> Poslednje ažuriranje: 29.08.2026. *(NOVO 1 — Ulazak zaključan; Davidove godine upisane)*
 
 ---
 
@@ -420,3 +420,67 @@ uskladiti. **Odgovor: ne, i to nije opreznost nego nalaz.**
   obori meru za staro, pa padne i Krv zbog Ulaska, i Nestanak zbog Preloma.
 
 **Smenjivanje scene i sećanja je disanje knjige, ne nesklad. Ne otvarati ponovo.**
+
+---
+
+# 9 — NOVA KNJIGA: ULAZAK *(zaključano 29.08.2026)*
+
+**`NOVO 1 — Ulazak` je napisan i zaključan.** 2.181 reči. Sve odluke ispod su autorove
+i **ne predlažu se za izmenu.**
+
+### Forma
+
+- **Bez okvira sadašnjosti.** Razlog: `Krv` stoji tačno posle njega i **njen početak
+  jeste okvir** — prsti u mesu, pa zaron. Drugi isti zaron zaredom bio bi figura, a
+  `Krv` je zaključana pa cenu plaća onaj koji dolazi prvi.
+- **Poglavlje je devet scena, nošenih dijalogom.** Prva tri nacrta bila su hronika i
+  autor ih je odbio istim razlogom koji već stoji u `PRAVILA_STILA`, fora 6:
+  *„prošlost se piše kao SCENA… NIKAD monolog ja sam bio ovo, radio ono."*
+  **Hronika je odobrena samo za `Nestanak`.** Ne vraćati Ulazak u pripovedanje.
+
+### Šta se ne dira
+
+- **Ulazak nije događaj.** Nema rukovanja, nema ponude, nema večeri kad je odlučio.
+  David od jedanaeste trči po cigare, pere kola, nosi stolice na okupljanjima —
+  **odrasta pored njih.** Ne pretvarati ni u jednom smeru u scenu regrutacije.
+- **Lestvica je: okupljanja → ponos → časnost.** Pare su ono što David misli da hoće;
+  kupuje ga sto. **Ništa to ne imenuje.**
+- **Brata nalazi David.** Vrata odškrinuta. Jedina scena u poglavlju **bez ijedne
+  replike**, i zato udara. Ne dodavati dijalog.
+- **Heroin pada tačno jednom** — *„Heroin, ako neko pita. Niko nije pitao."* Nigde više
+  u knjizi. **Roba kojom se David jeste bavio ostaje neimenovana** — izuzetak sužava
+  rupu, ne popunjava je. **Zid stoji.**
+- **Tri adrese i nijedna njegova** — kod Jovane (kuća njenog oca), kod Andrijane i
+  njene majke, i sam u bratovom stanu. **Zajednički stan koji Jovana kupuje pada tek
+  oko 17–18** i **nije u ovom poglavlju.**
+- **Između Davida i Andrijane se u kadru ne dešava ništa.** Smer se oseti, potezi
+  padaju sa 17–18. Razlog: `Pariz` drži *„s njom se nije vodila ljubav, s njom se
+  ratovalo"* i to mesto se ne troši unapred. **Ne dopisivati prizor.**
+- **Jovanin potez je jedan i jednom** — jastuk i ćebe bez pitanja, pa tanjir odnet i
+  vraćen punijim. **Ne umnožavati i ne komentarisati.** Ne piše se da David ne vidi.
+- **Trener — nasilje ostaje van kadra.** David nikom ništa ne kaže osim što slegne
+  ramenima na jedno pitanje. Flaster i stepenice u svlačionici. **Posle toga mu ruka
+  više ne padne na potiljak** — i to je jedini način na koji se gubitak fudbala vidi.
+  **Ne oplakivati fudbal i ne objašnjavati ga.**
+- **Italijan nema ime i NIJE Zvezdan.** Mapa Zvezdana drži kao glas na telefonu.
+  Govori naš jezik ne do kraja i **njegove italijanske reči se ne prevode**
+  (*bravo ragazzo, so, va bene, mangia*) — isti raspored kao baka u `Italiji`.
+- **Odbijanje: *„Sve osim jednog." / „Znate šta." / „Va bene."*** David ne izgovara
+  reč. **Ne davati mu objašnjenje, ni kratko.**
+- **Kraj — svetlo pod kuhinjskim vratima i šolja pomerena po stolu.** To je Zvezdan.
+  **Nigde se ne pokazuje i ne dobija repliku.** Ne pretvarati u scenu.
+- **Pravac 4 (izbor između čoveka kom duguje i žene koju voli) je skinut s ovog
+  poglavlja**, odlukom autora: sa 15 tog izbora nema. Nosi ga `Italija` (Anja) i
+  `Kukavica` (Jovana).
+
+### Šta Ulazak plaća
+
+Prazno mesto **9** (kako je počeo) · Godfather pravac **2** (čovek iznad Davida) ·
+**brat** — naplaćen u istom poglavlju, on je razlog poglavlja, ne uvedena figura ·
+**Mali** dodirnut bez pomena: David je na toj stolici, vožen i garantovan, i `Krv` se
+ne dira ni jednim slovom.
+
+### Šta Ulazak daje Italiji
+
+Italijan je razlog zbog kog David **sa 16 počinje da ide u Italiju.** Anja, baka i
+ekipa dolaze kroz njega. **Nijedno slovo `Italije` nije promenjeno.**

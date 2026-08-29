@@ -2288,3 +2288,52 @@ bio ne, s razlogom upisanim u registar, sekcija 8. Autor je tražio da odgovor b
 iskreno mišljenje a ne poštovanje pravila, i jeste bio. **Pariz nije otvoren.**
 
 **Formula „to je bila cela X" — nula instanci u Italiji, provereno.**
+
+---
+
+## 29.08.2026 — NOVO 1: ULAZAK napisan i zaključan (2.181 reč)
+
+**Grane proverene na početku sesije: ništa nije stajalo van glavne.**
+
+**Prvo je pala hronologija.** Do ove sesije `SVET_I_LIKOVI_1` je počinjao tek od
+„pre 14 godina" i **nije imao nijednu Davidovu godinu.** Autor je zaključao:
+**David danas ima 36.** Iz toga je izvedena puna tablica od rođenja do sadašnjosti i
+pet provera se zatvorilo samo od sebe (`Krv 63`, `VI 125`, `VII 3`, `VII 161`, `II 71`).
+
+**Račun koji je odlučio uzrast ulaska.** Prvo je pretpostavljeno da David ulazi sa 20,
+i to je puklo na `Italiji`: ona je **šesta godina** dolazaka i pada u Davidovu 22.
+godinu, što ulazak gura na **≤ 16**. Autor je dao 15. Time hronologija prestaje da se
+može pomerati bez otvaranja `Italije` — upisano.
+
+**Poglavlje je pisano četiri puta.**
+
+| v | šta je palo |
+|---|---|
+| v1 | David nedužan — ulazak mu se **desio**. Odbijeno. |
+| v2 | Bednik, pare, trava — tačnije, ali stan s računima i petkom **nema logiku** za dve četrnaestogodišnjakinje. |
+| v3 | Logika popravljena, ali **hronika umesto scena** — moj monolog o tome kakav je bio. |
+| v4 | **Devet scena, dijalog nosi.** Prihvaćeno. |
+
+**Autorova zamerka na v3 pogađa upisano pravilo.** `PRAVILA_STILA`, fora 6: *„prošlost
+se piše kao SCENA… NIKAD monolog ja sam bio ovo, radio ono. To je smrt."* Hronika je
+odobrena **samo za `Nestanak`.** Tri nacrta zaredom sam je pisao svejedno.
+
+**Lestvica koju je autor dao i koja je rešila poglavlje:** *okupljanja → ponos →
+časnost.* David misli da hoće pare; kupuje ga sto. Ništa to ne imenuje.
+
+**Sve zaključane odluke: `REGISTAR_ODLUKA.md`, sekcija 9.**
+
+**Mehanika, prijavljeno posle unosa:**
+
+- **Formula 3 od 3 — nula instanci.** Uhvaćene su **četiri sopstvene** kroz nacrte, sve
+  pre nego što je fajl seo (*„bio ceo razlog"*, *„bilo najgore u tome"*, *„bio ceo
+  posao"*, *„bio ceo naš odnos"*).
+- Izbačena i **četiri sopstvena potpisa na kraju pasusa.**
+- Navodnici usaglašeni s ostatkom knjige — otvara 152, zatvara 152, nula ASCII.
+- **Fajl ne završava prelomom reda**, `od -An -c` na poslednjem bajtu daje tačku.
+- **Kašika kao slika namerno izbegnuta** — bakina drvena kašika je u `Italiji`, a ovde
+  bi uz heroin povukla pogrešno.
+- **Ispravka po Pravilu E, usput:** `Nestanak` je u `NASTAVAK.md` i u mapi vođen kao
+  1.281 reč, a fajl ima 1.289. Ispravljeno, i zbir 15.510 → 15.529.
+- Mapa: `NOVO 5 — Fabrika` više nije „novi život, rano" nego **32. godina.**
+  Redosled poglavlja netaknut.

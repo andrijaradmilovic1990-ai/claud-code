@@ -157,6 +157,72 @@ Knjiga ne ide hronološki — ide po pritisku (NAČELO KLATNA: svako poglavlje j
 
 ## HRONOLOGIJA (za glavu, ne za čitaoca)
 
+### DAVIDOVE GODINE *(zaključano 28.08.2026, odluka autora)*
+
+**David danas ima 36.** Sve ostalo se računa odavde. Do ove sesije hronologija je
+počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
+
+| uzrast | šta | pre koliko |
+|---|---|---|
+| 0 | rođen u malom gradu *(registar, sekcija 7)* | 36 |
+| **6** | **odlazi sam u Beli grad** — kod teče i tetke, s **bratom od tetke**. Majka ostaje u rodnom gradu; David joj dolazi **bar jednom godišnje, svake godine** | 30 |
+| | kasnije ostaje **samo kod brata** | |
+| **14** | **brat umire — predoziranje, heroin.** David ostaje sam | 22 |
+| **~15** | **ULAZAK** — upoznaje čoveka iznad sebe *(NOVO 1)*. Živi u Belom gradu: malo kod Andrijane, malo kod Jovane, malo sam | 21 |
+| ~16 | počinje da ide u Italiju | 20 |
+| **22** | **Krv** (magacin) · **Italija** (šesta godina dolazaka) · **Pariz** · pandur ga vozi kroz kapiju *(VI 125)* | **14** |
+| 22→24 | s Jovanom se voze još dve godine *(Krv 63)* | |
+| **24** | **Prelom** *(NOVO 3)* + **Nestanak** — vraća se u rodni grad | **12** |
+| 24→25 | soba kod gazdarice *(V 89)* | |
+| **25** | doseljava se kod majke *(NOVO 4)* | 11 |
+| 28 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
+| **32** | fabrika — **upoznaje Katarinu** *(NOVO 5)* | 4 |
+| **34** | **Prazna stolica** — deset godina posle nestanka | 2 |
+| **35** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
+| **36** | **Susret · Pukotina · Ćebence** | danas |
+
+**Provere koje se zatvaraju same:**
+
+- `Krv 63` — *„vozili smo se zajedno još dve godine"*: 22 + 2 = 24 = nestanak. Tačno u dan.
+- Italija je **šesta godina** dolazaka: ulazak sa 15, Italija od 16, šesta godina sa 22.
+- `VI 125` — pandur *„dvanaest godina kasnije"*: 34 − 12 = 22, isti grozd kao Krv i Pariz.
+- `VII 3` — *„oduvek, otkad znam ovaj grad"*: **doslovno tačno.** Rođen tamo i dolazio
+  majci bar jednom godišnje svih osamnaest godina odsustva. Grad mu nikad nije prestao
+  da bude poznat. *(Obrazloženje u registru, sekcija 7, ovim dobija drugu nogu — zaključak
+  je nepromenjen.)*
+- `VII 161` — *„stan u kom sam još uvek imao jednu fioku"*: treća godina veze, jedna fioka.
+- `II 71` — Andrijana ima **majku i baku u Davidovom rodnom gradu.** Poklapa se s tim što
+  ritual jednom godišnje pada baš tamo.
+
+### ŠTA JE UPISANO IZ `ULASKA` *(29.08.2026, odluke autora)*
+
+- **Brat je brat od tetke**, odrastao momak kad je David sa 6 došao. Teča i tetka su se
+  razišli, pa je David ostao s njim. **Nije bio iz tog sveta** — *„Nije bio moj. Radio je
+  za jedne budale kojih više nema."*
+- **David ga je našao.** Odškrinuta vrata. **Heroin.** David je imao 14.
+- **David se heroinom nikad nije bavio.** To je jedini uslov koji je ikad postavio, i
+  postavio ga je prve večeri. **Roba kojom se jeste bavio se nigde ne imenuje.**
+- **Zvezdan je nekad bio u tom svetu pa je izašao.** Ima mnogo para, pa ih ima i Jovana.
+  **Jovana kupuje stan u kom njih troje kasnije žive — oko 17–18, ne ranije.**
+- **Sa 15 David nema svoju adresu:** kod Jovane (kuća njenog oca), kod Andrijane i njene
+  majke, i sam u bratovom stanu koji niko nije uzeo.
+- **Andrijana pravi prve prave poteze sa 17–18**, ne ranije. Do tada se samo oseti smer.
+- **David je trenirao fudbal od šeste**, i prestao je sa 15 — ne od tuge nego od
+  pripadanja. `I 31` (*„Ja radim fizički posao… Leđa me bole uveče"*) time dobija dno.
+- **Čovek iznad Davida je Italijan, nema ime, i nije Zvezdan.** On je razlog zbog kog
+  David **sa 16 počinje da ide u Italiju.**
+
+**Krvni srodnici — prazno mesto 2 se prepolovilo.** Nalaz *„David nema nijednog krvnog
+srodnika"* i dalje važi **za tekst**: knjiga zaista ne pokazuje nijednog. Ali **svet ih
+sada ima** — majka, teča, tetka, brat od tetke. Rupa ima dno.
+
+**Heroin.** Brat je umro od predoziranja i **David se time nikad nije bavio.** To je
+jedina stvar koju je u tom svetu postavio kao uslov. **Ne imenuje robu kojom se jeste
+bavio** — sužava rupu, ne popunjava je. Zid stoji.
+
+---
+
+
 **PRE 14 GODINA** — svi četvoro u jednom životu. David+Andrijana ljubavnici (bez računa). David+Jovana asimetrija. Nataša prilepak. **Pariz** (Natašina ideja) — najlepša nedelja, ivičnjak, šešir, piknik u dva ujutru. **Magacin**, tri ujutru — Jovana mirna nad krvlju; semafor, njen pokret, „vozi" (prvi poljubac).
 
 **PRE 12 GODINA — NESTANAK** — svet pušta vodu, Davidovo ime na svemu. „Pazi gde parkiraš" (prijatelj za stolom). Okidač bekstva: računi se naplaćuju od onoga što dužnik voli (NIKAD se ne imenuje). Poslednje jutro: oprana šolja, hleb na pultu, knjiga na 170. strani, bez pozdrava. Autobuska: „Povratna?" / „U jednom pravcu." Godina ćutanja — novi grad, novo ime, istovar. Poruka SAMO Andrijani: „Bezbedan sam. Ne tražite." Andrijana prenela Jovani, pokazala ekran — Jovana: „Dobro.", oprala šolju, otišla. Jovana: četiri godine prazna stolica (primila kao izdaju).

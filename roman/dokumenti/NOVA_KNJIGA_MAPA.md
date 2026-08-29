@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **oblik** | **C — ukrštanje.** Postojećih devet ostaje **netaknuto i u istom redosledu**; nova se **umeću između njih.** |
-| **cilj** | **duplo — oko 31.000 reči.** Sadašnjih 15.510 + **oko 15.000 novih.** |
+| **cilj** | **duplo — oko 31.000 reči.** Sadašnjih 15.529 + **oko 15.000 novih.** |
 | **broj** | **petnaest poglavlja** — devet postojećih, **šest novih.** |
 | **početak** | **postojeće I.** *„Ono mi otvara priču."* |
 | **šta se menja u devet postojećih** | **samo numeracija.** Nijedna rečenica se ne dira, nijedna scena ne premešta. |
@@ -32,14 +32,14 @@
 |---|---|---|---|---|
 | **1** | **Susret** | staro `I` | sadašnjost (12 g. posle) | 797 |
 | **2** | **Pukotina** | staro `II` | sadašnjost | 1.574 |
-| **3** | **NOVO 1 — Ulazak** | **novo** | stari svet, početak | ~2.500 |
+| **3** | **NOVO 1 — Ulazak** | **novo** | David ima 15 | **2.181 — NAPISANO** |
 | **4** | **Krv** | staro `III` | stari svet | 1.135 |
-| **5** | **NOVO 2 — Italija** | **novo** | stari svet, vrhunac | ~3.500 |
+| **5** | **NOVO 2 — Italija** | **novo** | David ima 22 | **3.368 — NAPISANO** |
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | ~2.000 |
-| **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.281 |
+| **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
 | **9** | **NOVO 4 — Majka** | **novo** | prva godina posle | ~2.000 |
-| **10** | **NOVO 5 — Fabrika** | **novo** | novi život, rano | ~2.500 |
+| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | ~2.500 |
 | **11** | **Prazna stolica** | staro `VI` | 10 g. posle nestanka | 1.405 |
 | **12** | **Beli grad** | staro `VII` | +1 godina | 2.150 |
 | **13** | **Kukavica** | staro `VIII` | isto putovanje | 3.635 |
