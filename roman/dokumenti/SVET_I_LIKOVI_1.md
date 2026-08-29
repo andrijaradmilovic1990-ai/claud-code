@@ -92,7 +92,11 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 
 ### NATAŠA — prilepak, ne stub
 - Nije ljubav, nije čvor. Najmanji teret. Draga svima, prilepak. Nataši je sve lako — telo je telo, veselje veselje, bez težine.
-- Jedno viđenje posle svega: Beograd, kad je vodio majku u bolnicu — lepo, čisto, bez tereta.
+- **Jedno viđenje posle svega** *(razrešeno 29.08.2026, autor)*: **Beli grad, kad je
+  vodio majku na PET skener.** David ima **32** — **iste godine kad upoznaje Katarinu.**
+  Majka vozi (on nema dozvolu); dok čeka da ona završi, sedne na kafu **kod jednog
+  parka** i tu je zatekne. Lepo, čisto, bez tereta. **Van rituala je** — ritual pada u
+  Davidovom rodnom gradu, a ovo je slučajan susret u tuđem. **Piše se u `Fabrici`.**
 - **Funkcija:** kontrast. Dokaz da prošlost sme da bude obična i bezbolna — čime se vidi koliko Jovana NIJE. Ne dobija svoje poglavlje.
 
 ### KATARINA — ona koju je izabrao (u tekstu BEZIMENA: „ona", „moja")
@@ -227,8 +231,11 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
   (*„Beograd, kad je vodio majku u bolnicu — lepo, čisto, bez tereta"*) i sada ima
   telo i godinu: **Davidovih 32, pre četiri godine.** Van je rituala — ritual pada u
   Davidovom rodnom gradu.
-- **Majka je živa u sadašnjosti knjige.** Živa je dok David sedi za onim stolom s
-  Andrijanom i Natašom. **Poglavlje `Majka` se zato ne piše kao elegija** — nijedna
+- **Majka je živa u sadašnjosti knjige.** Živa je kroz `I`, `II` i `IX` — dakle i dok
+  David sedi za onim stolom, i dok mu starac nudi krov, i na kraju. **Jedanaest godina
+  je razmak od `Majke` do sadašnjosti, ne rok** — rak pada u sredinu tog razmaka
+  (Davidovih 32) i ona ga preživi. **Knjiga je nigde ne pominje**, a ona je petnaest
+  minuta odatle. **Poglavlje `Majka` se zato ne piše kao elegija** — nijedna
   slika u njemu ne sme da zvuči kao poslednji put.
 - **Majka se ne greje na ugalj i ne voli hladnoću** *(odluka autora)*. Kod nje je
   prevruće — peći na struju u obe sobe i u hodniku — i ona u tome sedi u džemperu.
@@ -275,6 +282,18 @@ bavio** — sužava rupu, ne popunjava je. Zid stoji.
 **PRE ~GODINU — BELI GRAD** — Jovana se oporavila, svi četvoro u Jovaninom stanu (on dolazi, ona čeka s drugima). Večera koja liči na nekad, baš zato što je ona cela i živa, ona proba — pokušava da ga poljubi. Njen pokret, on kaže „ne". Ne zato što je ne voli, nego zato što zna da je upravo doveo do tačke gde mu to mora da kaže. Zezaju se do ujutru, on seda na autobus, odlazi. Od tada David prestaje da priča s Jovanom.
 
 **Posle Belog grada** — David i Katarina počinju da žive zajedno (useljenje se dešava u ovom procepu, ne odmah posle same nesreće — vidi NERAZREŠENO za istoriju ove ispravke).
+
+> **KO JE ZA STOLOM U KOM POGLAVLJU SADAŠNJOSTI** *(provereno u tekstu 29.08.2026,
+> Pravilo E — ranije izvođeno iz ovog dokumenta i izvedeno pogrešno)*
+>
+> - **`I` — Susret:** David **sam**, starac u kaputu. Nije ritual, običan dan.
+> - **`II` — Pukotina:** **samo Andrijana.** Došla je u Davidov grad; njih dvoje, i
+>   pričaju o ranijem viđenju. **Ime „Nataša" u `II` ne pada nijednom.**
+> - **`IX` — Ćebence:** **obe** — Andrijana i Nataša, koje zaspu u onoj sobi s
+>   odškrinutim vratima.
+>
+> **Zapis „ritual, jednom godišnje isti sto" opisuje običaj, ne spisak prisutnih u
+> svakom poglavlju.** Ne izvoditi ko je u kadru iz njega — proveriti u tekstu.
 
 **SADAŠNJOST** — David živi s Katarinom. S Andrijanom: jednom godišnje, isti sto, ritual traje. S Jovanom: tišina.
 

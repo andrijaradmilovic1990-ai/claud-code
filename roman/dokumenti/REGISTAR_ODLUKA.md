@@ -588,10 +588,35 @@ Slaže se unazad s `Krvi` (Jovana za volanom), `Nestankom` (autobuska stanica) i
 `Kukavicom` (autobus nazad). **Nijedno staro poglavlje se zbog ovoga ne dira i ništa
 se ne dopisuje** — Pravilo P.
 
+### Ko je za stolom u sadašnjosti — provereno u tekstu *(29.08.2026)*
+
+**Ispravka izvedena iz teksta, ne iz dokumenta** (Pravilo E — prvi put je izvedeno
+obrnuto i palo):
+
+- **`I` — Susret:** David **sam**, starac u kaputu. Nije ritual.
+- **`II` — Pukotina:** **samo Andrijana.** Došla je u Davidov grad; njih dvoje.
+  **Ime „Nataša" u `II` ne pada nijednom.**
+- **`IX` — Ćebence:** **obe.**
+
+**Zapis „ritual, jednom godišnje isti sto" u `SVET_I_LIKOVI_1` opisuje običaj, ne spisak
+prisutnih u svakom poglavlju.** Ne izvoditi ko je u kadru iz njega.
+
+### Nataša kod parka — kad i gde *(zaključano 29.08.2026)*
+
+Ono što je u `SVET_I_LIKOVI_1` stajalo kao *„jedno viđenje posle svega"* sada ima
+godinu i mesto: **Davidovih 32, iste godine kad upoznaje Katarinu.** Beli grad, dok
+majka radi skener, **kafa kod jednog parka.** Van rituala — ritual pada u Davidovom
+rodnom gradu, ovo je slučajan susret u tuđem. **Piše se u `Fabrici`.**
+
 ### Majka je živa u sadašnjosti
 
-Živa je dok David sedi za stolom s Andrijanom i Natašom. **Poglavlje se zato ne piše
-kao elegija** — nijedna slika u njemu ne sme da zvuči kao poslednji put.
+Živa je kroz `I`, `II` i `IX`. **Poglavlje se zato ne piše kao elegija** — nijedna
+slika u njemu ne sme da zvuči kao poslednji put.
+
+**Jedanaest godina je razmak od `Majke` do sadašnjosti, ne rok koji joj je preostao.**
+Rak pada u sredinu tog razmaka (Davidovih 32) i ona ga preživi. **Knjiga je nigde ne
+pominje**, a ona je petnaest minuta odatle — to nije rupa i **ne popravlja se u starim
+poglavljima.** Ako se naplaćuje drugi put, mesto je `Maska`.
 
 ### Forma
 
