@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 29.08.2026. *(NOVO 1 — Ulazak zaključan; Davidove godine upisane)*
+> Poslednje ažuriranje: 29.08.2026. *(NOVO 3 — Prelom zaključan)*
 
 ---
 
@@ -484,3 +484,76 @@ ne dira ni jednim slovom.
 
 Italijan je razlog zbog kog David **sa 16 počinje da ide u Italiju.** Anja, baka i
 ekipa dolaze kroz njega. **Nijedno slovo `Italije` nije promenjeno.**
+
+---
+
+# 10 — NOVA KNJIGA: PRELOM *(zaključano 29.08.2026)*
+
+**`NOVO 3 — Prelom` je napisan i zaključan.** 1.791 reč. Sve odluke ispod su autorove
+i **ne predlažu se za izmenu.**
+
+### Šta je Prelom
+
+**Sahrana Malog** — onog iz `Krvi`, koji je celim putem pričao o motoru koji će kupiti
+na leto. **Kupio ga je. Poginuo je na njemu.** David ima 24; sahrana je dan pre nestanka.
+
+**Smrt je glupa i besplatna i to je odluka, ne previd.** Da je Mali ubijen, sahrana bi
+bila odgovor na pitanje šta je prelilo čašu, i rupa bi se zatvorila. Ovako ništa u
+poglavlju ne objašnjava prelom. **Sam prelom se i dalje ne vidi** — `V 61` stoji
+nedirnut.
+
+### Forma
+
+- **Bez okvira sadašnjosti.** Razlog: `Pariz` stoji tačno pre njega i **on je okvir** —
+  sadašnjost pa zaron; drugi isti zamah zaredom bio bi figura. A koda u sadašnjosti na
+  kraju bi presekla najtvrđi šav u knjizi: Prelom je dan pre, `Nestanak` je jutro posle.
+  **Ne dodavati kadar sadašnjosti ni na početak ni na kraj.**
+- **Šest scena, nošenih dijalogom.** Dvorište · kuhinja · groblje · majka · daća · noć.
+- **Dan se ne imenuje.** Sreda je otvorena petlja iz `VI` i poglavlje je ne dodiruje.
+  **Ne upisivati dan nedelje.**
+
+### Šta se ne dira
+
+- **Tri molbe na grobu, i redosled im pada nadole:** posao za sina · „da se zna da sam
+  izmirio" · **garaža.** Poslednja je najmanja i staje tačno na lopatu. **Ne dodavati
+  četvrtu i ne pretvarati nijednu u veliku stvar** — figura radi zato što su sitne.
+- **Čovek iznad Davida nije došao.** Poslao je nekoga da stoji kod kapije dvadeset
+  minuta. **Ne dovoditi ga u poglavlje** i ne davati mu repliku.
+- **Majka Malog ne zna čime se sin bavio ni za koga.** Sluti, nije sigurna. **Zamalo
+  pita pa odustane** — ista figura kao Andrijanino *„Ponekad mislim da znam zašto si
+  otišao"*, dvanaest godina ranije i na tuđem licu. **Ne davati joj pitanje do kraja i
+  ne davati Davidu odgovor.**
+- **Ključevi od motora.** Nudi ih, David ih ne uzima, ona ih vrati u džep i pritisne
+  džep spolja. **Ne dodavati ništa posle toga.** Obrnut je potez iz `Ulaska`, gde je
+  Jovana Davidu rekla *„Uzmi šta ti treba"*. **Ne komentarisati taj eho.**
+- **Zahvaljivanje.** *„Hvala vam što ste ga čuvali."* Ne menjati i ne ublažavati.
+- **David odbija da govori za stolom.** *„Reci ti nešto." / „Ne."* U `Italiji`, dve
+  godine ranije, ustao je sam od sebe i držao zdravicu o porodici. **Knjiga to nigde ne
+  pominje i ne sme da pomene** — čitalac to nosi sam. **Ne davati Davidu govor ni
+  kratak, ni objašnjenje zašto neće.**
+- **Kraj — legao u odeći, s upaljenim svetlom u hodniku.** Doslovan eho `Ulaska`
+  (bratov stan, četrnaest godina). **Ne dodavati rečenicu posle njega.** Sledeće što
+  čitalac dobija je jutro iz `Nestanka`.
+- **Pariz se pominje jednom, u daći**, kroz Natašinu priču i Andrijaninu ispravku
+  *„Nije prošle godine."* **Cifra se ne izgovara** — razmak Pariz–Prelom drže `IV`
+  („pre 14 g.") i `V` („pre 12"). Ne dodavati godine u tekst.
+
+### Sidro u vremenu umesto datuma *(odluka autora, 29.08.2026)*
+
+**Datumi i godine kao zaglavlje iznad poglavlja su odbačeni** za celu knjigu. Razlog i
+zamena upisani su u `NASTAVAK.md`. Prelomovo sidro je ujakova replika **„Dvadeset mu je
+bilo u aprilu"** — čitalac iz `Krvi` zna da je Mali bio klinac dok je David već bio
+čovek, pa sam sabere gde je. **Ne zamenjivati je brojem.**
+
+### Šta Prelom plaća
+
+Prazno mesto **6** (dan pre nestanka) · Godfather pravac **3** (ritual — knjiga dobija
+svoj jedini obred) · **Mali je naplaćen** — figura iz `Krvi` prestaje da bude nedovršena,
+i to bez svog poglavlja, kako mapa i traži.
+
+### Otvoreno posle Preloma
+
+**IDEJA 4 — pravi strah** *(autor, 29.08.2026)*, upisana u `NOVA_KNJIGA_IDEJE.md`. Puna
+verzija udara u tri zabrane oko `Maske`; pravac koji ne dira nijednu je **dati Malom još
+jedan topao pokret pre `Preloma`**, na šavu ili u novom poglavlju. **Ne radi se dok autor
+ne odluči.**
