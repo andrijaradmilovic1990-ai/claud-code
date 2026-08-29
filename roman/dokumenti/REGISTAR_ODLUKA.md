@@ -557,3 +557,55 @@ i to bez svog poglavlja, kako mapa i traži.
 verzija udara u tri zabrane oko `Maske`; pravac koji ne dira nijednu je **dati Malom još
 jedan topao pokret pre `Preloma`**, na šavu ili u novom poglavlju. **Ne radi se dok autor
 ne odluči.**
+
+---
+
+# 11 — NOVA KNJIGA: MAJKA *(zaključavanje u toku, 29.08.2026)*
+
+**`NOVO 4 — Majka` se piše.** Odluke ispod su autorove i **ne predlažu se za izmenu.**
+
+### Naplata majke — zatvoreno
+
+**Majka se naplaćuje u `Fabrici` (mesto 10), ne u ovom poglavlju i ne u `Maski`.**
+
+Sa Davidovih **32** — iste godine kad upoznaje Katarinu — **majka oboli od raka.**
+Preživi. David je vozi u Beli grad na **PET skener**; **ona vozi, jer on nema dozvolu.**
+Dok čeka da završi, sedne na kafu kod parka i tu zatekne **Natašu**, posle mnogo godina.
+
+To viđenje je u `SVET_I_LIKOVI_1` stajalo uz Natašu i pre ove sesije
+(*„Beograd, kad je vodio majku u bolnicu"*). **Nije nova stvar nego ista koja je
+čekala godinu i telo.** Uvedena figura se vraća — **duga nema.**
+
+**`Majka` ostaje čista: nijedan nagoveštaj bolesti u poglavlju 9.** Sedam godina
+razmaka je prostor, ne priprema.
+
+### David nema vozačku dozvolu *(odluka autora, 29.08.2026)*
+
+Nikad je nije imao. **Vozi bez nje, i vozi bez nje i danas.**
+
+Slaže se unazad s `Krvi` (Jovana za volanom), `Nestankom` (autobuska stanica) i
+`Kukavicom` (autobus nazad). **Nijedno staro poglavlje se zbog ovoga ne dira i ništa
+se ne dopisuje** — Pravilo P.
+
+### Majka je živa u sadašnjosti
+
+Živa je dok David sedi za stolom s Andrijanom i Natašom. **Poglavlje se zato ne piše
+kao elegija** — nijedna slika u njemu ne sme da zvuči kao poslednji put.
+
+### Forma
+
+- **Bez okvira sadašnjosti.** Razlog: `Nestanak` stoji tačno pre i **on se završava u
+  sadašnjosti** — telefon, tri reči, ona pod šeširom. Drugi zamah iz sadašnjosti odmah
+  zatim bio bi figura, a `Nestanak` je zaključan pa cenu plaća onaj koji dolazi posle.
+  Isti razlog kao kod `Ulaska` i `Preloma`. **Ne dodavati kadar sadašnjosti.**
+- **Scene s dijalogom.** Hronika je odobrena samo za `Nestanak`.
+- **Sidro u vremenu:** *„Rekli su mi u avgustu da si tu."* — godina dana u istom gradu,
+  bez cifre i bez datuma. **Ne zamenjivati brojem.**
+
+### Šta se ne dira *(Deo 1)*
+
+- **Majka ne pita nijednom i ne prilazi pitanju.** Figura *„zamalo pita pa odustane"*
+  pripada **majci Malog u `Prelomu`** i **ne ponavlja se ovde.**
+- **Andrijanina replika o izostavljanju se ne umnožava.** Majka nigde ne kaže da ne
+  pita — ona samo ne pita. **Ne dopisivati joj rečenicu koja imenuje mehanizam.**
+- **Zid stoji:** posao se ne pominje ni njenim ni njegovim rečima.

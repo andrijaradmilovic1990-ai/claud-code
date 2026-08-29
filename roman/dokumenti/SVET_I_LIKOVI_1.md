@@ -176,7 +176,7 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 | 24→25 | soba kod gazdarice *(V 89)* | |
 | **25** | doseljava se kod majke *(NOVO 4)* | 11 |
 | 28 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
-| **32** | fabrika — **upoznaje Katarinu** *(NOVO 5)* | 4 |
+| **32** | fabrika — **upoznaje Katarinu** *(NOVO 5)* · **majka oboli od raka**; vozi ga u Beli grad na skener, **Nataša na kafi kod parka** | 4 |
 | **34** | **Prazna stolica** — deset godina posle nestanka | 2 |
 | **35** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
 | **36** | **Susret · Pukotina · Ćebence** | danas |
@@ -211,6 +211,27 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
   pripadanja. `I 31` (*„Ja radim fizički posao… Leđa me bole uveče"*) time dobija dno.
 - **Čovek iznad Davida je Italijan, nema ime, i nije Zvezdan.** On je razlog zbog kog
   David **sa 16 počinje da ide u Italiju.**
+
+### ŠTA JE UPISANO IZ `MAJKE` *(29.08.2026, odluke autora)*
+
+- **David nema vozačku dozvolu.** Nikad je nije imao, vozi bez nje, i **vozi bez nje i
+  danas.** To zatvara unazad tri stvari u tekstu koje se **ne diraju i ne dopisuju**:
+  `Krv` (Jovana za volanom, *„vozili smo se zajedno još dve godine"*), `Nestanak`
+  (autobuska stanica, *„U jednom pravcu"*) i `Kukavica` (autobus nazad). **Ništa se
+  zbog ovoga ne dopisuje ni u jedno staro poglavlje** — Pravilo P.
+- **Majka oboli od raka kad David ima 32** — iste godine kad upoznaje Katarinu
+  *(NOVO 5 — Fabrika)*. **Preživi.** Rešila je bolnicu i lečenje sama.
+- **David je vodi u Beli grad na PET skener**, na kontrolu. **Ona vozi** — on ne sme.
+- **Dok je čekao da ona završi, seo je na kafu kod jednog parka i tu zatekao Natašu**,
+  posle mnogo godina. To je viđenje koje je u ovom dokumentu već stajalo uz Natašu
+  (*„Beograd, kad je vodio majku u bolnicu — lepo, čisto, bez tereta"*) i sada ima
+  telo i godinu: **Davidovih 32, pre četiri godine.** Van je rituala — ritual pada u
+  Davidovom rodnom gradu.
+- **Majka je živa u sadašnjosti knjige.** Živa je dok David sedi za onim stolom s
+  Andrijanom i Natašom. **Poglavlje `Majka` se zato ne piše kao elegija** — nijedna
+  slika u njemu ne sme da zvuči kao poslednji put.
+- **Sedam godina između useljenja i bolesti** (25 → 32) je prostor, ne rupa. Hronologija
+  se sabira bez natezanja.
 
 ### ŠTA JE UPISANO IZ `PRELOMA` *(29.08.2026, odluke autora)*
 
