@@ -2430,3 +2430,83 @@ Mali. **Ne radi se dok autor ne odluči.**
 > jedanaest spojeva, jedanaest reči manje. **Meri se po fajlu, pa se sabere.**
 
 **Ostaju tri nova poglavlja: Majka (9), Fabrika (10), Maska (14).**
+---
+
+## 29.08.2026 — NOVO 4: MAJKA napisana i zaključana *(1.571 reč, devet scena)*
+
+**Mesto 9 u mapi, odmah posle `Nestanka`. David ima 25.** Poglavlje je pisano iz dva
+dela, po Pravilu K, i zatvoreno u istom razgovoru.
+
+### Šta je odlučeno pre prve rečenice
+
+- **Naplata majke pada u `Fabrici` (mesto 10)** — rak sa Davidovih 32, PET skener u
+  Belom gradu, Nataša na kafi kod parka. Odluka autora. **Duga nema.** `Majka` ostaje
+  čista, bez ijednog nagoveštaja bolesti.
+- **Okvir: bez sadašnjosti.** `Nestanak` stoji tačno pre i **on se završava u
+  sadašnjosti** (telefon, tri reči, ona pod šeširom). Drugi zamah zaredom bio bi
+  figura, a `Nestanak` je zaključan pa cenu plaća onaj koji dolazi posle. Isti razlog
+  kao kod `Ulaska` i `Preloma`.
+- **Sidro u vremenu:** *„Rekli su mi u avgustu da si tu."* Godina dana u istom gradu,
+  bez cifre.
+- **Forma: scene s dijalogom**, provereno pre prve rečenice. Hronika je odobrena samo
+  za `Nestanak`.
+
+### Tri činjenice sveta koje je autor dao u toku rada
+
+1. **David nema vozačku dozvolu** i vozi bez nje **i danas.** Zatvara unazad `Krv`
+   (Jovana za volanom), `Nestanak` i `Kukavicu` (autobus). **Nijedno staro poglavlje
+   nije dirano** — Pravilo P.
+2. **Majka oboli od raka sa Davidovih 32**, iste godine kad upoznaje Katarinu.
+   **Preživi. Živa je u sadašnjosti knjige.** Iz toga sledi da se poglavlje **ne piše
+   kao elegija.**
+3. **Ne greje se na ugalj i ne voli hladnoću.** Ovo je oborilo prvu verziju zimske
+   scene i **obrnulo joj mehanizam** — vidi niže.
+
+### Šta poglavlje radi
+
+**Majka ne pita nijednom i ne prilazi pitanju.** Figura *„zamalo pita pa odustane"*
+pripada majci Malog u `Prelomu` i **nije ponovljena.** Ova žena pitanje nema.
+
+**Lestvica je: izostavlja → laže.** Na kapiji, komšinici, odgovori umesto njega —
+*„Bio je gore. Sad je tu."* Svaka reč tačna, žena ode s pogrešnom slikom, **David ne
+kaže nijednu reč.** Na telefonu ide dalje nego on ikad: *„Nema ga tu. Nije dolazio."*
+David ne laže — ona hoće. Pa na *„Ko je zvao?"* kaže **„Niko."**, njegov sopstveni
+potez vraćen njemu.
+
+**Andrijanina replika iz `Pukotine` time dobija koren.** Ćutanje nije naučio u poslu.
+
+### Dve ispravke unete u toku rada
+
+- **Rez u sopstvenom nacrtu, pre isporuke autoru.** Posle *„Niko"* stajala je rečenica
+  *„Prvi put u životu sam bio s druge strane toga, i prepoznao sam posao odmah…"* — dva
+  prekršaja u jednoj: potpisuje sopstvenu sliku i **probija zid** rečju „posao".
+  Skinuta. Tu sad stoji samo *„Stajali smo tako."*
+- **`Beograd` — jedini pomen stvarnog imena grada u celom rukopisu**, i bio je moj.
+  Autor ga je odbio pravilom za celu knjigu: **Beograd nikad, Beli grad jako retko.**
+  Prepisano u **„Bio je gore"** — bez imena, i jače, jer komšinica prazninu popuni sama.
+  **Pravilo i grep-provera upisani u registar, sekciju 11.**
+
+### Zimska scena — prepisana, obrnut mehanizam
+
+Prva verzija: jedna peć, ona spava na kauču u kuhinji da ne loži dve sobe, David kupi
+ugalj. **Oboreno od autora s dve činjenice** (ne greje se na ugalj, ne voli hladnoću).
+
+Nije zamenjena rekvizita nego **obrnuta figura:** ranije je štedela na sebi, sad
+**troši i krije koliko.** Kod nje je prevruće, tri peći rade, ona u džemperu. Račun
+sklonjen u fioku s koncima; u fioci pet računa po datumu, svaki veći, na poslednjem i
+zatezna. David ostavi pare pod so — ne pominju se, jedu pored njih dva dana, trećeg
+dana ih nema i so stoji kako stoji. Kraj scene bez tešenja: *„Gasim je", rekla je.
+Nije je gasila.*
+
+Usput je scena dala i ono što nije traženo: **David ne ume da spava u toploj sobi.**
+Nigde se ne objašnjava.
+
+### Mehanika, prijavljeno posle unosa
+
+- **Formula: nula instanci.** Spisak ostaje 3 od 3.
+- **`grep -ri beograd roman/poglavlja/` — prazno.**
+- **Poslednji bajt provaren `od -An -c` u svih trinaest fajlova, i proveren ishod
+  komande.** Svi završavaju tačkom.
+- **Nema psovke, ljubav se nigde ne izgovara, zid neprobijen** (svi pogodci za „posao"
+  bili su reč „posle").
+- **Zbir: 24.440 reči**, mereno običnim `wc -w` po fajlu pa sabrano.

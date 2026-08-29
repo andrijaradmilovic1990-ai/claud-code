@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 29.08.2026. *(NOVO 3 — Prelom zaključan)*
+> Poslednje ažuriranje: 29.08.2026. *(NOVO 4 — Majka zaključana)*
 
 ---
 
@@ -560,9 +560,10 @@ ne odluči.**
 
 ---
 
-# 11 — NOVA KNJIGA: MAJKA *(zaključavanje u toku, 29.08.2026)*
+# 11 — NOVA KNJIGA: MAJKA *(zaključano 29.08.2026)*
 
-**`NOVO 4 — Majka` se piše.** Odluke ispod su autorove i **ne predlažu se za izmenu.**
+**`NOVO 4 — Majka` je napisana i zaključana.** 1.571 reč, devet scena. Sve odluke ispod
+su autorove i **ne predlažu se za izmenu.**
 
 ### Naplata majke — zatvoreno
 
@@ -622,3 +623,41 @@ biti prazno.
 - **Andrijanina replika o izostavljanju se ne umnožava.** Majka nigde ne kaže da ne
   pita — ona samo ne pita. **Ne dopisivati joj rečenicu koja imenuje mehanizam.**
 - **Zid stoji:** posao se ne pominje ni njenim ni njegovim rečima.
+
+### Šta se ne dira *(celo poglavlje)*
+
+- **Komšinica na kapiji je srce poglavlja.** Na *„A šta radiš ti?"* majka odgovori
+  umesto njega: **„Bio je gore. Sad je tu."** Svaka reč tačna, žena ode s pogrešnom
+  slikom, **David ne kaže nijednu reč.** Tu se vidi odakle mu ćutanje. **Ne dodavati
+  Davidu repliku i ne komentarisati šta se desilo.**
+- **Lestvica je: majka izostavlja → majka laže.** Na kapiji izostavlja (kao on); na
+  telefonu **laže** — *„Nema ga tu. Nije dolazio."* — što on nikad ne radi. **Ne
+  izjednačavati ta dva mesta i ne dodavati treće.**
+- **„Ko je zvao?" / „Niko."** Njegov sopstveni potez vraćen njemu. **Ne davati mu
+  drugo pitanje** i ne dodavati rečenicu posle. Ranije je tu stajala rečenica koja je
+  potpisivala sopstvenu sliku i probijala zid rečju „posao" — **skinuta i ne vraća se.**
+- **Zima: ona ne štedi na sebi nego troši i krije koliko.** Tri peći na struju, kod nje
+  je prevruće, ona u tome sedi u džemperu. **Ne obrtati nazad u štednju i ne uvoditi
+  ugalj** — majka se na ugalj ne greje i **ne voli hladnoću** *(odluka autora)*.
+- **Pet računa u fioci s koncima**, po datumu, svaki veći, na poslednjem i zatezna.
+  David ih vrati kako su stajali. **Ne dodavati razgovor o njima.**
+- **Pare pod solju.** Ne pominju se, jedu pored njih dva dana, trećeg dana ih nema i so
+  stoji kako stoji. **Ne dodavati zahvaljivanje ni s jedne strane.**
+- **„Gasim je", rekla je. Nije je gasila.** Kraj scene bez tešenja. **Ne menjati.**
+- **David ne ume da spava u toploj sobi.** Prozor na dva prsta, ujutru zatvoren.
+  **Nigde se ne objašnjava zašto** — čitalac to nosi sam.
+- **Ruke i teglica.** *„Nisam dete." / „Nisi."* — pa svejedno uzme. Nežnost uhvaćena i
+  postiđena. **Ne produžavati.**
+- **Torba je zatvorena sitno:** *„Sve ti je novo." / „Jeste."* Ništa iz starog života
+  nije poneo. **Ne imenovati to.**
+- **Kraj poglavlja:** ona priča o rasadu koji je propao svejedno, on sluša i ne prekida
+  je nijednom. **Ne dodavati rečenicu posle.** Sledeće što čitalac dobija je `Fabrika`.
+- **Nema elegije.** Majka je živa u sadašnjosti knjige — **nijedna slika ne sme da zvuči
+  kao poslednji put.**
+
+### Šta Majka plaća
+
+Prazno mesto **2** (David nema krvnog srodnika — sad ga ima, u sceni, ne u zapisu) ·
+**sekcija 7 registra** dobija telo umesto zapisa · **Andrijanina replika iz `Pukotine`**
+(*„Ti samo izostaviš"*) dobija koren: to nije naučio u poslu nego kod kuće, od žene koja
+to radi bolje od njega. **Naplata figure pada u `Fabrici`** (rak, skener, Nataša).

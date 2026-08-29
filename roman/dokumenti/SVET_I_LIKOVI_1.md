@@ -230,6 +230,11 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - **Majka je živa u sadašnjosti knjige.** Živa je dok David sedi za onim stolom s
   Andrijanom i Natašom. **Poglavlje `Majka` se zato ne piše kao elegija** — nijedna
   slika u njemu ne sme da zvuči kao poslednji put.
+- **Majka se ne greje na ugalj i ne voli hladnoću** *(odluka autora)*. Kod nje je
+  prevruće — peći na struju u obe sobe i u hodniku — i ona u tome sedi u džemperu.
+  **Ne štedi na sebi: troši i krije koliko**, računi idu u fioku s koncima.
+- **David ne ume da spava u toploj sobi.** Posle dvanaest godina spavanja gde stigne,
+  vrućina mu smeta. Otvara prozor na dva prsta; ona ga zatvara.
 - **Sedam godina između useljenja i bolesti** (25 → 32) je prostor, ne rupa. Hronologija
   se sabira bez natezanja.
 

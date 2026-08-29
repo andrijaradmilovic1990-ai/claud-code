@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **29.08.2026.** *(NOVO 3 — Prelom napisan i zaključan)*
+> Poslednje ažuriranje: **29.08.2026.** *(NOVO 4 — Majka napisana i zaključana)*
 
 ---
 
@@ -38,15 +38,16 @@ Brojevi ispod su stanje **posle koraka 4.**
 | VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
 | IX | Ćebence | zaključano *(korak 4: 1 prepis)* | 1.571 |
 
-**Nova poglavlja — dva od šest napisana:**
+**Nova poglavlja — četiri od šest napisana:**
 
 | mesto | Poglavlje | Stanje | reči |
 |---|-----------|--------|------|
 | 3 | **NOVO 1 — Ulazak** | zaključano 29.08.2026 | 2.181 |
 | 5 | **NOVO 2 — Italija** | zaključano 28.08.2026 | 3.368 |
-| 7 | **NOVO 3 — Prelom** | **zaključano 29.08.2026** | **1.791** |
+| 7 | **NOVO 3 — Prelom** | zaključano 29.08.2026 | 1.791 |
+| 9 | **NOVO 4 — Majka** | **zaključano 29.08.2026** | **1.571** |
 
-**Ukupno: 22.869 reči od cilja od oko 30.500.** Ostaju **tri** nova poglavlja.
+**Ukupno: 24.440 reči od cilja od oko 30.500.** Ostaju **dva** nova poglavlja.
 
 > **Kako se zbir meri.** Po fajlu, običnim `wc -w`, pa se sabere. **`cat` preko svih
 > fajlova daje 22.858 i to je netačno** — pošto nijedan fajl ne završava prelomom reda,
@@ -219,10 +220,31 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 | **7** | **NOVO 3 — Prelom** | | 15 | Ćebence *(staro IX)* |
 | 8 | Nestanak *(staro V)* | | | |
 
-### Napisano — Italija, Ulazak i Prelom
+### Napisano — Italija, Ulazak, Prelom i Majka
 
-Sva tri su **zaključana**, sa svim odlukama upisanim u `REGISTAR_ODLUKA.md`,
-**sekcija 8 (Italija)**, **9 (Ulazak)** i **10 (Prelom)**.
+Sva četiri su **zaključana**, sa svim odlukama upisanim u `REGISTAR_ODLUKA.md`,
+**sekcija 8 (Italija)**, **9 (Ulazak)**, **10 (Prelom)** i **11 (Majka)**.
+
+**Tri činjenice sveta upisane 29.08.2026, uz `Majku`:**
+
+1. **David nema vozačku dozvolu** — nikad je nije imao, vozi bez nje **i danas.**
+   Zatvara unazad `Krv` (Jovana za volanom), `Nestanak` i `Kukavicu` (autobus).
+   **Nijedno staro poglavlje se zbog toga ne dira** (Pravilo P).
+2. **Majka oboli od raka sa Davidovih 32**, iste godine kad upoznaje Katarinu.
+   **Preživi, i živa je u sadašnjosti knjige.**
+3. **Ne greje se na ugalj i ne voli hladnoću.**
+
+**Naplata majke je zatvorena: pada u `Fabrici`** — rak, PET skener u Belom gradu (ona
+vozi, on ne sme), i **Nataša na kafi kod parka** dok čeka da ona završi. To viđenje je u
+`SVET_I_LIKOVI_1` stajalo i pre ove sesije; sada ima godinu i telo. **Duga nema.**
+
+### IME GRADA — pravilo za celu knjigu *(odluka autora, 29.08.2026)*
+
+**„Beograd" se u tekstu ne pojavljuje nigde, nijednom. „Beli grad" sme, ali jako retko.**
+
+Zatečeno u nacrtu `Majke` i odmah skinuto — bio je to **jedini pomen stvarnog imena u
+celom rukopisu.** **Provera pre zatvaranja svakog poglavlja:**
+`grep -ri beograd roman/poglavlja/` mora biti prazno.
 
 **Hronologija je zaključana 29.08.2026 — David danas ima 36.** Puna tablica od rođenja
 do sadašnjosti je u `SVET_I_LIKOVI_1`, sekcija HRONOLOGIJA, i **ne pomera se bez
@@ -248,7 +270,8 @@ do te tačke; tada ih autor otvara rečju „otvaram", i to samo na šavu.
 
 Šavovi kojih se tiče: **2→3** (Pukotina → Ulazak) · **4→5** (Krv → Italija) ·
 **6→7** (Pariz → Prelom) · **7→8** (Prelom → Nestanak) · **8→9** (Nestanak → Majka) ·
-**10→11** (Fabrika → Prazna stolica) · **13→14** (Kukavica → Maska).
+**9→10** (Majka → Fabrika) · **10→11** (Fabrika → Prazna stolica) ·
+**13→14** (Kukavica → Maska).
 
 ### SIDRO U VREMENU — umesto datuma *(odluka autora, 29.08.2026)*
 
@@ -262,7 +285,8 @@ dijalogu iz koje čitalac sam sabere gde je u vremenu.
 
 - `Ulazak` ga ima — *„Imao sam četrnaest."*
 - `Italija` ga ima — *„Peta si godina." / „Šesta."*
-- `Prelom` ga dobija u dvorištu.
+- `Prelom` ga dobija u dvorištu — *„Dvadeset mu je bilo u aprilu."*
+- `Majka` ga ima — *„Rekli su mi u avgustu da si tu."*
 
 **Sadržaj s godinama uz naslove, na kraju knjige**, ostaje dozvoljen — tekst time ostaje
 čist, a čitalac ima gde da proveri ako se izgubi.
@@ -273,18 +297,19 @@ dijalogu iz koje čitalac sam sabere gde je u vremenu.
 
 | mesto | poglavlje | reči | stanje |
 |---|---|---|---|
-| **9** | **NOVO 4 — Majka** | ~2.000 | spremno — David ima 25, doselio se kod majke |
-| **10** | **NOVO 5 — Fabrika** | ~2.500 | spremno — David ima 32, upoznaje Katarinu |
+| **10** | **NOVO 5 — Fabrika** | ~2.500 | **spremno** — David ima 32, upoznaje Katarinu, **i majka oboli** |
 | **14** | **NOVO 6 — Maska** | ~2.500 | sadašnjost, David ima 36 |
 
-**Redosled pisanja je odluka autora.** Po knjizi je sledeći `Prelom`, ali on jedini nosi
-neodlučenu stvar; `Majka` i `Fabrika` su posle hronologije potpuno određene.
+**Redosled pisanja je odluka autora.** Po knjizi je sledeća `Fabrika`, i ona je posle
+ove sesije **potpuno određena** — nosi DUG 2 (zašto voli Katarinu), prazno mesto 5
+(kako su se upoznali) **i naplatu majke** (rak, skener, Nataša kod parka).
 
 ### Odluke koje padaju u toku pisanja, ne pre
 
 1. ~~**Prelom** — je li to sahrana, i čija.~~ **Palo 29.08.2026: sahrana Malog.**
    Registar, sekcija 10.
-2. **Majka** *(poglavlje 9)* — vraća li se kasnije u knjigu.
+2. ~~**Majka** *(poglavlje 9)* — vraća li se kasnije u knjigu.~~ **Palo 29.08.2026:
+   naplaćuje se u `Fabrici`.** Registar, sekcija 11.
 3. **Zdravica** — koliko od autorovog teksta ulazi doslovno.
 4. **IDEJA 4 — pravi strah** *(autor, 29.08.2026)*. Čitalac mora negde na pola da zavoli
    lika pa da mu se taj lik oduzme. Puna verzija udara u tri zabrane oko `Maske`; pravac
@@ -335,7 +360,7 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
   daje **veći** broj na istom fajlu (Susret: 797 naspram 805) jer drugačije lomi reči oko
   navodnika i crta. **Svi brojevi u knjizi su u prvom standardu.** *(Zatečeno 29.08.2026
   — jedan prolaz je izmešao dva merenja i dobio pogrešan zbir.)*
-- **Zbir devet poglavlja je 15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
+- **Zbir svih trinaest napisanih poglavlja je 24.440.** Zbir devet starih je **15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
   tabela se sabirala na 15.521. Ispravljeno po Pravilu E.
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
 - **Nema PR-ova posle svake izmene** — commit kako ide, jedan PR i merge **na kraju
@@ -347,14 +372,15 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Napisana i zaključana su tri nova poglavlja i ne otvaraju se:
+Nastavi. Napisana su i zaključana četiri nova poglavlja i ne otvaraju se:
   NOVO 1 — Ulazak    2.181  roman/poglavlja/POGLAVLJE_NOVO_1_ULAZAK.md
   NOVO 2 — Italija   3.368  roman/poglavlja/POGLAVLJE_NOVO_2_ITALIJA.md
   NOVO 3 — Prelom    1.791  roman/poglavlja/POGLAVLJE_NOVO_3_PRELOM.md
-Sve je na glavnoj grani. Ukupno 22.869 reči od cilja od oko 30.500.
+  NOVO 4 — Majka     1.571  roman/poglavlja/POGLAVLJE_NOVO_4_MAJKA.md
+Sve je na glavnoj grani. Ukupno 24.440 reči od cilja od oko 30.500.
 
-Sledeći korak je PISANJE — poglavlje NOVO 4, MAJKA. Mesto 9 u mapi, odmah posle
-Nestanka. Oko 2.000 reči. David ima 25.
+Sledeći korak je PISANJE — poglavlje NOVO 5, FABRIKA. Mesto 10 u mapi, odmah
+posle Majke. Oko 2.500 reči. David ima 32.
 
 PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   git fetch -q origin
@@ -369,54 +395,61 @@ Ako nešto ispliva — NE mergovati na slepo. Uporedi izmenu po izmenu i javi mi
 Zatim pročitaj, tim redom:
   roman/NASTAVAK.md
   roman/dokumenti/NOVA_KNJIGA_MAPA.md
-  roman/dokumenti/NOVA_KNJIGA_IDEJE.md      ← IDEJA 2 je Majka, IDEJA 4 je nova
-  roman/dokumenti/REGISTAR_ODLUKA.md        ← sekcije 8, 9 i 10
+  roman/dokumenti/NOVA_KNJIGA_IDEJE.md      ← IDEJA 3 je Fabrika, IDEJA 4 je strah
+  roman/dokumenti/REGISTAR_ODLUKA.md        ← sekcije 8, 9, 10 i 11
   roman/dokumenti/SVET_I_LIKOVI_1.md        ← HRONOLOGIJA, Davidove godine
   roman/dokumenti/PRAVILA_STILA.md
-  roman/poglavlja/POGLAVLJE_NOVO_3_PRELOM.md   ← glas mora da se nastavi
+  roman/poglavlja/POGLAVLJE_NOVO_4_MAJKA.md    ← glas mora da se nastavi
 
 Ne prepričavaj mi šta u njima piše.
 
 ── ŠTA SE RADI ──
 
-MAJKA. Prva godina posle nestanka. David ima 25 i doseljava se kod majke, u rodni
-grad, posle godine u sobi kod gazdarice.
+FABRIKA. David ima 32, osam godina posle povratka. Živi kod majke već sedam
+godina. Radi u fabrici u tri smene i tu upoznaje Katarinu.
 
-Plaća prazno mesto 2 (David nema krvnog srodnika u tekstu). Najvažnije što donosi:
-ODAKLE MU ĆUTANJE. Nije ga naučio u poslu — doneo ga je od kuće. Majka ga primi i
-NE PITA GDE JE BIO. Andrijanina replika iz Pukotine („Ti samo izostaviš") time
-dobija koren.
+Plaća prazno mesto 5 (kako su se upoznali) i DUG 2 (RAZLOG zašto je voli —
+ne dubina nego razlog). Beli grad to već potvrđuje bez ijedne izmene:
+povratak s treće smene, ruke koje mirišu na fabriku.
 
-JEDNA ODLUKA VISI: naplaćuje li se majka kasnije u knjizi, i gde. Uvedena figura
-koja se ne vrati postaje dug. Pitaj me to prvo, jednim pitanjem.
+U ISTOM POGLAVLJU SE NAPLAĆUJE MAJKA — to je zaključano 29.08.2026:
+majka oboli od raka te iste godine, preživi, i David je vodi u Beli grad na
+PET skener. ONA VOZI, jer David nema vozačku dozvolu i nema je ni danas.
+Dok čeka da ona završi, sedne na kafu kod jednog parka i tu zatekne NATAŠU,
+posle mnogo godina. To viđenje je odavno u SVET_I_LIKOVI, sad ima godinu.
+
+ZABRANA: Katarina se NE SME pisati kao utešna nagrada ni kao ono na šta je
+David pristao. Ne dobija dubinu rečenicama nego potezima.
 
 ── ŠTA VAŽI ──
 
 FORMA: SCENE S DIJALOGOM. Ne hronika. Hronika je odobrena samo za Nestanak.
 Proveri to pre prve rečenice, ne posle.
 
-OKVIR: odluči sam i reci mi razlog pre nego što počneš. Majka stoji tačno posle
-Nestanka, koji ima okvir sadašnjosti.
+OKVIR: odluči sam i reci mi razlog pre nego što počneš. Majka stoji pre
+Fabrike i nema okvir; Prazna stolica stoji posle.
 
-SIDRO U VREMENU: datumi i godine kao zaglavlje su odbačeni za celu knjigu. Umesto
-njih ide rečenica u prvih deset redova iz koje čitalac sam sabere gde je.
+SIDRO U VREMENU: datumi i godine kao zaglavlje su odbačeni za celu knjigu.
+Umesto njih ide rečenica u prvih deset redova iz koje čitalac sam sabere.
 
-ZID: David kao izvršilac se i dalje ne pokazuje. Posao se ne pominje ni njenim ni
-njegovim rečima. Roba se ne imenuje.
+IME GRADA: „Beograd" NIGDE, nijednom. „Beli grad" sme, ali jako retko.
+Pre zatvaranja: grep -ri beograd roman/poglavlja/ mora biti prazno.
 
-Ljubav se ne izgovara. Nasilje van kadra. Bez potpisa na kraju pasusa. Formula
-„to je bila cela X" je 3 od 3 i ne sme se pojaviti. David ne psuje i NE LAŽE —
-izostavlja.
+ZID: David kao izvršilac se i dalje ne pokazuje. Roba se ne imenuje.
 
-PRAVILO K: svaka rečenica napisana u moje ime čeka izričito „da". Piši poglavlje
-IZ DVA DELA — prvo Deo 1, pa ga popravimo, pa Deo 2. Jedan fajl, ne dva.
+Ljubav se ne izgovara. Nasilje van kadra. Bez potpisa na kraju pasusa.
+Formula „to je bila cela X" je 3 od 3 i ne sme se pojaviti. David ne psuje i
+NE LAŽE — izostavlja.
 
-Devet postojećih + Ulazak + Italija + Prelom su zaključani. Registar važi u punom
-obimu. Nijedno se ne otvara dok ne kažem „otvaram" tom rečju.
+PRAVILO K: svaka rečenica napisana u moje ime čeka izričito „da". Piši
+poglavlje IZ DVA DELA — prvo Deo 1, pa ga popravimo, pa Deo 2. Jedan fajl.
 
-Fajlovi poglavlja ne završavaju prelomom reda — proveri `od -An -c` na poslednjem
-bajtu i proveri ISHOD komande, ne samo izlaz. xxd ne postoji. Broj reči se meri
-običnim `wc -w`, po fajlu pa se sabere — `cat` preko svih fajlova daje manji broj.
+Devet postojećih + Ulazak + Italija + Prelom + Majka su zaključani. Registar
+važi u punom obimu. Nijedno se ne otvara dok ne kažem „otvaram" tom rečju.
+
+Fajlovi poglavlja ne završavaju prelomom reda — proveri `od -An -c` na
+poslednjem bajtu i proveri ISHOD komande, ne samo izlaz. xxd ne postoji.
+Broj reči se meri običnim `wc -w`, po fajlu pa se sabere.
 
 ── GIT ──
 
