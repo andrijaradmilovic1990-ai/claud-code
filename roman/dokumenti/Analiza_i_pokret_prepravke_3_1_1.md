@@ -2337,3 +2337,96 @@ odobrena **samo za `Nestanak`.** Tri nacrta zaredom sam je pisao svejedno.
   1.281 reč, a fajl ima 1.289. Ispravljeno, i zbir 15.510 → 15.529.
 - Mapa: `NOVO 5 — Fabrika` više nije „novi život, rano" nego **32. godina.**
   Redosled poglavlja netaknut.
+
+---
+
+## 29.08.2026 — NOVO 3 (PRELOM) NAPISAN I ZAKLJUČAN
+
+**1.791 reč. Šesto poglavlje u redosledu čitanja, sedmo mesto u mapi.** Sve napisano,
+nijedan rez osim jednog (potpis u sceni s ključevima).
+
+### Kako je poglavlje počelo
+
+Provera grana na početku sesije: **čisto**, ništa van glavne.
+
+Pročitana **cela knjiga** — devet starih plus Italija i Ulazak — na izričit zahtev
+autora, **za kontinuitet, ne za ocenu.** Pravilo P nije prekršeno: nijedno zaključano
+poglavlje nije otvoreno i nijedan nalaz o njima nije podnet.
+
+### Odluka koja je visila i kako je pala
+
+**Je li Prelom sahrana, i čija.** Ponuđene četiri opcije. Autor je izabrao **sahranu
+Malog**, uz zahtev da se negde vidi da Katarina ne zna gde David ide.
+
+**Taj zahtev je bio hronološki nemoguć i to je javljeno odmah:** David u Prelomu ima 24,
+Katarina ulazi u knjigu sa 32. Nje tamo nema.
+
+**Zamena koja je prihvaćena:** figura postoji u sceni, samo nosi drugo lice — **majka
+Malog** sahranjuje sina i ne zna čime se bavio ni za koga. Doslovna Katarina s tim
+neznanjem upisana je kao dug za `Masku`.
+
+> **Autor je posle rekao da ne razume kako se to vezuje.** Objašnjeno osom godina i
+> mapom čitanja. Ista zbunjenost se ponovila oko toga stoji li Prelom pre ili posle
+> `Pariza` — **posle**, mesto 7. Za sledeću sesiju: **osa i redosled čitanja se pokazuju
+> pre pisanja, ne posle.**
+
+### Šta je napisano
+
+**Šest scena, dijalogom:** dvorište · kuhinja · groblje s tri molbe · majka · daća · noć.
+
+Poglavlje je pisano **iz dva dela, po zahtevu autora** — Deo 1 predat na čitanje, pa
+popravke, pa Deo 2. **Jedan fajl, ne dva**; podela je bila radna i u tekstu je nema.
+
+**Uneto uz izričito „da" autora, jedno po jedno:**
+
+- sidro u vremenu — *„Dvadeset mu je bilo u aprilu"* (umesto datuma kao zaglavlja)
+- Andrijana imenovana u dvorištu — uzima flašu klincu iz ruke, šalje ga po led
+- Jovana imenovana preko rake — *„u crnom koje nije njeno"*, ne diže pogled
+
+**Autorov nalaz koji je do toga doveo, i tačan je:** Deo 1 je bio sav u muškarcima bez
+imena.
+
+### Odluke o formi koje su pale u ovoj sesiji
+
+**Datumi i godine iznad poglavlja — ODBAČENO.** Predlog autora, oboren nalazom (sprat:
+knjiga): `IV` doslovno kaže *„dani su se lepili jedan na drugi kao da im je neko skinuo
+brojeve"*, a sve imenovano u knjizi imenovano je namerno. Zamena: **sidro u glasu u
+prvih deset redova poglavlja bez okvira.** `Ulazak` i `Italija` ga već imaju; `Prelom`
+ga je dobio. **Sadržaj s godinama na kraju knjige ostaje dozvoljen.**
+
+**Prolaz kroz šavove — ZAKAZAN, ne izvršen.** Autor je tražio da se krajevi i početci
+starih poglavlja doteraju da spust u nova radi. **Radi se tek kad svih šest novih bude
+napisano**, iz istog razloga zbog kog je postojao moratorijum. Spisak šavova u
+`NASTAVAK.md`.
+
+**IDEJA 4 — pravi strah.** Zabeležena kako je došla, bez prekrajanja. Uz nju upisan
+nalaz: puna verzija udara u tri zabrane oko `Maske`; pravac koji ne dira nijednu je
+Mali. **Ne radi se dok autor ne odluči.**
+
+### Mehanika, prijavljeno posle unosa
+
+- **Formula ostaje 3 od 3** — nula instanci u Prelomu, provereno na sve varijante.
+- **Jedan potpis skinut:** *„i to je bilo sve što sam imao"* → *„rekao sam ponovo"*.
+- **Reč „sreda" ne pada nijednom u značenju dana** — sreda je otvorena petlja iz `VI` i
+  poglavlje je namerno ne dodiruje. Prvi nacrt je imao *„Kupio ga je u sredu"* i to je
+  uhvaćeno pre unosa.
+- **Roba se ne imenuje**, heroin nema — zid stoji.
+- **David ne psuje i ne laže.**
+- **Poslednji bajt provereno `od -An -c`, ishod 0** — tačka, bez preloma reda. Provereno
+  i za svih dvanaest fajlova poglavlja: **svi završavaju tačkom.**
+
+### Zbir, i zamka u merenju
+
+| | reči |
+|---|---|
+| devet starih | 15.529 |
+| Ulazak | 2.181 |
+| Italija | 3.368 |
+| **Prelom** | **1.791** |
+| **ukupno** | **22.869** |
+
+> **`cat` preko svih fajlova daje 22.858 i to je netačno.** Pošto nijedan fajl ne
+> završava prelomom reda, konkatenacija slepi poslednju reč jednog s prvom sledećeg —
+> jedanaest spojeva, jedanaest reči manje. **Meri se po fajlu, pa se sabere.**
+
+**Ostaju tri nova poglavlja: Majka (9), Fabrika (10), Maska (14).**

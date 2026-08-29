@@ -36,7 +36,7 @@
 | **4** | **Krv** | staro `III` | stari svet | 1.135 |
 | **5** | **NOVO 2 — Italija** | **novo** | David ima 22 | **3.368 — NAPISANO** |
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
-| **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | ~2.000 |
+| **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.791 — NAPISANO** |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
 | **9** | **NOVO 4 — Majka** | **novo** | prva godina posle | ~2.000 |
 | **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | ~2.500 |
@@ -143,11 +143,14 @@ ne kaže šta je tačno prelilo čašu, i **to ostaje tako** (zaključano: to bi
 napetost). Ovo poglavlje ne otkriva **šta**, nego pokazuje **kako izgleda čovek u
 poslednjem danu.**
 
-**Kandidat za formu: sahrana u starom svetu.** Godfather registar u čistom obliku —
-obred u jednoj sobi, posao u drugoj; ko koga grli, ko prilazi Davidu i šta traži dok se
-grob zatrpava. Knjiga nema **nijedan ritual.**
+**ZATVORENO 29.08.2026, odluka autora: sahrana Malog.** Poginuo je na motoru koji je u
+`Krvi` obećavao da će kupiti na leto. Smrt je glupa i besplatna i nema veze s poslom —
+da je bio ubijen, sahrana bi objasnila prelom i rupa bi se zatvorila.
 
-**OTVORENO:** je li ovo sahrana ili nešto drugo. **Ako je sahrana — čija.**
+Napisano kao šest scena: dvorište · kuhinja · groblje s tri molbe · majka Malog · daća ·
+noć. Godfather registar u čistom obliku — obred u jednoj sobi, posao u drugoj; ko koga
+grli, ko prilazi Davidu i šta traži dok se grob zatrpava. **Knjiga time dobija svoj
+jedini ritual.** Sve odluke: `REGISTAR_ODLUKA.md`, sekcija 10.
 
 ---
 
@@ -218,10 +221,9 @@ odluku.
 
 ## ŠTA MORA BITI ODLUČENO PRE PRVE REČENICE
 
-1. **Prelom** — je li to sahrana, i čija.
+1. ~~**Prelom** — je li to sahrana, i čija.~~ **Zatvoreno 29.08.2026: sahrana Malog.**
 2. **Majka** — vraća li se kasnije u knjigu.
-3. **Redosled pisanja** — kojim poglavljem se počinje. *(Predlog: `Italija`, jer je
-   najduže, najviše nosi, i najbrže pokazuje da li glas drži u novom materijalu.)*
+3. ~~**Redosled pisanja**~~ — Italija, pa Ulazak, pa Prelom. Ostaju Majka, Fabrika, Maska.
 
 > **Baka je skinuta s ovog spiska 28.08.2026** — ona je Anjina i naplaćuje se u istoj
 > sceni. Vidi `NOVO 2 — Italija`.

@@ -154,6 +154,46 @@ vraćaju **s treće smene, ruku koje mirišu na fabriku.**
 
 ---
 
+### IDEJA 4 — PRAVI STRAH: ZAVOLI PA ODUZMI *(autor, 29.08.2026)*
+
+**Šta je autor rekao, doslovno u smislu:** knjiga mora negde **na pola** da napravi
+**pravi strah** — da se čitalac zabrine da će neko poginuti ili nastradati. Ako je život
+o kom David priča stvarno takav, taj strah mora da postoji, inače je knjiga biografija.
+Po Godfather logici: **čitalac mora da zavoli lika, pa da mu se taj lik oduzme.**
+
+**Autor je uz ovo rekao i da mu nije strano da otvara stara poglavlja** ako se pokaže da
+strah mora tamo. **To nije nalog da se otvore** — to je izjava da zabrana nije večna.
+Otvaranje i dalje traži izričito „otvaram".
+
+**Stanje knjige, provereno u tekstu — zašto je ovo teško:**
+
+- **Svi živi ostaju živi.** Andrijana, Jovana, Nataša, Katarina — sve četiri prežive do
+  poslednje strane, i to je zaključano sadržajem radnje.
+- **Jedina smrt koju knjiga ima je bratova** (`Ulazak`) — a čitalac ga upozna već mrtvog.
+- **Jovanina nesreća** (`VII`) je najbliža stvar strahu, ali stiže **kao cifre preko
+  telefona**, i mapa to izričito štiti: prikazana bi je oslabila.
+- **DUG 1** traži opasnost u sadašnjosti kao scenu i **plaća se u `Maski`** (mesto 14).
+  Ali uz `Masku` stoje tri upisane zabrane: **nema trilerske ivice**, **niko ne mora da
+  puca**, **Katarina ne sumnja i ne proverava.** Autorova ideja u punom obimu udara u sve
+  tri. To se ne rešava tiho — traži da autor kaže „otvaram" za bar jednu.
+
+**Pravac koji ne krši ništa, i već je u planu — MALI.**
+
+Mali je jedini lik kog knjiga **stvarno gubi**, i gubi ga **na mestu 7, tačno na pola
+od petnaest poglavlja.** Ali danas ga čitalac zna iz jedne scene (`III`, magacin) i
+jednog pomena (`IV`). **Zavoleti se nema kad.**
+
+Iz toga sledi jedini potez koji daje autoru tačno ono što traži, a ne dira nijednu
+zabranu: **dati Malom još jedan topao pokret pre `Preloma`** — u novom poglavlju, ili na
+šavu, kad dođe prolaz kroz spojeve. Tada `Prelom` prestaje da bude izveštaj o tuđoj
+sahrani i postaje gubitak.
+
+**Nenaplaćeno, čeka odluku:** koliko od ovoga ide u `Masku` (uz otvaranje bar jedne od
+tri zabrane), a koliko u `Malog` (bez otvaranja ijedne). **Ne radi se dok autor ne
+odluči.**
+
+---
+
 ## KARAKTER — ŠTA JE UPISANO 28.08.2026
 
 ### David je low key TEK POSLE *(autor — ovo je posledica, ne crta)*

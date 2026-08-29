@@ -172,7 +172,7 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 | ~16 | počinje da ide u Italiju | 20 |
 | **22** | **Krv** (magacin) · **Italija** (šesta godina dolazaka) · **Pariz** · pandur ga vozi kroz kapiju *(VI 125)* | **14** |
 | 22→24 | s Jovanom se voze još dve godine *(Krv 63)* | |
-| **24** | **Prelom** *(NOVO 3)* + **Nestanak** — vraća se u rodni grad | **12** |
+| **24** | **Prelom** *(NOVO 3)* — sahrana Malog, dan pre · **Nestanak** — vraća se u rodni grad | **12** |
 | 24→25 | soba kod gazdarice *(V 89)* | |
 | **25** | doseljava se kod majke *(NOVO 4)* | 11 |
 | 28 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
@@ -211,6 +211,21 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
   pripadanja. `I 31` (*„Ja radim fizički posao… Leđa me bole uveče"*) time dobija dno.
 - **Čovek iznad Davida je Italijan, nema ime, i nije Zvezdan.** On je razlog zbog kog
   David **sa 16 počinje da ide u Italiju.**
+
+### ŠTA JE UPISANO IZ `PRELOMA` *(29.08.2026, odluke autora)*
+
+- **Mali gine sa dvadeset**, na motoru koji je u `Krvi` obećavao da će kupiti na leto.
+  **Poginuo je deset dana posle kupovine**, dan pre Davidovog nestanka. Smrt nema veze s
+  poslom.
+- **Mali je sestrić** — `Krv 19` to već kaže. **Ujak je iz tog sveta**, on mu je dao pare
+  za motor. **Majka je ujakova sestra i nije iz tog sveta:** sluti čime se sin bavio, nije
+  sigurna, i **nikad ne pita do kraja.**
+- **Čovek iznad Davida je živ i u poslu sa Davidovih 24**, ali na sahranu ne dolazi —
+  šalje nekog. Zato tog dana svi idu Davidu.
+- **David sa 24 ima svoju kuću u Belom gradu** *(slaže se s `V 65` — „spremam kuću")*.
+- **Pariz je dve godine pre Preloma.** Drže ga `IV` („pre 14 godina") i `V` („pre 12").
+  U `Prelomu` se to čuje samo kroz Andrijaninu ispravku *„Nije prošle godine."* — **bez
+  cifre.**
 
 **Krvni srodnici — prazno mesto 2 se prepolovilo.** Nalaz *„David nema nijednog krvnog
 srodnika"* i dalje važi **za tekst**: knjiga zaista ne pokazuje nijednog. Ali **svet ih
