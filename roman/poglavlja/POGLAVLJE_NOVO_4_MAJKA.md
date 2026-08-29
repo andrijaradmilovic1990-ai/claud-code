@@ -151,3 +151,123 @@ Okrenula se i otišla u svoju sobu i zatvorila vrata do kraja, kako se zatvaraju
 Ja sam ostao u hodniku još malo.
 
 Onda sam ušao u sobu, spustio peškir na sto na kom nikad ništa nije stajalo, i otvorio torbu.
+
+⁂
+
+Prvog vikenda je došla ona s kraja ulice, s kesom paradajza koji niko nije tražio.
+
+Stajale su kod kapije i pričale o tome ko je šta zasadio, i ja sam bio u dvorištu jer mi je majka dala da izvadim onaj crevo iz šupe, i žena me je videla i stala usred rečenice.
+
+„Ovo je tvoj?“
+
+„Moj.“
+
+„Bože.“ Prišla je dva koraka i pogledala me odozdo naviše, kao što se gleda zid koji je neko podigao dok nisi gledao. „Ja sam ga pamtila ovoliko.“
+
+Držala je dlan u visini kuka.
+
+„Dobar dan“, rekao sam.
+
+„Dobar dan, sine.“ Pa odmah, bez razmaka: „A šta radiš ti?“
+
+Majka je uzela kesu iz njene ruke i premestila je u svoju, i to je uradila tako da je ženi ruka ostala prazna i podignuta.
+
+„Bio je u Beogradu“, rekla je. „Sad je tu.“
+
+„A tako.“ Žena je klimnula glavom nekoliko puta. „Vratio se. Dobro je to, i moj se vratio, tamo se ne može. Skupo je.“
+
+„Skupo je“, rekla je majka.
+
+„A stan? Tamo su stanovi—“
+
+„Hoćeš rasada?“ rekla je majka. „Ostalo mi je, propašće.“
+
+Žena je htela rasada.
+
+Otišle su ka bašti i ja sam ostao s crevom u ruci i pustio vodu, i voda je prvo izbacila ono što je stajalo u njemu preko zime, mrko, pa je posle pošla čista.
+
+Nisam rekao nijednu reč.
+
+Nije ni trebalo.
+
+⁂
+
+U fabriku sam ušao u utorak, na prvu, i nisu me pitali skoro ništa.
+
+Prvo veče su me ruke pekle na način na koji nikad nisu, ne od udarca nego iznutra, po dlanu, tamo gde koža ne zna šta radi.
+
+Zatekao sam je budnu.
+
+„Nisi morala da me čekaš.“
+
+„Nisam te čekala“, rekla je. „Gledam ovo.“
+
+Na televizoru je bio neki čovek koji je pričao o vremenu, i vreme je već bilo prošlo.
+
+Sipala mi je i sela preko puta i opet nije sipala sebi.
+
+„Daj ruku.“
+
+„Šta će ti.“
+
+„Daj.“
+
+Dao sam joj ruku i ona ju je okrenula dlanom naviše i gledala je pod onom sijalicom, i nije rekla ništa, i vratila mi je.
+
+Ujutru je na stolu stajala teglica s nečim što nije kupovno.
+
+„Nisam dete“, rekao sam.
+
+„Nisi“, rekla je, i okrenula se ka šporetu.
+
+Uzeo sam teglicu.
+
+⁂
+
+Pere mi je stvari odvojeno od svojih, i to nikad nismo dogovorili.
+
+Jednom je držala košulju uz svetlo, onu tanku, iz torbe.
+
+„Ovo je novo.“
+
+„Jeste.“
+
+„Sve ti je novo.“
+
+„Jeste.“
+
+Okačila ju je i namestila kragnu prstima, dvaput, iako je već stajala kako treba.
+
+⁂
+
+Telefon je zazvonio u kući u nedelju, oko podne.
+
+Bio sam u dvorištu i čuo sam kroz otvoren prozor kako se javlja.
+
+„Halo.“
+
+Pa ništa neko vreme.
+
+„Ne“, rekla je. „Nema ga tu.“
+
+Onda opet ništa.
+
+„Ne znam ja to. Ja sam stara žena.“ Glas joj se nije promenio ni za pola tona. „Ne, ne dolazi. Nije dolazio.“
+
+Spustila je slušalicu i ja sam čuo i to, kako je spustila — polako, obema rukama, kao što se spušta nešto vrelo.
+
+Ušao sam.
+
+Stajala je kod telefona i nije se okrenula odmah. Onda se okrenula i otišla do šporeta i podigla poklopac s onog lonca i vratila ga.
+
+„Ko je zvao?“
+
+„Niko“, rekla je.
+
+Stajali smo tako.
+
+„Operi ruke“, rekla je. „Sipam.“
+
+Oprao sam ruke i seo.
+
+Jeli smo, i ona je pričala o onoj s kraja ulice i o rasadu koji je propao svejedno, i ja sam slušao i nisam je prekidao nijednom.
