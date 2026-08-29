@@ -32,7 +32,11 @@ Ujak je izašao i prošao pored petorice ne videvši ih. Zagrlio me obema rukama
 
 Nisam pitao ništa o tome.
 
-„Kupio ga je pre deset dana“, rekao je. „Motor. Pre deset dana.“
+„Dvadeset mu je bilo u aprilu“, rekao je. „Dvadeset.“
+
+Nisam rekao ništa.
+
+„Kupio ga je pre deset dana. Motor. Pre deset dana.“
 
 „Znam.“
 
@@ -51,6 +55,12 @@ Jedan klinac je pronosio flašu rakije i čašicu i sipao svakom po redu. Kad je
 „Ne izvinjavaj se. Drži za dno, ne za vrh.“
 
 Držao je za dno i sledećem nije prosuo.
+
+Andrijana je stigla dok je klinac još punio i uzela mu flašu iz ruke a da je nije pogledala.
+
+„Idi po led. Nema leda.“
+
+Otišao je po led.
 
 ⁂
 
@@ -116,6 +126,8 @@ Bilo je vetra. Pop je bio brz i to mu niko nije zamerio.
 
 Stajao sam u trećem redu, ne u prvom. U prvom su bili njeni i njegovi.
 
+S druge strane rake stajala je Jovana, u crnom koje nije njeno, i nijednom nije podigla pogled.
+
 Kad su spustili, i kad je prva lopata pala na dasku — onaj zvuk koji ne liči ni na šta drugo i koji čovek prepozna i ako ga nikad nije čuo — dvojica su počela da zatrpavaju, pa su im uzeli lopate iz ruku, pa su uzeli i tim drugima, i posao je išao brzo jer je bilo previše ruku za jednu raku.
 
 Prvi mi je prišao dok je zemlja još zvučala na daske.
@@ -167,3 +179,151 @@ Zemlja je već bila iznad daske i lopate su išle ravnomerno i dvojica su se dol
 Lopata je udarila o kamen u zemlji i onaj dole je opsovao pa se setio gde je pa je prekrstio.
 
 „Ništa strašno“, rekao je čovek. „Samo da neko svrati.“
+
+⁂
+
+Silazili smo niz onaj put u koloni i kola su palila jedna po jedna, i ja sam bio pri kraju jer sam čekao da prođu.
+
+Ona je sišla poslednja, s dve žene pod ruku, i one su je vodile ka kolima. Onda se izvukla iz njihovih ruku i krenula ka meni preko trave, pored puta, u cipelama koje za travu nisu.
+
+Stao sam.
+
+„Vi ste.“
+
+„Ja sam.“
+
+„Znam ko ste.“ Uhvatila me je za obe ruke, odozdo, kao što se hvata nešto što bi moglo da se povuče. Ruke su joj bile suve i hladne. „On je o vama pričao kod kuće.“
+
+Nisam pitao šta.
+
+„Kaže: on je meni rekao da vozim polako.“ Nasmešila se na to. „Meni nikad nije rekao, a vama je verovao.“
+
+Ljudi su prolazili pored nas i niko nije stao.
+
+„Ima nešto da vas pitam.“
+
+Čekao sam.
+
+Otvorila je usta i nije rekla. Pogledala je negde pored mog ramena, u onaj put i kola, i ja sam gledao u nju i nisam joj pomogao.
+
+„Ne“, rekla je. „Ništa.“
+
+Iz džepa kaputa je izvadila ključeve. Jedan veliki, na crnom obruču, s privezkom od gume koji je bio nov.
+
+„Uzmite nešto njegovo.“
+
+„Ne treba mi.“
+
+„Uzmite. Ja to ne mogu da bacim, a ne mogu ni da gledam.“
+
+„Ne treba mi“, rekao sam ponovo.
+
+Držala je ključeve još sekund pružene, pa ih je vratila u džep i pritisnula džep dlanom spolja, kao da proverava jesu li unutra.
+
+„Hvala vam što ste ga čuvali.“
+
+Neko ju je pozvao s puta.
+
+„Idem“, rekla je. „Dođite posle na ručak. Molim vas dođite.“
+
+Otišla je preko trave nazad, u onim cipelama, i one dve žene su je uzele pod ruku sa obe strane pre nego što je stigla do puta.
+
+⁂
+
+Kafana je bila puna do vrata i stolovi spojeni u tri reda, i ono što je jutros stajalo u dvorištu vratilo se nazad pod svoje sijalice.
+
+Sipali su čorbu iz dva lonca i niko nije čekao da svi dobiju.
+
+Prvi sat je bio tih. Drugi nije.
+
+Do drugog sata se već negde na kraju stola smejalo, ne glasno, ali se smejalo, i to se širilo ka sredini kao što se širi voda po ravnom stolu.
+
+Andrijana je sedela meni s desne strane i nije jela. Pila je vodu i gledala u salvetu koju je presavijala na četvorine.
+
+„Ideš posle?“ rekla je.
+
+„Idem.“
+
+„Gde.“
+
+„Kući.“
+
+Klimnula je glavom i nastavila da presavija.
+
+Nataša je sedela preko puta i pričala nekom čoveka kog nije poznavala kako smo prošle godine bili u Parizu i kako sam naručio nešto na francuskom pa nam je konobarica odgovorila na engleskom, i taj čovek se smejao, i još dvojica pored njega su se smejala.
+
+„Nije prošle godine“, rekla je Andrijana, ne dižući pogled.
+
+„Nema veze kad je.“
+
+„Ima veze. Nije prošle godine.“
+
+Nataša je slegnula ramenima i nastavila priču s onog mesta.
+
+Jovana je sedela dalje, u onom drugom redu stolova, s njegovima. Nije jela ni ona. Kad sam pogledao tamo, gledala je u mene, i nije skrenula, i nije klimnula glavom, i ja sam se vratio u tanjir.
+
+Ujak je ustao negde pred kraj, s čašom.
+
+„Ja sam mu dao pare“, rekao je. Glasno, celoj kafani. „Ja. Da se zna.“
+
+Dvojica su ga uzela za ruku sa obe strane i posadili ga, i on je pustio da ga posade, i onda je zaplakao za sto.
+
+Neko je počeo da priča o nečem drugom, brzo, preko toga.
+
+Onda se onaj s kraja stola nagnuo prema meni.
+
+„Reci ti nešto.“
+
+„Ne.“
+
+„Ma reci. Tebe će da slušaju.“
+
+„Rekao sam ne.“
+
+Digao je ruke i vratio se svom tanjiru, i to je bilo prošlo za deset sekundi, i za stolom to niko nije zapamtio.
+
+Ustao sam pre nego što je iko drugi ustao.
+
+Andrijana je podigla glavu.
+
+„Rano je.“
+
+„Jeste.“
+
+Nije pitala ništa više. Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
+
+Prošao sam pored ujaka i on me je uhvatio za ruku i držao je, i nije ništa rekao, i ja sam pustio da drži koliko mu treba.
+
+Napolju je bilo svetlo, još uvek, i to me je zateklo.
+
+⁂
+
+Kod kuće nije bilo ničega da se radi.
+
+Uzeo sam čašu vode i popio je stojeći kod sudopere. Skinuo sam košulju i ostavio je preko naslona stolice i onda sam je uzeo i okačio, i onda sam stajao u toj kuhinji još malo.
+
+Telefon je zazvonio u devet i nisam se javio.
+
+Zvonio je opet u pola deset.
+
+Trećeg puta sam se javio.
+
+„Jesi tu?“
+
+„Tu sam.“
+
+„Sutra u devet, kod onog. Ne kod prvog, kod onog drugog.“
+
+„Dobro.“
+
+„Je l' bilo mnogo sveta?“
+
+„Bilo je.“
+
+„Eh.“ Čulo se kako pali cigaretu. „Dobro. Sutra u devet.“
+
+Spustio sam.
+
+U sobi sam ugasio veliko svetlo i ostavio ono u hodniku.
+
+Legao sam u odeći.
