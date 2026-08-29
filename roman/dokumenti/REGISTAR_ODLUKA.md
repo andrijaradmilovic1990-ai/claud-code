@@ -602,6 +602,19 @@ kao elegija** — nijedna slika u njemu ne sme da zvuči kao poslednji put.
 - **Sidro u vremenu:** *„Rekli su mi u avgustu da si tu."* — godina dana u istom gradu,
   bez cifre i bez datuma. **Ne zamenjivati brojem.**
 
+### Ime grada — pravilo za celu knjigu *(odluka autora, 29.08.2026)*
+
+**„Beograd" se u tekstu ne pojavljuje nigde, nijednom.** Ime je zapečaćeno i ostaje
+zapečaćeno. **„Beli grad" sme, ali jako retko** — onoliko koliko već stoji u `I` i
+`VII`, i ne više od toga.
+
+*Zatečeno u nacrtu ovog poglavlja i odmah skinuto:* majčino *„Bio je u Beogradu"* na
+kapiji bilo je **jedini pomen stvarnog imena u celom rukopisu.** Zamenjeno sa
+**„Bio je gore"** — bez imena, i jače, jer komšinica prazninu popuni sama.
+
+**Provera pre zatvaranja svakog poglavlja:** `grep -ri beograd roman/poglavlja/` mora
+biti prazno.
+
 ### Šta se ne dira *(Deo 1)*
 
 - **Majka ne pita nijednom i ne prilazi pitanju.** Figura *„zamalo pita pa odustane"*

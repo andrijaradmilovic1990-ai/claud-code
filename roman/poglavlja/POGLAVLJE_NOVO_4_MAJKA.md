@@ -172,7 +172,7 @@ Držala je dlan u visini kuka.
 
 Majka je uzela kesu iz njene ruke i premestila je u svoju, i to je uradila tako da je ženi ruka ostala prazna i podignuta.
 
-„Bio je u Beogradu“, rekla je. „Sad je tu.“
+„Bio je gore“, rekla je. „Sad je tu.“
 
 „A tako.“ Žena je klimnula glavom nekoliko puta. „Vratio se. Dobro je to, i moj se vratio, tamo se ne može. Skupo je.“
 
@@ -237,6 +237,56 @@ Jednom je držala košulju uz svetlo, onu tanku, iz torbe.
 „Jeste.“
 
 Okačila ju je i namestila kragnu prstima, dvaput, iako je već stajala kako treba.
+
+⁂
+
+Prvi sneg je pao u novembru i držao se tri dana, pa se otopio, pa je posle Nove godine pao onaj koji ostaje.
+
+Kuća se grejala na jednu peć i peć je bila u kuhinji.
+
+Vraćao sam se s druge smene oko ponoći i ulazio kroz zadnja vrata da ne lupam kapijom, i jedne noći je u kuhinji gorela lampa i ona je spavala na onom kauču pod prozorom, u trenerci, pokrivena kaputom preko ćebeta.
+
+Stajao sam na vratima duže nego što je trebalo.
+
+Ujutru je sve bilo sklonjeno i kauč je bio kauč.
+
+„Zašto si spavala tu.“
+
+„Nisam spavala tu.“
+
+„Video sam te.“
+
+„Zaspala sam gledajući“, rekla je. „To nije spavanje tu.“
+
+Otvorio sam vrata one druge sobe, njene. Unutra je bilo kao napolju. Krevet zategnut, ništa na njemu izgužvano, i vazduh koji te uhvati za zube.
+
+Zatvorio sam vrata.
+
+„Loži i ovu.“
+
+„Ne treba dve.“
+
+„Loži je.“
+
+„Ko će to da plati“, rekla je, i to nije bilo pitanje nego kraj razgovora, onako kako se u toj kući završavaju razgovori.
+
+„Ja.“
+
+Okrenula se ka sudoperi i pustila vodu, i voda je tekla tanko kao uvek.
+
+Kupio sam ugalj u petak i dovezao ga čovek s prikolicom i istovarili smo ga nas dvojica u šupu, i ja sam mu platio i on je pitao je l' to za celu zimu i ja sam rekao da jeste.
+
+Ona je stajala na vratima kuhinje dok smo istovarali i nije izašla napolje.
+
+„Mnogo je“, rekla je posle.
+
+„Nije.“
+
+„Mnogo je“, rekla je opet, i otišla da spusti nešto na šporet.
+
+Ložili smo obe sobe od tog petka i njena je bila topla svako veče.
+
+Spavala je i dalje u kuhinji.
 
 ⁂
 
