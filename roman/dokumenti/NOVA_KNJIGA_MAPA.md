@@ -32,9 +32,9 @@
 |---|---|---|---|---|
 | **1** | **Susret** | staro `I` | sadašnjost (12 g. posle) | 797 |
 | **2** | **Pukotina** | staro `II` | sadašnjost | 1.574 |
-| **3** | **NOVO 1 — Ulazak** | **novo** | stari svet, početak | ~2.500 |
+| **3** | **NOVO 1 — Ulazak** | **novo** | David ima 15 | **2.181 — NAPISANO** |
 | **4** | **Krv** | staro `III` | stari svet | 1.135 |
-| **5** | **NOVO 2 — Italija** | **novo** | stari svet, vrhunac | ~3.500 |
+| **5** | **NOVO 2 — Italija** | **novo** | David ima 22 | **3.368 — NAPISANO** |
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | ~2.000 |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |

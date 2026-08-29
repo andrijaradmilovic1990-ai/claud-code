@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **28.08.2026.** *(NOVO 2 — Italija napisana i zaključana)*
+> Poslednje ažuriranje: **29.08.2026.** *(NOVO 1 — Ulazak napisan i zaključan; Davidove godine upisane)*
 
 ---
 
@@ -38,8 +38,17 @@ Brojevi ispod su stanje **posle koraka 4.**
 | VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
 | IX | Ćebence | zaključano *(korak 4: 1 prepis)* | 1.571 |
 
+**Nova poglavlja — dva od šest napisana:**
+
+| mesto | Poglavlje | Stanje | reči |
+|---|-----------|--------|------|
+| 3 | **NOVO 1 — Ulazak** | **zaključano 29.08.2026** | **2.181** |
+| 5 | **NOVO 2 — Italija** | zaključano 28.08.2026 | 3.368 |
+
+**Ukupno: 21.067 reči od cilja od oko 30.500.** Ostaju četiri nova poglavlja.
+
 Nijedna reč sa spiska iz Dela 1 nije preko praga ni u jednom poglavlju.
-**Formula je 3 od 3 i proverena u svih devet** — vidi niže.
+**Formula je 3 od 3 i proverena u svih jedanaest** — vidi niže.
 
 **Sve živi na jednoj grani.**
 
@@ -205,42 +214,34 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 | **7** | **NOVO 3 — Prelom** | | 15 | Ćebence *(staro IX)* |
 | 8 | Nestanak *(staro V)* | | | |
 
+### Napisano — NOVO 2 (Italija) i NOVO 1 (Ulazak)
+
+Obe su **zaključane**, sa svim odlukama upisanim u `REGISTAR_ODLUKA.md`,
+**sekcija 8 (Italija)** i **sekcija 9 (Ulazak)**.
+
+**Hronologija je zaključana 29.08.2026 — David danas ima 36.** Puna tablica od rođenja
+do sadašnjosti je u `SVET_I_LIKOVI_1`, sekcija HRONOLOGIJA, i **ne pomera se bez
+otvaranja `Italije`** (ona je šesta godina dolazaka i to zaključava ulazak na ≤ 16).
+
+**Pouka iz Ulaska, upisana da se ne ponovi.** Poglavlje je pisano **četiri puta**, i
+prva tri nacrta pala su iz istog razloga: **pisao sam hroniku umesto scena.**
+`PRAVILA_STILA`, fora 6, to već zabranjuje — *„prošlost se piše kao SCENA… NIKAD
+monolog ja sam bio ovo, radio ono."* **Hronika je odobrena samo za `Nestanak`.**
+Nova poglavlja idu u **scenama s dijalogom**, i to se proverava pre prve rečenice.
+
 ### Sledeći korak — PISANJE
 
-**`NOVO 2 — Italija` je NAPISANA I ZAKLJUČANA 28.08.2026. 3.368 reči.**
-Fajl: `poglavlja/POGLAVLJE_NOVO_2_ITALIJA.md`.
+**Ostaju četiri nova poglavlja:**
 
-Struktura je ispoštovana: toplo → tuča → zdravica → odbijanje.
+| mesto | poglavlje | reči | stanje |
+|---|---|---|---|
+| **7** | **NOVO 3 — Prelom** | ~2.000 | **jedna odluka visi:** je li to sahrana i čija |
+| **9** | **NOVO 4 — Majka** | ~2.000 | spremno — David ima 25, doselio se kod majke |
+| **10** | **NOVO 5 — Fabrika** | ~2.500 | spremno — David ima 32, upoznaje Katarinu |
+| **14** | **NOVO 6 — Maska** | ~2.500 | sadašnjost, David ima 36 |
 
-**Odluke koje su pale u toku pisanja — sve autorove:**
-
-- **Bez okvira sadašnjosti.** Italija počinje i završava u Italiji. Razlog: Krv stoji
-  tačno pre nje i već nosi zaron iz kuhinje; drugi zaredom bio bi figura. Šav radi kroz
-  isti predmet obrnut — Krv se zatvara na vratima koja David gleda jer su zatvorena,
-  Italija se otvara na vratima koja se ne zaključavaju. Izlaz isto: Italija se završava
-  ćutanjem kod vrata, Pariz odmah zatim počinje okretanjem na tuđe ime.
-- **Andrijana i Nataša su u kadru. Jovana nije.** Odluka autora. Jovana bi se sudarila
-  s Anjom uživo i poglavlje bi postalo o tome koju bira. Andrijana se te večeri muva
-  s Ninom — potvrđuje Pariz bez ijedne izmene.
-- **Krađa iz zajebancije ušla** — Nataša krade naočare koje joj ne trebaju. Baka joj
-  kaže *„Queste non le hai pagate."* i ona ih vraća u torbu; uveče ih Nataša stavi baki
-  na glavu i baka ih nosi do kraja večeri.
-- **Baka govori doslovno na italijanskom, sedam replika, nijedna prevedena u tekstu.**
-  Anja jednom prevede, dvaput odbije, jednom se smeje. Čitalac stoji tačno gde David.
-- **Nema magacina.** Tuča ide u zatvorenu restoransku kuhinju — isti nerđajući čelik
-  koji je David dva sata ranije gledao kod bake, hladan i prazan.
-- **Zdravica je ušla gotovo cela**, ali prelomljena — Sale upada, Toni ga lupi po
-  potiljku, baka dobaci *„Parla, parla. Intanto si fredda tutto."*
-- **Kraj:** Anja traži da ostane, David ćuti, ona kaže „Dobro" i *„Nemoj više da dolaziš
-  u sredu."* Pa se prvi put okrene ključ. Andrijana i Nataša ostaju do subote — **David
-  jedini odlazi.**
-- **Meso.** Baka ga uči da se ne gnječi prstima. U Krvi, dvanaest godina kasnije, on to
-  radi baš tako i to ga odnese u magacin. **Nijedno slovo Krvi nije dirano.**
-
-**Pariz razmotren za otvaranje i NIJE otvoren** — pitanje autora, odgovor upisan u
-registar, sekcija 8. Razlika između Pariza i Italije je funkcija, ne kvar.
-
-**Sledeće na redu: `NOVO 1 — Ulazak` (mesto 3, ~2.500 reči).**
+**Redosled pisanja je odluka autora.** Po knjizi je sledeći `Prelom`, ali on jedini nosi
+neodlučenu stvar; `Majka` i `Fabrika` su posle hronologije potpuno određene.
 
 ### Tri odluke koje padaju u toku pisanja, ne pre
 
@@ -297,8 +298,12 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Mapa nove knjige je ZAKLJUČANA. Sledeći korak je PISANJE — poglavlje
-NOVO 2, Italija.
+Nastavi. Ulazak (NOVO 1) je NAPISAN, ZAKLJUČAN i NA GLAVNOJ GRANI — 2.181 reč,
+fajl roman/poglavlja/POGLAVLJE_NOVO_1_ULAZAK.md. Ne otvara se. Isto i Italija
+(NOVO 2), 3.368 reči.
+
+Sledeći korak je PISANJE — poglavlje NOVO 3, PRELOM. Mesto 7 u mapi, između
+Pariza i Nestanka. Oko 2.000 reči.
 
 PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   git fetch -q origin
@@ -312,77 +317,66 @@ Ako nešto ispliva — NE mergovati na slepo. Uporedi izmenu po izmenu i javi mi
 
 Zatim pročitaj, tim redom:
   roman/NASTAVAK.md
-  roman/dokumenti/NOVA_KNJIGA_MAPA.md        ← zaključana mapa
-  roman/dokumenti/NOVA_KNJIGA_IDEJE.md       ← zid, dugovi, građa
-  roman/dokumenti/REGISTAR_ODLUKA.md         ← šta se ne dira
-  roman/dokumenti/PRAVILA_STILA.md           ← zanat
-  roman/dokumenti/IDEJE_ZA_KORAK_3.md        ← moj tekst zdravice, doslovno
+  roman/dokumenti/NOVA_KNJIGA_MAPA.md
+  roman/dokumenti/NOVA_KNJIGA_IDEJE.md
+  roman/dokumenti/REGISTAR_ODLUKA.md      ← sekcije 8 i 9 su nove
+  roman/dokumenti/SVET_I_LIKOVI_1.md      ← HRONOLOGIJA, Davidove godine
+  roman/dokumenti/PRAVILA_STILA.md
+  roman/poglavlja/POGLAVLJE_NOVO_1_ULAZAK.md   ← glas mora da se nastavi
 
 Ne prepričavaj mi šta u njima piše.
 
 ── ŠTA SE RADI ──
 
-Piše se ITALIJA — poglavlje 5 u novoj mapi, između Krvi i Pariza. Oko 3.500 reči.
+PRELOM. Dan pre nestanka. David ima 24.
 
-Struktura je zaključana i redosled je jedini koji radi:
-  toplo → tuča → zdravica → odbijanje
+Plaća prazno mesto 6. Sam prelom se NE VIDI — knjiga nikad ne kaže šta je tačno
+prelilo čašu i to ostaje tako, jer bi to bila rupa, ne napetost. Poglavlje ne
+otkriva ŠTA, nego pokazuje KAKO IZGLEDA ČOVEK U POSLEDNJEM DANU.
 
-- Anja, njena baka, ekipa, ćufte, smeh. David tamo REDOVNO ide, to mu je drugi dom,
-  pa nema upoznavanja i nema objašnjavanja ko je ko — ulazi kao svoj.
-- Frka oko robe. Čovek ga pokušava namagarčiti, skupi ekipu, odu kod njega, izlupaju
-  ga — i Davida izlupaju prilično dobro.
-- Svi za sto, zdravica. Moj tekst stoji doslovno u IDEJE_ZA_KORAK_3.md.
-- Pa, kod vrata, poslednji razgovor s Anjom. Anja to IZGOVORI — David ćuti. Ne
-  potvrdi, ne porekne, ne objasni. Prvi put u knjizi njegovo ćutanje ne vara nikoga.
-
-Anja je ljubav iz tog sveta koju David odbija zbog posla. Andrijana je ljubavnica,
-to je druga stvar. Baka je Anjina — odbijanjem Anje David gubi i nju, i gubi kuću u
-koju je mogao da dođe. Naplaćuje se u istoj sceni.
-
-Zdravica se sama naplaćuje: David drži govor o porodici i pripadanju, pa deset
-minuta kasnije odbije ženu koja mu tačno to nudi. Ništa to ne sme da imenuje.
+JEDNA ODLUKA VISI I PADA PRE PRVE REČENICE: je li Prelom sahrana u starom svetu
+— i ako jeste, čija. Knjiga nema nijedan ritual, a sahrana bi dala Godfather
+registar u čistom kadru: obred u jednoj sobi, posao u drugoj, ko koga grli i ko
+prilazi Davidu dok se grob zatrpava. Pitaj me to prvo, jednim pitanjem.
 
 ── ŠTA VAŽI ──
 
-ZID: David kao izvršilac se i dalje ne pokazuje. Sve ostalo sme — kuća, sto, ekipa,
-tuča, porodica, smeh. Ali ne šta on tačno radi i za koga. Roba se ne imenuje.
+FORMA: poglavlje se piše u SCENAMA S DIJALOGOM. Ne hronika, ne pripovedanje.
+PRAVILA_STILA fora 6 to već traži, a Ulazak je zbog toga pisan četiri puta.
+Hronika je odobrena SAMO za Nestanak. Proveri to pre prve rečenice, ne posle.
 
-KARAKTER: u Italiji je STARI David — dominantan, lako besan, i nijednom ranjiv.
-Ranjivost ga plaši, i zato Anja prolazi neodgovorena. Low key je tek posle.
+Ne opisuj mnogo. Ljudi govore i mrdaju, jedna stvar se odvija u sobi.
 
-Ljubav se ne izgovara — pokazuje se kroz to ko sedi gde, ko koga vozi, ko čije dete
-drži. Nasilje ostaje van kadra. Bez potpisa na kraju pasusa. Formula „to je bila
-cela X" je 3 od 3 i ne sme se pojaviti.
+ZID: David kao izvršilac se i dalje ne pokazuje. Roba se ne imenuje. Heroin je
+pao tačno jednom, u Ulasku, i više nigde.
 
-Skidanje objašnjenja NE znači kraća rečenica — telegrafski registar je odbijen kao
-sterilan. Moj glas su duge rečenice koje se lepe veznikom.
+HRONOLOGIJA JE ZAKLJUČANA. David danas ima 36; u Prelomu ima 24. Tablica je u
+SVET_I_LIKOVI_1. Ne pomerati je — Italija je šesta godina dolazaka i to drži sve.
 
-PRAVILO K: svaka rečenica napisana u moje ime čeka izričito „da", jedno po jedno.
-Blanko „da" se ne prima. Mehanika ide bez pitanja i prijavljuje se posle.
+Ljubav se ne izgovara. Nasilje van kadra. Bez potpisa na kraju pasusa. Formula
+„to je bila cela X" je 3 od 3 i ne sme se pojaviti. David ne psuje i NE LAŽE —
+izostavlja.
 
-Devet postojećih poglavlja su zaključana. Registar važi u punom obimu. Nijedno se ne
-otvara zbog nove knjige dok ne kažem „otvaram" tom rečju.
+OKVIR: Krv i Pariz imaju okvir sadašnjosti, Ulazak i Italija nemaju. Odluči sam
+i reci mi razlog pre nego što počneš.
 
-Fajlovi poglavlja ne završavaju prelomom reda — proveri alatom koji stvarno radi, iz
-pravog direktorijuma, i proveri ISHOD komande, ne samo izlaz (`od -An -c` na
-poslednjem bajtu radi; xxd ne postoji). Prazan izlaz grepa nije dokaz — dvaput je
-već prevario.
+PRAVILO K: svaka rečenica napisana u moje ime čeka izričito „da". Ako tražim celo
+poglavlje odjednom — napiši ga na granu kao nacrt, pošalji mi da čitam, i NE
+mergaj dok ne kažem da valja. Mehanika ide bez pitanja i prijavljuje se posle.
 
-Poglavlje se ne locira po naslovu. Beli grad se zove po gradu u koji junak putuje,
-ne po gradu u kom se dešava.
+Devet postojećih poglavlja + Italija + Ulazak su zaključani. Registar važi u punom
+obimu. Nijedno se ne otvara dok ne kažem „otvaram" tom rečju.
 
-── ŠTA OSTAJE DA SE ODLUČI U TOKU ──
-
-- Koliko od mog teksta zdravice ulazi doslovno.
-- Prelom (poglavlje 7) — je li to sahrana i čija. Ne sada.
-- Majka (poglavlje 9) — vraća li se kasnije. Ne sada.
+Fajlovi poglavlja ne završavaju prelomom reda — proveri `od -An -c` na poslednjem
+bajtu, iz pravog direktorijuma, i proveri ISHOD komande, ne samo izlaz. xxd ne
+postoji. Prazan izlaz grepa nije dokaz. Broj reči se meri sa `wc -w`.
 
 ── GIT ──
 
 Nema pretplate na PR i nema samoprovera; ako se pretplata sama upali, ugasi je.
 
 MERGE IDE NA KRAJU SVAKOG RAZGOVORA. Draft PR ne važi kao sačuvano. Pre kraja:
-napravi PR, merguj ga, pa proveri da je razlika prema glavnoj grani prazna.
+napravi PR, merguj ga, pa proveri da je razlika prema glavnoj prazna.
 
 Piši kratko. Kratke rečenice, u crtama. Jedno po jedno pitanje, nikad više od
 jednog. Ne šalji mi knjigu na čitanje.

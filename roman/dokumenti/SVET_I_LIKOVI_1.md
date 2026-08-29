@@ -194,6 +194,24 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - `II 71` — Andrijana ima **majku i baku u Davidovom rodnom gradu.** Poklapa se s tim što
   ritual jednom godišnje pada baš tamo.
 
+### ŠTA JE UPISANO IZ `ULASKA` *(29.08.2026, odluke autora)*
+
+- **Brat je brat od tetke**, odrastao momak kad je David sa 6 došao. Teča i tetka su se
+  razišli, pa je David ostao s njim. **Nije bio iz tog sveta** — *„Nije bio moj. Radio je
+  za jedne budale kojih više nema."*
+- **David ga je našao.** Odškrinuta vrata. **Heroin.** David je imao 14.
+- **David se heroinom nikad nije bavio.** To je jedini uslov koji je ikad postavio, i
+  postavio ga je prve večeri. **Roba kojom se jeste bavio se nigde ne imenuje.**
+- **Zvezdan je nekad bio u tom svetu pa je izašao.** Ima mnogo para, pa ih ima i Jovana.
+  **Jovana kupuje stan u kom njih troje kasnije žive — oko 17–18, ne ranije.**
+- **Sa 15 David nema svoju adresu:** kod Jovane (kuća njenog oca), kod Andrijane i njene
+  majke, i sam u bratovom stanu koji niko nije uzeo.
+- **Andrijana pravi prve prave poteze sa 17–18**, ne ranije. Do tada se samo oseti smer.
+- **David je trenirao fudbal od šeste**, i prestao je sa 15 — ne od tuge nego od
+  pripadanja. `I 31` (*„Ja radim fizički posao… Leđa me bole uveče"*) time dobija dno.
+- **Čovek iznad Davida je Italijan, nema ime, i nije Zvezdan.** On je razlog zbog kog
+  David **sa 16 počinje da ide u Italiju.**
+
 **Krvni srodnici — prazno mesto 2 se prepolovilo.** Nalaz *„David nema nijednog krvnog
 srodnika"* i dalje važi **za tekst**: knjiga zaista ne pokazuje nijednog. Ali **svet ih
 sada ima** — majka, teča, tetka, brat od tetke. Rupa ima dno.
