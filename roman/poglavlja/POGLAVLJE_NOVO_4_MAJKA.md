@@ -242,51 +242,47 @@ Okačila ju je i namestila kragnu prstima, dvaput, iako je već stajala kako tre
 
 Prvi sneg je pao u novembru i držao se tri dana, pa se otopio, pa je posle Nove godine pao onaj koji ostaje.
 
-Kuća se grejala na jednu peć i peć je bila u kuhinji.
+Kod nje je uvek bilo prevruće.
 
-Vraćao sam se s druge smene oko ponoći i ulazio kroz zadnja vrata da ne lupam kapijom, i jedne noći je u kuhinji gorela lampa i ona je spavala na onom kauču pod prozorom, u trenerci, pokrivena kaputom preko ćebeta.
+Peći na struju u obe sobe i u hodniku još jedna, i sve tri rade, i ona u tome sedi u džemperu.
 
-Stajao sam na vratima duže nego što je trebalo.
+Prve noći sam otvorio prozor na dva prsta jer nisam mogao da spavam. Ujutru je bio zatvoren i ja se nisam probudio kad ga je zatvarala.
 
-Ujutru je sve bilo sklonjeno i kauč je bio kauč.
+„Ne otvaraj.“
 
-„Zašto si spavala tu.“
+„Ne mogu da dišem.“
 
-„Nisam spavala tu.“
+„Dišeš ti“, rekla je. „Nego si navikao na hladno. To prođe.“
 
-„Video sam te.“
+Nije prošlo, ali sam prestao da otvaram.
 
-„Zaspala sam gledajući“, rekla je. „To nije spavanje tu.“
+Račun je došao u februaru i ja sam ga video na stolu kad sam ušao, i ona ga je uzela pre nego što sam stigao do njega i stavila ga u onu fioku u kojoj drži konce.
 
-Otvorio sam vrata one druge sobe, njene. Unutra je bilo kao napolju. Krevet zategnut, ništa na njemu izgužvano, i vazduh koji te uhvati za zube.
+„Šta je to.“
 
-Zatvorio sam vrata.
+„Ništa. Struja.“
 
-„Loži i ovu.“
+„Daj da vidim.“
 
-„Ne treba dve.“
+„Nemoj da diraš tu fioku“, rekla je, i otišla u kuhinju.
 
-„Loži je.“
+Sačekao sam da ode do prodavnice i otvorio sam fioku.
 
-„Ko će to da plati“, rekla je, i to nije bilo pitanje nego kraj razgovora, onako kako se u toj kući završavaju razgovori.
+Bilo ih je pet, jedan preko drugog, poređani po datumu, i svaki je bio veći od prethodnog. Na poslednjem je pisalo i nešto što se plaća zato što prethodni nije plaćen na vreme.
 
-„Ja.“
+Vratio sam ih kako su stajali i zatvorio fioku.
 
-Okrenula se ka sudoperi i pustila vodu, i voda je tekla tanko kao uvek.
+Uveče sam ostavio pare na stolu, pod solju.
 
-Kupio sam ugalj u petak i dovezao ga čovek s prikolicom i istovarili smo ga nas dvojica u šupu, i ja sam mu platio i on je pitao je l' to za celu zimu i ja sam rekao da jeste.
+Nije ih pomenula te večeri, ni sutradan. Stajale su tu i mi smo pored njih jeli dva dana.
 
-Ona je stajala na vratima kuhinje dok smo istovarali i nije izašla napolje.
+Trećeg dana ih nije bilo i so je stajala kako stoji.
 
-„Mnogo je“, rekla je posle.
+„Gasi bar onu u hodniku“, rekao sam. „Tamo niko ne sedi.“
 
-„Nije.“
+„Gasim je“, rekla je.
 
-„Mnogo je“, rekla je opet, i otišla da spusti nešto na šporet.
-
-Ložili smo obe sobe od tog petka i njena je bila topla svako veče.
-
-Spavala je i dalje u kuhinji.
+Nije je gasila.
 
 ⁂
 
