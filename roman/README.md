@@ -22,8 +22,9 @@ Idi na **[`NASTAVAK.md`](NASTAVAK.md)**. To je jedini ulaz — gde je revizija s
 Devet postojećih ostaje netaknuto i u istom redosledu; **šest novih se umeće između
 njih.** Zaključana mapa: `dokumenti/NOVA_KNJIGA_MAPA.md`.
 
-**Napisano do sada: 25.464 reči.** Pet novih poglavlja postoji — četiri zaključana
-(`Ulazak`, `Italija`, `Prelom`, `Majka`) i jedno u radu (`Fabrika`, Deo 1 unet).
+**Napisano do sada: 26.351 reč — četrnaest od petnaest poglavlja.** Pet novih
+poglavlja postoji i **svih pet je zaključano** (`Ulazak`, `Italija`, `Prelom`, `Majka`,
+`Fabrika`). Ostaje samo **`Maska`**.
 
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
@@ -45,12 +46,19 @@ njih.** Zaključana mapa: `dokumenti/NOVA_KNJIGA_MAPA.md`.
 | 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 | zaključano |
 | 7 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.791 | zaključano |
 | 9 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 | zaključano |
-| 10 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.024 | **u radu — Deo 1** |
+| 10 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 | zaključano |
 | 14 | *(nije napisano)* | Maska | — | predstoji |
 
 **23.08.2026.** je stari VII (5.896 reči, 38% knjige) podeljen na **VII — Beli grad**
 i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**. Zapisi stariji
 od tog datuma koji kažu „VIII" misle na Ćebence.
+
+**30.08.2026.** je `Fabrika` zaključana i **hronologija preračunata**: David je 1990.
+godište, **danas ima 35** (36 puni u oktobru). Tablica je do tada vodila 36 i ceo niz je
+stajao godinu previsoko; otkrilo ga je to što s Katarinom ima **tri godine**, a ne
+četiri. **Nijedna rečenica u knjizi nije promenjena** — sve cifre u tekstu se slažu s
+novom tablicom bolje nego sa starom. Puna tablica: `dokumenti/SVET_I_LIKOVI_1.md`;
+razlog i provere: `dokumenti/REGISTAR_ODLUKA.md`, sekcija 14.
 
 **28.08.2026.** je odrađen **korak 4** — rad na celoj knjizi po CILJU. Uneto dvanaest
 izmena u osam od devet poglavlja (I nije diran) i **jedna nova scena na početku IV**,
@@ -90,6 +98,9 @@ autor rečju „otvaram".
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
 | `dokumenti/PRAVILA_STILA.md` | zanat — kako se piše | kad se piše rečenica |
 | `dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta | kad se proverava činjenica |
+| `dokumenti/NOVA_KNJIGA_MAPA.md` | **zaključana mapa od petnaest poglavlja** | pre otvaranja novog poglavlja |
+| `dokumenti/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
+| `dokumenti/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
 | `dokumenti/IDEJE_ZA_KORAK_3.md` | odložene ideje autora — **nisu odluke** | kad autor kaže „otvaram" |
 | `dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — istorija, ne registar | kad treba znati *zašto* je nešto tako |
 
@@ -109,6 +120,9 @@ Puni tekst u `CLAUDE.md` u korenu repoa. Ukratko:
 - **G** — ako se dvoumiš, ne diraj.
 - **J** — rez nije prolaz; najmanje trećina **unetog** mora biti napisana rečenica.
 - **P** — dug se plaća unapred, nikad unazad.
+
+**Dva radna pravila, upisana 30.08.2026:** dokumenti se čitaju **celi** pre pisanja, ne
+po sekcijama · tekst poglavlja se šalje **kao `.md` fajl**, ne u razgovor.
 
 ---
 

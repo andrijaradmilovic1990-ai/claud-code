@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **30.08.2026.** *(NOVO 5 — Fabrika: Deo 1 unet i odobren; Deo 2 ostaje)*
+> Poslednje ažuriranje: **30.08.2026.** *(NOVO 5 — Fabrika ZAKLJUČANA · hronologija preračunata: David danas 35)*
 
 ---
 
@@ -46,9 +46,9 @@ Brojevi ispod su stanje **posle koraka 4.**
 | 5 | **NOVO 2 — Italija** | zaključano 28.08.2026 | 3.368 |
 | 7 | **NOVO 3 — Prelom** | zaključano 29.08.2026 | 1.791 |
 | 9 | **NOVO 4 — Majka** | **zaključano 29.08.2026** | **1.571** |
-| 10 | **NOVO 5 — Fabrika** | **U RADU — Deo 1 unet i odobren 30.08.2026** | **1.024** |
+| 10 | **NOVO 5 — Fabrika** | **zaključano 30.08.2026** | **1.911** |
 
-**Ukupno: 25.464 reči od cilja od oko 30.500.** Ostaju **Deo 2 `Fabrike`** i **`Maska`**.
+**Ukupno: 26.351 reč od cilja od oko 30.500.** Ostaje **jedno poglavlje: `Maska`.**
 
 > **Kako se zbir meri.** Po fajlu, običnim `wc -w` **u shellu**, pa se sabere.
 > **Ne meriti pozivom iz `python3` (`subprocess`)** — on nasleđuje drugi lokal i daje
@@ -224,23 +224,24 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 | **7** | **NOVO 3 — Prelom** | | 15 | Ćebence *(staro IX)* |
 | 8 | Nestanak *(staro V)* | | | |
 
-### Napisano — Italija, Ulazak, Prelom i Majka
+### Napisano — Italija, Ulazak, Prelom, Majka i Fabrika
 
-Sva četiri su **zaključana**, sa svim odlukama upisanim u `REGISTAR_ODLUKA.md`,
-**sekcija 8 (Italija)**, **9 (Ulazak)**, **10 (Prelom)** i **11 (Majka)**.
+Svih pet je **zaključano**, sa svim odlukama upisanim u `REGISTAR_ODLUKA.md`,
+**sekcija 8 (Italija)**, **9 (Ulazak)**, **10 (Prelom)**, **11 (Majka)** i
+**13 (Fabrika)**.
 
 **Tri činjenice sveta upisane 29.08.2026, uz `Majku`:**
 
 1. **David nema vozačku dozvolu** — nikad je nije imao, vozi bez nje **i danas.**
    Zatvara unazad `Krv` (Jovana za volanom), `Nestanak` i `Kukavicu` (autobus).
    **Nijedno staro poglavlje se zbog toga ne dira** (Pravilo P).
-2. **Majka oboli od raka sa Davidovih 32**, iste godine kad upoznaje Katarinu.
-   **Preživi, i živa je u sadašnjosti knjige.**
+2. **Majka oboli sa Davidovih 32**, iste godine kad počinje veza s Katarinom.
+   **Preživi, i živa je u sadašnjosti knjige.** *(Reč „rak" se u tekstu ne izgovara.)*
 3. **Ne greje se na ugalj i ne voli hladnoću.**
 
-**Naplata majke je zatvorena: pada u `Fabrici`** — rak, PET skener u Belom gradu (ona
-vozi, on ne sme), i **Nataša na kafi kod parka** dok čeka da ona završi. To viđenje je u
-`SVET_I_LIKOVI_1` stajalo i pre ove sesije; sada ima godinu i telo. **Duga nema.**
+**Naplata majke je izvršena: napisana je u `Fabrici`, Deo 2** — bolest (reč se ne
+izgovara), skener gore (ona vozi, on ne sme), i **Nataša na kafi kod parka** dok čeka da
+ona završi. **Duga nema.**
 
 ### IME GRADA — pravilo za celu knjigu *(odluka autora, 29.08.2026)*
 
@@ -250,9 +251,21 @@ Zatečeno u nacrtu `Majke` i odmah skinuto — bio je to **jedini pomen stvarnog
 celom rukopisu.** **Provera pre zatvaranja svakog poglavlja:**
 `grep -ri beograd roman/poglavlja/` mora biti prazno.
 
-**Hronologija je zaključana 29.08.2026 — David danas ima 36.** Puna tablica od rođenja
-do sadašnjosti je u `SVET_I_LIKOVI_1`, sekcija HRONOLOGIJA, i **ne pomera se bez
-otvaranja `Italije`** (ona je šesta godina dolazaka i to zaključava ulazak na ≤ 16).
+**HRONOLOGIJA PRERAČUNATA 30.08.2026 — David je 1990. godište, danas ima 35, a
+trideset šestu puni u oktobru.**
+
+Tablica je do tada vodila **36**, i ceo niz je stajao godinu previsoko. Otkrila je to
+autorova činjenica: **s Katarinom je prošlog meseca bilo tri godine**, a sa 36 bi
+ispalo četiri.
+
+**Nijedna rečenica ni u jednom poglavlju nije promenjena** — sve cifre u tekstu se
+slažu s novom tablicom bolje nego sa starom. **`Fabrika` ostaje na 32** (na njoj visi
+*„Sedmu godinu"* i tri godine veze); pomerila se sadašnjost, i s njom niz: magacin,
+Italija i Pariz na **21**, Prelom i Nestanak na **23**, Majka na **24**, Prazna stolica
+na **33**, Beli grad i Kukavica na **34**.
+
+Puna tablica i sve provere: `SVET_I_LIKOVI_1`, sekcija HRONOLOGIJA, i
+`REGISTAR_ODLUKA.md`, **sekcija 14**. **Ne pomera se bez izričitog „otvaram".**
 
 **Pouka iz Ulaska, upisana da se ne ponovi.** Poglavlje je pisano **četiri puta**, i
 prva tri nacrta pala su iz istog razloga: **pisao sam hroniku umesto scena.**
@@ -306,35 +319,43 @@ dijalogu iz koje čitalac sam sabere gde je u vremenu.
 **Sadržaj s godinama uz naslove, na kraju knjige**, ostaje dozvoljen — tekst time ostaje
 čist, a čitalac ima gde da proveri ako se izgubi.
 
-### Sledeći korak — `FABRIKA`, DEO 2
+### Sledeći korak — `MASKA`, poslednje poglavlje
 
-**`Fabrika` je otvorena i Deo 1 je unet i odobren** (1.024 reči, osam scena).
-**Poglavlje NIJE zaključano** — ostaje Deo 2.
+**Četrnaest poglavlja od petnaest je napisano. Ostaje samo `NOVO 6 — Maska`, mesto 14,
+~2.500 reči.** Posle nje: prolaz kroz šavove, pa noir prolaz kroz ceo roman.
 
-**Deo 1, šta stoji u tekstu:** linija i traka koja ne staje · ruka u vazduhu za toalet ·
-vika koja ništa ne pomera · **poslovođa viče, David kaže „Dobro. Uradiću."** ·
-klupa i njen drugi kraj · njeno *„Kod nekog?" / „Kod majke."* · **slikanje za pedeseti
-rođendan i „Ne slika se on"** · kuhinja kod majke, deset reči do podneva · **autobus,
-poruka *„kolega može da sedneš pored mene"*, on ustane i sedne napred.**
+**Šta `Maska` plaća: DUG 1** — sadašnjost mora nositi opasnost, **kao scena.**
 
-**Deo 2 — šta ga čeka** *(sve zaključano 29.08. i 30.08.)*:
+**Šta radi.** Sadašnji život je bezbedan pa je statičan i služi kao okvir za sećanja.
+**Ovde se u sadašnjosti nešto stvarno dešava, i održavanje maske košta.** Poslednje
+mesto pre `Ćebenceta` i jedino gde se čitalac vraća u sadašnjost pre kraja — cena se
+plaća **neposredno pre** nego što David donese poslednju odluku.
 
-- **Majka oboli od raka te iste godine.** David saznaje **jer živi s njom.** Preživi.
-- **PET skener u Belom gradu. Kola pozajmljena od kućnog prijatelja. ONA VOZI** — David
-  nema dozvolu i nema je ni danas.
-- **Nataša na kafi kod jednog parka**, dok čeka da majka završi. **Lepo, čisto, bez
-  tereta. Van rituala** — ritual pada u Davidovom rodnom gradu, ovo je tuđi.
-- **Katarina se ne sme pisati kao utešna nagrada.** Dubinu dobija potezima.
+**Tri zabrane, sve tri upisane i nijedna nije pala:**
 
-**Okvir je odlučen: bez kadra sadašnjosti**, isto kao `Ulazak`, `Prelom` i `Majka`.
-Razlog: kuhinjski okvir s Katarinom već stoji u `III`, `IV` i `V` — četvrti put je
-figura; a poglavlje već nosi dva sloja u sebi.
+1. **Strah se ne montira u postojeću rečenicu** — ovo je scena, ne dopuna.
+2. **Nema trilerske ivice.** Niko ne mora da puca.
+3. **Katarina ne sumnja i ne proverava.** Njen luk to zabranjuje do samog kraja.
 
-**Sidro u vremenu je u Delu 1:** *„Sedmu godinu."* — iz `Majke` (doselio se kod nje sa
-25) čitalac sam sabere 32.
+**Šta joj stoji na raspolaganju, već upisano:**
 
-**Građa od autora za ovo poglavlje: `dokumenti/GRADJA_FABRIKA.md`.** Radni fajl; kad se
-poglavlje zatvori, ono što je odluka seli se u registar.
+- **G4 — zvonce nad vratima** iz `Susreta` koje se vraća neprijatnije. **Samo ovde i
+  samo jednom** — tri puta bi bila figura. Retroaktivno se ne dopisuje.
+- **G5 — miris starog duvana** kao upad prošlosti u čist stan. **Bez halucinacije** —
+  to vodi u triler i udara u zabranu 2. Miris na njegovom kaputu posle poziva — sme.
+- **G1 — porodica malim slovom protiv Porodice velikim:** šta košta držati ovaj život.
+- **G9 — mera:** čim Davidov potez postane želja za moći umesto odgovornosti, čitalac
+  ga gubi. Prag pred `Masku`, ne scena.
+- **IDEJA 4 — pravi strah.** Puna verzija udara u sve tri zabrane; pravac koji ne dira
+  nijednu je **dati Malom još jedan topao pokret pre `Preloma`.** **Ne radi se dok
+  autor ne odluči.**
+
+**Odluke koje još nisu pale:** okvir (ima li kadar sadašnjosti — `Maska` **jeste**
+sadašnjost, pa je pitanje drugačije nego kod prethodnih pet) · sidro u vremenu ·
+koliko od autorovog teksta zdravice ulazi doslovno *(staro, i dalje otvoreno)*.
+
+**Građa od autora još ne postoji.** `GRADJA_FABRIKA.md` je radni fajl `Fabrike` i
+ostaje kao istorija tog poglavlja.
 
 ### Odluke koje padaju u toku pisanja, ne pre
 
@@ -363,6 +384,9 @@ poglavlje zatvori, ono što je odluka seli se u registar.
 - **Bez potpisa na kraju pasusa.**
 - **Formula je 3 od 3** — nijednom u novim poglavljima.
 - **Fajl ne završava prelomom reda.**
+- **David voli da pije kafu sam, ujutru ili preko dana** *(autor, 30.08.2026)*. Navika,
+  ne oprez — **iz dnevnog svetla se ne izvodi ništa** i niko ga zbog toga ne zadirkuje.
+- **Dokumenti se čitaju celi pre pisanja**, uz ulazni list po Pravilu H.
 
 **U postojećih devet ništa ne visi.** Zaključana su, dugova nema, registar važi u punom
 obimu.
@@ -392,9 +416,15 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
   daje **veći** broj na istom fajlu (Susret: 797 naspram 805) jer drugačije lomi reči oko
   navodnika i crta. **Svi brojevi u knjizi su u prvom standardu.** *(Zatečeno 29.08.2026
   — jedan prolaz je izmešao dva merenja i dobio pogrešan zbir.)*
-- **Zbir svih trinaest napisanih poglavlja je 24.440.** Zbir devet starih je **15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
+- **Zbir svih četrnaest napisanih poglavlja je 26.351.** Zbir devet starih je **15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
   tabela se sabirala na 15.521. Ispravljeno po Pravilu E.
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
+- **Dokumenti se čitaju CELI pre pisanja, ne po sekcijama** *(upisano 30.08.2026)*.
+  Deo 2 `Fabrike` je pisan sa šest fajlova čitanih parcijalno, i tri greške su ušle u
+  tekst: pogrešno ime kućnog prijatelja, obrnuta vožnja, i pomen Jovane koji hronologija
+  ne dozvoljava. **Uz to ide ulazni list po Pravilu H, pre prve rečenice.**
+- **Tekst poglavlja se šalje kao `.md` fajl, ne u razgovor** *(odluka autora,
+  30.08.2026)*.
 - **Nema PR-ova posle svake izmene** — commit kako ide, jedan PR i merge **na kraju
   svakog razgovora.** Poglavlje nije zatvoreno dok rad nije na glavnoj grani; draft PR
   ne važi kao sačuvano. **Prvo u novom chatu: proveri ima li grana s neuvezanim radom.**
@@ -404,11 +434,10 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Poglavlje NOVO 5 — FABRIKA je otvoreno i DEO 1 JE UNET I ODOBREN.
-Fajl: roman/poglavlja/POGLAVLJE_NOVO_5_FABRIKA.md, 1.024 reci, osam scena.
-Poglavlje NIJE zakljucano. Sledeci korak je DEO 2 istog fajla.
-
-Ukupno 25.464 reci od cilja od oko 30.500. Sve je na glavnoj grani.
+Nastavi. FABRIKA (NOVO 5) je ZAKLJUCANA — 1.911 reci, osamnaest scena.
+Napisano je cetrnaest od petnaest poglavlja, 26.351 rec od cilja od oko 30.500.
+Ostaje SAMO jedno poglavlje: NOVO 6 — MASKA, mesto 14, ~2.500 reci.
+Sve je na glavnoj grani.
 
 PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   git fetch -q origin
@@ -420,49 +449,72 @@ PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   done
 Ako nesto ispliva — NE mergovati na slepo. Uporedi izmenu po izmenu i javi mi.
 
-Zatim procitaj, tim redom:
+ZATIM PROCITAJ SVE DOKUMENTE, CELE, PRE NEGO STO NAPISES IJEDNU RECENICU.
+Ne po sekcijama — cele. Ovo je pravilo, ne preporuka: 30.08. su tri greske
+usle u tekst tacno zato sto su fajlovi citani parcijalno.
+
   roman/NASTAVAK.md
-  roman/dokumenti/GRADJA_FABRIKA.md          <- ISTINA od autora za ovo poglavlje
-  roman/dokumenti/REGISTAR_ODLUKA.md         <- sekcije 8, 9, 10, 11 i 12
+  roman/dokumenti/REGISTAR_ODLUKA.md          <- ceo, 14 sekcija
+  roman/dokumenti/SVET_I_LIKOVI_1.md          <- ceo (HRONOLOGIJA je preracunata)
   roman/dokumenti/NOVA_KNJIGA_MAPA.md
-  roman/dokumenti/SVET_I_LIKOVI_1.md         <- HRONOLOGIJA + sta je upisano iz Fabrike
+  roman/dokumenti/NOVA_KNJIGA_IDEJE.md
+  roman/dokumenti/DUGOVI_KNJIGE.md
+  roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md
   roman/dokumenti/PRAVILA_STILA.md
-  roman/poglavlja/POGLAVLJE_NOVO_5_FABRIKA.md  <- Deo 1, glas mora da se nastavi
+  roman/poglavlja/POGLAVLJE_1_SUSRET.md       <- Maska je sadasnjost; zvonce je odatle
+  roman/poglavlja/POGLAVLJE_9_CEBENCE.md      <- stoji odmah posle Maske
 Ne prepricavaj mi sta u njima pise.
 
--- STA SE RADI: DEO 2 --
+PA PODNESI ULAZNI LIST (Pravilo H, sedam stavki) i cekaj da kazem da.
 
-Iste godine majka oboli od RAKA. David saznaje jer zivi s njom. PREZIVI.
-PET skener u Belom gradu. Kola pozajmljena od kucnog prijatelja. ONA VOZI, jer
-David nema vozacku dozvolu i nema je ni danas. Dok ceka da ona zavrsi, sedne na
-kafu kod jednog parka i tu zatekne NATASU, posle mnogo godina — lepo, cisto, bez
-tereta. VAN RITUALA je: ritual pada u Davidovom rodnom gradu, ovo je tudji.
+-- STA SE RADI: MASKA --
 
-ZABRANA: Katarina se NE SME pisati kao utesna nagrada ni kao ono na sta je David
-pristao. Dubinu ne dobija recenicama nego potezima.
+Placa DUG 1: sadasnjost mora nositi opasnost, KAO SCENA. Nesto se stvarno
+desava i odrzavanje maske kosta.
+
+TRI ZABRANE, nijedna nije pala:
+  1. strah se NE montira u postojecu recenicu — ovo je scena, ne dopuna
+  2. nema trilerske ivice, niko ne mora da puca
+  3. KATARINA NE SUMNJA I NE PROVERAVA — njen luk to zabranjuje do kraja
+
+Na raspolaganju, vec upisano: G4 (zvonce nad vratima iz Susreta, vraca se
+neprijatnije — samo ovde i samo jednom) · G5 (miris starog duvana, BEZ
+halucinacije) · G1 (porodica malim slovom protiv Porodice velikim) · G9 (mera:
+cim Davidov potez postane zelja za moci umesto odgovornosti, citalac ga gubi).
+
+Okvir, sidro i forma jos nisu odluceni. To su prva pitanja, jedno po jedno.
 
 -- STA VAZI --
 
+HRONOLOGIJA JE PRERACUNATA 30.08.2026: David je 1990. godiste, DANAS IMA 35,
+36tu puni u oktobru. Fabrika je 32, s Katarinom su TRI godine. Magacin/Italija/
+Pariz 21, Prelom/Nestanak 23, Majka 24, Prazna stolica 33, Beli grad/Kukavica 34.
+Ne pomera se bez izricitog „otvaram". Registar, sekcija 14.
+
 FORMA: SCENE S DIJALOGOM. Hronika je odobrena samo za Nestanak.
-OKVIR: bez kadra sadasnjosti — odluceno i upisano, ne otvara se ponovo.
-SIDRO: vec stoji u Delu 1 („Sedmu godinu.") — u Delu 2 se ne ponavlja.
 IME GRADA: „Beograd" NIGDE. „Beli grad" sme, jako retko.
   Pre zatvaranja: grep -ri beograd roman/poglavlja/ mora biti prazno.
 ZID: David kao izvrsilac se ne pokazuje. Roba se ne imenuje.
 Ljubav se ne izgovara. Nasilje van kadra. Bez potpisa na kraju pasusa.
 Formula „to je bila cela X" je 3 od 3 i ne sme se pojaviti.
 David ne psuje i NE LAZE — izostavlja. David se ne slika i nema drustvene mreze.
+David voli da pije kafu sam, ujutru ili preko dana — iz toga se ne izvodi nista.
 David TRPI: pravila cuti, nadrkane ljude cuti, naredjenja cuti — razlog se nikad
 ne ispisuje.
 
 PRAVILO K: svaka recenica napisana u moje ime ceka izricito „da".
 
-Devet starih + Ulazak + Italija + Prelom + Majka su zakljucani. Registar vazi u
-punom obimu. Nijedno se ne otvara dok ne kazem „otvaram" tom recju.
+Devet starih + Ulazak + Italija + Prelom + Majka + Fabrika su zakljucani.
+Registar vazi u punom obimu. Nijedno se ne otvara dok ne kazem „otvaram".
 
 Fajlovi poglavlja ne zavrsavaju prelomom reda — proveri `od -An -c` na poslednjem
-bajtu i proveri ISHOD komande, ne samo izlaz. xxd ne postoji.
+bajtu i proveri ISHOD komande, ne samo izlaz. xxd ne postoji. Pazi: `truncate -s -1`
+skida tacku ako preloma nema.
 Broj reci se meri obicnim `wc -w`, po fajlu pa se sabere.
+
+-- KAKO MI SALJES TEKST --
+
+NE salji mi tekst poglavlja u chat. Napravi .md fajl i posalji fajl.
 
 -- GIT --
 

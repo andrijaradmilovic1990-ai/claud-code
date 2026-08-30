@@ -96,7 +96,8 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
   vodio majku na PET skener.** David ima **32** — **iste godine kad upoznaje Katarinu.**
   Majka vozi (on nema dozvolu); dok čeka da ona završi, sedne na kafu **kod jednog
   parka** i tu je zatekne. Lepo, čisto, bez tereta. **Van rituala je** — ritual pada u
-  Davidovom rodnom gradu, a ovo je slučajan susret u tuđem. **Piše se u `Fabrici`.**
+  Davidovom rodnom gradu, a ovo je slučajan susret u tuđem. **Napisano u `Fabrici`,
+  30.08.2026 — registar, sekcija 13.**
 - **Funkcija:** kontrast. Dokaz da prošlost sme da bude obična i bezbolna — čime se vidi koliko Jovana NIJE. Ne dobija svoje poglavlje.
 
 ### KATARINA — ona koju je izabrao (u tekstu BEZIMENA: „ona", „moja")
@@ -117,14 +118,14 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 ## GODINE LIKOVA (realna osa)
 
 - **David ušao u taj svet:** ~16 godina.
-- **David pobegao (Nestanak):** sa ~23-24 godine.
+- **David pobegao (Nestanak):** sa **23** godine.
 - **Bekstvo se desilo:** pre ~12 godina.
-- **David danas (sadašnjost knjige):** ~36 godina.
+- **David danas (sadašnjost knjige):** **35 godina** — 36 puni u oktobru. Godište **1990**.
 
-Logika: 16 uđe → ~7-8 godina u poslu (dovoljno da postane „ime", „bog koga slušaju") → pobegne sa 23-24 → dvanaest godina ćutanja → danas 36.
+Logika: 15–16 uđe → sedam-osam godina u poslu (dovoljno da postane „ime", „bog koga slušaju") → pobegne sa 23 → dvanaest godina ćutanja → danas 35.
 
-- **MALI (III, magacin):** 17-18 godina. David tada 22-23. Razlika 4-5 godina. „Mali" = i godine i rang — zelen, tek primljen, nečiji sestrić za koga je neko garantovao, ispod Davida u hijerarhiji. Nije dete-dete.
-- **JOVANA (magacin, Pariz):** ~19-20 u prošlosti. Mlađa od svih, David je uveo u taj svet.
+- **MALI (III, magacin):** 17-18 godina. David tada 21-22. Razlika 4-5 godina. „Mali" = i godine i rang — zelen, tek primljen, nečiji sestrić za koga je neko garantovao, ispod Davida u hijerarhiji. Nije dete-dete.
+- **JOVANA (magacin, Pariz):** ~18-19 u prošlosti. Mlađa od svih, David je uveo u taj svet.
 
 **Usklađivanje brojeva u postojećem tekstu:**
 - „dvanaest godina" (I, II, V, VI — prazan džep, nezvani telefon) → ostaje dvanaest, tačno.
@@ -161,40 +162,54 @@ Knjiga ne ide hronološki — ide po pritisku (NAČELO KLATNA: svako poglavlje j
 
 ## HRONOLOGIJA (za glavu, ne za čitaoca)
 
-### DAVIDOVE GODINE *(zaključano 28.08.2026, odluka autora)*
+### DAVIDOVE GODINE *(zaključano 28.08.2026 · PRERAČUNATO 30.08.2026, odluka autora)*
 
-**David danas ima 36.** Sve ostalo se računa odavde. Do ove sesije hronologija je
-počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
+**David danas ima 35. Trideset šestu puni u oktobru.** Rođen je **1990.** Sve ostalo se
+računa odavde.
+
+> **Zašto je preračunato.** Tablica je do 30.08.2026. vodila **36**, i iz toga je ceo
+> niz stajao godinu previsoko. Autorova činjenica koja je to otkrila: **s Katarinom je
+> prošlog meseca bilo tri godine**, a sa 36 bi ispalo četiri. **Nijedna rečenica u
+> knjizi nije promenjena** — sve cifre u tekstu (*„Dvanaest godina"*, *„Deset godina"*,
+> *„dvanaest godina kasnije"*, *„pre godinu dana"*, *„još dve godine"*, *„četiri
+> godine"*) slažu se s novom tablicom bolje nego sa starom. **Fabrika ostaje na 32 i
+> ne pomera se** — na njoj visi i *„Sedmu godinu"* i tri godine s Katarinom.
 
 | uzrast | šta | pre koliko |
 |---|---|---|
-| 0 | rođen u malom gradu *(registar, sekcija 7)* | 36 |
-| **6** | **odlazi sam u Beli grad** — kod teče i tetke, s **bratom od tetke**. Majka ostaje u rodnom gradu; David joj dolazi **bar jednom godišnje, svake godine** | 30 |
+| 0 | rođen u malom gradu, **1990** *(registar, sekcija 7)* | 35 |
+| **6** | **odlazi sam u Beli grad** — kod teče i tetke, s **bratom od tetke**. Majka ostaje u rodnom gradu; David joj dolazi **bar jednom godišnje, svake godine** | 29 |
 | | kasnije ostaje **samo kod brata** | |
-| **14** | **brat umire — predoziranje, heroin.** David ostaje sam | 22 |
-| **~15** | **ULAZAK** — upoznaje čoveka iznad sebe *(NOVO 1)*. Živi u Belom gradu: malo kod Andrijane, malo kod Jovane, malo sam | 21 |
-| ~16 | počinje da ide u Italiju | 20 |
-| **22** | **Krv** (magacin) · **Italija** (šesta godina dolazaka) · **Pariz** · pandur ga vozi kroz kapiju *(VI 125)* | **14** |
-| 22→24 | s Jovanom se voze još dve godine *(Krv 63)* | |
-| **24** | **Prelom** *(NOVO 3)* — sahrana Malog, dan pre · **Nestanak** — vraća se u rodni grad | **12** |
-| 24→25 | soba kod gazdarice *(V 89)* | |
-| **25** | doseljava se kod majke *(NOVO 4)* | 11 |
-| 28 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
-| **32** | fabrika — **upoznaje Katarinu** *(NOVO 5)* · **majka oboli od raka**; vozi ga u Beli grad na skener, **Nataša na kafi kod parka** | 4 |
-| **34** | **Prazna stolica** — deset godina posle nestanka | 2 |
-| **35** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
-| **36** | **Susret · Pukotina · Ćebence** | danas |
+| **14** | **brat umire — predoziranje, heroin.** David ostaje sam | 21 |
+| **~15** | **ULAZAK** — upoznaje čoveka iznad sebe *(NOVO 1)*. Živi u Belom gradu: malo kod Andrijane, malo kod Jovane, malo sam | 20 |
+| ~16 | počinje da ide u Italiju | 19 |
+| **21** | **Krv** (magacin) · **Italija** (šesta godina dolazaka) · **Pariz** · pandur ga vozi kroz kapiju *(VI 125)* | **14** |
+| 21→23 | s Jovanom se voze još dve godine *(Krv 63)* | |
+| **23** | **Prelom** *(NOVO 3)* — sahrana Malog, dan pre · **Nestanak** — vraća se u rodni grad | **12** |
+| 23→24 | soba kod gazdarice *(V 89)* | |
+| **24** | doseljava se kod majke *(NOVO 4)* | 11 |
+| 27 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
+| **32** | fabrika — **veza s Katarinom počinje** *(NOVO 5)* · **majka oboli od raka**; ona ga vozi u Beli grad na skener, **Nataša na kafi kod parka** | **3** |
+| **33** | **Prazna stolica** — deset godina posle nestanka · **Jovanina nesreća** | 2 |
+| **34** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
+| **35** | **Susret · Pukotina · Ćebence** | danas |
 
 **Provere koje se zatvaraju same:**
 
-- `Krv 63` — *„vozili smo se zajedno još dve godine"*: 22 + 2 = 24 = nestanak. Tačno u dan.
-- Italija je **šesta godina** dolazaka: ulazak sa 15, Italija od 16, šesta godina sa 22.
-- `VI 125` — pandur *„dvanaest godina kasnije"*: 34 − 12 = 22, isti grozd kao Krv i Pariz.
+- `I 7` i `IX 227` — *„Dvanaest godina"*: 35 − 12 = 23 = nestanak.
+- `Krv 63` — *„vozili smo se zajedno još dve godine"*: 21 + 2 = 23 = nestanak. Tačno u dan.
+- `IV` *„pre 14 godina"* i `V` *„pre 12"*: 35 − 14 = 21, 35 − 12 = 23. Oba u dan.
+- `V 157` — *„četiri godine"* prazne stolice: 23 + 4 = 27.
+- Italija je **šesta godina** dolazaka: ulazak sa 15, Italija od 16, šesta godina sa 21.
+- `VI` — *„Deset godina"*, četiri puta: 23 + 10 = 33 = Prazna stolica.
+- `VI 125` — pandur *„dvanaest godina kasnije"*: 21 + 12 = 33, isti grozd kao Krv i Pariz.
+- `IX 177` — *„pre godinu dana"*: 34, godinu pre sadašnjosti.
+- **Tri godine s Katarinom:** 32 → 35.
 - `VII 3` — *„oduvek, otkad znam ovaj grad"*: **doslovno tačno.** Rođen tamo i dolazio
   majci bar jednom godišnje svih osamnaest godina odsustva. Grad mu nikad nije prestao
   da bude poznat. *(Obrazloženje u registru, sekcija 7, ovim dobija drugu nogu — zaključak
   je nepromenjen.)*
-- `VII 161` — *„stan u kom sam još uvek imao jednu fioku"*: treća godina veze, jedna fioka.
+- `VII 161` — *„stan u kom sam još uvek imao jednu fioku"*: veza počinje sa 32, `VII` je na 34 — **treća godina veze**, jedna fioka. Sabira se tačno.
 - `II 71` — Andrijana ima **majku i baku u Davidovom rodnom gradu.** Poklapa se s tim što
   ritual jednom godišnje pada baš tamo.
 
@@ -234,6 +249,28 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - **Katarina ima 22**, doselila se sama s juga, živi u stanu koji sama plaća, pola
   kilometra od njega. **Stidljiva.** **Njen jedini potez je poruka u autobusu.**
 - **Oboje idu autobusom.** David nema kola i nema dozvolu.
+- **David pije kafu sam, ujutru ili preko dana** *(odluka autora, 30.08.2026)*. To nije
+  oprez nego navika — pa se **iz dnevnog svetla ne izvodi ništa** i nijedan lik ga zbog
+  toga ne zadirkuje.
+
+**Dopuna iz Dela 2 *(30.08.2026)*:**
+
+- **Majka oboli te iste godine, Davidovih 32.** Saznaje **preko trećeg** — sestra s
+  odeljenja zove zbog termina — jer ona izostavlja i njemu ne kaže. **Reč se u tekstu
+  ne izgovara nijednom.** Nalaz stoji u fioci pod koncima.
+- **Kola pozajmljena od kućnog prijatelja — on se zove Bane.** **Majka vozi**, on ne
+  sme. **Ona je brz vozač i uvek je bila**; kola su bila loša i to je ono što ih drži
+  na osamdeset, ne ona.
+- **Nataša kod parka je napisana** — kafić preko puta parka dok majka radi skener.
+  Lako, bez tereta, ne pita zašto je otišao. Traži sliku, on kaže ne, ona se **seti** da
+  se on ne slika. **Jovana se u poglavlju ne pominje nijednom** — njena nesreća pada
+  godinu dana kasnije (33) i ta dva se u knjizi nigde ne sreću.
+- **Katarinin drugi potez:** javi se za prekovremeno iste noći kad i on, da bi bila tu.
+  Na pitanje zašto — *„Plaćam stan sama."* **Prvi put radi ono što on radi: svaka reč
+  tačna, zbir nedovoljan.** Knjiga to nigde ne imenuje.
+- **DUG 2 je plaćen potezom, ne rečenicom:** poslovođi ne kaže zašto mu treba slobodan
+  dan i radi duple smene umesto toga; **njoj kaže.** *„Vodio sam majku gore. Na
+  snimanje."* Pola, ali izgovoreno samo od sebe — jedini takav trenutak u poglavlju.
 
 ### ŠTA JE UPISANO IZ `MAJKE` *(29.08.2026, odluke autora)*
 
@@ -248,11 +285,11 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - **Dok je čekao da ona završi, seo je na kafu kod jednog parka i tu zatekao Natašu**,
   posle mnogo godina. To je viđenje koje je u ovom dokumentu već stajalo uz Natašu
   (*„Beograd, kad je vodio majku u bolnicu — lepo, čisto, bez tereta"*) i sada ima
-  telo i godinu: **Davidovih 32, pre četiri godine.** Van je rituala — ritual pada u
+  telo i godinu: **Davidovih 32, pre tri godine.** Van je rituala — ritual pada u
   Davidovom rodnom gradu.
 - **Majka je živa u sadašnjosti knjige.** Živa je kroz `I`, `II` i `IX` — dakle i dok
   David sedi za onim stolom, i dok mu starac nudi krov, i na kraju. **Jedanaest godina
-  je razmak od `Majke` do sadašnjosti, ne rok** — rak pada u sredinu tog razmaka
+  je razmak od `Majke` do sadašnjosti, ne rok** *(24 → 35)* — rak pada u sredinu tog razmaka
   (Davidovih 32) i ona ga preživi. **Knjiga je nigde ne pominje**, a ona je petnaest
   minuta odatle. **Poglavlje `Majka` se zato ne piše kao elegija** — nijedna
   slika u njemu ne sme da zvuči kao poslednji put.
@@ -261,7 +298,7 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
   **Ne štedi na sebi: troši i krije koliko**, računi idu u fioku s koncima.
 - **David ne ume da spava u toploj sobi.** Posle dvanaest godina spavanja gde stigne,
   vrućina mu smeta. Otvara prozor na dva prsta; ona ga zatvara.
-- **Sedam godina između useljenja i bolesti** (25 → 32) je prostor, ne rupa. Hronologija
+- **Osam godina između useljenja i bolesti** (24 → 32) je prostor, ne rupa. Hronologija
   se sabira bez natezanja.
 
 ### ŠTA JE UPISANO IZ `PRELOMA` *(29.08.2026, odluke autora)*
@@ -272,9 +309,9 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - **Mali je sestrić** — `Krv 19` to već kaže. **Ujak je iz tog sveta**, on mu je dao pare
   za motor. **Majka je ujakova sestra i nije iz tog sveta:** sluti čime se sin bavio, nije
   sigurna, i **nikad ne pita do kraja.**
-- **Čovek iznad Davida je živ i u poslu sa Davidovih 24**, ali na sahranu ne dolazi —
+- **Čovek iznad Davida je živ i u poslu sa Davidovih 23**, ali na sahranu ne dolazi —
   šalje nekog. Zato tog dana svi idu Davidu.
-- **David sa 24 ima svoju kuću u Belom gradu** *(slaže se s `V 65` — „spremam kuću")*.
+- **David sa 23 ima svoju kuću u Belom gradu** *(slaže se s `V 65` — „spremam kuću")*.
 - **Pariz je dve godine pre Preloma.** Drže ga `IV` („pre 14 godina") i `V` („pre 12").
   U `Prelomu` se to čuje samo kroz Andrijaninu ispravku *„Nije prošle godine."* — **bez
   cifre.**

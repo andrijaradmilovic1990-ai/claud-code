@@ -37,7 +37,12 @@ Stari zapisi se ne prepisuju — oni su istorija rada.
 
 Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 
-**Stanje na 28.08.2026: knjiga je cela i sva poglavlja su zaključana. 15.510 reči.**
+**Stanje na 28.08.2026: prva knjiga je cela i sva poglavlja su zaključana. 15.529 reči.**
+
+**Od 28.08.2026. piše se nova, veća knjiga: petnaest poglavlja, cilj oko 30.500 reči.**
+Devet postojećih ostaje netaknuto i u istom redosledu, šest novih se umeće između njih.
+**Na 30.08.2026. napisano je četrnaest od petnaest — 26.351 reč. Ostaje `Maska`.**
+Zaključana mapa: `roman/dokumenti/NOVA_KNJIGA_MAPA.md`.
 Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
 je **iscrpljen.** Šta se radi dalje nije upisano nigde — to je odluka autora.
 
@@ -117,6 +122,11 @@ karakter, ne cenzura.
   poglavlje nije pročitano dovoljno duboko — to je nalaz o čitanju, ne o tekstu.
   Napisane rečenice i dalje idu jedna po jedna, po Pravilu K.
 - Po zatvaranju poglavlja: upis u dnevnik i commit, bez traženja.
+- **Dokumenti se čitaju celi pre pisanja, ne po sekcijama** *(30.08.2026)*. Uz to ide
+  ulazni list po Pravilu H, pre prve rečenice. Deo 2 `Fabrike` je pisan sa šest fajlova
+  čitanih parcijalno i tri greške su ušle u tekst.
+- **Tekst poglavlja se šalje kao `.md` fajl, ne u razgovor** *(odluka autora,
+  30.08.2026)*.
 
 ## Git
 

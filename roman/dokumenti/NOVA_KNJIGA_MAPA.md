@@ -34,12 +34,12 @@
 | **2** | **Pukotina** | staro `II` | sadašnjost | 1.574 |
 | **3** | **NOVO 1 — Ulazak** | **novo** | David ima 15 | **2.181 — NAPISANO** |
 | **4** | **Krv** | staro `III` | stari svet | 1.135 |
-| **5** | **NOVO 2 — Italija** | **novo** | David ima 22 | **3.368 — NAPISANO** |
+| **5** | **NOVO 2 — Italija** | **novo** | David ima 21 | **3.368 — NAPISANO** |
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.791 — NAPISANO** |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
-| **9** | **NOVO 4 — Majka** | **novo** | prva godina posle, David ima 25 | **1.571 — NAPISANO** |
-| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | **1.024 — DEO 1 UNET** |
+| **9** | **NOVO 4 — Majka** | **novo** | prva godina posle, David ima 24 | **1.571 — NAPISANO** |
+| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 9 g. posle povratka | **1.911 — NAPISANO** |
 | **11** | **Prazna stolica** | staro `VI` | 10 g. posle nestanka | 1.405 |
 | **12** | **Beli grad** | staro `VII` | +1 godina | 2.150 |
 | **13** | **Kukavica** | staro `VIII` | isto putovanje | 3.635 |
@@ -47,6 +47,7 @@
 | **15** | **Ćebence** | staro `IX` | sadašnjost, posle 1 | 1.571 |
 
 **Zbir: oko 30.500 reči.** Cilj pogođen bez prebacivanja.
+*(Napisano do 30.08.2026: **26.351 reč** u četrnaest poglavlja. Ostaje samo `Maska`.)*
 
 ---
 
@@ -191,16 +192,18 @@ da ostane s njom.** Knjiga nigde ne pokazuje **zašto.** Ne fali joj dubina — 
 **razlog.**
 
 **U ISTOM POGLAVLJU SE NAPLAĆUJE MAJKA** *(zaključano 29.08.2026)*. Te iste godine
-**majka oboli od raka. Preživi.** David je vodi u Beli grad na **PET skener** — **ona
+**majka oboli. Preživi.** *(Reč „rak" se u tekstu ne izgovara — vidi registar 13.)* David je vodi u Beli grad na **PET skener** — **ona
 vozi, jer on nema vozačku dozvolu i nema je ni danas.** Dok čeka da završi, sedne na
 kafu kod parka i tu zatekne **Natašu**, posle mnogo godina.
 
 **Zabrana:** **Katarina se ne sme pisati kao utešna nagrada** ni kao ono na šta je David
 pristao. I ne dobija dubinu **rečenicama** nego **potezima** — kao i dosad.
 
-**STANJE 30.08.2026: Deo 1 unet i odobren** (1.024 reči) — fabrika kao kazna, klupa,
-trpljenje, slikanje, autobus i njena poruka. **Deo 2 (rak, skener, Nataša) ostaje.**
-Okvir odlučen: **bez kadra sadašnjosti.** Građa od autora: `GRADJA_FABRIKA.md`.
+**STANJE 30.08.2026: NAPISANO I ZAKLJUČANO** (1.911 reči, osamnaest scena). Deo 1 —
+fabrika kao kavez, klupa, trpljenje, slikanje, autobus i njena poruka. Deo 2 — majka,
+nalaz u fioci, duple smene, njeno prekovremeno, vožnja gore, Nataša kod parka,
+odmorište, termos. Okvir: **bez kadra sadašnjosti.** Sve odluke: `REGISTAR_ODLUKA.md`,
+sekcija 13. Građa od autora: `GRADJA_FABRIKA.md`.
 
 ---
 
