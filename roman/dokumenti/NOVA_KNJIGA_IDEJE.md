@@ -563,4 +563,83 @@ nalaza, ali objašnjava zašto su **sva tri predloga dodavanja, nijedan rez.**
 
 ---
 
+# RAZVRSTANO 30.08.2026 — ideje dobijaju imena i mesta
+
+> **Zašto ova sekcija postoji.** Ideje su se vodile po brojevima (`IDEJA 4`, `IDEJA 5`)
+> i po oznakama iz Godfather vodiča (`G1`–`G10`), pa se više nije znalo koja je koja.
+> **Od 30.08.2026. svaka živa ideja ima ime.** Brojevi iznad ostaju kao istorija.
+>
+> Razvrstavanje je urađeno posle čitanja svih četrnaest napisanih poglavlja u nizu.
+> **Odluka autora, ista sesija.**
+
+## ŽIVE — ostaju i imaju mesto
+
+| ime | gde ide | šta radi |
+|---|---|---|
+| **IVIČNJAK** *(autor, 30.08.2026)* | **novo poglavlje između 6 i 7** | jedini put u knjizi da David gubi kontrolu. Vidi niže — puni opis |
+| **VRATA** | `Maska` | obrnut kadar iz `Italije`, gde Anja zaključava **njemu**. Gest, bez ijedne reči objašnjenja |
+| **MAST** | `Maska` | majka ulazi u sadašnjost **kroz predmet**, bez scene i bez pomena |
+| **MALI** *(bivša `IDEJA 4`, deo)* | `Krv` — jedan potez | Mali nešto **da** Davidu umesto da ga vozi, da bi `Prelom` bio gubitak a ne izveštaj o tuđoj sahrani |
+| **MAJKA U SADAŠNJOSTI** | `Maska` | jedina neisplaćena emocija u knjizi. Rešava **DUG 1** bez trilerske ivice |
+| **„A KO SI TI?"** *(bivša `IDEJA 5`)* | `Maska`, **Andrijana telefonom** | jedina replika koja dodiruje zid spolja a ne probija ga |
+| **ZVONCE** *(bivši `G4`)* | `Maska`, jednom | u `Susretu` se oglašava kad starac **izlazi**; na ulazu radi obrnuto |
+| **MIRIS DUVANA** *(bivši `G5`)* | `Maska` | vezan je za **tog jednog starca**, ne za „prošlost" uopšte |
+| **PORODICA / PORODICA** *(bivši `G1`)* | `Maska` | osa knjige, izvedena kao radnja a ne kao tema |
+| **MERA** *(bivši `G9`)* | prag pred pisanje, ne scena | čim Davidov potez postane želja za moći, čitalac ga gubi |
+
+## OBRISANE 30.08.2026 — ne predlažu se ponovo *(Pravilo L)*
+
+| ime | zašto je pala |
+|---|---|
+| **MELODIJA** | dvostruko poređenje (kafanski solo naspram tihe melodije) **plus** lik koji tumači sopstvenu sliku. Knjiga to već radi bez ijedne reči: traka koja ne staje i autobus u pola šest u `Fabrici`, i radio ugašen usred refrena u `Nestanku` |
+| **PROMAJA kao sistem** | isto što i već odbačena **hladnoća kao sistem** (`G6`): postala bi tik, a `Majka` ide obrnuto — kod nje je prevruće. **Jedini upotrebljiv deo joj je već sadržan u VRATA.** Ne dirati ni ožiljak pod hladnom vodom u `Ćebencetu` — tamo je hladnoća **njegov izbor**, mirna slika, i ne sme dobiti posao signala |
+| **KLJUČEVI** | **knjiga ih je već platila:** odbijeni u `Prelomu` (*„Ne treba mi"*, dvaput), primljeni u `Majci` (*„Nemoj da zvoniš. Ne radi."*). Dva poglavlja razmaka, nijedna reč poređenja. **Treći ključ bi od figure napravio sistem**, a poređenje u sebi je zabranjeno svejedno |
+
+## OTVORENO — nije razvrstano, čeka razgovor
+
+| ime | u čemu je stvar |
+|---|---|
+| **LICE NA SVETLU / U SENCI** *(bivši `G10`)* | u prvom licu David svoje lice ne vidi. Rizik: ili se ne primeti, ili postane tik |
+| **PRAVI STRAH — puna verzija** *(bivša `IDEJA 4`)* | udara u sve tri zabrane oko `Maske`. Ono što je iz nje izvučeno kao živo (**MALI**, **MAJKA U SADAŠNJOSTI**) stoji gore |
+| **MAJKA U POGLAVLJU 2** | ako **MAST** nosi majku kroz predmet, Andrijanina replika možda više ne treba. **Odluka pada tek kad se `Maska` napiše** |
+
+---
+
+## IVIČNJAK — puni opis *(autor, 30.08.2026)*
+
+**Vreme:** posle `Pariza`, malo pre nestanka. **Mesto u knjizi:** između poglavlja
+**6 (Pariz)** i **7 (Prelom)**.
+
+**Šta se dešava.** Nepoznat čovek nasrne na Jovanu na ulici — *„ma moja si, pođi sa
+mnom"*. David ga obori, iako je čovek krupniji od njega, i **ne staje**: udara, slomi mu
+nos, i u jednom trenutku mu namesti usta na ivičnjak. **Jovana počne da vrišti i on se
+budi iz besa.**
+
+**Šta radi za knjigu — sprat: knjiga.**
+
+- **Jedini put u petnaest poglavlja da David puca.** `DUG 4` kaže da je *lako besan i
+  nijednom ranjiv* — a bes se do sada nigde ne vidi u kadru.
+- **Daje `Belom gradu` koren.** Ono *„umalo"* postaje čovek koji zna šta se desi kad
+  pusti, i baš zato stiska vilicu.
+- **Daje Jovani ono što joj fali.** Ona je jedini svedok. Zato nikad ne pita. I zato je
+  **„Kukavica"** u poglavlju 13 najgora reč koju mu može reći — jedina je koja zna da
+  nije.
+- **Niz postaje:** Pariz *(visina)* → **Ivičnjak** *(prvi znak da je otišao)* → Prelom
+  *(smrt)* → Nestanak *(odlazak)*. Tek tad odlazak ima od čega da beži.
+
+**Dva sudara, upisana pre pisanja:**
+
+1. **„Nasilje ostaje van kadra, doza se ne menja"** — pravilo upisano za sva nova
+   poglavlja. **Ova scena ga menja, i to za tačno ovu jednu.** Zid ostaje ceo: zid je o
+   **poslu**, a ovo nije posao — ovo je ulica i sestra. Ne pokazuje se ni šta radi ni za
+   koga.
+2. **Nema rečenice koja kaže da je shvatio.** Vrisak, pa prestanak. Rečenica tipa *„tad
+   sam znao da sam otišao predaleko"* ubija scenu — to je potpis na kraju pasusa, isti
+   koji je korak 4 skinuo s devet mesta.
+
+**Zašto ne staje u `Prelom`:** `Prelom` je 1.791 reč i svih šest scena su sahrana.
+Umetanje bi ga razbilo.
+
+---
+
 ### *(mesto za sledeće ideje — hvataju se kako dolaze, ne komentarišu se dok se ne stane)*
