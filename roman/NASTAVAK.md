@@ -273,6 +273,17 @@ do te tačke; tada ih autor otvara rečju „otvaram", i to samo na šavu.
 **9→10** (Majka → Fabrika) · **10→11** (Fabrika → Prazna stolica) ·
 **13→14** (Kukavica → Maska).
 
+### ZAKAZANO ZA KRAJ — NOIR PROLAZ *(odluka autora, 30.08.2026)*
+
+**Kad sve bude napisano, ceo roman se prolazi jednom i usklađuje da bude znatno više
+noir.** Najveći zakazani posao u knjizi. **Ide posle** šest novih poglavlja **i posle**
+prolaza kroz šavove. Tad se, i samo tad, zaključano otvara u celini — rečju „otvaram".
+
+Uz njega važi i **G10** *(autor, 30.08.2026)*: **s Katarinom Davidu je lice na svetlu, s
+Jovanom i Andrijanom u senci.** Suptilno, nikad imenovano. Retroaktivno se ne radi.
+
+Puni zapis, s odbačenim kandidatima: `dokumenti/NOVA_KNJIGA_IDEJE.md`.
+
 ### SIDRO U VREMENU — umesto datuma *(odluka autora, 29.08.2026)*
 
 **Datumi i godine kao zaglavlje iznad poglavlja su odbačeni.** Razlog: knjiga radi na

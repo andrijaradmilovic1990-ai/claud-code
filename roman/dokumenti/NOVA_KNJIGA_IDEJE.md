@@ -216,13 +216,15 @@ ikad izgovori. Mora ostati u opštem („loše stvari"), nikad u konkretnom.
 
 ---
 
-## IZVUČENO IZ GODFATHER VODIČA *(30.08.2026)* — ČEKA ODOBRENJE
+## IZVUČENO IZ GODFATHER VODIČA *(30.08.2026)* — ODLUČENO
 
-> Devet kandidata izvučenih iz autorovog dokumenta `GODFATHER_PRELAZNE_SCENE.md`.
-> **Ništa odavde nije odluka.** Kad autor kaže šta ostaje, odobreno se seli u registar,
-> a izvorni dokument se briše da ne stoji kao drugi zakon pored ovog fajla.
+> **Odlučeno 30.08.2026, odluka autora.**
 >
-> Uz svaki stavljena je i moja ocena, jer je autor tražio mišljenje, ne popis.
+> **Uzeto:** G1, G2, G4, G5, G9, G10. **Uzeto kao podsetnik, nije novo:** G3, G8.
+> **Odbačeno:** G6, G7 — **ne predlažu se ponovo** (Pravilo L).
+>
+> Izvorni dokument `GODFATHER_PRELAZNE_SCENE.md` je **obrisan istog dana**, po odluci
+> autora, da ne stoji kao drugi zakon pored ovog fajla. Ostaje u git istoriji.
 
 ### G1 — porodica malim slovom protiv Porodice velikim
 Osa cele knjige: lojalnost krvi i lojalnost organizaciji nose isto ime i ne mogu se
@@ -272,6 +274,30 @@ pitanje pred pisanje nove scene — u kom je svetlu ovaj kadar.
 ### G9 — mera: osveta ne sme postati lična ambicija
 Čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga gubi.
 **Ocena: uzeti kao meru.** Ovo nije scena nego prag — koristan pred `Masku`.
+
+### G10 — lice na svetlu, lice u senci *(autor, 30.08.2026)*
+
+**Kad David priča s Katarinom, lice mu je na svetlu. Kad priča s Jovanom ili
+Andrijanom, lice mu je u senci** — suptilno, nikad naglašeno, nikad komentarisano.
+
+**Ocena: uzeto.** Ovo je G8 sveden na jedan potez umesto na sistem, i zato radi:
+ne traži da se cela scena boji, nego samo gde stoji lampa. **Nikad se ne imenuje i nikad
+se ne izvodi zaključak iz toga.**
+
+**Retroaktivno se ne radi** (Pravilo P) — samo u novom, i na šavovima kad dođe prolaz.
+
+---
+
+## ZAKAZANO ZA KRAJ — NOIR PROLAZ KROZ CEO ROMAN *(odluka autora, 30.08.2026)*
+
+**Kad sve bude napisano, ceo roman se prolazi jednom i usklađuje da bude znatno više
+noir.** Ovo je **najveći zakazani posao u knjizi** i stoji posle svega ostalog.
+
+**Kad:** posle šest novih poglavlja i posle prolaza kroz šavove. **Ne ranije** — dok se
+poglavlja dodaju, mera raste, pa bi se isti tekst dirao više puta.
+
+**Šta prolaz tada obuhvata:** sva poglavlja, stara i nova, uključujući zaključana. To je
+jedini put kad se zaključano otvara u celini, i otvara ga autor rečju „otvaram".
 
 ## KARAKTER — ŠTA JE UPISANO 28.08.2026
 
