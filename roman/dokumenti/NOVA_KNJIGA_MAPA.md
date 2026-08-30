@@ -1,5 +1,20 @@
 # MAPA NOVE KNJIGE
 
+> # ⚑ PAŽNJA — OVA MAPA JE ZASTARELA U NUMERACIJI
+>
+> **Knjiga od 30.08.2026. ima ŠESNAEST poglavlja, ne petnaest.** Autor je tog dana
+> otvorio sva poglavlja i u knjigu je umetnuto novo — **`IVIČNJAK`, mesto 7**, između
+> `Pariza` i `Preloma`.
+>
+> **Sve od `Preloma` nadalje ima broj veći za jedan nego u tabelama ispod.**
+> Gde piše „Maska, mesto 14" — misli se na **mesto 15**.
+>
+> **Sve ostalo u ovoj mapi i dalje važi**: šta koje poglavlje plaća, zašto stoji baš tu,
+> i sve zabrane oko njih. **Zastarela je samo numeracija i broj poglavlja.**
+>
+> **Preostali posao NIJE ovde nego u `PLAN_RADA.md`** — četrnaest poteza s tačnim
+> mestima. Ovaj fajl se otvara zbog razloga i zabrana, ne zbog plana.
+
 > **Status: ZAKLJUČANA. Odobrena od autora 28.08.2026.**
 >
 > **Redosled od petnaest poglavlja i mesto svakog novog su odluka, ne predlog.**
@@ -47,7 +62,7 @@
 | **15** | **Ćebence** | staro `IX` | sadašnjost, posle 1 | 1.571 |
 
 **Zbir: oko 30.500 reči.** Cilj pogođen bez prebacivanja.
-*(Napisano do 30.08.2026: **26.351 reč** u četrnaest poglavlja. Ostaje samo `Maska`.)*
+*(Napisano do 30.08.2026: **26.351 reč** u četrnaest poglavlja. **Od 30.08.2026. ostaju DVA: `Ivičnjak` — novo, mesto 7 — i `Maska`, koja je sad mesto 15. Vidi upozorenje na vrhu i `PLAN_RADA.md`.**)*
 
 ---
 
@@ -256,7 +271,7 @@ odluku.
   ga plaši. Novi je low key. **Ista usta, dva čoveka.**
 - **Ljubav se ne izgovara** — pokazuje se kroz to ko sedi gde, ko koga vozi, ko čije dete
   drži.
-- **Nasilje ostaje van kadra.** Doza se ne menja.
+- **Nasilje ostaje van kadra.** Doza se ne menja. **JEDINI IZUZETAK, upisan 30.08.2026: `IVIČNJAK` (mesto 7)** — tamo nasilje ulazi u kadar **jednom**, po odluci autora. Zid ostaje ceo, jer to nije posao. Vidi `REGISTAR_ODLUKA.md`, sekcija 1, izuzetak 4.
 - **Glas.** Nasumična strana se čita naglas i **ne poznaje se da je pisana kasnije.**
 - **Bez potpisa na kraju pasusa.** Slika stoji sama.
 - **Formula je 3 od 3** — ne sme se pojaviti nijednom u novim poglavljima.

@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 30.08.2026. *(**`Fabrika` zaključana — sekcija 13** · **hronologija preračunata, David danas 35 — sekcija 14**)*
+> Poslednje ažuriranje: **30.08.2026.** *(**ČETVRTI IZUZETAK — sekcija 1: novo poglavlje `Ivičnjak`, nasilje u kadru jednom, i otvaranje `Pukotine` i `Krvi`. Ceo posao je u `PLAN_RADA.md`.**)*
 
 ---
 
@@ -29,7 +29,7 @@ Ne otvara se **ni na pitanje.**
   05.08.2026.
 - **CILJ knjige** — dve polovine (rečenica / knjiga), upisano jednom zasvagda.
 
-**Izuzeci ikad napravljeni — tri, sva na izričitu inicijativu autora:**
+**Izuzeci ikad napravljeni — četiri, sva na izričitu inicijativu autora:**
 
 1. **Broj poglavlja. 23.08.2026.** VII je podeljen na dva (vidi 5). Redosled radnje
    time nije promenjen — nijedna rečenica nije premeštena.
@@ -40,6 +40,29 @@ Ne otvara se **ni na pitanje.**
 3. **Rodni grad. 28.08.2026.** Autor je rekao **„otvaram"** za `V 75` — jednu rečenicu
    koja je tvrdila da David beži u grad u kom nikad nije bio. **Otvoreno za taj jedan
    potez i zatvoreno posle njega.** Vidi 7.
+
+4. **ČETVRTI IZUZETAK — NAJVEĆI. 30.08.2026.** Autor je **otvorio sva poglavlja** za
+   preostali posao, izričito, i iz toga su izašle **tri stvari koje ova sekcija inače
+   zabranjuje.** Sve tri su autorove i **ne predlažu se za povlačenje:**
+
+   - **NOVO POGLAVLJE — `IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`. Knjiga time
+     ima **šesnaest** poglavlja, i **sve od `Preloma` nadalje ima broj veći za jedan.**
+     Scena je autorova: nepoznat čovek nasrne na Jovanu, David ga obori i **ne staje**,
+     njen vrisak ga budi.
+   - **NASILJE ULAZI U KADAR — jednom, i samo tu.** Pravilo *„nasilje ostaje van kadra,
+     doza se ne menja"* **je za ovu jednu scenu svesno promenjeno.** **Zid ostaje ceo:**
+     zid je o **poslu**, a ovo nije posao — ne vidi se ni šta radi, ni za koga, ni po
+     čijem nalogu.
+   - **DVA ZAKLJUČANA POGLAVLJA SE OTVARAJU** za male prepravke: **`Pukotina` (2)** i
+     **`Krv` (4)**.
+
+   **Ceo taj posao — četrnaest poteza s tačnim mestima — stoji u `PLAN_RADA.md`, i on
+   je jedini plan.** Ovaj registar i dalje važi u punom obimu **svuda gde plan ne kaže
+   drugačije**; gde se sukobe na tim mestima, **važi plan, jer je noviji i autorov.**
+
+   **Šta ovim NIJE otvoreno:** sadržaj radnje ostalih poglavlja · hronologija ·
+   zapečaćena imena · zaštićena mesta iz sekcije 3 · kraj knjige. **Zabrana novih scena
+   ostaje na snazi svuda osim u `Ivičnjaku` i `Maski`.**
 
 ---
 
@@ -77,6 +100,21 @@ Katarinu — je li to nesklad koji treba platiti šestim dugom. **Odgovor autora
   > **Ispravljeno 28.08.2026 po Pravilu E.** Luk je do tada vođen kao **četiri**
   > poteza. Dopuna u VII ga čini **petim** — i to je jedini put da ona traži nešto
   > za sebe **usred njegovog odlaska ka Jovani**, a ne posle.
+
+> **DOPUNA 30.08.2026 — šta ova zabrana NE pokriva.** Zabranjeno je dodavati **njoj**.
+> **Davidovi potezi prema njoj nisu to** — oni su karakterizacija Davida.
+>
+> **Nalaz po Pravilu E:** u tekstu maženje ide u jednom smeru — **ona njemu sedam puta**
+> (hladne ruke i „Mrzneš negde, a ne kažeš mi gde“, „Ludak“, uštip, milovanje po leđima
+> „kao sto ili dobar pas“, brada povučena „kao zvonce“, dlan na glavi, „Ti si kao kuče“),
+> **on njoj dvaput** (brada na teme u II, „Naročito to“ u IX).
+>
+> **Autor je 30.08.2026. upisao da se David danas prema njoj ponaša kao prema detetu** —
+> zeza se, kezi se, mazi je. **To je rupa u tekstu, ne crta lika.** Piše se u
+> **`Krvi` (4)** i **`Maski` (15)**; vidi `PLAN_RADA.md`, potezi 5 i 9.
+>
+> **Ovo je jedini nađen način da se `DUG 3` dodirne a da se zabrana ne prekrši:
+> ne pisati nju jače, nego njega mekše prema njoj.**
 
 **Ne dodavati joj prisutnost, dubinu ni scenu — kao ni Nataši.** Nalaz „Katarina je
 slabo napisana" nastaje kad se broje rečenice umesto poteza. Pojaviće se ponovo i
