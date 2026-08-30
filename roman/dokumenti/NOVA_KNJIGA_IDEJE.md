@@ -642,4 +642,52 @@ Umetanje bi ga razbilo.
 
 ---
 
+## NEŽNI MONSTRUM — kako se David danas ponaša prema Katarini *(autor, 30.08.2026)*
+
+**Činjenica o liku, ne ideja za scenu.**
+
+**David se danas s Katarinom ponaša kao s detetom** — zeza se, kezi se, mazi je.
+To je Brandov *tender monster*: Vito koji umire igrajući se s unukom, s korom
+pomorandže u ustima.
+
+Knjiga ima prvu polovinu te slike i ona je zaštićena — *„čudovište koje je naučilo da
+pije kafu kao čovek"* (poglavlje 1, poslednja rečenica, pada tačno jednom).
+**Fali druga polovina: čudovište koje se igra.**
+
+### Nalaz po Pravilu E — u tekstu maženje ide u pogrešnom smeru
+
+Prebrojano u svim kadrovima sadašnjosti:
+
+**Ona → njemu (sedam):** trlja mu hladne ruke i *„Mrzneš negde, a ne kažeš mi gde"*
+(`Pukotina`) · *„Ludak."* · uštine ga za bok (`Krv`) · pomiluje ga po leđima u prolazu,
+*„kao što se pomiluje sto ili dobar pas"* (`Pariz`) · povuče ga za bradu *„kao što se
+vuče zvonce"* (`Nestanak`) · pomiluje po glavi i ostavi dlan (`Ćebence`) ·
+*„Ti si kao kuče."* (`Ćebence`)
+
+**On → njoj (dva):** nasloni bradu na njeno teme (`Pukotina`) · *„Naročito to."*
+(`Ćebence`)
+
+**Sedam prema dva.** Ona se igra s njim; on se s njom skoro ne igra. **To je rupa u
+tekstu, ne crta lika.**
+
+### Zašto ovo prolazi kroz zabranu oko Katarine
+
+Registar zabranjuje dodavanje **Katarini** — dubinu, prisutnost, scenu (sekcija 2).
+**Ovo nije to.** Ovo su **Davidovi potezi prema njoj**: karakterizacija Davida, ne
+Katarine. Zabrana ga ne dodiruje.
+
+**Prvi put je nađen način da se `DUG 3` dodirne a da se ništa ne prekrši: ne pisati nju
+jače, nego njega mekše prema njoj.**
+
+### Gde ide
+
+**`Maska`, i spojeno s MAST.** Ruke se mažu **da bi mogle da se igraju** — ne da bi bile
+meke uopšte. Igranje s njom **usred** onoga što se tog dana dešava je nežni monstrum u
+čistom obliku, i istovremeno je cena: to je tačno ono što se održava i tačno ono što
+košta.
+
+**Ne imenovati.** Reč „čudovište" pada jednom, u poglavlju 1, i ne ponavlja se.
+
+---
+
 ### *(mesto za sledeće ideje — hvataju se kako dolaze, ne komentarišu se dok se ne stane)*
