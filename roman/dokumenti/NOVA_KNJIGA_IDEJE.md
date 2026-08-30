@@ -1,5 +1,20 @@
 # NOVA KNJIGA — zbornik ideja i praznih mesta
 
+> # ⚑ OVAJ FAJL JE OD 30.08.2026. ISTORIJA
+>
+> Tog dana su **sve ideje razvrstane, imenovane i dobile mesto**, i to stoji u
+> **`PLAN_RADA.md`**. Ideje su ovde vođene po brojevima (`IDEJA 4`, `IDEJA 5`) i po
+> oznakama (`G1`–`G10`) — **ti brojevi se više ne koriste.**
+>
+> - **„IDEJA 4 — pravi strah"** je razložena: živo iz nje je **MALI** (`Krv`) i
+>   **MAJKA U SADAŠNJOSTI** (`Maska`).
+> - **„IDEJA 5"** se sada zove **„A KO SI TI"** i ide u **`Pukotinu`**.
+> - `G4` je **ZVONCE**, `G5` je **MIRIS DUVANA**, `G9` je **MERA**, `G10` je **ODRAZ**.
+> - **Obrisano i ne vraća se:** MELODIJA · PROMAJA kao sistem · KLJUČEVI.
+>
+> **Šta je živo i gde ide — kaže isključivo `PLAN_RADA.md`.** Ovaj fajl se otvara zbog
+> **razloga** (zid, prazna mesta, zašto je nešto palo), ne zbog plana.
+
 > **Šta je ovo.** Radni zbornik za proširenje „Sahrane bez tela" na **duplu dužinu**
 > — oko **15.500 novih reči**, što je šest do sedam novih poglavlja.
 >

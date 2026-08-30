@@ -6,13 +6,15 @@ svi predlozi i sve izmene idu na srpskom.
 
 ## PRVO — pre bilo čega
 
-**Dva fajla, tim redom:**
+**Tri fajla, tim redom:**
 
 1. **`roman/NASTAVAK.md`** — handoff: gde je revizija stala, šta je sledeće.
-2. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
+2. **`roman/dokumenti/PLAN_RADA.md`** — **⚑ ceo preostali posao, četrnaest poteza, svaki
+   s tačnim mestom.** Radi se odozgo. **Ne planirati mimo njega.**
+3. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
-Bez ta dva ne znaš gde si i otvorićeš nešto što je već zatvoreno.
+Bez ta tri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
 
 Zatim, po potrebi:
 
@@ -23,11 +25,13 @@ Zatim, po potrebi:
 | `roman/dokumenti/PRAVILA_STILA.md` | zanat — kako se piše |
 | `roman/dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta |
 | `roman/dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — **istorija, ne registar** |
+| `roman/dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji.** Vodi petnaest poglavlja; knjiga ih ima šesnaest |
+| `roman/dokumenti/NOVA_KNJIGA_IDEJE.md` | zbornik ideja — **istorija.** Šta je od njih živo i gde ide, kaže `PLAN_RADA.md` |
 
 **Razlika koja se stalno meša:** dnevnik pamti *šta se radilo i zašto*; registar
 pamti *šta se ne dira*. **Kad se sukobe — važi registar.**
 
-## Knjiga ima devet poglavlja
+## Kako je knjiga rasla — devet, pa petnaest, pa šesnaest
 
 Od **23.08.2026.** Stari VII (5.896 reči, 38% knjige) podeljen je na **VII — Beli
 grad** i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**.
@@ -39,12 +43,29 @@ Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 
 **Stanje na 28.08.2026: prva knjiga je cela i sva poglavlja su zaključana. 15.529 reči.**
 
-**Od 28.08.2026. piše se nova, veća knjiga: petnaest poglavlja, cilj oko 30.500 reči.**
-Devet postojećih ostaje netaknuto i u istom redosledu, šest novih se umeće između njih.
-**Na 30.08.2026. napisano je četrnaest od petnaest — 26.351 reč. Ostaje `Maska`.**
-Zaključana mapa: `roman/dokumenti/NOVA_KNJIGA_MAPA.md`.
+**Od 28.08.2026. piše se nova, veća knjiga.** Devet postojećih poglavlja ostaje
+netaknuto i u istom redosledu, nova se umeću između njih.
+**Na 30.08.2026. napisano je četrnaest poglavlja — 26.351 reč.**
+
+## ⚑ KNJIGA IMA ŠESNAEST POGLAVLJA *(odluka autora, 30.08.2026)*
+
+**Mapa je do tog dana vodila petnaest.** Tog dana je autor **otvorio sva poglavlja** za
+preostali posao i u knjigu je umetnuto novo poglavlje — **`IVIČNJAK`, mesto 7**, između
+`Pariza` i `Preloma`.
+
+**Sve od `Preloma` nadalje ima broj veći za jedan** nego u `NOVA_KNJIGA_MAPA.md`.
+Stariji zapisi koji kažu „Maska, mesto 14" misle na **mesto 15**. Mapa je i dalje
+tačna u svemu osim u numeraciji i broju poglavlja.
+
+**Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_RADA.md`** —
+**četrnaest poteza**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
+se odozgo. **Ne planirati mimo njega.**
+
+Ostaje: napisati **`Ivičnjak`** (7) i **`Masku`** (15), i uraditi dve male prepravke —
+u **`Pukotini`** (2) i **`Krvi`** (4). Cilj oko **31.500 reči**.
+
 Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
-je **iscrpljen.** Šta se radi dalje nije upisano nigde — to je odluka autora.
+je **iscrpljen** i zamenjen je `PLAN_RADA.md`.
 
 **Zabrana novih scena otvarana je posle podele VII tačno jednom**, 28.08.2026, na
 inicijativu autora, za **jednu scenu na početku IV**, i odmah zatvorena. Ta scena je

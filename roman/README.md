@@ -18,13 +18,31 @@ Idi na **[`NASTAVAK.md`](NASTAVAK.md)**. To je jedini ulaz — gde je revizija s
 
 **Prva knjiga: devet poglavlja, 15.529 reči**, cela od **28.08.2026**, sva zaključana.
 
-**Od 28.08.2026. piše se NOVA, veća knjiga: petnaest poglavlja, cilj oko 30.500 reči.**
-Devet postojećih ostaje netaknuto i u istom redosledu; **šest novih se umeće između
-njih.** Zaključana mapa: `dokumenti/NOVA_KNJIGA_MAPA.md`.
+**Od 28.08.2026. piše se NOVA, veća knjiga.** Devet postojećih poglavlja ostaje
+netaknuto i u istom redosledu; nova se umeću između njih.
 
-**Napisano do sada: 26.351 reč — četrnaest od petnaest poglavlja.** Pet novih
-poglavlja postoji i **svih pet je zaključano** (`Ulazak`, `Italija`, `Prelom`, `Majka`,
-`Fabrika`). Ostaje samo **`Maska`**.
+## ⚑ Knjiga ima ŠESNAEST poglavlja *(od 30.08.2026)*
+
+Autor je tog dana **otvorio sva poglavlja** za preostali posao, i u knjigu je umetnuto
+novo — **`IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`.
+
+**Napisano: 26.351 reč u četrnaest poglavlja. Cilj oko 31.500.**
+
+**Ostaje:**
+
+| | šta | gde |
+|---|---|---|
+| **piše se** | **`IVIČNJAK`** *(~2.000 reči)* | novo, mesto **7** |
+| **piše se** | **`MASKA`** *(~2.800 reči)* | novo, mesto **15** |
+| **prepravka** | tri poteza | `Pukotina` **(2)** |
+| **prepravka** | dva poteza | `Krv` **(4)** |
+
+**Ceo posao — četrnaest poteza s tačnim mestima — stoji u `dokumenti/PLAN_RADA.md`.**
+Otvara se odmah posle `NASTAVAK.md`.
+
+> **Numeracija se pomerila.** Sve od `Preloma` nadalje ima broj veći za jedan nego u
+> `dokumenti/NOVA_KNJIGA_MAPA.md`, koja i dalje vodi petnaest. Mapa je tačna u svemu
+> osim u numeraciji.
 
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
@@ -38,16 +56,17 @@ poglavlja postoji i **svih pet je zaključano** (`Ulazak`, `Italija`, `Prelom`, 
 | VIII | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.635 |
 | IX | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.571 |
 
-**Nova poglavlja** *(mesto u mapi od petnaest)*:
+**Nova poglavlja** *(mesta po novoj numeraciji od šesnaest)*:
 
 | mesto | Fajl | Naslov | reči | stanje |
 |---|------|--------|------|--------|
 | 3 | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.181 | zaključano |
 | 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 | zaključano |
-| 7 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.791 | zaključano |
-| 9 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 | zaključano |
-| 10 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 | zaključano |
-| 14 | *(nije napisano)* | Maska | — | predstoji |
+| **7** | *(nije napisano)* | **Ivičnjak** | — | **predstoji — prvo** |
+| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.791 | zaključano |
+| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 | zaključano |
+| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 | zaključano |
+| **15** | *(nije napisano)* | **Maska** | — | **predstoji — poslednje** |
 
 **23.08.2026.** je stari VII (5.896 reči, 38% knjige) podeljen na **VII — Beli grad**
 i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**. Zapisi stariji
@@ -98,7 +117,8 @@ autor rečju „otvaram".
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
 | `dokumenti/PRAVILA_STILA.md` | zanat — kako se piše | kad se piše rečenica |
 | `dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta | kad se proverava činjenica |
-| `dokumenti/NOVA_KNJIGA_MAPA.md` | **zaključana mapa od petnaest poglavlja** | pre otvaranja novog poglavlja |
+| **`dokumenti/PLAN_RADA.md`** | **⚑ ceo preostali posao — četrnaest poteza s mestima** | **odmah posle `NASTAVAK.md`, uvek** |
+| `dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji** (vodi petnaest); razlozi i zabrane i dalje važe | zbog razloga, ne zbog plana |
 | `dokumenti/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
 | `dokumenti/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
 | `dokumenti/IDEJE_ZA_KORAK_3.md` | odložene ideje autora — **nisu odluke** | kad autor kaže „otvaram" |

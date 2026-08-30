@@ -368,7 +368,7 @@ Malog i nežnost prema Katarini, sve troje mora postojati **pre** nje. Zato se o
   ranjivost ga plaši. Novi je low key. **Ista usta, dva čoveka.**
 - **Ljubav se ne izgovara.** Pokazuje se kroz to ko sedi gde, ko koga vozi, ko čije dete
   drži.
-- **Nasilje ostaje van kadra.** Doza se ne menja.
+- **Nasilje ostaje van kadra.** Doza se ne menja. **JEDINI IZUZETAK, upisan 30.08.2026: `IVIČNJAK` (mesto 7)** — tamo nasilje ulazi u kadar **jednom**, po odluci autora. Zid ostaje ceo, jer to nije posao. Vidi `REGISTAR_ODLUKA.md`, sekcija 1, izuzetak 4.
 - **Glas.** Nasumična strana se čita naglas i **ne poznaje se da je pisana kasnije.**
 - **Bez potpisa na kraju pasusa.**
 - **Formula je 3 od 3** — nijednom u novim poglavljima.
