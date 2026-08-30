@@ -134,7 +134,7 @@ autor rečju „otvaram".
 Puni tekst u `CLAUDE.md` u korenu repoa. Ukratko:
 
 - **K** — mehanika bez pitanja; **svaka napisana rečenica čeka izričito „da", jedno po jedno.**
-- **L** — zatvoreno je zatvoreno.
+- **L** — **ništa nije trajno zatvoreno**; sve se sme prepraviti kad je neophodno, ali se pre toga čita **razlog** zbog kog je odluka pala. *(Prepisano 30.08.2026 — zabrana ponovnog predlaganja je skinuta.)*
 - **M** — svaka ocena mora reći sprat: rečenica / poglavlje / knjiga.
 - **E** — tekst je autoritet nad dokumentima.
 - **G** — ako se dvoumiš, ne diraj.

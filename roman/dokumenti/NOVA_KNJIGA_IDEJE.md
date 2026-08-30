@@ -10,7 +10,7 @@
 >   **MAJKA U SADAŠNJOSTI** (`Maska`).
 > - **„IDEJA 5"** se sada zove **„A KO SI TI"** i ide u **`Pukotinu`**.
 > - `G4` je **ZVONCE**, `G5` je **MIRIS DUVANA**, `G9` je **MERA**, `G10` je **ODRAZ**.
-> - **Obrisano i ne vraća se:** MELODIJA · PROMAJA kao sistem · KLJUČEVI.
+> - **Obrisano, s razlogom** *(nije zaključano — vidi `PLAN_RADA.md`)*: MELODIJA · PROMAJA kao sistem · KLJUČEVI.
 >
 > **Šta je živo i gde ide — kaže isključivo `PLAN_RADA.md`.** Ovaj fajl se otvara zbog
 > **razloga** (zid, prazna mesta, zašto je nešto palo), ne zbog plana.

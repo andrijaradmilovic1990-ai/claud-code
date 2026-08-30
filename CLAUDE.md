@@ -71,10 +71,15 @@ je **iscrpljen** i zamenjen je `PLAN_RADA.md`.
 inicijativu autora, za **jednu scenu na početku IV**, i odmah zatvorena. Ta scena je
 zaštićena — vidi `REGISTAR_ODLUKA.md`.
 
-## Pravila koja se ne krše
+## Pravila — zašto postoje i kako se čitaju
 
 Ova pravila su autorova, ne moja. Pisana su posle konkretnih promašaja i svako
 ima razlog upisan u dokumentima.
+
+> **30.08.2026 — zabrane su skinute, razlozi su ostali.** Ništa u ovom repou nije trajno
+> zatvoreno; **sve se sme prepraviti kad je neophodno.** Ali svaka odluka nosi upisan
+> razlog zbog kog je pala, i taj razlog se čita **pre** nego što se odluka vrati. Bez
+> njega sledeći prolaz neće ponoviti zabranu — **ponoviće grešku.**
 
 **Pravilo K — dva režima odobravanja.**
 Mehanika (doslovno ponovljena rečenica, prilog uz emociju posle gesta, dvostruko
@@ -82,11 +87,21 @@ poređenje, veznik uzroka, rečenica koja potpisuje sopstvenu sliku) ide bez
 pitanja i prijavljuje se skupno posle unosa. **Svaki prepis, svaka dopuna —
 svaka rečenica napisana u autorovo ime — čeka izričito „da", jedno po jedno.**
 
-**Pravilo L — zatvoreno je zatvoreno.**
-Odluka upisana kao zaštićena ili kao „zadržano po odluci autora" **ne sme se
-ponovo predlagati za izmenu, ni kao mišljenje, ni u opštoj oceni.** Ako misliš
-da odluku treba otvoriti — postavi **jedno pitanje** i ne argumentuj dok ne
-dobiješ „da".
+**Pravilo L — ništa nije trajno zatvoreno, ali se ne otvara naslepo.**
+*(Prepisano 30.08.2026, odluka autora. Ranije je glasilo „zatvoreno je zatvoreno“ i
+zabranjivalo ponovno predlaganje — zabrana je skinuta jer se pokazala beskorisnom:
+knjiga se svejedno prepravlja, pa je zabrana samo stvarala trenje.)*
+
+**Sve se sme otvoriti i prepraviti kad je neophodno.** Ali svaka odluka u registru ima
+**upisan razlog zbog kog je pala**, i taj razlog se čita **pre** nego što se odluka vrati.
+
+- Ako razlog i dalje stoji — ne vraćaj je, i reci zašto.
+- Ako je razlog pao ili se knjiga promenila — **slobodno prepravljaj.**
+- Ako nisi siguran — **jedno pitanje**, bez argumenta.
+
+**Zabrana je skinuta, pamćenje nije.** Registar više ne kaže *šta se ne sme*, nego
+*šta je palo i zbog čega*. Bez tog razloga sledeći prolaz neće ponoviti zabranu, nego
+grešku.
 
 **Pravilo M — prijavi sprat.**
 Svaka ocena mora reći na kom spratu govori: **rečenica**, **poglavlje** ili
@@ -112,18 +127,21 @@ napiše sledeće, pa se traži „pročitaj sve do tog poglavlja", pa nešto pad
 otključava. Uzrok nije u poglavljima nego u meri: **mera je rasla brže od rukopisa.**
 Zahtev „pročitaj sve do ovog poglavlja" garantuje nalaz, uvek, beskonačno.
 
-**MORATORIJUM: I–V se ne otvaraju dok IX ne bude napisan.** Jedan jedini prolaz kroz
-njih zakazan je za trenutak kad knjiga bude cela — tada mera prestaje da raste.
+*Moratorijum na I–V je pao 28.08.2026, kad je knjiga postala cela.*
 
-**ZAMRZNUTO — ne otvara se ni na pitanje:**
-sadržaj radnje i njen redosled · hronologija i registar · zapečaćena imena
-(Davidovo, ime grada, Katarinino u naraciji, Jovanino van dozvoljenih mesta) ·
-zaštićena mesta iz `REGISTAR_ODLUKA.md` · **nove scene, novi likovi, nova mesta
-radnje**.
+**TEŠKO — nije zabranjeno, ali je skupo** *(prepisano 30.08.2026, odluka autora)*:
+sadržaj radnje i njen redosled · hronologija · zapečaćena imena (Davidovo, ime grada,
+Katarinino u naraciji, Jovanino van dozvoljenih mesta) · zaštićena mesta iz
+`REGISTAR_ODLUKA.md` · nove scene, novi likovi, nova mesta radnje.
 
-*Jedini izuzetak ikad napravljen:* broj poglavlja — 23.08.2026, na inicijativu
-autora, VII je podeljen na dva. Redosled radnje time nije promenjen; nijedna
-rečenica nije premeštena.
+**Ovo je ranije bilo „ZAMRZNUTO — ne otvara se ni na pitanje“. Zabrana je skinuta.**
+Ali na svakoj od ovih stavki **visi ostatak knjige**: promeniš jednu i moraš proći kroz
+sve što je na njoj stajalo. Pre nego što diraš išta odavde — **znaj šta sve pada s tim**,
+i proveri u registru zbog čega je tako odlučeno.
+
+*Izuzeci već napravljeni — četiri, svi na inicijativu autora:* broj poglavlja *(23.08.)* ·
+nova scena na početku IV *(28.08.)* · rodni grad u `V 75` *(28.08.)* · **novo poglavlje
+`Ivičnjak`, nasilje u kadru jednom, i otvaranje `Pukotine` i `Krvi` *(30.08.)***.
 
 **Stil je autorov.** Ne uvodi tuđi ton. Zabranjeno dodavati rečenice koje „zvuče
 kao Bukovski" — pastiš je gori od trenutnog stanja. David ne psuje; to je
