@@ -1,64 +1,72 @@
 # Fabrika
 
-Linija je bila duga koliko i hala, i sve što je na njoj radilo radilo je da bi jedna stvar na kraju izašla kao snop.
+Traka ne staje.
 
-Ja sam bio na kraju. Meni je dolazilo ono što su drugi već složili, i ja sam to uvijao, red po red, i puštao dalje.
+To ti kažu prvog dana i to je jedino što ti kažu što je tačno. Sve ostalo se nauči za nedelju dana, a ovo se uči godinama, jer čovek dugo veruje da će jednom da stane zbog njega.
 
-Bio sam u tome sedmu godinu i ruke su radile same, pa su usta bila slobodna.
+Ja sam bio na kraju linije. Meni je dolazilo ono što su drugi već složili, i ja sam to uvijao, red po red, i puštao dalje.
 
-„Ko je pustio ovo ovako?“ vikao sam niz liniju. „Ko? Neću da kažem ime. Neka se sam javi.“
+Sedmu godinu.
 
-Niko se nije javio.
+Kad treba do toaleta, digne se ruka i čeka se da poslovođa nađe nekog da stane na tvoje mesto. Nekad dođe za dva minuta. Nekad te gleda preko hale i klimne glavom da je video, pa ne dođe.
 
-„Znam ja ko.“
+Digao sam ruku i držao je gore dok mi nije klimnuo.
+
+„Sad, sad.“
+
+Držao sam je još malo.
+
+⁂
+
+Vikao sam niz liniju jer se drugačije ne čuje.
+
+„Ko je pustio ovo ovako?“
+
+Trojica su se okrenula i jedan se nasmejao, i traka je išla dalje, i posle četiri sekunde su se sva trojica vratila u ono što su radila.
 
 „Sedmu godinu te slušam“, rekao je onaj do mene. „Sedmu.“
 
 „I nisi naučio ništa.“
 
-Smejao se s cigaretom iza uva koju nije smeo da zapali unutra.
+Nekad je bilo mesta gde sam nešto rekao i stvari su se pomerile. U ovoj hali se ništa ne pomera od reči. Pomera se od trake.
 
-Nova je došla tog meseca i stavili su je na pin, desetak metara uz liniju od mene. Videla su joj se ramena i temena i ništa više, jer je stajala pognuto nad onim, i nijednom nije digla glavu na to što sam vikao.
+Ali usta su bila slobodna, jer su ruke radile same, i ja sam govorio ceo dan i niko nije morao da sluša, i to je bilo lakše nego ćutati osam sati.
+
+Nova je došla tog meseca i stavili su je na pin, desetak metara uz liniju od mene.
+
+Videla su joj se ramena i teme. Nijednom nije digla glavu na to što sam vikao.
 
 ⁂
 
-Napolju je bila jedna klupa pod limom i tri kante.
+Napolju je jedna klupa pod limom i tri kante.
 
-Ja sam sedeo na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
+Ja sedim na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
 
 Prvog puta je izašla poslednja i stala kod kante i gledala u dvorište kao da je došla da vidi dvorište.
 
 „Ima mesta“, rekao je neko.
 
-Sela je na drugi kraj klupe. Nije rekla ni hvala ni ništa.
+Sela je na drugi kraj. Nije rekla ni hvala ni ništa.
 
-Mi smo pričali o onome o čemu se priča u pola tri noću, koje su smene gore i ko je kome šta ostao dužan iz kantine, i ja sam pričao najviše.
+Mi smo pričali o tome ko je kome ostao dužan iz kantine i koliko fali do petnaestog, i ja sam pričao najviše.
 
-Ona je odsedela celu cigaru i nije rekla nijednu reč.
+Odsedela je celu cigaru i nije rekla nijednu reč.
 
 Kad smo ustali, ustala je i ona, i pošla dva koraka iza nas.
 
 ⁂
 
-Posle je izlazila kad i ja.
-
-Ne odmah za mnom — sačeka da izađem, pa izađe, pa sedne na taj isti drugi kraj iste klupe, i sedi.
+Posle je izlazila kad i ja. Ne odmah za mnom — sačeka da izađem, pa izađe, pa sedne na taj isti drugi kraj iste klupe.
 
 Jedne noći nije bilo nikog osim nas dvoje jer je pola smene ostalo unutra zbog zastoja.
-
-Sedeli smo tako neko vreme.
 
 „Ti ćutiš“, rekao sam.
 
 Klimnula je glavom.
 
-„Nešto ti nije jasno pa nećeš da pitaš?“
-
-„Jasno mi je.“
-
 „Odakle si ti?“
 
-Rekla je odakle je. To je dole, daleko, tamo gde se drugačije govori i gde autobus ide celu noć.
+Rekla je odakle je. To je dole, daleko, tamo gde autobus ide celu noć.
 
 „A ovde?“
 
@@ -68,29 +76,45 @@ Rekla je odakle je. To je dole, daleko, tamo gde se drugačije govori i gde auto
 
 „Sama“, rekla je. „U stanu. Plaćam.“
 
-Pružio sam joj kutiju jer je svoju već bila stavila u džep.
+Pružio sam joj kutiju jer je svoju već stavila u džep.
 
 „Ne treba.“
 
 „Uzmi, šta te briga.“
 
-Uzela je.
+Uzela je. Zapalio sam joj, i ona je pridržala moju ruku prstima dok je palila, i pustila je odmah.
 
-Zapalio sam joj, i ona je pridržala moju ruku prstima dok je palila, kao što se pridržava, i pustila je odmah.
+„A ti?“
 
-Onda je sedela i pušila i opet nije rekla ništa, ali ovog puta se videlo da čeka.
+„Šta ja.“
 
-„Šta?“ rekao sam.
+„Ti si kod nekog?“
 
-„Ništa.“
+„Kod majke.“
 
-„Pitaj.“
+Čekala je da kažem još nešto, jer ljudi posle toga kažu još nešto.
 
-„Ne pitam ja ništa“, rekla je.
+Gledao sam u kapiju.
 
 ⁂
 
-Tog jutra sam u hali doviknuo poslovođi nešto zbog čega su se svi okrenuli, i on je psovao i smejao se u isto vreme, i cela linija je stala na trideset sekundi zbog toga i niko nije rekao ni reč o tome.
+U petak je jedan iz pripreme punio pedeset i doneli su tortu u kantinu i neko je hteo sliku, sve nas zajedno, oko stola.
+
+Skupili su se i doviknuli mi da dođem.
+
+„Slikajte vi.“
+
+„Ma dođi.“
+
+„Slikajte vi“, rekao sam, i uzeo sam sa stola dva prazna tanjira i odneo ih do korpe, jer je čoveku koji nosi nešto teško reći dođi.
+
+Slikali su se bez mene.
+
+Ona je stajala sa strane, s parčetom u ruci, i gledala je u mene, ne u njih.
+
+Nije pitala.
+
+⁂
 
 U šest sam ušao na kapiju kod kuće.
 
@@ -104,35 +128,31 @@ Majka je bila kod šporeta.
 
 „Ništa.“
 
-Sipala je i sela preko puta i nije sipala sebi.
-
-Jeo sam i ćutao, i ona je ćutala, i u toj kuhinji nisam progovorio deset reči do podneva.
+Sipala je i sela preko puta i nije sipala sebi, i ja sam jeo i ćutao, i u toj kuhinji nisam progovorio deset reči do podneva.
 
 ⁂
 
 Autobus u pola šest ide skoro prazan i svako u njemu ima svoje mesto koje niko ne bira naglas.
 
-Ona je ulazila dve stanice pre mene i sedela napred, iza vozača, na onom sedištu koje gleda napred.
+Ona je ulazila dve stanice pre mene i sedela napred, iza vozača.
 
-Ja sam ulazio i prolazio pored nje i klimnuo glavom i seo pozadi.
-
-Pozadi sedim otkad znam za sebe. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
+Ja sam ulazio, klimnuo glavom u prolazu i seo pozadi. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
 
 Tako je išlo mesec i po.
 
-Onda mi je jednog jutra zavibrirao telefon u džepu, pa sam ga izvadio, i na ekranu je pisalo:
+Onda mi je jednog jutra zavibrirao telefon, i na ekranu je pisalo:
 
 *kolega može da sedneš pored mene*
 
-Podigao sam pogled.
+Podigao sam pogled. Sedela je napred, leđima okrenuta celom autobusu, i nije se okretala.
 
-Sedela je napred, leđima okrenuta celom autobusu, i nije se okretala.
+Broj je imala sa spiska za dojavu smene, koji visi kod garderobe i s kog niko nikad nikoga nije zvao.
 
 Ustao sam i prošao kroz autobus i seo pored nje.
 
 ⁂
 
-Ništa nije rekla prvih pola minuta. Držala je telefon u obe ruke, ekranom nadole, na kolenima.
+Držala je telefon u obe ruke, ekranom nadole, na kolenima.
 
 „Što nisi rekla?“
 
@@ -142,15 +162,19 @@ Ništa nije rekla prvih pola minuta. Držala je telefon u obe ruke, ekranom nado
 
 „Imam“, rekla je, i dalje gledajući u put.
 
-Autobus je prošao pored škole i pored one pekare koja se pali prva u gradu.
+Prošli smo pored škole i pored one pekare koja se pali prva u gradu.
 
-„Ja tebe pitam a ti meni ne odgovaraš“, rekao sam. „Sad je red da ti mene nešto pitaš.“
+„Ja tebe pitam a ti meni ne odgovaraš“, rekao sam. „Red je da ti mene nešto pitaš.“
 
 Okrenula se prvi put.
 
-„Zašto uvek sediš pozadi?“
+„Zašto se nisi slikao?“
 
 Napolju je prolazila ograda, pa krug, pa kapija.
+
+„Ne volim.“
+
+„Zašto uvek sediš pozadi?“
 
 „Da vidim ko ulazi.“
 
@@ -158,7 +182,7 @@ Napolju je prolazila ograda, pa krug, pa kapija.
 
 „Ljudi“, rekao sam.
 
-Nasmejala se kroz nos, kratko, kao neko ko se nije nasmejao pred svedokom odavno.
+Klimnula je glavom kao da je to odgovor.
 
 Autobus je stao i vrata su se otvorila i ja sam ustao da je pustim.
 
@@ -166,4 +190,4 @@ Autobus je stao i vrata su se otvorila i ja sam ustao da je pustim.
 
 „Idi ti“, rekla je.
 
-Prošla je ispred mene i ja sam pošao za njom kroz kapiju, i celim putem do svlačionice nisam se okrenuo ni jednom da vidim ko iza nas ulazi u krug.
+Prošla je ispred mene i ja sam pošao za njom kroz kapiju, i celim putem do svlačionice nisam se okrenuo da vidim ko iza nas ulazi u krug.
