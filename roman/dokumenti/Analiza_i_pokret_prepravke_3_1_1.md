@@ -2510,3 +2510,117 @@ Nigde se ne objašnjava.
 - **Nema psovke, ljubav se nigde ne izgovara, zid neprobijen** (svi pogodci za „posao"
   bili su reč „posle").
 - **Zbir: 24.440 reči**, mereno običnim `wc -w` po fajlu pa sabrano.
+
+---
+
+## 30.08.2026 — `NOVO 5 — FABRIKA` zaključana + hronologija preračunata
+
+**Poglavlje je gotovo. 1.911 reči, osamnaest scena.** Deo 1 (osam scena) unet ranije
+istog dana; Deo 2 (deset scena, 887 reči) unet u ovoj sesiji.
+
+### Kako je išlo — i šta je u tome bilo pogrešno
+
+Deo 2 je napisan **u celini pre nego što su svi dokumenti pročitani.** Čitano je šest
+fajlova, i to po sekcijama. Posledica su bile tri greške koje je autor uhvatio odmah:
+
+1. **Kućni prijatelj je nazvan Rade.** Ime nigde nije stajalo — u građi je pisalo samo
+   „kućni prijatelj". **Zove se Bane.**
+2. **Vožnja je napisana naopako** — majka vozi šezdeset, kamioni je prolaze. Netačno:
+   **ona je brz vozač i uvek je bila, kola su bila loša.** Prepisano: *„nisu htela preko
+   osamdeset"*, nešto zvoni pod haubom.
+3. **Nataša je pomenula Jovanu** (*„promenila kola"*). Palo — Jovanina nesreća dolazi
+   godinu dana kasnije i u `Fabrici` nema šta da se o njoj kaže.
+
+**Pouka, upisana da se ne ponovi:** poglavlje se ne piše dok se **svi** dokumenti ne
+pročitaju **celi**, i dok se ne podnese ulazni list po Pravilu H. Ovde je preskočeno
+oboje.
+
+**Druga pouka, o procesu:** Deo 2 je prvo unet u knjigu pre nego što ga je autor
+pročitao. Vraćen je na zahtev, i tekst je od tada išao **kao `.md` fajl**, ne u
+razgovor. **To ostaje radno pravilo.**
+
+### Šta Deo 2 radi
+
+Deset scena, sve s dijalogom: jutro posle treće smene i majka u kaputu · poziv iz
+bolnice (David saznaje **preko trećeg**) · nalaz u fioci pod koncima · poslovođa traži
+razlog i ne dobija ga, pa duple smene · Katarina se javi za prekovremeno iste noći kad i
+on · vožnja gore, ona vozi · čekanje u hodniku · **Nataša kod parka** · povratak, burek
+u kolima, čelo na volanu na odmorištu · klupa, termos, i jedina rečenica koju je David
+rekao sam od sebe.
+
+### Tri odluke koje su pale u toku pisanja
+
+1. **Reč „rak" se ne izgovara nijednom.** *„Pisalo je na latinskom, i jedna reč u tome
+   je bila naša."* Slika umesto pojma — i majka time ostaje ona koja izostavlja.
+2. **David saznaje preko trećeg, ne od nje.** Da mu je rekla sama, imala bi scenu
+   priznanja — a figura *„zamalo pita pa odustane"* pripada majci Malog u `Prelomu` i ne
+   ponavlja se. Ovako se ne desi ništa i to je tačno.
+3. **Nataša ne pita zašto je otišao.** Traži sliku, on kaže ne, ona se **seti** da se on
+   ne slika. Prošlost koja o njemu zna nešto obično i kojoj je to normalno.
+
+### Natašin ubod — dva predloga, oba pala
+
+Mesto posle *„Andrijana kaže"* razmatrano je za jedan ubod i **ostaje prazno.**
+
+- *„Svi smo mislili da ćeš se vratiti do zime."* — **pao.** Pretpostavlja da se nisu
+  videli od nestanka, a ritual već traje. Nalaz je bio moj promašaj, ne autorov.
+- *„Čudno mi je da te vidim danju."* — **pao.** **David voli da pije kafu sam, ujutru
+  ili preko dana**; dnevno svetlo kod njega ne znači ništa.
+
+Iz drugog je izašla činjenica o liku, upisana u `SVET_I_LIKOVI_1`.
+
+### DUG 2 — kako je plaćen
+
+**Ne rečenicom nego rasporedom ćutanja.** Poslovođi ne kaže zašto mu treba dan, i plaća
+to duplim smenama. Kolegi ne kaže. **Njoj kaže** — *„Vodio sam majku gore. Na
+snimanje."* Pola istine, ali izgovoreno samo od sebe, jedini put u poglavlju.
+**Knjiga nigde ne kaže da je to razlog.**
+
+Katarina uz to dobija svoj potez: prekovremeno iste noći kad i on, uz *„Plaćam stan
+sama."* — tačno i nedovoljno, njegov sopstveni postupak vraćen njemu. **Nije utešna
+nagrada; ona je jedina osoba u poglavlju pored koje ne mora da izostavlja.**
+
+---
+
+## HRONOLOGIJA PRERAČUNATA — David danas ima 35 *(odluka autora, isti dan)*
+
+**Najveća ispravka u dokumentima do sada, i nijedna rečenica u knjizi nije dirana.**
+
+**Šta je otkrilo grešku.** Autor je zatražio da Jovanina nesreća dođe **par meseci**
+posle majčine bolesti, a tablica ih je držala **dve godine** razmaknute. Merenjem svih
+cifara u tekstu ispostavilo se da problem nije u razmaku nego u **sadašnjosti**: tablica
+je vodila Davida na **36**, a s Katarinom je prošlog meseca bilo **tri godine** — što uz
+`Fabriku` na 32 daje četiri.
+
+**David je 1990. godište. Danas ima 35, trideset šestu puni u oktobru.**
+
+**Fabrika ostaje na 32** — na njoj visi *„Sedmu godinu"* i tri godine veze. Pomerila se
+sadašnjost, i s njom ceo niz za godinu nadole: magacin/Italija/Pariz 22 → **21**,
+Prelom/Nestanak 24 → **23**, Majka 25 → **24**, Prazna stolica 34 → **33**, Beli
+grad/Kukavica 35 → **34**.
+
+**Sve cifre koje tekst nosi slažu se s novom tablicom bolje nego sa starom** — pun spisak
+provera u `REGISTAR_ODLUKA.md`, sekcija 14, i u `SVET_I_LIKOVI_1`.
+
+**Jovanina nesreća: razmak je pao s dve godine na jednu (32 → 33) i niže ne ide.**
+`VIII` je nastao podelom `VII`, `IX` kaže *„pre godinu dana"* — da nesreća padne na 32,
+`VII` bi morao da pokrije tri godine umesto jedne. Cena je nula: `Fabrika` Jovanu ne
+pominje, `VI` ne pominje majku, i razmak čitalac nikad ne meri.
+
+### Mehanika, prijavljeno posle unosa
+
+- **Pravilo J:** Deo 2 je **887 reči, sve napisano, nijedan rez.** Ispunjeno s viškom.
+- **Formula „to je bila cela X": nula instanci.** Spisak ostaje 3 od 3.
+- **`grep -ri beograd roman/poglavlja/` — prazno.** „Beli grad" se u Delu 2 ne pominje
+  ni jednom rečju: grad je samo **„gore"**.
+- **Poslednji bajt proveren `od -An -c`, i proveren ishod komande.** Fajl završava
+  tačkom, bez preloma reda. *(Prvi pokušaj je `truncate`-om skinuo tačku umesto preloma
+  — uhvaćeno i vraćeno.)*
+- **Bez psovke. Ljubav se nigde ne izgovara. Zid neprobijen.**
+- **Zbir svih četrnaest napisanih poglavlja: 26.351 reč**, mereno običnim `wc -w` po
+  fajlu pa sabrano.
+
+### Šta ostaje
+
+**Jedno poglavlje: `NOVO 6 — Maska` (mesto 14, ~2.500 reči).** Posle njega: prolaz kroz
+šavove, pa **noir prolaz kroz ceo roman.**

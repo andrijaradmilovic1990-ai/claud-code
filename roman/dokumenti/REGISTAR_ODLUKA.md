@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 30.08.2026. *(Godfather odluke; `Fabrika` u radu — Deo 1 unet)*
+> Poslednje ažuriranje: 30.08.2026. *(**`Fabrika` zaključana — sekcija 13** · **hronologija preračunata, David danas 35 — sekcija 14**)*
 
 ---
 
@@ -604,7 +604,7 @@ prisutnih u svakom poglavlju.** Ne izvoditi ko je u kadru iz njega.
 ### Nataša kod parka — kad i gde *(zaključano 29.08.2026)*
 
 Ono što je u `SVET_I_LIKOVI_1` stajalo kao *„jedno viđenje posle svega"* sada ima
-godinu i mesto: **Davidovih 32, iste godine kad upoznaje Katarinu.** Beli grad, dok
+godinu i mesto: **Davidovih 32, iste godine kad počinje veza s Katarinom.** Beli grad, dok
 majka radi skener, **kafa kod jednog parka.** Van rituala — ritual pada u Davidovom
 rodnom gradu, ovo je slučajan susret u tuđem. **Piše se u `Fabrici`.**
 
@@ -737,3 +737,152 @@ Ne ranije — dok se poglavlja dodaju, mera raste, pa bi se isti tekst dirao vi�
 
 **To je jedini put kad se zaključano otvara u celini**, i otvara ga autor rečju
 „otvaram".
+
+---
+
+# 13 — NOVA KNJIGA: FABRIKA *(zaključano 30.08.2026)*
+
+**`NOVO 5 — Fabrika` je napisana i zaključana.** 1.911 reči, osamnaest scena
+(Deo 1 — osam, Deo 2 — deset). Sve odluke ispod su autorove i **ne predlažu se
+za izmenu.**
+
+### Forma
+
+- **Bez kadra sadašnjosti**, ni na početku ni na kraju. Razlog: kuhinjski okvir s
+  Katarinom već stoji u `III`, `IV` i `V` — četvrti put je figura; a poglavlje već
+  nosi dva sloja u sebi (fabrika i majka).
+- **Scene s dijalogom.** Hronika je odobrena samo za `Nestanak`.
+- **Sidro u vremenu je u Delu 1** — *„Sedmu godinu."* **U Delu 2 se ne ponavlja i ne
+  zamenjuje brojem.**
+
+### Šta se ne dira *(Deo 1)*
+
+- **Traka koja ne staje i ruka dignuta za toalet.** Kavez se postavlja bez ijedne reči
+  o kavezu. **Ne objašnjavati.**
+- **Poslovođa viče, David kaže „Dobro. Uradiću."** Kolega: *„Pa što ćutiš?"* — i
+  odgovora nema, traka donese sledeće. **Razlog trpljenja se nigde ne ispisuje.**
+- **U pogonu je glasan, kod majke nem.** Ista usta, dva čoveka, unutar istih godina.
+  **Ne izjednačavati ta dva registra i ne komentarisati razliku.**
+- **Klupa i njen drugi kraj.** On sedi na kraju odakle se vidi kapija; ona sedne na
+  drugi kraj i ćuti celu cigaru. **Ne davati joj repliku u toj sceni.**
+- **„Ne slika se on. Sedam godina."** **Ne dodavati Davidovo objašnjenje** — on kaže
+  samo *„Slikajte vi"* i odnese dva prazna tanjira.
+- **Njena poruka u autobusu — njen jedini potez te vrste.** *„kolega može da sedneš
+  pored mene."* Broj sa spiska za dojavu smene. **Ne umnožavati poteze te težine.**
+- **Kraj Dela 1:** *„nisam se okrenuo da vidim ko iza nas ulazi u krug."* **Ne
+  ponavljati tu figuru u Delu 2.**
+
+### Šta se ne dira *(Deo 2)*
+
+- **Reč „rak" se u tekstu ne izgovara nijednom.** Nalaz u fioci pod koncima: *„Pisalo
+  je na latinskom, i jedna reč u tome je bila naša."* **Ne imenovati bolest** ni
+  Davidovim ni majčinim rečima.
+- **David saznaje preko trećeg** — sestra s odeljenja zove zbog termina. **Ne davati
+  majci scenu u kojoj mu sama kaže.** Ona je već rekla ono što ima: *„Nije imalo šta
+  da se kaže dok nisu rekli šta je."*
+- **Petnaesti zapisan na kutiju šibica.** **Ne dodavati mu drugo mesto.**
+- **Poslovođa traži razlog i David ga ne daje.** *„Onda ću da radim duplo do
+  petnaestog."* Kolega: *„Reci mu da ti je majka. Dao bi ti odmah." / „Znam."*
+  **To je najskuplje ćutanje u poglavlju i ne objašnjava se.** Time je popunjena i
+  **kvota 2.4** — neko dođe do ivice, ne skrene sam, skreće David, i cena se vidi.
+- **Katarinin potez: javi se za prekovremeno iste noći kad i on.** Na pitanje zašto:
+  *„Plaćam stan sama."* Tačno, i nedovoljno — **ona prvi put radi ono što on radi.**
+  **Knjiga to nigde ne imenuje** i **Andrijanina replika o izostavljanju se ne
+  umnožava.**
+- **Kola su Banetova i loša su.** *„nisu htela preko osamdeset"*, nešto zvoni pod
+  haubom na uzbrdici. **Majka je brz vozač i uvek je bila** — kola su ta koja ne mogu,
+  ne ona. **Ne obrtati nazad u sporu vožnju.**
+- **Ona vozi.** *„Nemam papire." / „Znam šta nemaš. Nisam pitala za papire."* **Ne
+  dodavati objašnjenje zašto nema dozvolu.**
+- **Nataša kod parka — lako, čisto, bez tereta.** Sedne bez pitanja, priča deset
+  minuta o sebi, ne pita zašto je otišao. **Ne dodavati joj dubinu** (sekcija 2) i
+  **ne praviti od susreta obračun.**
+- **Jovana se u poglavlju ne pominje nijednom.** *(Odluka autora, 30.08.2026.)* Njena
+  nesreća pada **godinu dana kasnije** (Davidovih 33), pa u `Fabrici` nema šta da se
+  o njoj kaže. **Ne vraćati pomen ni kao uzgrednu rečenicu.**
+- **Telefon za sliku i „Ne."** Nataša: *„Aha. Zaboravila sam."* — prošlost to zna o
+  njemu i njoj je normalno. **Ne komentarisati vezu s Delom 1.**
+- **Odmorište: majka spusti čelo na volan.** *„Hoćeš da ja..." / „Nemaš papire."*
+  On broji kamione, na dvanaestom ona podigne glavu. **Ne dodavati nijednu rečenicu
+  posle toga** i **ne dati mu da sedne za volan.**
+- **Kraj — klupa, termos, poklopac.** *„Vodio sam majku gore. Na snimanje."* Ona ne
+  pita ništa dalje. On ne kaže hvala, ona ne čeka da kaže. Poslednja slika je traka
+  koja se čuje kroz zid. **Ne dodavati rečenicu posle** i **ne pretvarati termos u
+  izjavu.**
+
+### Dva predloga za Natašinu scenu — oba pala *(Pravilo L, ne predlažu se ponovo)*
+
+Mesto posle *„Znala sam da si dobro. Andrijana kaže."* razmatrano je za jedan ubod i
+**ostaje prazno.**
+
+1. **„Svi smo mislili da ćeš se vratiti do zime."** — **oboreno od autora.** Rečenica
+   pretpostavlja da se nisu videli od nestanka, a **ritual već traje** i viđali su se
+   više puta. Uz to meri vreme, a osam godina je predugo za „do zime".
+2. **„Čudno mi je da te vidim danju."** — **oboreno od autora.** **David voli da pije
+   kafu sam, ujutru ili preko dana** — dnevno svetlo kod njega ne znači ništa, pa
+   rečenica pravi značaj gde ga nema.
+
+**Iz drugog je izašla činjenica o liku, upisana u `SVET_I_LIKOVI_1`:** iz dnevnog
+svetla se ne izvodi ništa i niko ga zbog toga ne zadirkuje.
+
+### Šta Fabrika plaća
+
+Prazno mesto **5** (kako su se upoznali) · **DUG 2** — razlog zašto voli Katarinu:
+**pored nje ne mora da izostavlja.** Poslovođi ne kaže, kolegi ne kaže, njoj kaže —
+pola, ali kaže. **To je jedini put u poglavlju da je nekome nešto rekao sam od sebe,
+i knjiga to ne imenuje.** · **naplata majke** (sekcija 11) — bolest, skener, Nataša ·
+**Nataša naplaćena** — *„jedno viđenje posle svega"* iz `SVET_I_LIKOVI_1` dobilo je
+godinu i telo · **G1** (porodica malim slovom — David sa 32 ne pripada nikome) ·
+**G2** (žena se desi usred egzila, ne kao upoznavanje).
+
+### Šta se u Fabrici NIJE radilo — i ne radi se kasnije
+
+- **Promena oko slikanja se ne najavljuje.** David počinje da sedi s ljudima i da se
+  slika **tek s Katarinom, kasnije.** `Fabrika` je tačka pre toga. **Ne dopisivati
+  nagoveštaj.**
+- **Nalaz se u poglavlju ne dobija.** *„Nalaz za deset dana"* — i poglavlje se
+  završava pre toga. **Ne dodavati epilog o nalazu.**
+
+---
+
+# 14 — HRONOLOGIJA PRERAČUNATA: DAVID DANAS IMA 35 *(odluka autora, 30.08.2026)*
+
+**David je 1990. godište. Danas ima 35; trideset šestu puni u oktobru.**
+
+**Šta je otkrilo grešku:** s Katarinom je prošlog meseca bilo **tri godine.** Tablica
+je vodila sadašnjost na **36**, a `Fabrika` (početak veze) na **32** — što daje četiri.
+
+**Fabrika ostaje na 32 i ne pomera se.** Na njoj visi *„Sedmu godinu"* iz Dela 1 i
+tri godine s Katarinom. Pomerila se **sadašnjost**, i s njom ceo niz — za jednu godinu
+nadole.
+
+**Nijedna rečenica ni u jednom poglavlju nije promenjena.** Sve cifre koje tekst nosi
+slažu se s novom tablicom, i to bolje nego sa starom:
+
+| tekst | računa se | ✓ |
+|---|---|---|
+| `I 7`, `IX 227` — *„Dvanaest godina"* | 35 − 12 = **23** = nestanak | ✓ |
+| `Krv 63` — *„još dve godine"* | 21 + 2 = **23** | ✓ |
+| `IV` — *„pre 14 godina"* | 35 − 14 = **21** = magacin, Italija, Pariz | ✓ |
+| `V` — *„pre 12"* | 35 − 12 = **23** | ✓ |
+| `V 157` — *„četiri godine"* prazne stolice | 23 + 4 = **27** | ✓ |
+| `VI` — *„Deset godina"*, četiri puta | 23 + 10 = **33** | ✓ |
+| `VI 125` — *„dvanaest godina kasnije"* | 21 + 12 = **33** | ✓ |
+| `IX 177` — *„pre godinu dana"* | **34**, godinu pre sadašnjosti | ✓ |
+| Italija — šesta godina dolazaka | od 16 → šesta je **21** | ✓ |
+| `VII 161` — jedna fioka | veza 32, `VII` na 34 — **treća godina** | ✓ |
+
+**Puna tablica je u `SVET_I_LIKOVI_1`, sekcija HRONOLOGIJA.** Ne pomera se bez
+izričitog „otvaram".
+
+### Jovanina nesreća — godinu posle bolesti, i to se ne spušta niže
+
+Autor je zatražio da nesreća bude **par meseci** posle majčine bolesti. Preračunom je
+razmak pao s **dve godine na jednu** (32 → 33), i **niže ne ide.**
+
+**Zašto:** `VIII` je nastao podelom `VII` i ide odmah iza njega, a `IX` kaže *„pre
+godinu dana"*. Da nesreća padne na 32, `VII` bi morao da pokrije tri godine umesto
+jedne — ili bi `IX` izgubio *„pre godinu dana"*, a to je ogledalo kraja knjige.
+
+**Cena je nula, jer se ta dva u knjizi nigde ne sreću:** `Fabrika` Jovanu ne pominje
+nijednom, a `VI` ne pominje ni majku ni bolest. **Razmak čitalac nikad ne meri.**
