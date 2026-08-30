@@ -194,6 +194,111 @@ odluči.**
 
 ---
 
+### IDEJA 5 — „A KO SI TI?" *(autor, 30.08.2026)*
+
+**Razmena u razgovoru s nekim ko ga zna** — Jovana, Andrijana, ili neko iz tog kruga.
+
+Ta osoba ga pita: **a ko si ti?**
+
+David: to je teško pitanje — **kad sam radio loše stvari, isključio sam se i postao neko
+drugi, a posle sam opet bio ja.**
+
+Ona: **a kako znaš da si ti onaj koji se nije isključio, a ne onaj koji jeste?**
+
+**Status: sačuvano, nije raspoređeno.** Ne piše se dok autor ne kaže gde ide.
+
+**Šta nosi:** poslednja replika ne objašnjava mehanizam nego ga otvara — pitanje ostaje
+bez odgovora i čitalac ga nosi dalje. To je jedina stvar u knjizi koja bi zid dodirnula
+spolja a da ga ne probije.
+
+**Na šta paziti kad dođe vreme:** Davidova replika je najbliže priznanju koje knjiga
+ikad izgovori. Mora ostati u opštem („loše stvari"), nikad u konkretnom.
+
+---
+
+## IZVUČENO IZ GODFATHER VODIČA *(30.08.2026)* — ODLUČENO
+
+> **Odlučeno 30.08.2026, odluka autora.**
+>
+> **Uzeto:** G1, G2, G4, G5, G9, G10. **Uzeto kao podsetnik, nije novo:** G3, G8.
+> **Odbačeno:** G6, G7 — **ne predlažu se ponovo** (Pravilo L).
+>
+> Izvorni dokument `GODFATHER_PRELAZNE_SCENE.md` je **obrisan istog dana**, po odluci
+> autora, da ne stoji kao drugi zakon pored ovog fajla. Ostaje u git istoriji.
+
+### G1 — porodica malim slovom protiv Porodice velikim
+Osa cele knjige: lojalnost krvi i lojalnost organizaciji nose isto ime i ne mogu se
+razlikovati iznutra. **Gde radi:** `Fabrika` (David sa 32 ne pripada nikome, prvi put u
+životu) · `Maska` (šta košta držati ovaj život).
+**Ocena: uzeti.** Ovo je jedina stvar iz dokumenta koja knjizi daje nešto što nema
+imenovano, a već radi u tekstu.
+
+### G2 — Apollonia se ne piše kao upoznavanje
+Žena se ne uvodi scenom upoznavanja nego kao ono što se čoveku desi **usred egzila** —
+prvo se piše izgnanstvo, pa žena. **Gde radi:** `Fabrika`, već primenjeno u drugom
+prolazu Dela 1.
+**Ocena: uzeti.** Rešilo je tačno ono što je autor prijavio kao „otišlo u romansu".
+
+### G3 — dela umesto reči (paralepsa)
+Unutrašnjost lika se pokazuje ritualnim radnjama, ne monologom.
+**Ocena: uzeti kao ime za ono što već postoji.** `PRAVILA_STILA` fore 3 i 6 su ista
+stvar. Nije novo pravilo nego drugo ime za postojeće — vredi samo kao podsetnik.
+
+### G4 — zvonce nad vratima kao rastući motiv
+Zvuk iz `Susreta` koji se vraća i postaje neprijatniji svaki put kad prošlost kuca.
+**Gde radi:** `Maska`, jer je jedina sadašnjost pred kraj.
+**Ocena: uzeti samo unapred.** Retroaktivno ga nema (Pravilo P) — u starim poglavljima
+se ne dopisuje. Rizik: motiv koji raste tri puta je figura; sme jednom.
+
+### G5 — miris starog duvana kao upad prošlosti u čist stan
+Olfaktorni signal da je civilni život kontaminiran.
+**Ocena: uzeti u umerenom obliku, bez halucinacije.** Predloženo „javlja mu se kao
+halucinacija" vodi u triler i udara u zabranu oko `Maske`. Miris na njegovom kaputu
+posle poziva — sme.
+
+### G6 — hladnoća kao taktilni motiv uz odluke
+Hladna voda, hladan metal, hladna soba oko trenutaka odluke.
+**Ocena: odbaciti kao sistem.** Knjiga to već ima raspoređeno, a kao pravilo bi
+proizvelo tik. `Majka` uz to ide obrnuto — kod nje je prevruće, i to je namerno.
+
+### G7 — unutrašnja montaža: naredba za odmazdu isprepletena s domaćim
+Cross-cutting nalik krštenju iz Kuma — dok se odmazda naručuje, teku slike kuhinje.
+**Ocena: odbaciti.** Traži da se David vidi kao onaj koji naređuje, što je zid. Knjiga
+je jača od Kuma baš zato što film mora da pokaže, a ona sme da ne pokaže.
+
+### G8 — chiaroscuro: dva sveta, dva svetla
+Sadašnjost u prirodnom svetlu i domaćoj buci; prošlost u senci, neonu i tišini.
+**Ocena: uzeti kao proveru, ne kao recept.** Knjiga to već radi; korisno je samo kao
+pitanje pred pisanje nove scene — u kom je svetlu ovaj kadar.
+
+### G9 — mera: osveta ne sme postati lična ambicija
+Čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga gubi.
+**Ocena: uzeti kao meru.** Ovo nije scena nego prag — koristan pred `Masku`.
+
+### G10 — lice na svetlu, lice u senci *(autor, 30.08.2026)*
+
+**Kad David priča s Katarinom, lice mu je na svetlu. Kad priča s Jovanom ili
+Andrijanom, lice mu je u senci** — suptilno, nikad naglašeno, nikad komentarisano.
+
+**Ocena: uzeto.** Ovo je G8 sveden na jedan potez umesto na sistem, i zato radi:
+ne traži da se cela scena boji, nego samo gde stoji lampa. **Nikad se ne imenuje i nikad
+se ne izvodi zaključak iz toga.**
+
+**Retroaktivno se ne radi** (Pravilo P) — samo u novom, i na šavovima kad dođe prolaz.
+
+---
+
+## ZAKAZANO ZA KRAJ — NOIR PROLAZ KROZ CEO ROMAN *(odluka autora, 30.08.2026)*
+
+**Kad sve bude napisano, ceo roman se prolazi jednom i usklađuje da bude znatno više
+noir.** Ovo je **najveći zakazani posao u knjizi** i stoji posle svega ostalog.
+
+**Kad:** posle šest novih poglavlja i posle prolaza kroz šavove. **Ne ranije** — dok se
+poglavlja dodaju, mera raste, pa bi se isti tekst dirao više puta.
+
+**Šta prolaz tada obuhvata:** sva poglavlja, stara i nova, uključujući zaključana. To je
+jedini put kad se zaključano otvara u celini, i otvara ga autor rečju „otvaram".
+
 ## KARAKTER — ŠTA JE UPISANO 28.08.2026
 
 ### David je low key TEK POSLE *(autor — ovo je posledica, ne crta)*

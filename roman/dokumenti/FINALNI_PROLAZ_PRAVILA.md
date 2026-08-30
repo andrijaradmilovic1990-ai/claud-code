@@ -515,8 +515,8 @@ Stavka ulazi u **arhitekturu** samo ako se čemu-služi može napisati u jednoj 
 Obim *(brojevi redova iz vremena pre podele VII — istorijski zapis)*: I (59), II (229), III (99), IV (135), V (159), VI (156), VII (696), VIII (216).
 
 > **Stanje na 28.08.2026, posle koraka 4 — u rečima:** I 797 · II 1.574 · III 1.135 ·
-> IV 1.973 · V 1.278 · VI 1.405 · VII 2.150 · VIII 3.635 · IX 1.571.
-> **Ukupno 15.510 reči.**
+> IV 1.973 · V 1.289 · VI 1.405 · VII 2.150 · VIII 3.635 · IX 1.571.
+> **Ukupno 15.529 reči.** *(Ispravljeno 30.08.2026 po Pravilu E.)*
 
 ---
 
