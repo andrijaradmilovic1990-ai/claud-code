@@ -12,7 +12,7 @@
 > **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
 > argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
 >
-> Poslednje ažuriranje: 29.08.2026. *(NOVO 4 — Majka zaključana)*
+> Poslednje ažuriranje: 30.08.2026. *(Godfather odluke; `Fabrika` u radu — Deo 1 unet)*
 
 ---
 
@@ -686,3 +686,54 @@ Prazno mesto **2** (David nema krvnog srodnika — sad ga ima, u sceni, ne u zap
 **sekcija 7 registra** dobija telo umesto zapisa · **Andrijanina replika iz `Pukotine`**
 (*„Ti samo izostaviš"*) dobija koren: to nije naučio u poslu nego kod kuće, od žene koja
 to radi bolje od njega. **Naplata figure pada u `Fabrici`** (rak, skener, Nataša).
+
+
+---
+
+# 12 — GODFATHER: ŠTA JE UZETO I ŠTA JE ODBAČENO *(odluka autora, 30.08.2026)*
+
+Autor je poslao vodič za prelazne scene po Puzu i Coppoli. **Prošli smo ga jednom,
+odlučeno je, i izvorni dokument je obrisan** da ne stoji kao drugi zakon pored
+`NOVA_KNJIGA_IDEJE.md`. Ostaje u git istoriji.
+
+### Uzeto
+
+- **G1 — porodica malim slovom protiv Porodice velikim.** Osa knjige: lojalnost krvi i
+  lojalnost organizaciji nose isto ime. Radi u `Fabrici` (David sa 32 ne pripada nikome)
+  i u `Maski`.
+- **G2 — Apollonia se ne piše kao upoznavanje** nego kao ono što se desi **usred
+  egzila.** Prvo izgnanstvo, pa žena. Primenjeno u `Fabrici`.
+- **G4 — zvonce nad vratima** koje se vraća neprijatnije. **Samo unapred, u `Maski`, i
+  samo jednom** — tri puta bi bila figura. Retroaktivno se ne dopisuje (Pravilo P).
+- **G5 — miris starog duvana** kao upad prošlosti u čist stan. **Bez halucinacije** — to
+  vodi u triler i udara u zabrane oko `Maske`.
+- **G9 — mera:** čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga
+  gubi. Prag pred `Masku`, ne scena.
+- **G10 — lice na svetlu, lice u senci.** **S Katarinom lice na svetlu, s Jovanom i
+  Andrijanom u senci.** Suptilno, **nikad imenovano**, nikad se iz toga ne izvodi
+  zaključak. Retroaktivno se ne radi — samo u novom i na šavovima.
+
+### Uzeto samo kao podsetnik — nije novo pravilo
+
+- **G3 — dela umesto reči (paralepsa).** To su `PRAVILA_STILA`, fore 3 i 6.
+- **G8 — chiaroscuro.** Pitanje pred scenu („u kom je ovo svetlu"), ne recept. **Sveden
+  je na G10.**
+
+### ODBAČENO — ne predlaže se ponovo *(Pravilo L)*
+
+- **G6 — hladnoća kao sistem uz svaku odluku.** Postala bi tik, a `Majka` ide obrnuto —
+  kod nje je prevruće, i to je namerno.
+- **G7 — unutrašnja montaža: odmazda isprepletena s domaćim scenama.** **Traži da se
+  David vidi kako naređuje — to je zid.** Knjiga je jača od Kuma tačno tamo gde film
+  mora da pokaže a ona ne mora.
+
+### ZAKAZANO ZA KRAJ — NOIR PROLAZ KROZ CEO ROMAN
+
+**Kad sve bude napisano, ceo roman se prolazi jednom i usklađuje da bude znatno više
+noir.** **Najveći zakazani posao u knjizi.**
+
+**Redosled je zaključan:** šest novih poglavlja → prolaz kroz šavove → **noir prolaz.**
+Ne ranije — dok se poglavlja dodaju, mera raste, pa bi se isti tekst dirao više puta.
+
+**To je jedini put kad se zaključano otvara u celini**, i otvara ga autor rečju
+„otvaram".

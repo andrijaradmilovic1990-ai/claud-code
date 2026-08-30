@@ -216,6 +216,25 @@ počinjala tek od „pre 14 godina" i **nije imala nijednu Davidovu godinu.**
 - **Čovek iznad Davida je Italijan, nema ime, i nije Zvezdan.** On je razlog zbog kog
   David **sa 16 počinje da ide u Italiju.**
 
+### ŠTA JE UPISANO IZ `FABRIKE` *(30.08.2026, odluke autora)*
+
+- **David se ne slika.** Izbegava slikanje i selfije, oduvek. U `Fabrici` to zna cela
+  smena — *„Ne slika se on. Sedam godina."*
+- **Nema društvene mreže. Nijednu, ni dan-danas** — važi i u sadašnjosti knjige.
+- **Promenilo se tek s Katarinom:** vremenom je počeo da sedi s ljudima, da se zeza i da
+  se slika. **Sve to uz nju.** `Fabrika` je tačka pre toga i promenu ne najavljuje.
+- **U novom životu David trpi.** Pravila ćuti, nadrkane ljude ćuti, naređenja ćuti.
+  **Razlog se nikad ne ispisuje:** da reaguje, morao bi da bude onaj drugi. **„Low key"
+  nije mir nego uzdržavanje**, i plaća se svaki dan.
+- **U pogonu je glasan** — priča, doviknuje, zeza se s kolegama — **a kod majke nem.**
+  Ista usta, dva čoveka, **unutar istih godina.**
+- **Fabrika je fabrika kablova** (spajanje snopova). **David bandažira, Katarina pinuje**,
+  desetak metara od njega na istoj liniji. **Ime fabrike se u tekstu ne pominje.**
+- **Smene:** pet dana prva, pet druga, pet treća, pa dva slobodna.
+- **Katarina ima 22**, doselila se sama s juga, živi u stanu koji sama plaća, pola
+  kilometra od njega. **Stidljiva.** **Njen jedini potez je poruka u autobusu.**
+- **Oboje idu autobusom.** David nema kola i nema dozvolu.
+
 ### ŠTA JE UPISANO IZ `MAJKE` *(29.08.2026, odluke autora)*
 
 - **David nema vozačku dozvolu.** Nikad je nije imao, vozi bez nje, i **vozi bez nje i
@@ -325,13 +344,13 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 | II | Pukotina | 1.574 | prošlost (~godinu i po pre I) |
 | III | Krv | 1.135 | sadašnjost → zaron |
 | IV | Pariz | 1.973 | sadašnjost (veče + jutro) → zaron |
-| V | Nestanak | 1.278 | sadašnjost → zaron |
+| V | Nestanak | 1.289 | sadašnjost → zaron |
 | VI | Prazna stolica | 1.405 | **prošlost** (~2 godine pre I) → zaron |
 | VII | Beli grad | 2.150 | nastavak VI, kroz godinu dana |
 | VIII | Kukavica | 3.635 | jedna noć, ~godinu pre I |
 | IX | Ćebence | 1.571 | ista noć → skok u sadašnjost |
 
-**Ukupno 15.510 reči.**
+**Ukupno 15.529 reči.** *(Ispravljeno 30.08.2026 po Pravilu E: V ima 1.289, ne 1.278.)*
 
 ---
 

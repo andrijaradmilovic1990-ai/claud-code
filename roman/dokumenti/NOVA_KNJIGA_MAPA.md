@@ -39,7 +39,7 @@
 | **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.791 — NAPISANO** |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
 | **9** | **NOVO 4 — Majka** | **novo** | prva godina posle, David ima 25 | **1.571 — NAPISANO** |
-| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | ~2.500 |
+| **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 8 g. posle povratka | **1.024 — DEO 1 UNET** |
 | **11** | **Prazna stolica** | staro `VI` | 10 g. posle nestanka | 1.405 |
 | **12** | **Beli grad** | staro `VII` | +1 godina | 2.150 |
 | **13** | **Kukavica** | staro `VIII` | isto putovanje | 3.635 |
@@ -197,6 +197,10 @@ kafu kod parka i tu zatekne **Natašu**, posle mnogo godina.
 
 **Zabrana:** **Katarina se ne sme pisati kao utešna nagrada** ni kao ono na šta je David
 pristao. I ne dobija dubinu **rečenicama** nego **potezima** — kao i dosad.
+
+**STANJE 30.08.2026: Deo 1 unet i odobren** (1.024 reči) — fabrika kao kazna, klupa,
+trpljenje, slikanje, autobus i njena poruka. **Deo 2 (rak, skener, Nataša) ostaje.**
+Okvir odlučen: **bez kadra sadašnjosti.** Građa od autora: `GRADJA_FABRIKA.md`.
 
 ---
 

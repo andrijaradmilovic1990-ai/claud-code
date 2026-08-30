@@ -79,4 +79,6 @@ u rečenici nego u tome **šta je uz nju postao** — čovek koji sedne za tuđi
 ga neko uslika. `Fabrika` je tačka pre toga: tu se **ne slika.** Promena se ne piše u
 ovom poglavlju i ne najavljuje se.
 
+**David ni dan-danas nema društvene mreže.** Nijednu. To stoji i u sadašnjosti knjige.
+
 **Ne mora sve da uđe u tekst** — stoji kao istina uz koju se poglavlja mere.
