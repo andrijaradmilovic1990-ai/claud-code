@@ -1,0 +1,452 @@
+# PLAN RADA — čista putanja
+
+> **Šta je ovo.** Jedan jedini spisak posla koji je ostao. Sastavljen 30.08.2026, posle
+> čitanja svih četrnaest napisanih poglavlja u nizu i razvrstavanja svih ideja.
+>
+> **Kako se koristi.** Otvara se odmah posle `NASTAVAK.md`. Radi se **redom odozgo**.
+> Kad se posao završi, odluke se sele u `REGISTAR_ODLUKA.md` i činjenice o likovima u
+> `SVET_I_LIKOVI_1.md`, a stavka se ovde precrtava.
+>
+> **Šta ovaj fajl NIJE.** Nije registar i ne ukida nijedno pravilo. Registar i dalje važi
+> u punom obimu; gde se sukobe — **važi registar.**
+
+---
+
+## STANJE NA 30.08.2026
+
+- Napisano **četrnaest poglavlja, 26.351 reč** *(provereno `wc -w` po fajlu)*.
+- **Autor je otvorio sva poglavlja** za ovaj posao — izričito, 30.08.2026.
+- **Knjiga ide na ŠESNAEST poglavlja**, ne petnaest. Umeće se `Ivičnjak`.
+- Ostaje da se napiše **dva poglavlja** i uradi **tri male prepravke**.
+
+---
+
+## NOVA NUMERACIJA — šesnaest poglavlja
+
+| # | poglavlje | stanje | reči |
+|---|---|---|---|
+| 1 | Susret | zaključano, **ne dira se** | 797 |
+| **2** | **Pukotina** | **PREPRAVKA — posao B** | 1.574 |
+| **3** | **Ulazak** | **PREPRAVKA — posao C** *(čeka odgovor autora)* | 2.181 |
+| **4** | **Krv** | **PREPRAVKA — posao D** | 1.135 |
+| 5 | Italija | zaključano, **ne dira se** | 3.368 |
+| 6 | Pariz | zaključano, **ne dira se** | 1.973 |
+| **7** | **IVIČNJAK** | **PIŠE SE — posao A** | ~2.000 |
+| 8 | Prelom | **ne dira se** — menja mu se značenje | 1.791 |
+| 9 | Nestanak | **ne dira se** — menja mu se značenje | 1.289 |
+| 10 | Majka | **ne dira se** | 1.571 |
+| 11 | Fabrika | **ne dira se** | 1.911 |
+| 12 | Prazna stolica | **ne dira se** — menja mu se značenje | 1.405 |
+| 13 | Beli grad | **ne dira se** — menja mu se značenje | 2.150 |
+| 14 | Kukavica | **ne dira se** — menja mu se značenje | 3.635 |
+| **15** | **MASKA** | **PIŠE SE — posao E** | ~2.800 |
+| 16 | Ćebence | zaključano, **ne dira se** | 1.571 |
+
+**Očekivani zbir: oko 31.500 reči.**
+
+> **Numeracija se pomerila.** Sve od `Preloma` nadalje ima **broj veći za jedan** nego u
+> `NOVA_KNJIGA_MAPA.md`. Stariji zapisi koji kažu „mesto 14 — Maska" misle na **mesto 15**.
+
+---
+
+# RED RADA
+
+Radi se **ovim redom.** Poglavlje se ne otvara dok se prethodni posao ne zatvori.
+
+---
+
+## POSAO A — napisati `IVIČNJAK` *(novo poglavlje, mesto 7)*
+
+**Ovo je prvo i najveće.** Sve ostalo zavisi od njega.
+
+### Šta se dešava *(autorova scena, 30.08.2026)*
+
+Nepoznat čovek nasrne na Jovanu na ulici — *„ma moja si, pođi sa mnom"*. David ga obori,
+**iako je čovek krupniji od njega**, i **ne staje**: udara, slomi mu nos, i u jednom
+trenutku mu **namesti usta na ivičnjak**. **Jovana počne da vrišti i on se budi iz besa.**
+
+### Kad se dešava
+
+**Posle `Pariza`, malo pre nestanka.** Pariz je Davidova **21.**, `Prelom` i `Nestanak`
+su **23.** Ivičnjak pada **između — 22. ili 23.**
+
+> **Odluka koja mora pasti pre prve rečenice:** tačna godina. Uz nju ide **sidro u
+> vremenu** u prvih deset redova — replika iz koje čitalac sam sabere gde je, bez datuma
+> i bez zaglavlja *(pravilo od 29.08.2026)*.
+
+### Zašto poglavlje postoji — šta radi za knjigu
+
+- **Jedini put u celoj knjizi da David gubi kontrolu.** `DUG 4` kaže da je *lako besan i
+  nijednom ranjiv* — a bes se do sada nigde ne vidi u kadru.
+- **Daje `Belom gradu` koren.** Ono *„Ali umalo. Prvi put za deset godina — umalo."*
+  (13, red 105) postaje čovek koji **zna** šta se desi kad pusti.
+- **Daje `Kukavici` dno.** Jovana je jedini svedok. Zato nikad ne pita. I zato je
+  *„Kukavica", rekla je. Samo to.* (14, red 431) **najgora reč koju mu može reći** —
+  jedina je koja zna da nije.
+- **Daje `Praznoj stolici` dno.** *„Mera za meru"* i naručeno prebijanje dolaze od čoveka
+  koji je to jednom radio sopstvenim rukama.
+- **Plaća strah, i to bez ijedne nove pretnje.** Vidi „STRAH" niže.
+- **Niz postaje:** Pariz *(visina)* → **Ivičnjak** *(prvi znak da je otišao)* → Prelom
+  *(smrt)* → Nestanak *(odlazak)*. Tek tad odlazak ima od čega da beži.
+
+### Kako se piše — pet stvari koje se ne smeju promašiti
+
+1. **Reč „ivičnjak" mora pasti.** `Pariz` je već ima, i to u najnežnijoj sceni koju
+   Jovana i David imaju: *„Sela je pored mene na ivičnjak te večeri… i ćutala, i ja sam
+   ćutao"* (6, red 115). **Isti predmet, susedno poglavlje, obrnuto.** Ništa to ne
+   imenuje i ne komentariše.
+2. **Budi ga njen vrisak, ne sopstvena misao.** Ako ga budi savest, scena pada.
+3. **Nema rečenice koja kaže da je shvatio.** Nikakvo *„tad sam znao da sam otišao
+   predaleko"* — to je potpis na kraju pasusa, isti koji je korak 4 skinuo s devet mesta.
+4. **DRUGI ODRAZ ide ovde** — vidi „ODRAZ" niže. Staklo izloga posle tuče.
+5. **Ne sme postati uzrok nestanka.** Zaključano je da knjiga nikad ne kaže šta je
+   prelilo čašu (`Nestanak`: *„Šta je tačno prelilo čašu, to ostavljam tamo gde je"*).
+   Ivičnjak je **jedan od znakova, nikad razlog.** Ako postane razlog, zatvara se rupa
+   koja mora ostati otvorena.
+
+### Sudar s pravilom — svesno napravljen
+
+**„Nasilje ostaje van kadra. Doza se ne menja."** — pravilo upisano za sva nova
+poglavlja. **Ova scena ga menja, i to za tačno ovu jednu.**
+
+**Zid ostaje ceo.** Zid je o **poslu**: David kao izvršilac se ne pokazuje. Ovo nije
+posao — ovo je ulica i sestra. Ne vidi se ni šta radi, ni za koga, ni po čijem nalogu.
+
+### Forma
+
+Scene s dijalogom. Hronika je odobrena samo za `Nestanak`. Fajl ne završava prelomom reda.
+
+---
+
+## POSAO B — `Pukotina` *(poglavlje 2)* — dve sitnice
+
+**Otvara se.** Obe izmene su male i obe su **postavke** za `Masku`.
+
+### B1 — majka postaje živa u sadašnjosti
+
+**Jedna Andrijanina replika.** Ona je jedina u sadašnjosti koja bi pitala.
+
+**Zašto:** majka je živa, petnaest minuta od Davida, i knjiga je u sadašnjosti
+**ne pominje nijednom.** Ako se prvi put pojavi u poglavlju 15, pada s neba.
+
+**Čega se paziti:** ne davati Davidu odgovor koji objašnjava. On izostavlja.
+
+### B2 — PRVI ODRAZ
+
+Red 225 već ima ogledalo: *„Pustio toplu vodu preko hladnih ruku i **gledao se u tuđem
+ogledalu**, u stanu koji još nije moj."*
+
+**Ovde se dodaje senka** — vidi „ODRAZ" niže. Ne prepisivati rečenicu, samo je dopuniti.
+
+---
+
+## POSAO C — `Ulazak` *(poglavlje 3)* — PORODICA / Porodica
+
+> **⚠ ČEKA ODGOVOR AUTORA. Pitanje je postavljeno 30.08.2026 i nije odgovoreno.
+> Ne raditi dok ne padne „da".**
+
+**Šta bi bilo:** jedan potez koji imenuje osu knjige bez ijedne reči o njoj — David
+**gubi porodicu** (brat) i **dobija Porodicu** (sto na ulici, čorba za tuđim stolom).
+
+**Zašto baš tu:** to je jedino mesto u knjizi gde se oba događaja dodiruju, i danas je
+neiskorišćeno kao takvo.
+
+---
+
+## POSAO D — `Krv` *(poglavlje 4)* — dva poteza
+
+**Otvara se.**
+
+### D1 — MALI *(najvažnija prepravka u knjizi)*
+
+**Šta:** jedan potez u kom **Mali nešto DA Davidu**, umesto da ga vozi i brblja.
+
+**Zašto:** Mali umire u poglavlju 8, a čitalac ga zna iz **jedne scene.** Bez ovog poteza
+`Prelom` je izveštaj o tuđoj sahrani; s njim je gubitak.
+
+> **Nalaz po Pravilu E, ispravlja zbornik:** zbornik tvrdi da je Mali *„pet puta u III,
+> jednom u IV"*. **U `Parizu` ga nema** — ono „Mali" je pridev uz magnet (*„Mali, glupi,
+> lim presvučen plastikom"*). **Mali postoji samo u `Krvi`**, pet puta, i to je i razlog
+> zašto ga niko ne oplakuje.
+
+> **⚠ VAŽNO ZA PISANJE — provereno 30.08.2026.** U `Prelomu` se **Mali ne pominje
+> nijednom, ni imenom ni nadimkom.** Jedina veza između poglavlja 4 i poglavlja 8 je
+> **motor**: u `Krvi` *„pričao mi je o nekom motoru koji će da kupi na leto"*, u
+> `Prelomu` *„Kupio ga je pre deset dana. Motor."* i *„Dvadeset mu je bilo u aprilu."*
+>
+> **Ta veza se ne sme oslabiti.** Novi potez u `Krvi` ide **pored motora, ne umesto
+> njega** — motor mora ostati poslednja stvar koju čitalac o njemu zapamti.
+
+### D2 — jedan Davidov nežan potez prema Katarini
+
+Vidi „NEŽNI MONSTRUM" niže. Ovo je najranija postavka za `Masku`.
+
+**Čega se paziti:** kuhinjska scena u `Krvi` je zaštićena na kraju (*„Vrata su bila
+zatvorena. Gledao sam ih dok smo jeli."*). **Ne dirati kraj.**
+
+---
+
+## POSAO E — napisati `MASKU` *(mesto 15, ~2.800 reči)*
+
+**Piše se poslednja**, kad sve postavke stoje.
+
+**Plaća `DUG 1`:** sadašnjost mora nositi opasnost, **kao scena.** Održavanje maske košta.
+
+### Tri zabrane — nijedna nije pala
+
+1. **Strah se ne montira u postojeću rečenicu.** Ovo je scena, ne dopuna.
+2. **Nema trilerske ivice.** Niko ne mora da puca.
+3. **Katarina ne sumnja i ne proverava.** Njen luk to zabranjuje do samog kraja.
+
+### Jezgro — bez ovoga poglavlje ne postoji
+
+| šta | kako |
+|---|---|
+| **MAJKA U SADAŠNJOSTI** | opasnost ne mora pretiti Davidu — **može pretiti njoj.** Telefon koji zvoni **kod nje**, ista figura kao u poglavlju 10 (*„Ne. Nema ga tu. Nije dolazio."*), dvanaest godina kasnije. **Ne krši nijednu od tri zabrane.** Registar to već dopušta: *„Ako se naplaćuje drugi put, mesto je `Maska`"* (sekcija 11) |
+| **NEŽNI MONSTRUM** | vidi niže. Ovo je i vrhunac i cena — on se igra s njom **usred** onoga što se tog dana dešava |
+| **VRATA** | kraj poglavlja. Vidi niže |
+| **BESPOMOĆNOST** | on **nema čime**: nema dozvolu, nema više onaj svet, i **ne sme dići telefon** jer bi ga to koštalo tačno onog života koji čuva. To je **PORODICA / Porodica** izvedena kao radnja, ne kao tema |
+
+### Nosači — sitnice koje drže poglavlje
+
+| šta | kako |
+|---|---|
+| **ZVONCE** | u `Susretu` se oglašava **kad starac IZLAZI**: *„Vrata su se zatvorila, zvonce se oglasilo."* **Ovde ide na ULAZ** — isti zvuk, obrnuto. **Samo jednom.** Tri puta bi bila figura |
+| **MIRIS DUVANA** | u `Susretu` je vezan za **tog jednog starca**: *„Mirisao je na duvan i na neki stari znoj."* Znači ne poziva „prošlost" uopšte nego **njega.** **Bez halucinacije** — miris na kaputu posle poziva sme |
+| **MAST** | teglica je iz `Majke` (*„teglica s nečim što nije kupovno"*), ožiljak s kažiprsta iz `Ćebenceta`. On sam, noću, maže ruke. **Majka ulazi u sadašnjost kroz predmet**, bez scene i bez pomena. **Rez:** nikakvo *„da bi mogao nežno da je dodirne"* — to je razlog izgovoren naglas. Ostaje samo radnja |
+
+### Ako stane — nije obavezno
+
+**„A KO SI TI?"** *(autorova ideja)* — **Andrijana, telefonom.**
+
+> — A ko si ti?
+> — Kad sam radio loše stvari, isključio sam se i postao neko drugi, a posle sam opet
+>   bio ja.
+> — A kako znaš da si ti onaj koji se nije isključio, a ne onaj koji jeste?
+
+**Zašto Andrijana:** ona je *iznutra potpuno*, kanal već postoji (`Ćebence` ga koristi:
+*„Kako je."* → *„Dobro je. Pita za tebe nekad."*), i **ne košta otvaranje nijednog
+poglavlja.** Katarina ovo ne sme pitati — zabrana 3.
+
+**Dva uslova, oba stroga:**
+1. **Scena ne sme biti napravljena zbog te razmene.** Mora pasti usput, u razgovoru o
+   nečem drugom. Ako se scena postavi da bi replika stigla, to je potpis u dijalogu.
+2. **Davidova replika ostaje u opštem** („loše stvari"), **nikad u konkretnom.** To je
+   najbliže priznanju koje knjiga ikad izgovori.
+
+### Prag pred pisanje — MERA
+
+**Čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga gubi.**
+To nije scena nego pitanje koje se postavlja pred svaku stranu.
+
+---
+
+# TRI STVARI KOJE IDU KROZ VIŠE POGLAVLJA
+
+## ODRAZ — tri mesta, senka u sredini *(rešenje autora, 30.08.2026)*
+
+**Problem koji je ovo rešilo:** u prvom licu David svoje lice ne vidi, pa se
+„lice u senci" nije imalo kako izvesti. **Autorov odgovor: vidi ga u sopstvenom odrazu.**
+
+Knjiga već ima **tačno dva ogledala**, oba u sadašnjosti, i **između njih nema nijednog:**
+
+| # | gde | tekst |
+|---|---|---|
+| **1** | **poglavlje 2**, red 225 | *„gledao se u tuđem ogledalu, u stanu koji još nije moj"* → **dobija senku** *(posao B2)* |
+| **2** | **poglavlje 7 — `Ivičnjak`** | **novo.** Staklo izloga posle tuče. **Ovde nije isti čovek** |
+| **3** | **poglavlje 16**, red 171–173 | *„Pogledao sam se u ogledalu. / Isti čovek."* — **ne dira se** |
+
+**Šta ovo radi:** *„Isti čovek"* na kraju knjige prestaje da bude konstatacija i postaje
+**odbrana.**
+
+**Pravilo:** senka se **nikad ne imenuje** i iz nje se **nikad ne izvodi zaključak.**
+Tri mesta i nijedno više — četvrto bi bilo tik.
+
+---
+
+## NEŽNI MONSTRUM — kako se David danas ponaša prema Katarini *(autor, 30.08.2026)*
+
+**Činjenica o liku.** David se danas s Katarinom ponaša **kao s detetom** — zeza se, kezi
+se, mazi je. To je Brandov *tender monster*: Vito koji umire igrajući se s unukom.
+
+Knjiga ima prvu polovinu te slike i ona je zaštićena — *„čudovište koje je naučilo da
+pije kafu kao čovek"* (1, poslednja rečenica, pada tačno jednom).
+**Fali druga polovina: čudovište koje se igra.**
+
+### Nalaz po Pravilu E — u tekstu maženje ide u pogrešnom smeru
+
+**Ona → njemu, sedam puta:** trlja mu hladne ruke i *„Mrzneš negde, a ne kažeš mi gde"*
+(2) · *„Ludak."* (2) · uštine ga za bok (4) · pomiluje ga po leđima u prolazu *„kao što
+se pomiluje sto ili dobar pas"* (6) · povuče ga za bradu *„kao što se vuče zvonce"* (9) ·
+pomiluje po glavi i ostavi dlan (16) · *„Ti si kao kuče."* (16)
+
+**On → njoj, dvaput:** nasloni bradu na njeno teme (2) · *„Naročito to."* (16)
+
+**Sedam prema dva.** Ona se igra s njim; on se s njom skoro ne igra.
+**To je rupa u tekstu, ne crta lika.**
+
+### Zašto ovo prolazi kroz zabranu oko Katarine
+
+Registar zabranjuje dodavanje **Katarini** — dubinu, prisutnost, scenu (sekcija 2).
+**Ovo nije to.** Ovo su **Davidovi potezi prema njoj**, dakle karakterizacija Davida.
+Zabrana ga ne dodiruje.
+
+**Prvi je nađen način da se `DUG 3` dodirne a da se ništa ne prekrši: ne pisati nju jače,
+nego njega mekše prema njoj.**
+
+### Gde ide
+
+- **poglavlje 4 (`Krv`)** — jedan potez, najranija postavka *(posao D2)*
+- **poglavlje 15 (`Maska`)** — vrhunac, spojen s **MAST**: ruke se mažu **da bi mogle da
+  se igraju**, ne da bi bile meke uopšte
+
+**Ne imenovati.** Reč „čudovište" pada jednom, u poglavlju 1, i ne ponavlja se.
+
+---
+
+## STRAH — ne ubacuje se, plaća se u poglavlju 4
+
+**Šta je autor tražio:** da se čitalac negde na sredini zabrine da će neko nastradati.
+
+**Zašto se ne može ubaciti direktno:** svi likovi prežive do poslednje strane — to je
+zaključano sadržajem radnje. Pretnja koja se ne ostvari se troši.
+
+**Kako se ipak dobija:** **strah ne dolazi od pretnje nego od DOKAZA.**
+
+Knjiga do sada **nikog nije uzela dok čitalac gleda.** Brat je već mrtav kad ga upoznamo.
+Jovanina nesreća stiže kao cifre preko telefona.
+
+Čim knjiga uzme **Malog** — a čitalac ga je zavoleo u poglavlju 4 — **svi ostali postaju
+ranjivi**, unazad i unapred.
+
+**Sredina od šesnaest je 7–8: `Ivičnjak` pa `Prelom`.** Tvoja scena i smrt Malog, jedno
+za drugim. **Strah je već raspoređen na sredinu — samo nije plaćen.**
+
+**Znači: ceo strah zavisi od jednog poteza u poglavlju 4.**
+
+---
+
+# ŠTA SE NE DIRA — ali mu se menja značenje
+
+Ova poglavlja **ne dobijaju nijedno slovo**, a `Ivičnjak` im menja težinu:
+
+| # | poglavlje | šta se menja bez izmene |
+|---|---|---|
+| 6 | Pariz | ivičnjak na kom ona sedi pored njega |
+| 8 | Prelom | Jovana preko rake koja nijednom ne diže pogled |
+| 9 | Nestanak | *„Šta je prelilo čašu, to ostavljam tamo gde je"* — sad ima kandidata, a knjiga i dalje ne kaže |
+| 12 | Prazna stolica | *„Mera za meru"* dobija dno |
+| 13 | Beli grad | *„Ali umalo"* dobija koren |
+| 14 | Kukavica | *„Kukavica"* prestaje da bude uvreda |
+| 16 | Ćebence | *„Isti čovek"* dobija protivtežu |
+
+**Pet poglavlja se dira. Sedam se menja bez ijednog slova.**
+
+---
+
+# OBRISANO 30.08.2026 — ne predlaže se ponovo *(Pravilo L)*
+
+| ime | zašto je palo |
+|---|---|
+| **MELODIJA** *(kafanski solo naspram tihe melodije na radiju)* | dvostruko poređenje **plus** lik koji tumači sopstvenu sliku. Knjiga to već radi bez ijedne reči: traka koja ne staje i autobus u pola šest (11), i radio ugašen usred refrena (9) |
+| **PROMAJA kao sistem** | isto što i već odbačena hladnoća kao sistem (`G6`): postala bi tik, a `Majka` ide obrnuto — kod nje je prevruće. **Njen jedini upotrebljiv deo je već sadržan u VRATA.** I ne dirati ožiljak pod hladnom vodom u `Ćebencetu` — tamo je hladnoća **njegov izbor**, mirna slika, i ne sme dobiti posao signala |
+| **KLJUČEVI** *(anti-Majkl momenat)* | **knjiga ih je već platila:** odbijeni u `Prelomu` (*„Ne treba mi"*, dvaput), primljeni u `Majci` (*„Nemoj da zvoniš. Ne radi."*). Dva poglavlja razmaka, nijedna reč poređenja. **Treći ključ bi od figure napravio sistem**, a poređenje u sebi je zabranjeno svejedno |
+
+**Ranije mrtvo, samo podsetnik:** hladnoća kao sistem (`G6`) · montaža odmazde (`G7`) ·
+naslednik · trilerska ivica · stisak ruke u prazno · autobus kao zatvorska kazna ·
+Katarina koja prepoznaje tuđ parfem · šesti dug · dvanaest godina bekstva ·
+Zvezdan na sceni.
+
+---
+
+# VRATA — puni opis *(ide u `Masku`, kraj poglavlja)*
+
+**Šta:** promaja iz hodnika → on ustaje → **zatvara ulazna vrata do kraja** → brava
+klikne. Mrak i stepenište ostaju spolja; on ostaje unutra, u svetlu, s njom.
+
+**Zašto radi:** knjiga je već napisala **drugu polovinu tog kadra**, obrnutu — `Italija`,
+poslednji red: *„Ušla je i vrata je morala da povuče dvaput jer se dole zaglave o prag.
+**Onda sam čuo kako se okreće ključ.**"*
+
+**Tamo Anja zaključava NJEMU**, i on ostaje napolju u dvorištu dok se prozori gase jedan
+po jedan. **Ovde on sam zatvara, i ostaje s unutrašnje strane.** Isti kadar, deset
+poglavlja i jedanaest godina kasnije.
+
+**Pravilo:** **nijedna rečenica ne sme reći šta to znači.** Gest, pa kraj.
+
+---
+
+# ⚠ OTVORENO — jedno pitanje čeka odgovor
+
+**`Ulazak` (poglavlje 3) — otvaramo li ga za PORODICU / Porodicu?**
+
+Postavljeno 30.08.2026, nije odgovoreno. **Posao C se ne radi dok ne padne „da".**
+
+Sve ostalo u ovom planu je odobreno.
+
+---
+
+# ZAKAZANO POSLE — ne ranije
+
+1. **PROLAZ KROZ ŠAVOVE.** Kad `Ivičnjak` i `Maska` budu napisani.
+
+   **Preračunato u novu numeraciju — devet šavova:**
+   2→3 · 4→5 · **6→7** · **7→8** · 8→9 · 9→10 · 10→11 · 11→12 · 14→15.
+
+   Stari šav *Pariz → Prelom* više ne postoji — `Ivičnjak` ga je presekao na **dva**:
+   **6→7** *(Pariz → Ivičnjak)* i **7→8** *(Ivičnjak → Prelom)*. Ostali su isti šavovi
+   kao pre, samo s brojem većim za jedan.
+
+   > **Kandidat koji nije bio na starom spisku: 15→16** *(Maska → Ćebence)*. `Maska` je
+   > novo poglavlje pa je i taj spoj nov. **Nije autorova odluka — pitati pre prolaza.**
+2. **NOIR PROLAZ KROZ CEO ROMAN.** Najveći zakazani posao. Ide **posle** šavova. Tada se
+   zaključano otvara u celini, i otvara ga autor rečju „otvaram".
+
+---
+
+# PROVERE PRE ZATVARANJA SVAKOG POGLAVLJA
+
+```
+grep -ri beograd roman/poglavlja/          # mora biti PRAZNO
+tail -c 1 <fajl> | od -An -c               # poslednji bajt je tačka, bez preloma reda
+wc -w <fajl>                               # obično wc, po fajlu, pa se sabere
+```
+
+- **Formula je 3 od 3** — *„to je bila cela X / to je bilo najgore"* se **ne sme pojaviti
+  nijednom** u novom.
+- **`xxd` u okruženju ne postoji** — proverava se **ishod** komande, ne samo izlaz.
+- **`truncate -s -1` skida tačku** ako preloma nema. Ne koristiti naslepo.
+- **Ne meriti reči iz `python3`/`subprocess`** — drugi lokal daje veći broj.
+
+---
+
+# ŠTA VAŽI ZA SVE ŠTO SE PIŠE
+
+- **ZID.** David kao izvršilac se ne pokazuje. Roba se ne imenuje. *(Jedini svesni izuzetak:
+  nasilje u kadru u `Ivičnjaku` — i ono nije posao.)*
+- **Ime grada:** „Beograd" nigde, nijednom. „Beli grad" sme, jako retko.
+- **David ne psuje i ne laže — izostavlja.**
+- **David se ne slika i nema društvene mreže.**
+- **David nema vozačku dozvolu** — nikad je nije imao, vozi bez nje i danas.
+- **David voli da pije kafu sam**, ujutru ili preko dana. Navika, ne oprez — iz toga se ne
+  izvodi ništa.
+- **David trpi:** pravila ćuti, nadrkane ljude ćuti, naređenja ćuti. Razlog se nikad ne
+  ispisuje.
+- **Stari David je dominantan i lako besan, i nijednom ranjiv.** Novi je low key.
+  **Ista usta, dva čoveka.**
+- **Ljubav se ne izgovara** — pokazuje se kroz to ko sedi gde, ko koga vozi, ko čije dete
+  drži.
+- **Bez potpisa na kraju pasusa.** Slika stoji sama.
+- **Scene s dijalogom.** Hronika je odobrena samo za `Nestanak`.
+- **Sidro u vremenu** u prvih deset redova, u dijalogu — nikad datum kao zaglavlje.
+- **Pravilo K:** svaka rečenica napisana u autorovo ime čeka izričito „da", jedno po jedno.
+- **Pravilo J:** najmanje trećina unetih izmena mora biti **napisana rečenica**, ne rez.
+- **Tekst poglavlja se šalje kao `.md` fajl**, ne u razgovor.
+- **Dokumenti se čitaju celi pre pisanja**, uz ulazni list po Pravilu H.
+
+---
+
+# GIT
+
+Commit kako ide. **PR i merge na kraju svakog razgovora** — draft PR ne važi kao sačuvano.
+Nema pretplate na PR i nema samoprovera.
