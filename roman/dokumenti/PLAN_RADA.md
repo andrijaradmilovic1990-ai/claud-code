@@ -423,7 +423,11 @@ Ova poglavlja **ne dobijaju nijedno slovo**, a `Ivičnjak` im menja težinu:
 
 ---
 
-# OBRISANO 30.08.2026 — ne predlaže se ponovo *(Pravilo L)*
+# OBRISANO 30.08.2026 — s razlogom
+
+> **Nije zaključano.** Zabrana ponovnog predlaganja skinuta je istog dana. Ako se neka od
+> ovih vraća, prvo se čita razlog zbog kog je pala — pa ako razlog više ne stoji,
+> **slobodno.**
 
 | ime | zašto je palo |
 |---|---|
@@ -431,7 +435,7 @@ Ova poglavlja **ne dobijaju nijedno slovo**, a `Ivičnjak` im menja težinu:
 | **PROMAJA kao sistem** | isto što i već odbačena hladnoća kao sistem (`G6`): postala bi tik, a `Majka` ide obrnuto — kod nje je prevruće. **Njen jedini upotrebljiv deo je već sadržan u VRATA.** I ne dirati ožiljak pod hladnom vodom u `Ćebencetu` — tamo je hladnoća **njegov izbor**, mirna slika, i ne sme dobiti posao signala |
 | **KLJUČEVI** *(anti-Majkl momenat)* | **knjiga ih je već platila:** odbijeni u `Prelomu` (*„Ne treba mi"*, dvaput), primljeni u `Majci` (*„Nemoj da zvoniš. Ne radi."*). Dva poglavlja razmaka, nijedna reč poređenja. **Treći ključ bi od figure napravio sistem**, a poređenje u sebi je zabranjeno svejedno |
 
-**Ranije mrtvo, samo podsetnik:** hladnoća kao sistem (`G6`) · montaža odmazde (`G7`) ·
+**Ranije odbačeno, samo podsetnik da je bilo razmatrano:** hladnoća kao sistem (`G6`) · montaža odmazde (`G7`) ·
 naslednik · trilerska ivica · stisak ruke u prazno · autobus kao zatvorska kazna ·
 Katarina koja prepoznaje tuđ parfem · šesti dug · dvanaest godina bekstva ·
 Zvezdan na sceni.

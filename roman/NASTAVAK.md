@@ -339,7 +339,7 @@ posla: **`dokumenti/PLAN_RADA.md`**. Radi se odozgo.
 - **`Ulazak` se ne otvara** — predlog povučen 30.08.2026: poglavlje već nosi osu četiri puta.
   Iz toga je izašla **zabrana**: reč „porodica" pada tačno jednom u celoj knjizi (zdravica
   u `Italiji`) i **ne rasipa se** nigde.
-- **Sve ideje su razvrstane i imenovane.** Tri su obrisane i ne vraćaju se:
+- **Sve ideje su razvrstane i imenovane.** Tri su obrisane, s razlogom *(smeju se vratiti ako razlog padne)*:
   **MELODIJA**, **PROMAJA kao sistem**, **KLJUČEVI**.
 
 **Zašto `Maska` više ne nosi sve.** Postavke idu unazad: ako `Maska` naplaćuje majku,

@@ -1,24 +1,41 @@
 # REGISTAR ODLUKA — šta je zatvoreno
 
-> **Ovo je zakon, ne istorija.** Dnevnik (`Analiza_i_pokret_prepravke_3_1_1.md`)
-> pamti *šta se radilo i zašto*. Ovaj fajl pamti samo *šta se više ne dira*.
-> Kad se sukobe — **važi registar.**
+> **Ovo je pamćenje odluka, ne zabrana.** *(Prepisano 30.08.2026, odluka autora.)*
+> Dnevnik (`Analiza_i_pokret_prepravke_3_1_1.md`) pamti *šta se radilo*. Ovaj fajl pamti
+> **šta je odlučeno i zbog čega.** Kad se sukobe — **važi registar.**
 >
-> **Zašto postoji.** Pet sesija zaredom se otvaralo ono što je već bilo zatvoreno,
-> jer su odluke bile rasute po 1.369 redova dnevnika i niko ih nije mogao držati u
-> glavi odjednom. Sve što je ovde upisano **ne predlaže se za izmenu — ni kao
-> izmena, ni kao mišljenje, ni u opštoj oceni** (Pravilo L).
+> ## ⚑ SVE SE SME PREPRAVITI
 >
-> **Ako misliš da neku odluku treba otvoriti:** postavi **jedno pitanje**, bez
-> argumenta, i čekaj „da". Ako „da" ne dođe — tema je gotova.
+> **Zabrana ponovnog otvaranja je skinuta 30.08.2026.** Ranije je ovde stajalo da se
+> ništa upisano ne sme predlagati za izmenu. To je palo — knjiga se svejedno prepravlja,
+> pa je zabrana samo stvarala trenje.
+>
+> **Ali se ne otvara naslepo.** Uz svaku odluku stoji **razlog**, i on se čita pre nego
+> što se odluka vrati:
+>
+> - razlog i dalje stoji → ne vraćaj je, i reci zašto
+> - razlog je pao ili se knjiga promenila → **slobodno prepravljaj**
+> - nisi siguran → **jedno pitanje**, bez argumenta
+>
+> **Zašto razlozi ostaju.** Pet sesija zaredom se otvaralo ono što je već bilo
+> zatvoreno, jer su odluke bile rasute po 1.369 redova dnevnika i niko ih nije mogao
+> držati u glavi odjednom. Registar je to zaustavio — ne zabranom nego time što je
+> razloge stavio na jedno mesto. **Zabrana je bila korisna dok knjiga nije bila cela;
+> sad je razlog dovoljan.**
+>
+> **Formulacije tipa „ne predlaže se ponovo“ i „ne dira“ koje su ostale niže u fajlu
+> čitaju se u ovom duhu** — kao *ovo je palo iz ovog razloga*, ne kao zaključana vrata.
 >
 > Poslednje ažuriranje: **30.08.2026.** *(**ČETVRTI IZUZETAK — sekcija 1: novo poglavlje `Ivičnjak`, nasilje u kadru jednom, i otvaranje `Pukotine` i `Krvi`. Ceo posao je u `PLAN_RADA.md`.**)*
 
 ---
 
-# 1 — ZAMRZNUTO ZA CELU KNJIGU
+# 1 — TEŠKO ZA CELU KNJIGU
 
-Ne otvara se **ni na pitanje.**
+> **Prepisano 30.08.2026.** Ovo je ranije bilo „ZAMRZNUTO — ne otvara se ni na pitanje“.
+> **Zabrana je skinuta.** Ali ovo su stvari na kojima **visi ostatak knjige**: promeniš
+> jednu i moraš proći kroz sve što je na njoj stajalo. **Nisu zaključane — samo skupe.**
+> Pre nego što diraš išta odavde, znaj **šta sve pada s tim.**
 
 - **Sadržaj radnje** — šta se dešava i kojim redom unutar poglavlja.
 - **Hronologija i registar** — ko je gde, kad, i ko s kim živi.
@@ -757,7 +774,7 @@ odlučeno je, i izvorni dokument je obrisan** da ne stoji kao drugi zakon pored
 - **G8 — chiaroscuro.** Pitanje pred scenu („u kom je ovo svetlu"), ne recept. **Sveden
   je na G10.**
 
-### ODBAČENO — ne predlaže se ponovo *(Pravilo L)*
+### ODBAČENO — s razlogom *(vidi zaglavlje: sme se vratiti ako razlog padne)*
 
 - **G6 — hladnoća kao sistem uz svaku odluku.** Postala bi tik, a `Majka` ide obrnuto —
   kod nje je prevruće, i to je namerno.

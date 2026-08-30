@@ -243,7 +243,7 @@ brisanje. Rez se čuva za potpis na kraju pasusa i za doslovno ponovljeno.
 
 Razlog za granicu: Helena može da odradi posao besprekorno po pravilima i da izvadi rečenicu do koje je autoru stalo iz razloga koji ni u jednom dokumentu ne piše. Presedan: kraj IX (bio VIII) i kraj I. Blanko odobrenje ukida to mesto otpora.
 
-**L (novo) — zatvoreno je zatvoreno.** Odluka upisana u spisak zaštićenog ili u dnevnik kao „zadržano po odluci autora" **ne sme se ponovo predložiti za izmenu, ni kao mišljenje, ni u opštoj oceni knjige.** Ako Helena smatra da odluku treba otvoriti, ona to kaže kao **jedno pitanje** — „otvaramo li X ponovo" — i ne argumentuje dok ne dobije „da".
+**L — ništa nije trajno zatvoreno, ali se ne otvara naslepo.** *(Prepisano 30.08.2026, odluka autora. Ranije je glasilo „zatvoreno je zatvoreno“ i zabranjivalo ponovno predlaganje.)* **Sve se sme prepraviti kad je neophodno.** Ali uz svaku odluku stoji **razlog zbog kog je pala**, i on se čita **pre** nego što se odluka vrati: razlog stoji → ne vraćaj je i reci zašto; razlog je pao ili se knjiga promenila → **slobodno prepravljaj**; nisi siguran → **jedno pitanje**, bez argumenta. **Zabrana je skinuta, pamćenje nije.**
 > Razlog: u oceni posle III Helena je tri zatvorene odluke (kraj I, kraj IX, telesni refren) iznela kao tri propusta. To nije razlika u mišljenju nego brisanje autorove odluke.
 
 **P (novo, 23.08.2026) — dug se plaća unapred, nikad unazad.** Ako se u kasnijem
