@@ -1,199 +1,169 @@
 # Fabrika
 
-Traka je stala u dva i deset i svi su izašli u krug, iako je padala kiša, jer se napolju sme da puši.
+Linija je bila duga koliko i hala, i sve što je na njoj radilo radilo je da bi jedna stvar na kraju izašla kao snop.
 
-Stajali smo pod onim limom kod kapije gde staje osmoro a ima mesta za četvoro.
+Ja sam bio na kraju. Meni je dolazilo ono što su drugi već složili, i ja sam to uvijao, red po red, i puštao dalje.
 
-Bila je nova. Videlo se po tome što je stajala napolju, na kiši, korak izvan lima, i nije ušla pod njega dok joj neko nije rekao.
+Bio sam u tome sedmu godinu i ruke su radile same, pa su usta bila slobodna.
 
-„Uđi tu, šta stojiš.“
+„Ko je pustio ovo ovako?“ vikao sam niz liniju. „Ko? Neću da kažem ime. Neka se sam javi.“
 
-Ušla je. Ramenom mi je okrznula rukav i rekla „izvini“ kao da je nešto razbila.
+Niko se nije javio.
 
-Zapalio sam.
+„Znam ja ko.“
 
-„Koliko si ti ovde?“ pitala je.
+„Sedmu godinu te slušam“, rekao je onaj do mene. „Sedmu.“
 
-„Sedmu godinu.“
+„I nisi naučio ništa.“
 
-„Sedam godina.“ Klimnula je glavom. „U tri smene.“
+Smejao se s cigaretom iza uva koju nije smeo da zapali unutra.
 
-„U tri smene.“
-
-„Bože.“
-
-Onaj s viljuškara se nasmejao u pesnicu.
+Nova je došla tog meseca i stavili su je na pin, desetak metara uz liniju od mene. Videla su joj se ramena i temena i ništa više, jer je stajala pognuto nad onim, i nijednom nije digla glavu na to što sam vikao.
 
 ⁂
 
-Miris se hvata za ruke prvo, pa za kosu, pa za kragnu, i sapun ga skine tek iz trećeg puta. Ko radi duže prestane da ga oseća na sebi i oseti ga samo na drugima.
+Napolju je bila jedna klupa pod limom i tri kante.
 
-Ona ga je osetila na sebi već treću noć.
+Ja sam sedeo na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
 
-Videla je da je gledam kako miriše sopstveni zglob.
+Prvog puta je izašla poslednja i stala kod kante i gledala u dvorište kao da je došla da vidi dvorište.
 
-„Šta je ovo?“
+„Ima mesta“, rekao je neko.
 
-„To ne izlazi.“
+Sela je na drugi kraj klupe. Nije rekla ni hvala ni ništa.
 
-„Kako ne izlazi.“
+Mi smo pričali o onome o čemu se priča u pola tri noću, koje su smene gore i ko je kome šta ostao dužan iz kantine, i ja sam pričao najviše.
 
-„Izlazi“, rekao sam. „Iz treće.“
+Ona je odsedela celu cigaru i nije rekla nijednu reč.
 
-Spustila je ruku.
-
-„Ti ga ne osećaš više.“
-
-„Ne.“
-
-„To je gore.“
-
-Nisam rekao ništa na to, i ona je čekala da kažem, i kad nisam, nije popunila. Samo je stajala i pušila do kraja, i onda je ugasila o lim i vratila opušak u kutiju.
+Kad smo ustali, ustala je i ona, i pošla dva koraka iza nas.
 
 ⁂
 
-U kantini je bilo devet stolova i osam praznih, jer u tri ujutru niko ne jede za stolom nego kod mašine, stojeći.
+Posle je izlazila kad i ja.
 
-Ja sam jeo za stolom. Sedmu godinu isti sto, onaj kod prozora, odakle se vide vrata i dvorište.
+Ne odmah za mnom — sačeka da izađem, pa izađe, pa sedne na taj isti drugi kraj iste klupe, i sedi.
 
-Ona je došla s onim njihovim čajem u plastičnoj čaši i sela preko puta.
+Jedne noći nije bilo nikog osim nas dvoje jer je pola smene ostalo unutra zbog zastoja.
 
-Nije pitala može li.
+Sedeli smo tako neko vreme.
+
+„Ti ćutiš“, rekao sam.
+
+Klimnula je glavom.
+
+„Nešto ti nije jasno pa nećeš da pitaš?“
+
+„Jasno mi je.“
 
 „Odakle si ti?“
 
-„Odavde.“
+Rekla je odakle je. To je dole, daleko, tamo gde se drugačije govori i gde autobus ide celu noć.
 
-„Nisi odavde.“
+„A ovde?“
 
-„Rođen sam ovde.“
+„Sama.“
 
-„To nisam pitala.“
+„Kod nekog?“
 
-Zagrizao sam i žvakao duže nego što je trebalo.
+„Sama“, rekla je. „U stanu. Plaćam.“
 
-„Bio sam gore. Vratio sam se.“
+Pružio sam joj kutiju jer je svoju već bila stavila u džep.
 
-„Kad?“
+„Ne treba.“
 
-„Ima godina.“
+„Uzmi, šta te briga.“
 
-Spustila je čašu na sto i pogledala me preko nje.
+Uzela je.
 
-„Nisi odgovorio.“
+Zapalio sam joj, i ona je pridržala moju ruku prstima dok je palila, kao što se pridržava, i pustila je odmah.
 
-Do tada mi to niko nije rekao naglas. Ljudi obično čuju ono što nisam rekao i odu kući zadovoljni, jer je svaka reč koju sam rekao bila tačna, pa im ništa ne fali dok ne pokušaju da to nekom prepričaju.
+Onda je sedela i pušila i opet nije rekla ništa, ali ovog puta se videlo da čeka.
 
-Ona je i dalje sedela tu s tom čašom.
+„Šta?“ rekao sam.
 
-„Ne odgovaram“, rekao sam.
+„Ništa.“
 
-„Dobro“, rekla je, i uzela je moj hleb.
+„Pitaj.“
 
-⁂
-
-Poslovođa je bio čovek koji je znao svakom ime i nijedno prezime.
-
-Rasporedio je za sledeći mesec i okačio papir kod garderobe i svi su prišli, pogledali i otišli.
-
-Ona nije otišla.
-
-„Ovde mi je četiri prve i jedna treća.“
-
-„Tako je ispalo.“
-
-„Nije ispalo. Ti si napisao.“
-
-Onaj s viljuškara je stao usred vezivanja pertle.
-
-„Treća se plaća više“, rekla je. „Meni treba treća.“
-
-„Svima treba treća.“
-
-„Onda mi daj koliko svima. Imam dve, drugi mesec zaredom.“
-
-Poslovođa je gledao u papir kao da će papir nešto reći umesto njega.
-
-„Vidim šta mogu.“
-
-„Ne moraš da vidiš. Piše ti tu.“
-
-Uzeo je hemijsku iza uva i precrtao dva reda i napisao gore drugačije, i ona je sačekala da završi, pa je pročitala šta je napisao, pa je rekla hvala i otišla u garderobu.
-
-Ja sam stajao tri koraka dalje i nisam rekao ništa.
-
-Sedam godina sam uzimao raspored kakav je okačen.
+„Ne pitam ja ništa“, rekla je.
 
 ⁂
 
-Kiša je bila stala do šest, ali je onaj vetar išao preko praznog parkinga kao da ima gde da stigne.
+Tog jutra sam u hali doviknuo poslovođi nešto zbog čega su se svi okrenuli, i on je psovao i smejao se u isto vreme, i cela linija je stala na trideset sekundi zbog toga i niko nije rekao ni reč o tome.
 
-Izlazio sam kroz kapiju i vezivao kragnu i ona je stajala pored svojih kola, otvorenih vrata, jednom nogom već unutra.
+U šest sam ušao na kapiju kod kuće.
 
-„Gde ideš?“
+Majka je bila kod šporeta.
 
-„Gore, kod pijace.“
+„Kako je bilo?“
 
-„Ulazi.“
+„Dobro.“
 
-„Idem peške.“
+„Šta si radio?“
 
-„Pada.“
+„Ništa.“
 
-„Stalo je.“
+Sipala je i sela preko puta i nije sipala sebi.
 
-Zatvorila je vrata sa svoje strane i ostala napolju, s ove strane krova, i gledala me preko njega.
+Jeo sam i ćutao, i ona je ćutala, i u toj kuhinji nisam progovorio deset reči do podneva.
 
-„Ulazi.“
+⁂
 
-Ušao sam.
+Autobus u pola šest ide skoro prazan i svako u njemu ima svoje mesto koje niko ne bira naglas.
 
-Unutra je mirisalo na neki bombonski osveživač i na hladno sedište. Morala je da skloni kesu s mog sedišta pre nego što sam seo, i sklonila ju je nazad, i u njoj je bilo nešto meko, garderoba ili peškiri.
+Ona je ulazila dve stanice pre mene i sedela napred, iza vozača, na onom sedištu koje gleda napred.
 
-Vozila je kao što žene voze kad su umorne, obema rukama i previše ispravno.
+Ja sam ulazio i prolazio pored nje i klimnuo glavom i seo pozadi.
 
-„Ti nemaš kola.“
+Pozadi sedim otkad znam za sebe. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
 
-„Nemam.“
+Tako je išlo mesec i po.
 
-„Sedam godina peške u šest ujutru.“
+Onda mi je jednog jutra zavibrirao telefon u džepu, pa sam ga izvadio, i na ekranu je pisalo:
 
-„Nije daleko.“
+*kolega može da sedneš pored mene*
 
-„Nisam pitala je l' daleko.“
+Podigao sam pogled.
 
-Prošli smo pored škole i pored one pekare koja se pali prva u gradu, i svetlo iz nje je palo preko table na kolima i preko njene ruke.
+Sedela je napred, leđima okrenuta celom autobusu, i nije se okretala.
 
-„Stani ovde“, rekao sam. „Kod ćoška je.“
+Ustao sam i prošao kroz autobus i seo pored nje.
 
-„Odvešću te do kapije.“
+⁂
 
-„Kod ćoška je dobro.“
+Ništa nije rekla prvih pola minuta. Držala je telefon u obe ruke, ekranom nadole, na kolenima.
 
-Odvezla me do kapije.
+„Što nisi rekla?“
 
-U kuhinji se već palilo svetlo, ono žuto, i videlo se kroz zavesu kako neko stoji kod šporeta i ne mrda.
+„Rekla sam.“
 
-„To je majka?“
+„Usta imaš.“
 
-„To je majka.“
+„Imam“, rekla je, i dalje gledajući u put.
 
-Klimnula je glavom i nije pitala zašto ja sa trideset dve godine ulazim na tu kapiju.
+Autobus je prošao pored škole i pored one pekare koja se pali prva u gradu.
 
-Izašao sam i zatvorio vrata i ona je spustila prozor.
+„Ja tebe pitam a ti meni ne odgovaraš“, rekao sam. „Sad je red da ti mene nešto pitaš.“
 
-„Sutra si na trećoj?“
+Okrenula se prvi put.
 
-„Jesam.“
+„Zašto uvek sediš pozadi?“
 
-„Onda sutra“, rekla je, i nije rekla šta sutra.
+Napolju je prolazila ograda, pa krug, pa kapija.
 
-Stajao sam kod kapije dok nije okrenula kola, i mahnuo joj nisam, i ona je zatrubila jednom, kratko, onako kako se trubi kad se čovek pravi da nije video.
+„Da vidim ko ulazi.“
 
-Majka je bila već otvorila vrata.
+„Ko ulazi?“
 
-„Ko te doveze?“
+„Ljudi“, rekao sam.
 
-„Niko.“
+Nasmejala se kroz nos, kratko, kao neko ko se nije nasmejao pred svedokom odavno.
 
-„Aha“, rekla je, i sklonila se s vrata da uđem.
+Autobus je stao i vrata su se otvorila i ja sam ustao da je pustim.
+
+„Idi ti.“
+
+„Idi ti“, rekla je.
+
+Prošla je ispred mene i ja sam pošao za njom kroz kapiju, i celim putem do svlačionice nisam se okrenuo ni jednom da vidim ko iza nas ulazi u krug.
