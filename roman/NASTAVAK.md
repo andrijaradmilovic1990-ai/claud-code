@@ -335,8 +335,10 @@ posla: **`dokumenti/PLAN_RADA.md`**. Radi se odozgo.
 - **Knjiga ide na ŠESNAEST poglavlja.** Umeće se **`IVIČNJAK`** kao **mesto 7**, između
   `Pariza` i `Preloma`. **Sve od `Preloma` nadalje ima broj veći za jedan** nego u mapi.
 - **Ostaje da se napiše dvoje:** `Ivičnjak` *(mesto 7)* i `Maska` *(mesto 15)*.
-- **Tri male prepravke u starim poglavljima:** `Pukotina` (2), `Ulazak` (3 — čeka „da"),
-  `Krv` (4).
+- **Dve male prepravke u starim poglavljima:** `Pukotina` (2) i `Krv` (4).
+- **`Ulazak` se ne otvara** — predlog povučen 30.08.2026: poglavlje već nosi osu četiri puta.
+  Iz toga je izašla **zabrana**: reč „porodica" pada tačno jednom u celoj knjizi (zdravica
+  u `Italiji`) i **ne rasipa se** nigde.
 - **Sve ideje su razvrstane i imenovane.** Tri su obrisane i ne vraćaju se:
   **MELODIJA**, **PROMAJA kao sistem**, **KLJUČEVI**.
 
@@ -463,13 +465,21 @@ gde PLAN_RADA kaze da se dira — ali REGISTAR i dalje vazi svuda drugde.
 
 -- STA SE RADI, REDOM --
 
-A. IVICNJAK — novo poglavlje, mesto 7, ~2.000 reci. PRVO I NAJVECE.
-B. PUKOTINA (2) — majka u sadasnjosti + prvi odraz (red 225)
-C. ULAZAK (3) — porodica/Porodica. CEKA MOJE „da", ne radi bez njega
-D. KRV (4) — MALI dobija potez + jedan Davidov nezan potez prema Katarini
-E. MASKA — mesto 15, ~2.800 reci. PISE SE POSLEDNJA
+CETRNAEST POTEZA UKUPNO. Tabela sa svim potezima je na vrhu PLAN_RADA.
 
-Puni opis svakog, sa citatima i zabranama, stoji u PLAN_RADA.
+A. IVICNJAK — novo poglavlje, mesto 7, ~2.000 reci. PRVO I NAJVECE.
+     scena + drugi odraz (staklo posle tuce)
+B. PUKOTINA (2) — majka u sadasnjosti + prvi odraz (red 225)
+     + „A KO SI TI?" razmena s Andrijanom
+C. KRV (4) — MALI dobija potez + jedan Davidov nezan potez prema Katarini
+D. MASKA — mesto 15, ~2.800 reci. PISE SE POSLEDNJA
+     majka + nezni monstrum + mast + zvonce + miris + bespomocnost + vrata
+
+ULAZAK (3) SE NE OTVARA. Predlog je povucen — poglavlje vec nosi osu cetiri
+puta („Ciji je?" / „Niciji.", tri adrese, zid, prva corba). Nista ne ceka
+moj odgovor; sve u planu je odobreno.
+
+Puni opis svakog posla, sa citatima i zabranama, stoji u PLAN_RADA.
 
 -- TRI STVARI KOJE IDU KROZ VISE POGLAVLJA --
 
@@ -497,6 +507,9 @@ Ne pomera se bez izricitog „otvaram".
 FORMA: SCENE S DIJALOGOM. Hronika je odobrena samo za Nestanak.
 SIDRO U VREMENU u prvih deset redova, u dijalogu — nikad datum kao zaglavlje.
 IME GRADA: „Beograd" NIGDE. Pre zatvaranja: grep -ri beograd roman/poglavlja/
+REC „PORODICA" pada TACNO JEDNOM u celoj knjizi — zdravica u Italiji.
+  NE RASIPA SE. Osa je time vec izvedena: jedina „porodica" koju knjiga
+  imenuje je Porodica.
 ZID: David kao izvrsilac se ne pokazuje. Roba se ne imenuje.
   JEDINI SVESNI IZUZETAK: nasilje je u kadru u IVICNJAKU — i ono nije posao.
 Ljubav se ne izgovara. Bez potpisa na kraju pasusa.

@@ -17,7 +17,45 @@
 - Napisano **četrnaest poglavlja, 26.351 reč** *(provereno `wc -w` po fajlu)*.
 - **Autor je otvorio sva poglavlja** za ovaj posao — izričito, 30.08.2026.
 - **Knjiga ide na ŠESNAEST poglavlja**, ne petnaest. Umeće se `Ivičnjak`.
-- Ostaje da se napiše **dva poglavlja** i uradi **tri male prepravke**.
+- Ostaje da se napiše **dva poglavlja** i urade **dve male prepravke** — ukupno **četrnaest poteza**, spisak odmah ispod.
+
+---
+
+## ČETRNAEST POTEZA — ceo posao na jednom mestu
+
+**Ovo je ceo spisak. Ništa drugo se ne ubacuje.** Puni opis svakog poteza je niže, u
+poslovima A–D.
+
+| # | potez | gde tačno |
+|---|---|---|
+| **1** | **MAJKA U SADAŠNJOSTI** — postavka, jedna Andrijanina replika | `Pukotina` **2** |
+| **2** | **PRVI ODRAZ** — senka, u postojeću rečenicu, red 225 | `Pukotina` **2** |
+| **3** | **„A KO SI TI?"** — razmena s Andrijanom, njeno pitanje ostaje neodgovoreno | `Pukotina` **2** |
+| **4** | **MALI** — jedan potez u kom on nešto **DA** Davidu, pored motora | `Krv` **4** |
+| **5** | **NEŽNI MONSTRUM** — jedan Davidov nežan potez prema Katarini | `Krv` **4** |
+| **6** | **CELA SCENA** — napad na Jovanu, David ne staje, njen vrisak ga budi | `IVIČNJAK` **7** |
+| **7** | **DRUGI ODRAZ** — staklo izloga posle tuče; **ovde nije isti čovek** | `IVIČNJAK` **7** |
+| **8** | **MAJKA U SADAŠNJOSTI** — isplata; opasnost preti **njoj**, ne njemu | `MASKA` **15** |
+| **9** | **NEŽNI MONSTRUM** — vrhunac; igra se s njom usred svega | `MASKA` **15** |
+| **10** | **MAST** — sam, noću, maže ruke; majka ulazi kroz predmet | `MASKA` **15** |
+| **11** | **ZVONCE** — na ulazu, jednom | `MASKA` **15** |
+| **12** | **MIRIS DUVANA** — na kaputu posle poziva | `MASKA` **15** |
+| **13** | **BESPOMOĆNOST** — nema čime, i ne sme dići telefon | `MASKA` **15** |
+| **14** | **VRATA** — kraj poglavlja; zatvori ih sam, ostane unutra | `MASKA` **15** |
+
+**Dva poglavlja se otvaraju** *(2 i 4)*, **dva se pišu** *(7 i 15)*.
+
+### Šta se ne dira ni jednim potezom
+
+`Susret` (1) · **`Ulazak` (3)** — osu već nosi četiri puta · `Italija` (5) ·
+**`Pariz` (6)** — ivičnjak je već u njemu · `Prelom` (8) · `Nestanak` (9) ·
+`Majka` (10) · `Fabrika` (11) · `Prazna stolica` (12) · `Beli grad` (13) ·
+`Kukavica` (14) · **`Ćebence` (16)** — treći odraz i njegovo zezanje već postoje tamo.
+
+### Jedna zabrana, izašla umesto posla
+
+**Reč „porodica" pada tačno jednom u celoj knjizi** *(zdravica u `Italiji`)* i
+**ne rasipa se** — ni u novom, ni u prolazima.
 
 ---
 
@@ -27,7 +65,7 @@
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
 | **2** | **Pukotina** | **PREPRAVKA — posao B** | 1.574 |
-| **3** | **Ulazak** | **PREPRAVKA — posao C** *(čeka odgovor autora)* | 2.181 |
+| 3 | Ulazak | **ne dira se** — vidi „POSAO C — POVUČEN“ | 2.181 |
 | **4** | **Krv** | **PREPRAVKA — posao D** | 1.135 |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
 | 6 | Pariz | zaključano, **ne dira se** | 1.973 |
@@ -118,9 +156,9 @@ Scene s dijalogom. Hronika je odobrena samo za `Nestanak`. Fajl ne završava pre
 
 ---
 
-## POSAO B — `Pukotina` *(poglavlje 2)* — dve sitnice
+## POSAO B — `Pukotina` *(poglavlje 2)* — tri poteza
 
-**Otvara se.** Obe izmene su male i obe su **postavke** za `Masku`.
+**Otvara se.** Prve dve su male i obe su **postavke** za `Masku`; treća je razmena s Andrijanom.
 
 ### B1 — majka postaje živa u sadašnjosti
 
@@ -138,20 +176,72 @@ ogledalu**, u stanu koji još nije moj."*
 
 **Ovde se dodaje senka** — vidi „ODRAZ" niže. Ne prepisivati rečenicu, samo je dopuniti.
 
+### B3 — „A KO SI TI?" *(autorova ideja; mesto odlučeno 30.08.2026)*
+
+**Razmena, dok sedi s Andrijanom u kafiću:**
+
+> — A ko si ti?
+> — Kad sam radio loše stvari, isključio sam se i postao neko drugi, a posle sam opet
+>   bio ja.
+> — A kako znaš da si ti onaj koji se nije isključio, a ne onaj koji jeste?
+
+**Zašto ovde, a ne u `Maski`** *(gde je prvo bila smeštena i odakle je skinuta)*:
+Davidov odgovor govori čovek **iz distance**, o završenom periodu — dakle sadašnjost,
+i licem u lice. U `Maski` bi poziv postojao **isključivo** da bi ta replika pala, a to je
+zabranjeno: scena se ne pravi zbog replike.
+
+**Zašto ne krši registar.** Zaključano je da u ovom poglavlju **dogovor sme prekršiti
+samo on, nikad ona** *(`DUGOVI_KNJIGE`, D2 u II)*. **Andrijana to i ne krši** — ne pita
+šta je radio, pita **ko je.** Do ivice odlazi **David sam**, u odgovoru.
+
+Poglavlje time ima **dva prilaza liniji s dva različita ishoda:** kad pita o prošlosti
+(*„Ponekad mislim da znam zašto si otišao"*) — **ona ustukne**; kad pita ko je — **on** priđe ivici.
+
+**USLOV, i bez njega pada.** Ovo je **drugo poglavlje.** Ako Davidova replika zazvuči kao
+priznanje, rupa se sužava na dvadesetoj strani — a cela knjiga radi na tome da je čitalac
+sam popuni.
+
+- Replika ostaje **u opštem** („loše stvari"), **nikad u konkretnom.**
+- Mora zvučati **kao izbegavanje, ne kao ispovest** — čovek koji odgovara da ne bi
+  odgovorio.
+- **Ono što ostaje čitaocu nije njegova rečenica nego njeno vraćanje pitanja**, bez
+  odgovora. Poslednja replika je njena i ostaje neodgovorena.
+
 ---
 
-## POSAO C — `Ulazak` *(poglavlje 3)* — PORODICA / Porodica
+## POSAO C — POVUČEN *(30.08.2026, odluka autora)*
 
-> **⚠ ČEKA ODGOVOR AUTORA. Pitanje je postavljeno 30.08.2026 i nije odgovoreno.
-> Ne raditi dok ne padne „da".**
+**`Ulazak` se NE otvara.** Predlog je bio da David u istom potezu izgubi porodicu i
+dobije Porodicu. **Povučen jer poglavlje to već ima, četiri puta, i nijednom imenovano:**
 
-**Šta bi bilo:** jedan potez koji imenuje osu knjige bez ijedne reči o njoj — David
-**gubi porodicu** (brat) i **dobija Porodicu** (sto na ulici, čorba za tuđim stolom).
+1. *„Čiji je?“ / „Ničiji.“* — pitanje o krvi i odgovor, preko njegovog ramena. Odmah
+   zatim: *„Nisam mogao da zaspim te noći.“*
+2. *„Tri adrese i nijedna moja.“*
+3. **Čovek iznad njega izgovara porodični zakon doslovno:** *„Kod mene se u kuću ne ulazi
+   bez pitanja. Ni kod mene ni kod bilo koga. Žena je unutra, deca su unutra. To je zid.“*
+4. *„Bila je to prva čorba koju sam jeo za tuđim stolom otkad mi je brat umro.“*
 
-**Zašto baš tu:** to je jedino mesto u knjizi gde se oba događaja dodiruju, i danas je
-neiskorišćeno kao takvo.
+**A kraj poglavlja je već sudar dve lojalnosti, bez ijedne reči:** kod Jovane gori svetlo
+u kuhinji, **on ne uđe**, legne na kauč u odeći, gurne novac pod jastuk — i misli o
+dugačkom stolu na ulici kad se sve četiri spoje. **Porodica malim slovom je iza tih
+vrata; Porodica velikim je sto o kom razmišlja dok leži.**
 
----
+**Peti potez bi bio figura (D4).**
+
+### Šta je iz ovoga izašlo umesto posla — ZABRANA
+
+> **Reč „porodica“ pada TAČNO JEDNOM u celoj knjizi** *(provereno `grep -rn` po svim
+> poglavljima, 30.08.2026)* — u zdravici u `Italiji`, red 319:
+> *„Naša priča je o slobodi. O iskupljenju. I o porodici.“*
+>
+> **Nigde drugde.** Ni za Jovanu, ni za Andrijanu, ni za majku, ni za Katarinu.
+>
+> **To znači da je osa već izvedena najjačim mogućim potezom: jedina „porodica“ koju
+> knjiga imenuje je Porodica.** Ono što David stvarno ima tu reč ne dobija nikad.
+>
+> **ZABRANA: reč se ne rasipa.** Ne sme pasti drugi put — ni u `Ivičnjaku`, ni u
+> `Maski`, ni u prolazu kroz šavove, ni u noir prolazu. **G1 ne traži posao nego ovu
+> zabranu.**
 
 ## POSAO D — `Krv` *(poglavlje 4)* — dva poteza
 
@@ -215,24 +305,13 @@ zatvorena. Gledao sam ih dok smo jeli."*). **Ne dirati kraj.**
 | **MIRIS DUVANA** | u `Susretu` je vezan za **tog jednog starca**: *„Mirisao je na duvan i na neki stari znoj."* Znači ne poziva „prošlost" uopšte nego **njega.** **Bez halucinacije** — miris na kaputu posle poziva sme |
 | **MAST** | teglica je iz `Majke` (*„teglica s nečim što nije kupovno"*), ožiljak s kažiprsta iz `Ćebenceta`. On sam, noću, maže ruke. **Majka ulazi u sadašnjost kroz predmet**, bez scene i bez pomena. **Rez:** nikakvo *„da bi mogao nežno da je dodirne"* — to je razlog izgovoren naglas. Ostaje samo radnja |
 
-### Ako stane — nije obavezno
+### Šta je iz `Maske` SKINUTO
 
-**„A KO SI TI?"** *(autorova ideja)* — **Andrijana, telefonom.**
+**„A KO SI TI?" je premeštena u `Pukotinu` (2)** — vidi posao B3.
 
-> — A ko si ti?
-> — Kad sam radio loše stvari, isključio sam se i postao neko drugi, a posle sam opet
->   bio ja.
-> — A kako znaš da si ti onaj koji se nije isključio, a ne onaj koji jeste?
-
-**Zašto Andrijana:** ona je *iznutra potpuno*, kanal već postoji (`Ćebence` ga koristi:
-*„Kako je."* → *„Dobro je. Pita za tebe nekad."*), i **ne košta otvaranje nijednog
-poglavlja.** Katarina ovo ne sme pitati — zabrana 3.
-
-**Dva uslova, oba stroga:**
-1. **Scena ne sme biti napravljena zbog te razmene.** Mora pasti usput, u razgovoru o
-   nečem drugom. Ako se scena postavi da bi replika stigla, to je potpis u dijalogu.
-2. **Davidova replika ostaje u opštem** („loše stvari"), **nikad u konkretnom.** To je
-   najbliže priznanju koje knjiga ikad izgovori.
+Bila je ovde smeštena greškom, da bi se izbeglo otvaranje još jednog poglavlja. To bi
+značilo telefonski poziv koji postoji **isključivo** da bi replika pala — a plan sam
+zabranjuje da se scena pravi zbog replike. **Ne vraćati je ovde.**
 
 ### Prag pred pisanje — MERA
 
@@ -340,7 +419,7 @@ Ova poglavlja **ne dobijaju nijedno slovo**, a `Ivičnjak` im menja težinu:
 | 14 | Kukavica | *„Kukavica"* prestaje da bude uvreda |
 | 16 | Ćebence | *„Isti čovek"* dobija protivtežu |
 
-**Pet poglavlja se dira. Sedam se menja bez ijednog slova.**
+**Četiri poglavlja se diraju** — 2, 4, i dva nova (7 i 15). **Sedam se menja bez ijednog slova.** `Ulazak` (3) se ne dira ni na koji način.
 
 ---
 
@@ -376,13 +455,9 @@ poglavlja i jedanaest godina kasnije.
 
 ---
 
-# ⚠ OTVORENO — jedno pitanje čeka odgovor
+# NIŠTA NE ČEKA ODGOVOR
 
-**`Ulazak` (poglavlje 3) — otvaramo li ga za PORODICU / Porodicu?**
-
-Postavljeno 30.08.2026, nije odgovoreno. **Posao C se ne radi dok ne padne „da".**
-
-Sve ostalo u ovom planu je odobreno.
+**Svaki posao u ovom planu je odobren.** Poslednje otvoreno pitanje — `Ulazak` — zatvoreno je 30.08.2026: **ne otvara se** (vidi „POSAO C — POVUČEN“).
 
 ---
 
@@ -425,6 +500,7 @@ wc -w <fajl>                               # obično wc, po fajlu, pa se sabere
 - **ZID.** David kao izvršilac se ne pokazuje. Roba se ne imenuje. *(Jedini svesni izuzetak:
   nasilje u kadru u `Ivičnjaku` — i ono nije posao.)*
 - **Ime grada:** „Beograd" nigde, nijednom. „Beli grad" sme, jako retko.
+- **Reč „porodica" pada tačno jednom u celoj knjizi** — zdravica u `Italiji`. **Ne rasipa se**, ni u novom ni u prolazima. Osa je time već izvedena: jedina „porodica" koju knjiga imenuje je Porodica.
 - **David ne psuje i ne laže — izostavlja.**
 - **David se ne slika i nema društvene mreže.**
 - **David nema vozačku dozvolu** — nikad je nije imao, vozi bez nje i danas.
