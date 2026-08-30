@@ -216,6 +216,63 @@ ikad izgovori. Mora ostati u opštem („loše stvari"), nikad u konkretnom.
 
 ---
 
+## IZVUČENO IZ GODFATHER VODIČA *(30.08.2026)* — ČEKA ODOBRENJE
+
+> Devet kandidata izvučenih iz autorovog dokumenta `GODFATHER_PRELAZNE_SCENE.md`.
+> **Ništa odavde nije odluka.** Kad autor kaže šta ostaje, odobreno se seli u registar,
+> a izvorni dokument se briše da ne stoji kao drugi zakon pored ovog fajla.
+>
+> Uz svaki stavljena je i moja ocena, jer je autor tražio mišljenje, ne popis.
+
+### G1 — porodica malim slovom protiv Porodice velikim
+Osa cele knjige: lojalnost krvi i lojalnost organizaciji nose isto ime i ne mogu se
+razlikovati iznutra. **Gde radi:** `Fabrika` (David sa 32 ne pripada nikome, prvi put u
+životu) · `Maska` (šta košta držati ovaj život).
+**Ocena: uzeti.** Ovo je jedina stvar iz dokumenta koja knjizi daje nešto što nema
+imenovano, a već radi u tekstu.
+
+### G2 — Apollonia se ne piše kao upoznavanje
+Žena se ne uvodi scenom upoznavanja nego kao ono što se čoveku desi **usred egzila** —
+prvo se piše izgnanstvo, pa žena. **Gde radi:** `Fabrika`, već primenjeno u drugom
+prolazu Dela 1.
+**Ocena: uzeti.** Rešilo je tačno ono što je autor prijavio kao „otišlo u romansu".
+
+### G3 — dela umesto reči (paralepsa)
+Unutrašnjost lika se pokazuje ritualnim radnjama, ne monologom.
+**Ocena: uzeti kao ime za ono što već postoji.** `PRAVILA_STILA` fore 3 i 6 su ista
+stvar. Nije novo pravilo nego drugo ime za postojeće — vredi samo kao podsetnik.
+
+### G4 — zvonce nad vratima kao rastući motiv
+Zvuk iz `Susreta` koji se vraća i postaje neprijatniji svaki put kad prošlost kuca.
+**Gde radi:** `Maska`, jer je jedina sadašnjost pred kraj.
+**Ocena: uzeti samo unapred.** Retroaktivno ga nema (Pravilo P) — u starim poglavljima
+se ne dopisuje. Rizik: motiv koji raste tri puta je figura; sme jednom.
+
+### G5 — miris starog duvana kao upad prošlosti u čist stan
+Olfaktorni signal da je civilni život kontaminiran.
+**Ocena: uzeti u umerenom obliku, bez halucinacije.** Predloženo „javlja mu se kao
+halucinacija" vodi u triler i udara u zabranu oko `Maske`. Miris na njegovom kaputu
+posle poziva — sme.
+
+### G6 — hladnoća kao taktilni motiv uz odluke
+Hladna voda, hladan metal, hladna soba oko trenutaka odluke.
+**Ocena: odbaciti kao sistem.** Knjiga to već ima raspoređeno, a kao pravilo bi
+proizvelo tik. `Majka` uz to ide obrnuto — kod nje je prevruće, i to je namerno.
+
+### G7 — unutrašnja montaža: naredba za odmazdu isprepletena s domaćim
+Cross-cutting nalik krštenju iz Kuma — dok se odmazda naručuje, teku slike kuhinje.
+**Ocena: odbaciti.** Traži da se David vidi kao onaj koji naređuje, što je zid. Knjiga
+je jača od Kuma baš zato što film mora da pokaže, a ona sme da ne pokaže.
+
+### G8 — chiaroscuro: dva sveta, dva svetla
+Sadašnjost u prirodnom svetlu i domaćoj buci; prošlost u senci, neonu i tišini.
+**Ocena: uzeti kao proveru, ne kao recept.** Knjiga to već radi; korisno je samo kao
+pitanje pred pisanje nove scene — u kom je svetlu ovaj kadar.
+
+### G9 — mera: osveta ne sme postati lična ambicija
+Čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga gubi.
+**Ocena: uzeti kao meru.** Ovo nije scena nego prag — koristan pred `Masku`.
+
 ## KARAKTER — ŠTA JE UPISANO 28.08.2026
 
 ### David je low key TEK POSLE *(autor — ovo je posledica, ne crta)*
