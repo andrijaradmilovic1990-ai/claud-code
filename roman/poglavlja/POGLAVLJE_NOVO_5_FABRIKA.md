@@ -38,6 +38,32 @@ Videla su joj se ramena i teme. Nijednom nije digla glavu na to što sam vikao.
 
 ⁂
 
+Poslovođa je stao ispred mene s papirom u ruci.
+
+„Ko je pustio dve palete s pogrešnim brojem?“
+
+„Ne znam.“
+
+„Ne znaš.“
+
+Govorio je glasno, tako da se čuje do sredine hale, i nije prestajao dva minuta. Bilo je tu i o tome kako ljudi misle da je ovo njihova kuća, i kako je kapija tamo gde je i bila.
+
+Slušao sam do kraja.
+
+„Dobro“, rekao sam. „Uradiću.“
+
+Otišao je.
+
+„Nije tvoje to“, rekao je onaj do mene. „To je priprema pustila.“
+
+„Nije moje.“
+
+„Pa što ćutiš?“
+
+Traka je donela sledeće i ja sam ga uzeo.
+
+⁂
+
 Napolju je jedna klupa pod limom i tri kante.
 
 Ja sedim na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
@@ -105,6 +131,8 @@ Skupili su se i doviknuli mi da dođem.
 „Slikajte vi.“
 
 „Ma dođi.“
+
+„Ne slika se on“, rekao je onaj s viljuškara. „Sedam godina. Nema ga nigde.“
 
 „Slikajte vi“, rekao sam, i uzeo sam sa stola dva prazna tanjira i odneo ih do korpe, jer je čoveku koji nosi nešto teško reći dođi.
 

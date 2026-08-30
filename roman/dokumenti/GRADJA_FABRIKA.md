@@ -65,3 +65,18 @@ o čemu se pričalo, zna li ona gde je bio.
 
 Ovo je dno ispod „low key" zapisa. **Low key nije mir nego uzdržavanje**, i plaća se svaki
 dan. **Ne imenovati ga nijednom rečenicom** — vidi se samo po tome šta proguta.
+
+## SLIKANJE — istina o liku *(autor, 30.08.2026)*
+
+**David ne voli da se slika.** Izbegava selfije i slikanje uopšte. To nije poza i nije
+samo oprez — takav je.
+
+**Vremenom se promenilo:** počeo je da sedi s ljudima, da se zeza, da se slika.
+**Sve to tek sa Katarinom.**
+
+**Zašto je ovo krupno:** to je `DUG 2` naplaćen na daljinu. Razlog zbog kog je voli nije
+u rečenici nego u tome **šta je uz nju postao** — čovek koji sedne za tuđi sto i pusti da
+ga neko uslika. `Fabrika` je tačka pre toga: tu se **ne slika.** Promena se ne piše u
+ovom poglavlju i ne najavljuje se.
+
+**Ne mora sve da uđe u tekst** — stoji kao istina uz koju se poglavlja mere.
