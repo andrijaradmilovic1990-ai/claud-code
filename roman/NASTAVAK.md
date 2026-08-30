@@ -465,10 +465,15 @@ gde PLAN_RADA kaze da se dira — ali REGISTAR i dalje vazi svuda drugde.
 
 -- STA SE RADI, REDOM --
 
+CETRNAEST POTEZA UKUPNO. Tabela sa svim potezima je na vrhu PLAN_RADA.
+
 A. IVICNJAK — novo poglavlje, mesto 7, ~2.000 reci. PRVO I NAJVECE.
+     scena + drugi odraz (staklo posle tuce)
 B. PUKOTINA (2) — majka u sadasnjosti + prvi odraz (red 225)
+     + „A KO SI TI?" razmena s Andrijanom
 C. KRV (4) — MALI dobija potez + jedan Davidov nezan potez prema Katarini
 D. MASKA — mesto 15, ~2.800 reci. PISE SE POSLEDNJA
+     majka + nezni monstrum + mast + zvonce + miris + bespomocnost + vrata
 
 ULAZAK (3) SE NE OTVARA. Predlog je povucen — poglavlje vec nosi osu cetiri
 puta („Ciji je?" / „Niciji.", tri adrese, zid, prva corba). Nista ne ceka
