@@ -49,3 +49,11 @@
 B: o čemu se pričalo u autobusu · C: šta je uradila što se urezalo ·
 E: kako mu je rekla, kako je izgledao put i čekanje · F: kako je susret izgledao,
 o čemu se pričalo, zna li ona gde je bio.
+## DOPUNA *(autor, 30.08.2026)*
+
+- **Primećivao ju je.** Slatka, povučena.
+- **Klupa:** svaki put kad se izađe na cigaru **ona sedne na istu klupu na kojoj on
+  sedi.** Ćuti, ili čeka da je on nešto pita.
+- **Brzo se zaljubila i videlo se.**
+- **David tada:** šest-sedam godina u novom gradu, **nove navike, nov čovek.** Sitnice iz
+  prethodnog života je i dalje vukao, ali ih je **gasio sve više.**
