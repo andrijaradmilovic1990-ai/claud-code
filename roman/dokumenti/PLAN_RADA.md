@@ -17,7 +17,7 @@
 - Napisano **četrnaest poglavlja, 26.351 reč** *(provereno `wc -w` po fajlu)*.
 - **Autor je otvorio sva poglavlja** za ovaj posao — izričito, 30.08.2026.
 - **Knjiga ide na ŠESNAEST poglavlja**, ne petnaest. Umeće se `Ivičnjak`.
-- Ostaje da se napiše **dva poglavlja** i uradi **tri male prepravke**.
+- Ostaje da se napiše **dva poglavlja** i urade **dve male prepravke**.
 
 ---
 
@@ -27,7 +27,7 @@
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
 | **2** | **Pukotina** | **PREPRAVKA — posao B** | 1.574 |
-| **3** | **Ulazak** | **PREPRAVKA — posao C** *(čeka odgovor autora)* | 2.181 |
+| 3 | Ulazak | **ne dira se** — vidi „POSAO C — POVUČEN“ | 2.181 |
 | **4** | **Krv** | **PREPRAVKA — posao D** | 1.135 |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
 | 6 | Pariz | zaključano, **ne dira se** | 1.973 |
@@ -140,18 +140,39 @@ ogledalu**, u stanu koji još nije moj."*
 
 ---
 
-## POSAO C — `Ulazak` *(poglavlje 3)* — PORODICA / Porodica
+## POSAO C — POVUČEN *(30.08.2026, odluka autora)*
 
-> **⚠ ČEKA ODGOVOR AUTORA. Pitanje je postavljeno 30.08.2026 i nije odgovoreno.
-> Ne raditi dok ne padne „da".**
+**`Ulazak` se NE otvara.** Predlog je bio da David u istom potezu izgubi porodicu i
+dobije Porodicu. **Povučen jer poglavlje to već ima, četiri puta, i nijednom imenovano:**
 
-**Šta bi bilo:** jedan potez koji imenuje osu knjige bez ijedne reči o njoj — David
-**gubi porodicu** (brat) i **dobija Porodicu** (sto na ulici, čorba za tuđim stolom).
+1. *„Čiji je?“ / „Ničiji.“* — pitanje o krvi i odgovor, preko njegovog ramena. Odmah
+   zatim: *„Nisam mogao da zaspim te noći.“*
+2. *„Tri adrese i nijedna moja.“*
+3. **Čovek iznad njega izgovara porodični zakon doslovno:** *„Kod mene se u kuću ne ulazi
+   bez pitanja. Ni kod mene ni kod bilo koga. Žena je unutra, deca su unutra. To je zid.“*
+4. *„Bila je to prva čorba koju sam jeo za tuđim stolom otkad mi je brat umro.“*
 
-**Zašto baš tu:** to je jedino mesto u knjizi gde se oba događaja dodiruju, i danas je
-neiskorišćeno kao takvo.
+**A kraj poglavlja je već sudar dve lojalnosti, bez ijedne reči:** kod Jovane gori svetlo
+u kuhinji, **on ne uđe**, legne na kauč u odeći, gurne novac pod jastuk — i misli o
+dugačkom stolu na ulici kad se sve četiri spoje. **Porodica malim slovom je iza tih
+vrata; Porodica velikim je sto o kom razmišlja dok leži.**
 
----
+**Peti potez bi bio figura (D4).**
+
+### Šta je iz ovoga izašlo umesto posla — ZABRANA
+
+> **Reč „porodica“ pada TAČNO JEDNOM u celoj knjizi** *(provereno `grep -rn` po svim
+> poglavljima, 30.08.2026)* — u zdravici u `Italiji`, red 319:
+> *„Naša priča je o slobodi. O iskupljenju. I o porodici.“*
+>
+> **Nigde drugde.** Ni za Jovanu, ni za Andrijanu, ni za majku, ni za Katarinu.
+>
+> **To znači da je osa već izvedena najjačim mogućim potezom: jedina „porodica“ koju
+> knjiga imenuje je Porodica.** Ono što David stvarno ima tu reč ne dobija nikad.
+>
+> **ZABRANA: reč se ne rasipa.** Ne sme pasti drugi put — ni u `Ivičnjaku`, ni u
+> `Maski`, ni u prolazu kroz šavove, ni u noir prolazu. **G1 ne traži posao nego ovu
+> zabranu.**
 
 ## POSAO D — `Krv` *(poglavlje 4)* — dva poteza
 
@@ -340,7 +361,7 @@ Ova poglavlja **ne dobijaju nijedno slovo**, a `Ivičnjak` im menja težinu:
 | 14 | Kukavica | *„Kukavica"* prestaje da bude uvreda |
 | 16 | Ćebence | *„Isti čovek"* dobija protivtežu |
 
-**Pet poglavlja se dira. Sedam se menja bez ijednog slova.**
+**Četiri poglavlja se diraju** — 2, 4, i dva nova (7 i 15). **Sedam se menja bez ijednog slova.** `Ulazak` (3) se ne dira ni na koji način.
 
 ---
 
@@ -376,13 +397,9 @@ poglavlja i jedanaest godina kasnije.
 
 ---
 
-# ⚠ OTVORENO — jedno pitanje čeka odgovor
+# NIŠTA NE ČEKA ODGOVOR
 
-**`Ulazak` (poglavlje 3) — otvaramo li ga za PORODICU / Porodicu?**
-
-Postavljeno 30.08.2026, nije odgovoreno. **Posao C se ne radi dok ne padne „da".**
-
-Sve ostalo u ovom planu je odobreno.
+**Svaki posao u ovom planu je odobren.** Poslednje otvoreno pitanje — `Ulazak` — zatvoreno je 30.08.2026: **ne otvara se** (vidi „POSAO C — POVUČEN“).
 
 ---
 
@@ -425,6 +442,7 @@ wc -w <fajl>                               # obično wc, po fajlu, pa se sabere
 - **ZID.** David kao izvršilac se ne pokazuje. Roba se ne imenuje. *(Jedini svesni izuzetak:
   nasilje u kadru u `Ivičnjaku` — i ono nije posao.)*
 - **Ime grada:** „Beograd" nigde, nijednom. „Beli grad" sme, jako retko.
+- **Reč „porodica" pada tačno jednom u celoj knjizi** — zdravica u `Italiji`. **Ne rasipa se**, ni u novom ni u prolazima. Osa je time već izvedena: jedina „porodica" koju knjiga imenuje je Porodica.
 - **David ne psuje i ne laže — izostavlja.**
 - **David se ne slika i nema društvene mreže.**
 - **David nema vozačku dozvolu** — nikad je nije imao, vozi bez nje i danas.
