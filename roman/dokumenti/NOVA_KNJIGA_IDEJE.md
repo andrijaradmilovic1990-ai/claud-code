@@ -194,6 +194,28 @@ odluči.**
 
 ---
 
+### IDEJA 5 — „A KO SI TI?" *(autor, 30.08.2026)*
+
+**Razmena u razgovoru s nekim ko ga zna** — Jovana, Andrijana, ili neko iz tog kruga.
+
+Ta osoba ga pita: **a ko si ti?**
+
+David: to je teško pitanje — **kad sam radio loše stvari, isključio sam se i postao neko
+drugi, a posle sam opet bio ja.**
+
+Ona: **a kako znaš da si ti onaj koji se nije isključio, a ne onaj koji jeste?**
+
+**Status: sačuvano, nije raspoređeno.** Ne piše se dok autor ne kaže gde ide.
+
+**Šta nosi:** poslednja replika ne objašnjava mehanizam nego ga otvara — pitanje ostaje
+bez odgovora i čitalac ga nosi dalje. To je jedina stvar u knjizi koja bi zid dodirnula
+spolja a da ga ne probije.
+
+**Na šta paziti kad dođe vreme:** Davidova replika je najbliže priznanju koje knjiga
+ikad izgovori. Mora ostati u opštem („loše stvari"), nikad u konkretnom.
+
+---
+
 ## KARAKTER — ŠTA JE UPISANO 28.08.2026
 
 ### David je low key TEK POSLE *(autor — ovo je posledica, ne crta)*

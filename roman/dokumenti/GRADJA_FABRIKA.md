@@ -57,3 +57,11 @@ o čemu se pričalo, zna li ona gde je bio.
 - **Brzo se zaljubila i videlo se.**
 - **David tada:** šest-sedam godina u novom gradu, **nove navike, nov čovek.** Sitnice iz
   prethodnog života je i dalje vukao, ali ih je **gasio sve više.**
+## DAVID TRPI — karakter u novom životu *(autor, 30.08.2026)*
+
+**U novom životu David mnogo trpi.** Pravila ćuti. Nadrkane ljude ćuti. Naređenja ćuti.
+
+**Razlog, koji se nigde ne ispisuje:** da reagovao bi, morao bi da bude onaj drugi.
+
+Ovo je dno ispod „low key" zapisa. **Low key nije mir nego uzdržavanje**, i plaća se svaki
+dan. **Ne imenovati ga nijednom rečenicom** — vidi se samo po tome šta proguta.
