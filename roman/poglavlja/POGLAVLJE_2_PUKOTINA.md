@@ -178,6 +178,10 @@ Klimnula je glavom, polako, kao da to negde slaže.
 
 „A kako znaš da si ti onaj koji se nije isključio“, rekla je, „a ne onaj koji jeste?“
 
+Nisam odgovorio.
+
+Sačekala je taman toliko da se vidi da je čekala. Onda je skrenula sama, jer ovog puta nisam skrenuo s njom.
+
 „Nisi star. Star si ti meni.“ Nasmejala se. „Ja sam mlada i lepa, a ti si matora baraba s bradom.“
 
 „Na to ću da nazdravim.“
@@ -222,7 +226,7 @@ Otvorila je vrata pre nego što sam pokucao. Slušala je korake na stepeništu, 
 
 „Ludak.“ Nasmejala se. Pustila mi ruke, vratila se šerpi, ali je nastavila da priča — o danu, o nekoj koleginici, o filmu koji hoće da gledamo ako ostanem. Govorila je „ako ostanem“.
 
-Stao sam na vrata kuhinje, ne iza nje — nisam još imao to pravo, da joj priđem s leđa i obgrlim je kao da je to moje mesto. Gledao sam je kako meša, kako okreće glavu ka meni dok priča, kako proverava na licu primam li je. Ruka mi je otišla u džep. Prazan je bio, kao i uvek. Ostavio sam je tamo.
+Stao sam na vrata kuhinje, ne iza nje — nisam još imao to pravo, da joj priđem s leđa i obgrlim je kao da je to moje mesto. Gledao sam je kako meša, kako okreće glavu ka meni dok priča, kako proverava na licu primam li je.
 
 „Kako je bilo?“ pitala je.
 

@@ -360,7 +360,7 @@ Sedeo sam u hodniku i gledao kako se vrata otvaraju i zatvaraju, i ona je izašl
 
 ⁂
 
-Kafić je bio niže, preko puta jednog parka, i seo sam napolju, leđima uza zid, licem ka stazi.
+Kafić je bio niže, preko puta jednog parka, i seo sam napolju, za poslednji sto.
 
 Stala je pored stola s kesom iz apoteke u ruci.
 
