@@ -1,12 +1,18 @@
 # Maska
 
-Do puta je ostalo devet dana.
+Kod garderobe visi spisak za dojavu smene i pored njega kalendar koji niko ne skida.
 
-Nisam ih nigde zapisao i nisam ih brojao naglas, ali sam u svakom trenutku znao koliko ih je. Devet, pa osam, pa sedam. Traka je išla, ruke su radile ono što rade, treća smena se završavala u šest i do kuće se stizalo u pola sedam. Ništa se nije promenilo ni za jedan pokret.
+Prolazio sam pored njega dvaput dnevno godinama i nijednom ga nisam pogledao. Tog jutra sam stao.
+
+Neka subota je bila zaokružena tuđom hemijskom, zbog isporuke, i ja sam od te subote brojao unazad dok mi onaj iza nije rekao da se pomerim s vrata.
+
+Devet.
+
+Pomerio sam se i otišao na traku i nisam ga više pogledao ni tog dana ni sledećih. Nije ni trebalo. Od tog jutra sam u svakom trenutku dana znao koliko ih je ostalo, a nijednom nisam seo da izračunam. Devet, pa osam, pa sedam. Traka je išla, ruke su radile ono što rade, treća smena se završavala u šest i do kuće se stizalo u pola sedam.
 
 Nisam rekao nikom. Nije ni bilo šta da se kaže. Čovek ode na dva dana kod svojih, to nije vest, to niko ne upamti ni do sledeće subote.
 
-Ali sam to nosio kao što se nosi nešto u unutrašnjem džepu. Ne vadiš. Samo s vremena na vreme, dok pričaš o nečem trećem, ruka ti pređe preko tkanine da proveri je li tu.
+Za devet dana se i ne sprema ništa. Nemam šta da spakujem osim onoga što staje u jednu torbu, a to znam napamet.
 
 ⁂
 
@@ -160,7 +166,11 @@ Legla je oko jedanaest. Ja sam ostao u kuhinji.
 
 Ustao sam i otvorio onu fioku koja je moja — jedna, u ovom stanu, i u njoj staje sve što je moje i još ostane mesta. Tu je bila teglica.
 
-Nosim je pola godine. Nije kupovna, nema nalepnicu, poklopac se otvara teško jer se maslo ispod uhvati za navoj. Mirisala je na nešto biljno i na loj, i na kuhinju u kojoj sam poslednji put jeo pod sijalicom bez abažura, i u koju odavno nisam svratio.
+Nosim je pola godine. Nije kupovna, nema nalepnicu, poklopac se otvara teško jer se maslo ispod uhvati za navoj. Mirisala je na nešto biljno i na loj, i na kuhinju u kojoj sam poslednji put jeo pod sijalicom bez abažura.
+
+Živa je. To je sve što o tome imam da kažem i sve što sam ikad rekao naglas — živa je, i gasi peć u hodniku kad neko gleda, a ne gasi je kad niko.
+
+Nisam bio kod nje ovog meseca.
 
 Uzeo sam malo na vrh prsta i razmazao po dlanu.
 
