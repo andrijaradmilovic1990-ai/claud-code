@@ -88,6 +88,8 @@ Jedne noći nije bilo nikog osim nas dvoje jer je pola smene ostalo unutra zbog 
 
 „Ti ćutiš“, rekao sam.
 
+Nije to porekla.
+
 „Odakle si ti?“
 
 Rekla je odakle je. To je dole, daleko, tamo gde autobus ide celu noć.
