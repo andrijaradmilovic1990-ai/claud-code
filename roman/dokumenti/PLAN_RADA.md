@@ -12,7 +12,21 @@
 
 ---
 
-## STANJE NA 31.08.2026
+## ⚑ STANJE NA 31.08.2026, TREĆA SESIJA — PLAN JE ISCRPLJEN
+
+> **Knjiga je cela: ŠESNAEST poglavlja, oko 30.000 reči.**
+> **`MASKA` je napisana (2.301 reč) i stoji na MESTU 14, ispred `Kukavice`** — ne na 15.
+> **Svih četrnaest poteza je zatvoreno.** Poteza 9–14 nema više; uneti su u `Masku`.
+>
+> **Ovaj fajl više ne vodi posao.** Ostao je kao zapis kako se do njega došlo.
+> Jedino otvoreno pitanje u repou stoji u **`NASTAVAK.md`**: ide li `Ulazak` na mesto 2.
+>
+> Nova numeracija od 14. mesta: **14 `Maska` · 15 `Kukavica` · 16 `Ćebence`.**
+> Stariji zapisi koji kažu „Maska, mesto 15" misle na **mesto 14**.
+
+---
+
+## STANJE NA 31.08.2026 *(druga sesija — istorija)*
 
 - Napisano **petnaest poglavlja, 27.758 reči** *(izmereno `wc -w` po fajlu)*.
 - **Ostaje jedno poglavlje: `MASKA` (mesto 15)** i **šest poteza (9–14) — svi u njoj.**
@@ -42,12 +56,12 @@ poslovima A–D.
 | ~~**6**~~ | ~~**CELA SCENA** — napad na nju, David ne staje, njen vrisak ga budi~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | ~~**7**~~ | ~~**DRUGI ODRAZ** — staklo izloga posle tuče~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | ~~**8**~~ | ~~**MAJKA U SADAŠNJOSTI**~~ — **PAO 31.08.2026, odluka autora.** Razlog: `POENTA_KNJIGE.md` | ~~`MASKA`~~ |
-| **9** | **NEŽNI MONSTRUM** — vrhunac; igra se s njom usred svega | `MASKA` **15** |
-| **10** | **MAST** — sam, noću, maže ruke; majka ulazi kroz predmet | `MASKA` **15** |
-| **11** | **ZVONCE** — na ulazu, jednom | `MASKA` **15** |
-| **12** | **MIRIS DUVANA** — na kaputu posle poziva | `MASKA` **15** |
-| **13** | **BESPOMOĆNOST** — nema čime, i ne sme dići telefon | `MASKA` **15** |
-| **14** | **VRATA** — kraj poglavlja; zatvori ih sam, ostane unutra | `MASKA` **15** |
+| ~~**9**~~ | ~~**NEŽNI MONSTRUM**~~ **URAĐENO 31.08.2026** — vrhunac; igra se s njom usred svega | `MASKA` **14** |
+| ~~**10**~~ | ~~**MAST**~~ **URAĐENO 31.08.2026** — sam, noću, maže ruke; majka ulazi kroz predmet | `MASKA` **14** |
+| ~~**11**~~ | ~~**ZVONCE**~~ **URAĐENO 31.08.2026** — na ulazu, jednom | `MASKA` **14** |
+| ~~**12**~~ | ~~**MIRIS DUVANA**~~ **URAĐENO 31.08.2026** — na kaputu posle poziva | `MASKA` **14** |
+| ~~**13**~~ | ~~**BESPOMOĆNOST**~~ **URAĐENO 31.08.2026** — nema čime, i ne sme dići telefon | `MASKA` **14** |
+| ~~**14**~~ | ~~**VRATA**~~ **URAĐENO 31.08.2026** — kraj poglavlja; zatvori ih sam, ostane unutra | `MASKA` **14** |
 
 **Dva poglavlja se otvaraju** *(2 i 4)*, **dva se pišu** *(7 i 15)*.
 
@@ -87,7 +101,7 @@ poslovima A–D.
 | 12 | Prazna stolica | **ne dira se** — menja mu se značenje | 1.405 |
 | 13 | Beli grad | **ne dira se** — menja mu se značenje | 2.150 |
 | 14 | Kukavica | **ne dira se** — menja mu se značenje | 3.635 |
-| **15** | **MASKA** | **NIJE NAPISANA** — prva verzija bačena 31.08.2026; posao E | ~2.800 |
+| **14** | **MASKA** | **NAPISANA 31.08.2026** — mesto pomereno s 15 na 14 | **2.301** |
 | 16 | Ćebence | zaključano, **ne dira se** | 1.571 |
 
 **Napisano 27.758 reči. S `Maskom` oko 30.500.**

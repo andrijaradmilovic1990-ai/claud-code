@@ -3,18 +3,73 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **31.08.2026, druga sesija tog dana.**
+> Poslednje ažuriranje: **31.08.2026, TREĆA sesija tog dana.**
 >
-> **⚑ NAJVAŽNIJE OD SVEGA U OVOM FAJLU: postoji nov dokument — `dokumenti/POENTA_KNJIGE.md`.**
-> To je **osa knjige, odluka autora**, i od sad je **najviši sprat u repou** — iznad plana,
-> mape i zbornika. **Čita se odmah posle ovog fajla, pre plana.**
+> **⚑ KNJIGA JE CELA. ŠESNAEST POGLAVLJA, oko 30.000 reči.**
+> `MASKA` je napisana i **stoji na mestu 14, ispred `Kukavice`** — ne na 15.
+> **Nema više nenapisanih poglavlja i nema otvorenih poteza. Svih četrnaest je zatvoreno.**
 >
-> **`Maska` je tog dana napisana i bačena.** Pisana je po potezu 8, koji je istog dana pao.
-> **Stanje je opet petnaest poglavlja, 27.758 reči.** Ostaje **`Maska`** i **šest poteza (9–14)**.
+> **`dokumenti/POENTA_KNJIGE.md` je i dalje najviši sprat u repou** — iznad plana, mape i
+> zbornika. Čita se odmah posle ovog fajla, pre plana.
+>
+> **Jedno pitanje čeka autora** i jedino je otvoreno u celom repou:
+> **ide li `Ulazak` na mesto 2?** Vidi sekciju odmah ispod.
 
 ---
 
-## ⚑ ŠTA SE DESILO 31.08.2026 — DRUGA SESIJA *(ovo je najsvežije)*
+## ⚑ ŠTA SE DESILO 31.08.2026 — TREĆA SESIJA *(ovo je najsvežije)*
+
+### 1. `MASKA` JE NAPISANA — i ne stoji tamo gde je plan vodio
+
+**2.301 reč, sedam scena, mesto 14** — između `Belog grada` (13) i `Kukavice` (15).
+`Ćebence` je 16.
+
+**Zašto ne na 15, kako je plan vodio:** `Kukavica` se završava time što mu ona zaspi na
+ramenu, a `Ćebence` počinje time što uzima ćebence s naslona sofe. **To je jedan pokret,
+razmak od dve sekunde** — ta dva poglavlja su i pisana kao jedno pa razdvojena. Sve što
+stane između njih nije prelaz nego **rez**.
+
+**A na mestu 14 povez je bolji na oba kraja:**
+- `Beli grad` se završava time što on **mesec dana čeka** i ne ide nikud. `Maska` je
+  poslednji dan tog čekanja *(„Do puta je ostalo devet dana")*.
+- `Maska` se završava time što **zatvori svoja ulazna vrata do kraja i brava klikne**.
+  Prva rečenica `Kukavice`: *„Otvorila je pre nego što sam stigao do vrata."*
+
+**Svih šest preostalih poteza (9–14) je uneto.** Puni spisak: `REGISTAR_ODLUKA.md`, sekcija 19.
+
+### 2. Majka je ŽIVA *(odluka autora)*
+
+Njen luk se prekidao usred dijagnoze u `Fabrici` (11) i knjiga do kraja nije rekla šta je
+s njom. **Zatvoreno u `Maski`, jednom rečenicom uz teglicu** — bez scene, bez imena, bez
+telefona: *„živa je, i gasi peć u hodniku kad neko gleda, a ne gasi je kad niko."*
+
+### 3. ⚑ ZAŠTIĆENO — Jovanino „Dobro" *(potvrdio autor)*
+
+Kad David u `Kukavici` odbije poljubac, ona kaže samo **„Dobro."**
+To je **namerno** ista reč koju je rekla u `Nestanku`, kad joj je Andrijana pokazala poruku:
+*„Pročitala je jednom, vratila mi telefon i rekla: dobro."*
+
+**Ista reč, dvanaest godina i sedam poglavlja razmaka. NE DIRA SE ni u jednom prolazu.**
+
+### 4. Knjiga pročitana cela u nizu — pet nalaza, četiri unesena
+
+Uneto: prelaz posle „A ko si ti?" u `Pukotini` *(tamo nije stajalo ništa)* · skinut deveti
+„džep" · skinuta treća „leđa uza zid" u `Fabrici` · italijanska kuća dobila svoj pasus u
+`Nestanku` · majka zatvorena.
+
+### 5. ⚑ JEDINO OTVORENO PITANJE U REPOU — `Ulazak` na mesto 2?
+
+**Nalaz:** poglavlja 1 i 2 su **istog oblika** — njegov sto, neko sedne preko puta, on ne
+kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na otvaranju knjige. Zato prvih
+2.500 reči deluju sporo.
+
+**Predlog:** `Ulazak` na 2, `Pukotina` na 3. **Košta nula reči** — menjaju se samo brojevi.
+
+**Čeka „da" ili „ne" od autora. Ne raditi bez toga.**
+
+---
+
+## ŠTA SE DESILO 31.08.2026 — DRUGA SESIJA *(istorija)*
 
 **1. Autor je rekao da ne zna šta je poenta knjige od 1. do 16. poglavlja.** Iz tog
 razgovora je izašla osa, zapisana njegovim rečima: **`dokumenti/POENTA_KNJIGE.md`.**
