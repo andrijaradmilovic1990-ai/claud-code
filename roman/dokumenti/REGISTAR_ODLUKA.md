@@ -46,7 +46,13 @@
   05.08.2026.
 - **CILJ knjige** — dve polovine (rečenica / knjiga), upisano jednom zasvagda.
 
-**Izuzeci ikad napravljeni — četiri, sva na izričitu inicijativu autora:**
+**Izuzeci ikad napravljeni — pet, svi na izričitu inicijativu autora:**
+
+> **PETI IZUZETAK. 31.08.2026.** Autor je otvorio **`Ulazak` (3)** i **`Prelom` (8)** —
+> oba vođena u planu kao „ne dira se" — **isključivo da bi se iz njih skinulo ime
+> „Jovana".** Osam izmena, nijedna ne dira radnju, redosled ni hronologiju. Puni zapis
+> i razlog: **sekcija 15.**
+
 
 1. **Broj poglavlja. 23.08.2026.** VII je podeljen na dva (vidi 5). Redosled radnje
    time nije promenjen — nijedna rečenica nije premeštena.
@@ -941,3 +947,157 @@ jedne — ili bi `IX` izgubio *„pre godinu dana"*, a to je ogledalo kraja knji
 
 **Cena je nula, jer se ta dva u knjizi nigde ne sreću:** `Fabrika` Jovanu ne pominje
 nijednom, a `VI` ne pominje ni majku ni bolest. **Razmak čitalac nikad ne meri.**
+
+
+---
+
+# 15 — IME „JOVANA" — PADA TAČNO JEDNOM, U `KUKAVICI` *(odluka autora, 31.08.2026)*
+
+**Pravilo za celu knjigu:** ona je **neimenovana u svakom poglavlju do `Kukavice` (14)**.
+Ime pada **prvi put tamo**, i to je jedino poglavlje u kom ga knjiga izgovara.
+**U `Ćebencetu` (16) ga opet nema** — i to je namerno.
+
+### Zašto baš tu — dva razloga, oba iz teksta
+
+1. **`Kukavica` je jedino poglavlje u knjizi u kom ljudi imaju imena.** U njemu, i nigde
+   drugde, pada i **ime „David"** — dvaput, iz Natašinih i Andrijaninih usta (`14`, redovi
+   65 i 67). Ista scena, isti sto. To nije podudarnost nego mesto na kom knjiga skida masku.
+2. **Zavet u `Parizu` je jedino oružje koje to ime ima** — *„Neću je imenovati ovde. Ne u
+   ovoj nedelji, ne u ovom gradu."* (`6`, red 83). **Zavet radi samo ako čitalac ime još
+   nema.** Svako imenovanje pre `Parizu` ga poništava unazad.
+
+### Šta je bilo pokvareno i kad *(nalaz, 31.08.2026)*
+
+**Devet starih poglavlja su šemu držala savršeno** — provereno u tekstu, ime nije padalo
+nigde osim u `Kukavici`, čak ni u `Belom gradu` (13), gde je ona najprisutnija u celoj
+knjizi, cela bolnička scena.
+
+**Probila su je isključivo nova poglavlja**, jer su pisana bez upisanog pravila:
+
+| poglavlje | bilo | sad |
+|---|---|---|
+| **`Ulazak` (3)** | **6 instanci** — a to je **tri poglavlja pre zaveta** | **0** |
+| **`Prelom` (8)** | **2 instance** | **0** |
+| **`Ivičnjak` (7)** | 6 u prvom nacrtu | **0** |
+
+### Osam izmena, poimenično — sadržaj radnje nije promenjen nijednim slovom
+
+**`Ulazak` (3):**
+
+| red | staro | novo |
+|---|---|---|
+| 137 | „Jovana je došla trećeg dana…" | „**Došla je** trećeg dana…" |
+| 177 | „„Nije veća", rekla je Jovana." | „„Nije veća."" — **atribucija skinuta**, smena replika je nosi |
+| 183 | „„Za oko, da. Ti nemaš oko."" | „…**rekla je Andrijana**." — **dodata** atribucija, da red 185 ne padne na nju |
+| 185 | „Jovana nije odgovorila na to." | „**Ona** nije odgovorila na to." |
+| 217 | „Jovana je odnela tanjir…" | „**Ona** mi je odnela tanjir…" |
+| 271 | „U subotu sam Jovani kupio patike…" | „U subotu sam **joj** kupio patike…" |
+| 443 | „Kod Jovane je u kuhinji gorelo svetlo…" | „Kod **nje** je u kuhinji gorelo svetlo…" |
+
+**`Prelom` (8):**
+
+| red | staro | novo |
+|---|---|---|
+| 129 | „S druge strane rake stajala je Jovana…" | „…stajala je **ona pod šeširom**…" |
+| 263 | „Jovana je sedela dalje, u onom drugom redu…" | „**U onom drugom redu stolova, s njegovima, sedela je ona.**" |
+
+### Dve rupe koje je zamena napravila i kako su zatvorene
+
+**Ovo je razlog zbog kog se zamena ne radi automatski.** Gola zamena imena zamenicom je
+oba puta pala na pogrešnu ženu:
+
+- **`Prelom` 129:** red pre njega glasi *„U prvom su bili **njeni** i njegovi"* — pa bi
+  „ona" pročitao kao **majku Malog.** Zato tag, ne zamenica.
+- **`Ulazak` 185 i 217:** pre oba reda govori **Andrijana**, pa bi bezlično „Nije
+  odgovorila" i „Odnela je" pripalo njoj. Zato izričito **„Ona"**, koje se posle
+  imenovane Andrijane čita kao ona druga.
+
+### Sistem koji ovo drži — pravilo za sve što se ubuduće piše
+
+**U svakom poglavlju u kom je ona, ona je jedina žena bez imena.** Andrijana i Nataša su
+imenovane svuda; Katarina nosi marker **„moja"**. **Zato je svako neimenovano „ona / joj /
+kod nje" u tim poglavljima — ona.** Čitalac to pravilo pokupi za dva poglavlja.
+
+Knjiga to već radi na šest mesta — `Krv`, `Pariz`, `Nestanak`, `Prazna stolica`,
+`Beli grad`, `Ćebence` — i `Ulazak` ga sam izgovara u redu 191: *„Ona ti tako. Ništa ne
+pita, sve uradi."*
+
+**Dva mesta gde se dve neimenovane žene sudaraju već su rešena u postojećem tekstu i ne
+diraju se:** `Krv` ih razdvaja sa **„Ona. Moja."**, a `Beli grad` time što je
+**Katarina tamo imenovana, dvaput** — jedini put u knjizi.
+
+### Cena koja je upisana, ne prećutana
+
+Širenjem knjige razmak od zaveta u `Parizu` do imena u `Kukavici` **porastao je sa četiri
+na osam poglavlja.** Nit ne puca jer ona u tom razmaku ostaje u kadru — 7, 9, 12, 13 —
+a bez nje su samo `Majka` i `Fabrika`, dva zaredom, i tamo je odsutna namerno.
+
+### Tag „ona pod šeširom" — sad pada četiri puta
+
+`Pariz` 93 i 135 · `Nestanak` 157 · **`Prelom` 129 *(novo, 31.08.2026)***.
+**Ne umnožavati dalje.** `Ivičnjak` ga svesno **ne koristi** — tamo je ona jedina žena u
+poglavlju, pa joj zamenica dovoljna.
+
+---
+
+# 16 — NOVA KNJIGA: IVIČNJAK *(napisan 31.08.2026)*
+
+**`IVIČNJAK`, mesto 7, između `Pariza` i `Preloma`. 1.118 reči, sedam scena.**
+Poglavlje je autorovo po sceni i po odluci; sve ispod je zapis kako je izvedeno.
+
+### Kad se dešava — zaključano
+
+**Davidovih 22.** Godinu posle `Pariza` (21), godinu pre `Preloma` i `Nestanka` (23).
+
+**Zašto 22, a ne 23:** na 23 su već dva poglavlja, pa bi tri stvari pale u istu godinu i
+scena bi počela da liči na **uzrok** nestanka. Na 22 stoji sama — **znak, ne razlog.**
+
+**Sidro u vremenu**, u prvih pet redova, u dijalogu: *„Prošle godine smo u ovo doba bili
+u Parizu."* **Ne zamenjivati brojem i ne dodavati datum.**
+
+### Šta se ne dira
+
+- **Nasilje je u kadru, i to je jedini put u knjizi.** Ide do kraja: vilica preko ivice,
+  koleno na leđa, dlan na potiljak, **podignuta noga** — i tu se scena preseca. **Ne
+  ublažavati i ne produžavati.**
+- **Budi ga njen vrisak, ne savest.** Nema nijedne rečenice koja kaže da je shvatio.
+  Noga se spušta **pored** glave. **Ne dodavati misao.**
+- **Čovek preživi** i to se vidi — okrene lice, ispljune, diše kroz to, mrdne nogom.
+  **Ne ubijati ga ni naknadno, ni pomenom u kasnijem poglavlju.**
+- **Reč „ivičnjak" pada tačno jednom**, na najgorem mestu. `Pariz` je već ima u
+  najnežnijoj sceni koju njih dvoje imaju (`6`, red 115). **Ništa to ne imenuje i ne
+  poredi.**
+- **Vrisak dvaput, obrnuto.** Prvi put u lokvi, kroz smeh (red 75); drugi put nad
+  čovekom na betonu (red 157). **Ne komentarisati.**
+- **Ona se odmakne od njegove ruke** kad pruži ruku ka jakni koja joj spada. Jedini put
+  u knjizi da se odmakne od njega. **Ne tešiti i ne objašnjavati.**
+- **DRUGI ODRAZ** — staklo izloga, ulična lampa iza leđa, u staklu ramena i vrat i
+  **iznad toga ništa**; pomeri se levo, desno, nazad, i staklo svaki put vrati isto.
+  **Senka se ne imenuje i iz nje se ne izvodi zaključak.** Ovo je **instanca 2 od 3**
+  (`Pukotina` 225 → **`Ivičnjak`** → `Ćebence` 171–173, *„Isti čovek."*).
+- **Ona ga ne pita ništa** — ni ko je bio, ni odakle je, ni šta će s njim biti.
+  *„Ni tad ni posle."* **To je koren za `Kukavicu`:** ona je jedini svedok, i zato je
+  *„Kukavica"* najgora reč koju mu može reći — jedina je koja zna da nije.
+- **Kraj — šaka koja se ne sklapa do kraja, pa još jednom.** **Ne dodavati rečenicu posle.**
+- **Ime ne pada** — vidi sekciju 15.
+
+### Šta poglavlje plaća
+
+**D5 (strah)** unapred, i to **dokazom, ne pretnjom:** knjiga prvi put pokaže šta ovaj
+čovek radi kad pusti, **dva poglavlja pre nego što uzme Malog.** ·
+Koren za *„Ali umalo. Prvi put za deset godina — umalo."* (`13`, red 105) ·
+dno za *„Mera za meru"* (`12`) · dno za *„Kukavica"* (`14`).
+
+### Činjenice sveta koje iz njega izlaze
+
+- **David sa 22 ima svoju kapiju i dvorište** — slaže se s tim da sa 23 ima kuću
+  (`registar`, sekcija 10) i s `V 65` (*„spremam kuću"*).
+- **Ime „Zvezdan" prvi put pada u poglavlju 7**, u njenoj replici, a ne u 13.
+  **On i dalje nije u kadru i nema repliku** — samo se pominje.
+- **Vozi ona.** David nema dozvolu, i to poglavlje ne pominje.
+
+### Dva poteza koja se ne ponavljaju nigde drugde
+
+**„Zamalo pita pa odustane"** — ta figura pripada **majci Malog u `Prelomu`** i
+`Ivičnjak` je **svesno ne koristi**, iako stoji tačno pre njega. Ona ne prilazi pitanju
+uopšte. **Ne dopisivati joj načeto pitanje.**

@@ -3,7 +3,33 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **30.08.2026.** *(**KNJIGA IDE NA ŠESNAEST POGLAVLJA** — umeće se `Ivičnjak`. Ceo preostali posao je u **`dokumenti/PLAN_RADA.md`**.)*
+> Poslednje ažuriranje: **31.08.2026.** *(**`IVIČNJAK` JE NAPISAN.** Petnaest poglavlja, 27.469 reči. Ostaje **`Maska`** i dve male prepravke. Uz to: **ime „Jovana" pada samo u `Kukavici`** — vidi niže.)*
+
+---
+
+## ⚑ ŠTA SE DESILO 31.08.2026
+
+**1. `IVIČNJAK` je napisan** — mesto 7, **1.118 reči**, sedam scena, **Davidovih 22**.
+Potezi 6 i 7 iz plana plaćeni. Nasilje ulazi u kadar jednom, do kraja: vilica preko
+ivice, podignuta noga, **budi ga njen vrisak**, noga se spušta pored glave. Drugi odraz
+je staklo izloga. Sve odluke: `dokumenti/REGISTAR_ODLUKA.md`, **sekcija 16.**
+
+**2. IME „JOVANA" — sređeno u celoj knjizi.** Devet starih poglavlja je držalo šemu
+savršeno: **ime pada prvi put tek u `Kukavici` (14)**, čak ni u `Belom gradu` (13) gde je
+ona najprisutnija. **Probila su je nova poglavlja:** `Ulazak` (3) šest puta — tri
+poglavlja **pre** zaveta u `Parizu` — i `Prelom` (8) dvaput.
+
+**Osam izmena uneto**, autor je za to otvorio 3 i 8 *(peti izuzetak ikad napravljen)*.
+Radnja, redosled i hronologija nisu dirani nijednim slovom. Puni zapis, sve izmene
+poimenično, dve rupe koje je zamena napravila i kako su zatvorene: **registar, sekcija 15.**
+
+> **Pravilo koje ovo drži, i važi za sve što se ubuduće piše:** u svakom poglavlju u kom
+> je ona, **ona je jedina žena bez imena.** Andrijana i Nataša su imenovane svuda,
+> Katarina nosi marker „moja". **Zato je svako neimenovano „ona / joj / kod nje" — ona.**
+
+**3. Provereno dvaput, ceo rukopis, alatom:** ime 0 svuda osim `Kukavice` (43) · „Beograd" 0 ·
+„David" 2, samo `Kukavica` · „Katarina" 2, samo `Beli grad` · formula 3/3 · refren „telo" 5/5 ·
+„porodica" 1 · svih petnaest fajlova završava tačkom bez preloma reda.
 
 ---
 
@@ -49,7 +75,12 @@ Brojevi ispod su stanje **posle koraka 4.**
 | 9 | **NOVO 4 — Majka** | **zaključano 29.08.2026** | **1.571** |
 | 10 | **NOVO 5 — Fabrika** | **zaključano 30.08.2026** | **1.911** |
 
-**Ukupno: 26.351 reč.** Od 30.08.2026. **cilj je oko 31.500**, i ostaju **dva poglavlja: `Ivičnjak` (mesto 7) i `Maska` (mesto 15)**, uz tri male prepravke. Sve u **`dokumenti/PLAN_RADA.md`**.
+| 7 | **IVIČNJAK** | **zaključano 31.08.2026** | **1.118** |
+
+**Ukupno: 27.469 reči u petnaest poglavlja.** Ostaje **jedno poglavlje — `Maska` (mesto 15)** —
+i dve male prepravke, u `Pukotini` (2) i `Krvi` (4). Sve u **`dokumenti/PLAN_RADA.md`**.
+
+> **`Ulazak` je 2.178, ne 2.181** — tri reči manje posle skidanja imena.
 
 > **Kako se zbir meri.** Po fajlu, običnim `wc -w` **u shellu**, pa se sabere.
 > **Ne meriti pozivom iz `python3` (`subprocess`)** — on nasleđuje drugi lokal i daje

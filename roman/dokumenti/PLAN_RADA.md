@@ -33,8 +33,8 @@ poslovima A–D.
 | **3** | **„A KO SI TI?"** — razmena s Andrijanom, njeno pitanje ostaje neodgovoreno | `Pukotina` **2** |
 | **4** | **MALI** — jedan potez u kom on nešto **DA** Davidu, pored motora | `Krv` **4** |
 | **5** | **NEŽNI MONSTRUM** — jedan Davidov nežan potez prema Katarini | `Krv` **4** |
-| **6** | **CELA SCENA** — napad na Jovanu, David ne staje, njen vrisak ga budi | `IVIČNJAK` **7** |
-| **7** | **DRUGI ODRAZ** — staklo izloga posle tuče; **ovde nije isti čovek** | `IVIČNJAK` **7** |
+| ~~**6**~~ | ~~**CELA SCENA** — napad na nju, David ne staje, njen vrisak ga budi~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
+| ~~**7**~~ | ~~**DRUGI ODRAZ** — staklo izloga posle tuče~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | **8** | **MAJKA U SADAŠNJOSTI** — isplata; opasnost preti **njoj**, ne njemu | `MASKA` **15** |
 | **9** | **NEŽNI MONSTRUM** — vrhunac; igra se s njom usred svega | `MASKA` **15** |
 | **10** | **MAST** — sam, noću, maže ruke; majka ulazi kroz predmet | `MASKA` **15** |
@@ -65,12 +65,12 @@ poslovima A–D.
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
 | **2** | **Pukotina** | **PREPRAVKA — posao B** | 1.574 |
-| 3 | Ulazak | **ne dira se** — vidi „POSAO C — POVUČEN“ | 2.181 |
+| 3 | Ulazak | **otvoren 31.08. samo za ime** *(registar 15)* | 2.178 |
 | **4** | **Krv** | **PREPRAVKA — posao D** | 1.135 |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
 | 6 | Pariz | zaključano, **ne dira se** | 1.973 |
-| **7** | **IVIČNJAK** | **PIŠE SE — posao A** | ~2.000 |
-| 8 | Prelom | **ne dira se** — menja mu se značenje | 1.791 |
+| **7** | **IVIČNJAK** | **NAPISAN 31.08.2026** | **1.118** |
+| 8 | Prelom | **otvoren 31.08. samo za ime** *(registar 15)* | 1.791 |
 | 9 | Nestanak | **ne dira se** — menja mu se značenje | 1.289 |
 | 10 | Majka | **ne dira se** | 1.571 |
 | 11 | Fabrika | **ne dira se** | 1.911 |
@@ -87,15 +87,30 @@ poslovima A–D.
 
 ---
 
+# URAĐENO VAN SPISKA — IME „JOVANA" *(31.08.2026, odluka autora)*
+
+**Provera cele knjige pokazala je da su nova poglavlja probila šemu imena.** Devet starih
+je držalo savršeno: ime pada tek u `Kukavici` (14). `Ulazak` (3) ga je izgovarao šest
+puta — **tri poglavlja pre zaveta u `Parizu`** — a `Prelom` (8) dvaput.
+
+**Osam izmena uneto. Autor je za to otvorio 3 i 8** *(peti izuzetak ikad)*. Radnja,
+redosled i hronologija nisu dirani. Puni zapis: `REGISTAR_ODLUKA.md`, **sekcija 15.**
+
+---
+
 # RED RADA
 
 Radi se **ovim redom.** Poglavlje se ne otvara dok se prethodni posao ne zatvori.
 
 ---
 
-## POSAO A — napisati `IVIČNJAK` *(novo poglavlje, mesto 7)*
+## POSAO A — ~~napisati~~ **NAPISAN `IVIČNJAK`** *(novo poglavlje, mesto 7)* — **ZAVRŠENO 31.08.2026**
 
-**Ovo je prvo i najveće.** Sve ostalo zavisi od njega.
+> **1.118 reči, sedam scena, Davidovih 22.** Potezi 6 i 7 plaćeni.
+> Sve odluke o poglavlju: `REGISTAR_ODLUKA.md`, **sekcija 16.**
+> Opis ispod ostaje kao zadatak po kom je pisano.
+
+**Ovo je bilo prvo i najveće.** Sve ostalo zavisi od njega.
 
 ### Šta se dešava *(autorova scena, 30.08.2026)*
 
