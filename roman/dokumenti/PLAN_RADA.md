@@ -484,6 +484,42 @@ poglavlja i jedanaest godina kasnije.
 
 ---
 
+# ⚑ OTVORENO PITANJE ZA AUTORA — SREDINA KNJIGE *(nalaz 31.08.2026, NIJE odluka)*
+
+> **Ovo nije potez i ne ulazi u onih četrnaest.** Ovde stoji zato što se pojavilo u
+> lektorskom prolazu, a nigde nije bilo upisano. **Ne radi se dok autor ne odluči.**
+
+**Nalaz — sprat: knjiga.** Tri poglavlja zaredom bez događaja stoje tačno na mestu gde
+čitalac odlučuje hoće li dovršiti knjigu:
+
+| # | poglavlje | kako ga mapa sama opisuje |
+|---|---|---|
+| 9 | `Nestanak` | **dno** |
+| 10 | `Majka` | **dno se nastavlja, tiho** |
+| 11 | `Fabrika` | **mali uspon** |
+
+**Zašto je to sad ozbiljnije nego pre širenja:** `Ivičnjak` (7) i `Prelom` (8) guraju
+**nasilje i smrt na mesta 7 i 8**, odmah ispred. Pad posle njih je **strmiji nego ikad**.
+Uz to je `Nestanak` **jedina hronika u knjizi** — sažetak odmah posle dva poglavlja
+čistih scena.
+
+**`Maska` ovo ne rešava** — ona je na mestu 15, četiri poglavlja kasnije.
+
+### Šta je moguće — nabrojano, ne predloženo
+
+1. **Ništa.** Tišina je namerna, poglavlja su dobra, a knjiga sme da diše. **Ovo je
+   legitiman odgovor i ne traži rad.**
+2. **Rešiti na prolazu kroz šavove** — spojevi **8→9, 9→10, 10→11, 11→12**, da silazak
+   ima stepenike umesto ravnog dna. Najjeftinije, i već je zakazano.
+3. **Ostaviti noir prolazu.** Noir podnosi sporu sredinu ako u njoj stoji pretnja; `G10`
+   *(lice na svetlu / u senci)* radi baš tamo.
+4. **Dati jednom od tri neki događaj.** **Najskuplje** — traži novu scenu, a nove scene
+   su TEŠKO i sve tri glave su zaključane u registru (sekcije 11 i 13).
+
+**Redosled poglavlja se ne pomera** — hronologija je zaključana i `Fabrika` visi na 32.
+
+---
+
 # ZAKAZANO POSLE — ne ranije
 
 1. **PROLAZ KROZ ŠAVOVE.** Kad `Ivičnjak` i `Maska` budu napisani.

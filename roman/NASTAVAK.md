@@ -91,6 +91,12 @@ Brojevi ispod su stanje **posle koraka 4.**
 **Posle `Maske` slede dva velika prolaza koja diraju skoro sve:** prolaz kroz devet
 šavova, pa **NOIR PROLAZ kroz ceo roman.** Oba su u `PLAN_RADA.md`.
 
+> **⚑ I jedno otvoreno pitanje koje čeka autora — SREDINA KNJIGE (9, 10, 11).**
+> Tri tiha poglavlja zaredom, a pad je strmiji otkad `Ivičnjak` i `Prelom` guraju
+> nasilje na 7 i 8. **`Maska` to ne rešava.** Nalaz, četiri moguća odgovora *(od kojih je
+> jedan „ništa")* i zašto se redosled ne pomera — `PLAN_RADA.md`, odeljak
+> **„OTVORENO PITANJE ZA AUTORA".** **Ne radi se dok autor ne odluči.**
+
 *(Ispravljeno 31.08.2026, na autorovu primedbu. Raniji zapis je pet poteza u 2 i 4 sažeo
 u „dve male prepravke" — netačno i opasno, jer sažimanje spiska poslova je način na koji
 posao ispada iz njega.)*
