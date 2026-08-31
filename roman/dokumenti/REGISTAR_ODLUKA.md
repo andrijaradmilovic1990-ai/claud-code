@@ -1108,7 +1108,7 @@ uopšte. **Ne dopisivati joj načeto pitanje.**
 # 17 — POTEZI 1–5: `PUKOTINA` I `KRV` *(uneto 31.08.2026)*
 
 **Sedam od četrnaest poteza je time plaćeno.** Ostaje sedam, svi u `Maski`.
-`Pukotina` **1.574 → 1.699**, `Krv` **1.135 → 1.303**.
+`Pukotina` **1.574 → 1.695**, `Krv` **1.135 → 1.303**.
 
 ## `Pukotina` (2) — tri poteza
 
@@ -1117,11 +1117,40 @@ uopšte. **Ne dopisivati joj načeto pitanje.**
 **Gde:** usred Andrijanine svađe s njenom majkom preko telefona, jer je to jedino mesto
 u knjizi gde bi neko prirodno pitao za njegovu.
 
-> „A tvoja?" / „Šta moja." / „Petnaest minuta odavde ti je." / „Znam gde mi je." /
-> „Nisam pitala gde ti je." / **Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.**
+> „A tvoja?" / „Šta moja." / **„Ti spavaš u njenoj kući."** / **„Spavam."** /
+> **„Nisam pitala gde spavaš."** / **Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.**
 
 **Ne dirati:** David **ne odgovara i ne laže — skrene kroz konobara.** To je ceo potez.
 **Ne dodavati mu odgovor** i ne praviti od majke temu. Time je postavljena za `Masku`.
+
+> **⚑ ISPRAVLJENO 31.08.2026, isti dan, na autorovu primedbu.** Prva unesena verzija
+> srednja tri reda glasila je *„Petnaest minuta odavde ti je." / „Znam gde mi je." /
+> „Nisam pitala gde ti je."* — **i bila je netačna.** `Fabrika` (red 119) kaže *„Kod
+> majke."*, a David se kod nje doselio sa **24** i živi tamo do useljenja Katarine na
+> **34**. `Pukotina` je na **33** — dakle **on u toj sceni spava u majčinoj kući, devetu
+> godinu.** Prigovor za daljinu upućen čoveku koji tamo spava svake noći ne stoji, a
+> Andrijana je iz tog grada *(majka i baka su joj tu)* i to bi znala. **Odnos se sme
+> izostaviti; položaj kuće ne.**
+>
+> **Zašto baš „spavaš u njenoj kući":**
+> - `Pukotina` time nosi **dve kuće i nijedna nije njegova** — ova i *„stan koji još
+>   nije moj"* (red 253), gde stoji prvi odraz. Poglavlje je o čoveku bez svog mesta.
+> - **Glagol se plaća unapred** *(Pravilo P)*: `Majka` (10) kaže *„soba u kojoj sam
+>   spavao jednu noć godišnje osamnaest godina."* Osam poglavlja kasnije čitalac dobija
+>   da se ništa nije promenilo osim broja noći. **Spavati nije živeti.**
+> - Odbačeno *„Ti s njom živiš." / „Živim."* — David tim tvrdi odnos kog nema, a razlika
+>   između *biti u kući* i *biti prisutan* nestane u jednom glagolu, pa Andrijanino
+>   *„Ti nemaš nikog na vratu"* tri reda kasnije ostaje bez oslonca.
+> - **Za `Masku` (potez 8) je presudno:** u sadašnjosti David tamo **više ne spava**.
+>   Da je obećana blizina, isplata bi bila potrta; ovako nemoć iz poteza 13 ima šta da
+>   preseče.
+>
+> **Ostalo netaknuto i time dobija:** *„Znam kako je to." / „Ne znaš." Brzo, bez
+> uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio." / Onda je čula sebe.* — to je
+> **originalni tekst, ne juče uneti**, i tačan je baš zato što David tamo spava: ona kaže
+> neistinu, on je ne ispravlja, ona čuje sebe, a petnaest redova niže sama imenuje
+> mehanizam *(„čovek ode kući s pogrešnom slikom u glavi")*. **Ne dirati nijedan od ta
+> četiri reda.**
 
 ### Potez 2 — PRVI ODRAZ *(dopuna, ne prepis)*
 

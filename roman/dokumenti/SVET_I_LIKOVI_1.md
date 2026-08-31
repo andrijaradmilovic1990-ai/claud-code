@@ -215,10 +215,19 @@ računa odavde.
 >
 > **`Pukotina` pada na 33, pre nesreće.** Nijedna rečenica u knjizi nije promenjena.
 >
-> **Šta ovo usput dobija:** majka oboli sa Davidovih **32**, godinu dana pre `Pukotine` —
-> pa Andrijanino *„A tvoja? Petnaest minuta odavde ti je."* (potez 1, unet 31.08.2026)
-> pada **godinu dana posle njene bolesti**, a čitalac to sazna tek u `Fabrici`. Rečenica
-> se time naplaćuje unazad, bez ijedne dopune.
+> **⚑ ŠTA JE OVO ODMAH ZATIM SRUŠILO — i kako je popravljeno *(31.08.2026, isti dan)*.**
+> Iz `Pukotine` na **33** sledi da David u toj sceni **spava u majčinoj kući** — doselio
+> se sa **24**, Katarina se useljava tek sa **34**, a `Fabrika` na **32** to izričito kaže
+> *(red 119: „Kod majke.")*. Prvo unesena verzija poteza 1 glasila je *„Petnaest minuta
+> odavde ti je."* — **prigovor za daljinu čoveku koji tamo spava svake noći.** Ne stoji.
+>
+> **Uneto umesto toga:** *„Ti spavaš u njenoj kući." / „Spavam." / „Nisam pitala gde
+> spavaš."* Figura je ista — ona pita za **odnos**, on odgovori **mestom**, ona to
+> imenuje — samo je činjenica sada tačna. Puno obrazloženje: **registar, sekcija 17.**
+>
+> **Šta ostaje da se naplaćuje unazad:** majka oboli sa Davidovih **32**, godinu dana pre
+> `Pukotine`. Andrijana za bolest **ne zna** — to je ono što se sme izostaviti — pa
+> čitalac tek u `Fabrici` shvati da je David tu ćutao o raku, a ne o adresi.
 
 **Provere koje se zatvaraju same:**
 

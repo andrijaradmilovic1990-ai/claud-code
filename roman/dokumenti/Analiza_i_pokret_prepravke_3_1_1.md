@@ -2835,3 +2835,43 @@ da ga dohvati u sadašnjosti; jedini dodir je starac koji dolazi da **zahvali.**
 **Tri zabrane oko `Maske` nisu pale i izričito su ponovljene uz nalaz** — ne rešava se
 trilerskom ivicom, ni pucnjem, ni tako što Katarina posumnja, nego time da **održavanje
 maske jednom stvarno zamalo ne uspe.**
+
+---
+
+## 31.08.2026 — POTEZ 1 ISPRAVLJEN ISTOG DANA (`Pukotina`, 2)
+
+**Nalaz je autorov**, postavljen kao pitanje: *„on uveliko živi sa majkom — da li se to slaže?"*
+
+**Slagalo se nije.** Provera u tekstu, ne u dokumentima:
+
+- `Fabrika` (David 32), red 119 — Katarina: *„Ti si kod nekog?"* / David: **„Kod majke."**
+  Red 147: *„U šest sam ušao na kapiju kod kuće."*
+- Hronologija: doseljenje kod majke sa **24**, Katarina se useljava sa **34**,
+  `Pukotina` je na **33** — **deveta godina života u toj kući.**
+
+Juče unet red *„Petnaest minuta odavde ti je."* je time bio prigovor za daljinu upućen
+čoveku koji tamo spava svake noći, i to iz usta lika koji je **iz tog istog grada**
+(majka i baka su joj tu) pa bi to znao.
+
+**Uneto umesto tri reda:**
+
+> „Ti spavaš u njenoj kući." / „Spavam." / „Nisam pitala gde spavaš."
+
+**Šta je git istorija razjasnila i time spasla od nepotrebnog reza:** *„Znam kako je to."
+/ „Ne znaš." … „Ti nemaš nikog na vratu. Ti si to lepo rešio." / Onda je čula sebe.* je
+**originalni tekst, ne jučerašnji unos.** Prvo čitanje ga je pročitalo kao drugi kvar —
+netačno. On je tačan **baš zato** što David tamo spava: ona kaže neistinu, on je ne
+ispravlja, ona čuje sebe, a petnaest redova niže sama imenuje mehanizam. **Popravka je
+tri reda, a ne razmena.**
+
+**Odluka o formulaciji, doneta na autorov nalog *(„odluči sama")*.** Odbačeno
+*„Ti s njom živiš." / „Živim."*; izabrano *„spavaš u njenoj kući"* iz četiri razloga —
+dve kuće u istom poglavlju od kojih nijedna nije njegova (druga je *„stan koji još nije
+moj"*, red 253, gde stoji prvi odraz) · glagol se plaća unapred u `Majci` (*„soba u kojoj
+sam spavao jednu noć godišnje osamnaest godina"*) · „živim" bi Davidu dalo tvrdnju o
+odnosu koji ne postoji · a za `Masku` je nužno da blizina **ne** bude obećana, jer u
+sadašnjosti tamo više ne spava.
+
+**`Pukotina` 1.699 → 1.695. Zbir 27.762 → 27.758.**
+Puni zapis: registar, sekcija 17. Hronološka posledica: `SVET_I_LIKOVI_1`, sekcija
+HRONOLOGIJA.
