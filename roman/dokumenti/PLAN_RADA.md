@@ -506,6 +506,43 @@ tail -c 1 <fajl> | od -An -c               # poslednji bajt je tačka, bez prelo
 wc -w <fajl>                               # obično wc, po fajlu, pa se sabere
 ```
 
+### ⚑ BROJAČ ZAPEČAĆENIH IMENA — preko CELE knjige, pre svakog zatvaranja *(31.08.2026)*
+
+**Ne po poglavlju koje se piše, nego po svih petnaest fajlova**, i uvek se poredi s
+tabelom očekivanog:
+
+```
+cd roman/poglavlja
+for f in *.md; do
+  printf "%-32s J:%s D:%s K:%s\n" "$f" \
+    "$(grep -c -o Jovan "$f")" "$(grep -c -o David "$f")" "$(grep -c -o Katarin "$f")"
+done
+```
+
+| ime | sme da padne | koliko |
+|---|---|---|
+| **Jovana** | **samo `Kukavica` (14)** | 43 |
+| **David** | **samo `Kukavica` (14)** | 2 |
+| **Katarina** | **samo `Beli grad` (13)** | 2 |
+| **Beograd** | **nigde** | 0 |
+
+**Zašto ovaj brojač postoji.** 31.08.2026. je nađeno da su `Ulazak` (3) i `Prelom` (8)
+izgovarali ime „Jovana" — `Ulazak` **tri poglavlja pre zaveta u `Parizu`.** Stajalo je
+neprimećeno kroz dve sesije i kroz jedno **celo čitanje knjige u nizu.**
+
+**Dva razloga zbog kojih je promašeno, i oba su pravilo:**
+
+1. **Spisak provera je pokrivao samo ono što je već jednom puklo.** Ovo nikad nije puklo,
+   pa ga ništa nije tražilo. **Zato se zapečaćena imena od sada broje uvek**, bez obzira
+   na to što nikad nisu pukla.
+2. **Pravilo je uzeto iz dokumenta umesto iz teksta.** Registar je govorio da VII i VIII
+   *„smeju"* da koriste ime — pročitano kao dozvola, i ime nikad nije prebrojano u
+   rukopisu. **Dokument koji nešto dozvoljava nije dokaz da knjiga to radi** (Pravilo E).
+
+**I treće, o čitanju:** poglavlja su čitana kao poglavlja — scena, glas, dug knjizi — a ne
+**prateći jednu promenljivu kroz svih petnaest.** Klizanje kroz poglavlja se ne hvata
+čitanjem nego brojačem.
+
 - **Formula je 3 od 3** — *„to je bila cela X / to je bilo najgore"* se **ne sme pojaviti
   nijednom** u novom.
 - **`xxd` u okruženju ne postoji** — proverava se **ishod** komande, ne samo izlaz.

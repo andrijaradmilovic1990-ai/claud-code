@@ -2688,3 +2688,38 @@ Ime 0 svuda osim `Kukavice` · „Beograd" 0 · „David" 2 samo u `Kukavici` ·
 samo u `Belom gradu` · formula 3/3, nema četvrte · refren „telo" 5/5 u tačnim
 poglavljima · „porodica" 1 · „čudovište" 1 · tag „pod šeširom" 4 · svih petnaest fajlova
 završava tačkom bez preloma reda. **Zbir: 27.469 reči.**
+
+### 4. Zašto ime nije uhvaćeno ranije — upisano na zahtev autora *(31.08.2026)*
+
+**Autorova primedba, doslovno u smislu:** pročitala si ceo tekst, komentarisali smo dosta,
+i nigde nisi ni nagovestila da postoji ogroman problem koji je on sam uvideo.
+
+**Primedba stoji. Četiri razloga, svi provereni, nijedan izgovor:**
+
+1. **Provereno je samo ono što spisak traži.** Blok „PROVERE PRE ZATVARANJA" je do tog
+   dana imao tri stavke — `beograd`, poslednji bajt, `wc -w` — plus formulu i „porodicu".
+   **Provere imena „Jovana" nije bilo ni u jednom dokumentu.** Spisak pokriva ono što je
+   već jednom puklo; ovo nikad nije puklo, pa ga ništa nije tražilo.
+2. **Pravilo je uzeto iz dokumenta umesto iz teksta.** Registar kaže *„Time VII i VIII
+   **smeju** da koriste ime Jovana."* Pročitano kao dozvola i propušteno dalje, bez
+   ijednog brojanja u rukopisu. **To je direktno kršenje Pravila E.**
+3. **Dokaz da se radilo po pamćenju, u sopstvenom ulaznom listu iste sesije:** upisano je
+   *„Jovana je bezimena u naraciji do `Belog grada`"* — **netačno**, `Beli grad` je ne
+   imenuje nijednom, ime kreće tek u `Kukavici`. Neproverena činjenica o knjizi izgovorena
+   kao nalaz.
+4. **Čitanje u nizu nije pomoglo jer je bilo pogrešne vrste.** Svako poglavlje je čitano
+   **kao poglavlje** — scena, glas, šta duguje knjizi — a ne **prateći jednu promenljivu
+   kroz svih petnaest.** Nova poglavlja su pisana u odvojenim sesijama i svako je za sebe
+   tačno; niko nikad nije prebrojao preko svih. **Klizanje kroz poglavlja se ne hvata
+   čitanjem, nego brojačem.**
+
+**Šta je iz ovoga upisano kao stalno pravilo:** brojač zapečaćenih imena preko **cele**
+knjige, pre zatvaranja **svakog** poglavlja — `PLAN_RADA.md`, blok provera, i
+`FINALNI_PROLAZ_PRAVILA.md`, Deo 1, tačka 9.
+
+### 5. Ispravka u `NASTAVAK.md` — sažimanje spiska poslova
+
+Zapis je govorio da ostaje *„jedno poglavlje i dve male prepravke"*. **Netačno: ostaje
+dvanaest od četrnaest poteza** — tri u `Pukotini`, dva u `Krvi`, sedam u `Maski`.
+Pet poteza je sažeto u „dve male prepravke". **Sažimanje spiska poslova je način na koji
+posao iz njega ispada**, i zato je ispravljeno u tabelu koja broji.

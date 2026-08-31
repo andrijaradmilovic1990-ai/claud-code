@@ -77,8 +77,21 @@ Brojevi ispod su stanje **posle koraka 4.**
 
 | 7 | **IVIČNJAK** | **zaključano 31.08.2026** | **1.118** |
 
-**Ukupno: 27.469 reči u petnaest poglavlja.** Ostaje **jedno poglavlje — `Maska` (mesto 15)** —
-i dve male prepravke, u `Pukotini` (2) i `Krvi` (4). Sve u **`dokumenti/PLAN_RADA.md`**.
+**Ukupno: 27.469 reči u petnaest poglavlja.**
+
+**⚑ OSTAJE DVANAEST OD ČETRNAEST POTEZA — ne „`Maska` i dve male prepravke".**
+
+| gde | potezi | koliko |
+|---|---|---|
+| `Pukotina` (2) | 1, 2, 3 | **tri** |
+| `Krv` (4) | 4, 5 | **dva** |
+| `MASKA` (15) | 8–14 | **sedam** |
+
+*(Ispravljeno 31.08.2026, na autorovu primedbu. Raniji zapis je pet poteza u 2 i 4 sažeo
+u „dve male prepravke" — netačno i opasno, jer sažimanje spiska poslova je način na koji
+posao ispada iz njega.)*
+
+Puni opis svakog poteza: **`dokumenti/PLAN_RADA.md`**.
 
 > **`Ulazak` je 2.178, ne 2.181** — tri reči manje posle skidanja imena.
 
