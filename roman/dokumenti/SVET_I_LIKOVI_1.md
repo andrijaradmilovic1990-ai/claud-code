@@ -82,6 +82,14 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 
 ### JOVANA — ona koju je morao da ubije u sebi
 - Srce priče. Najčistija i najjača veza. Bila u onom životu, mirna nad krvlju (magacin, III). U tekstu bezimena; tag = **„ona pod šeširom"** (uveden u IV).
+- **⚑ IME PADA TAČNO JEDNOM — u `Kukavici` (14), i nigde drugde** *(odluka autora, 31.08.2026)*.
+  Do tog poglavlja je neimenovana **svuda**, uključujući `Beli grad` (13), gde je
+  najprisutnija u celoj knjizi. **U `Ćebencetu` (16) ime opet nema.** `Kukavica` je i
+  jedino poglavlje u kom pada ime **„David"** — dvaput, iz Natašinih i Andrijaninih usta.
+  **Pravilo koje to drži: u svakom poglavlju u kom je ona, ona je jedina žena bez imena** —
+  Andrijana i Nataša su imenovane svuda, Katarina nosi marker „moja", pa je svako
+  neimenovano „ona / joj / kod nje" ona. Puni zapis, osam izmena i dve zatvorene rupe:
+  `REGISTAR_ODLUKA.md`, **sekcija 15.**
 - **Asimetrija:** on nju kao mlađu sestru za koju bi dao život; ona njega kao sve odjednom (brat/ljubavnik/želja).
 - **„Day one" veza** — ne romantična u klasičnom smislu, nego nešto starije i teže. Onaj ko te zna pre nego što si postao iko.
 - **Zašto ne može u sadašnjost:** previše je blizu izvoru. Da je uvuče u sadašnjost, mora ili celu istinu ili laž. Katarini može da laže jer Katarina ne zna šta traži. Jovani ne može — videla bi odmah.
@@ -185,6 +193,7 @@ računa odavde.
 | ~16 | počinje da ide u Italiju | 19 |
 | **21** | **Krv** (magacin) · **Italija** (šesta godina dolazaka) · **Pariz** · pandur ga vozi kroz kapiju *(VI 125)* | **14** |
 | 21→23 | s Jovanom se voze još dve godine *(Krv 63)* | |
+| **22** | **IVIČNJAK** *(mesto 7)* — napad na nju na ulici, David ne staje, njen vrisak ga budi. **Ima svoju kapiju i dvorište** | **13** |
 | **23** | **Prelom** *(NOVO 3)* — sahrana Malog, dan pre · **Nestanak** — vraća se u rodni grad | **12** |
 | 23→24 | soba kod gazdarice *(V 89)* | |
 | **24** | doseljava se kod majke *(NOVO 4)* | 11 |

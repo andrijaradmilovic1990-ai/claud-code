@@ -126,7 +126,7 @@ Bilo je vetra. Pop je bio brz i to mu niko nije zamerio.
 
 Stajao sam u trećem redu, ne u prvom. U prvom su bili njeni i njegovi.
 
-S druge strane rake stajala je Jovana, u crnom koje nije njeno, i nijednom nije podigla pogled.
+S druge strane rake stajala je ona pod šeširom, u crnom koje nije njeno, i nijednom nije podigla pogled.
 
 Kad su spustili, i kad je prva lopata pala na dasku — onaj zvuk koji ne liči ni na šta drugo i koji čovek prepozna i ako ga nikad nije čuo — dvojica su počela da zatrpavaju, pa su im uzeli lopate iz ruku, pa su uzeli i tim drugima, i posao je išao brzo jer je bilo previše ruku za jednu raku.
 
@@ -260,7 +260,7 @@ Nataša je sedela preko puta i pričala nekom čoveka kog nije poznavala kako sm
 
 Nataša je slegnula ramenima i nastavila priču s onog mesta.
 
-Jovana je sedela dalje, u onom drugom redu stolova, s njegovima. Nije jela ni ona. Kad sam pogledao tamo, gledala je u mene, i nije skrenula, i nije klimnula glavom, i ja sam se vratio u tanjir.
+U onom drugom redu stolova, s njegovima, sedela je ona. Nije jela ni ona. Kad sam pogledao tamo, gledala je u mene, i nije skrenula, i nije klimnula glavom, i ja sam se vratio u tanjir.
 
 Ujak je ustao negde pred kraj, s čašom.
 

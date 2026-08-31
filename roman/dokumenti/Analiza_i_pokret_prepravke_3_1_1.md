@@ -2624,3 +2624,67 @@ pominje, `VI` ne pominje majku, i razmak čitalac nikad ne meri.
 
 **Jedno poglavlje: `NOVO 6 — Maska` (mesto 14, ~2.500 reči).** Posle njega: prolaz kroz
 šavove, pa **noir prolaz kroz ceo roman.**
+
+---
+
+## 31.08.2026 — `IVIČNJAK` NAPISAN + IME „JOVANA" SREĐENO U CELOJ KNJIZI
+
+### 1. `IVIČNJAK` (mesto 7) — napisan i zaključan
+
+**1.118 reči, sedam scena, Davidovih 22.** Potezi 6 i 7 iz `PLAN_RADA` plaćeni.
+Pisan posle čitanja svih četrnaest poglavlja u nizu i svih dokumenata celih, uz ulazni
+list po Pravilu H.
+
+**Odluka pred prvu rečenicu: godina 22, ne 23.** Na 23 su već `Prelom` i `Nestanak`, pa bi
+tri stvari pale u istu godinu i scena bi počela da liči na **uzrok** nestanka — a
+zaključano je da knjiga nikad ne kaže šta je prelilo čašu. Na 22 stoji sama, kao znak.
+
+**Dva nacrta.**
+
+- **Prvi, 1.416 reči.** Autorova ocena: *previše upisuješ, mora sirovije, više dijaloga.*
+  I druga zamerka: **scena na ivičnjaku ne ide do kraja** — referenca je Norton u
+  *Američkoj istoriji X*. David je došao do tog trenutka i **samo što nije pritisnuo.**
+- **Drugi, 1.118 reči — unet.** Skinuta tri poređenja, anafora „Znam da…" razbijena na
+  ravne rečenice, dodat dijalog kod izloga i u kolima, izbačen pasus o četiri pitanja.
+  Rečenica *„To ne znači da sam ja stao. To znači da je on prestao."* skraćena na
+  **„On je prestao. Ja nisam."** Ivičnjak izveden do kraja: vilica preko ivice, koleno na
+  leđa, dlan na potiljak, **podignuta noga**, presek scene — pa vrisak, pa
+  **„Spustio sam nogu pored njegove glave."**
+
+**Šta je u poglavlje ušlo a nije bilo traženo:** ona se **odmakne** kad joj pruži ruku ka
+jakni. Jedini put u knjizi da se odmakne od njega.
+
+### 2. Ime „Jovana" — nalaz i osam izmena
+
+**Nalaz je autorov, provera moja.** Sumnja je bila da su nova poglavlja pokvarila šemu.
+**Tačno.** Provereno u tekstu, svih petnaest fajlova:
+
+- **Devet starih poglavlja: ime pada tek u `Kukavici` (14).** Nigde ranije, ni u
+  `Belom gradu` (13) gde je cela bolnička scena njena.
+- **`Kukavica` je i jedino poglavlje u kom pada ime „David"** — dvaput. To je poglavlje u
+  kom ljudi imaju imena.
+- **Probili su je `Ulazak` (3), šest puta, i `Prelom` (8), dvaput.** `Ulazak` je najgori
+  jer stoji **tri poglavlja pre** zaveta u `Parizu` (*„Neću je imenovati ovde"*) — pa je
+  zavet ostajao bez oružja.
+
+**Razmotrena i odbačena alternativa:** da je narator ne imenuje a likovi je zovu naglas.
+Pada jer `Kukavica` ime nosi najviše u naraciji, pa bi se prepisivalo celo poglavlje — i
+jer ime koje se **čuje** nije isto što i ime koje knjiga prvi put **prizna.**
+
+**Osam izmena uneto**, sve poimenično u registru, sekcija 15.
+
+**Dve rupe koje je gola zamena napravila, i zbog kojih se ovo ne radi automatski:**
+u `Prelomu` bi „ona" pročitalo kao **majku Malog** (red pre glasi *„U prvom su bili njeni
+i njegovi"*), a u `Ulasku` bi bezlično „Nije odgovorila" i „Odnela je" pripalo
+**Andrijani**, koja govori tačno pre oba reda. Rešeno tagom na jednom mestu i izričitim
+„Ona" na druga dva.
+
+**Cena upisana:** razmak od zaveta do imena porastao je **sa četiri na osam poglavlja.**
+Nit ne puca jer je ona u kadru u 7, 9, 12 i 13; bez nje su samo `Majka` i `Fabrika`.
+
+### 3. Provera cele knjige — dva puta, alatom
+
+Ime 0 svuda osim `Kukavice` · „Beograd" 0 · „David" 2 samo u `Kukavici` · „Katarina" 2
+samo u `Belom gradu` · formula 3/3, nema četvrte · refren „telo" 5/5 u tačnim
+poglavljima · „porodica" 1 · „čudovište" 1 · tag „pod šeširom" 4 · svih petnaest fajlova
+završava tačkom bez preloma reda. **Zbir: 27.469 reči.**

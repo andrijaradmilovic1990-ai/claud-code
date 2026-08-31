@@ -134,7 +134,7 @@ Ni jedno ni drugo nije sačekalo odgovor. Oboje su ga dobili.
 
 ⁂
 
-Jovana je došla trećeg dana, kolima svog oca. Vozač je ostao unutra i nije ugasio motor.
+Došla je trećeg dana, kolima svog oca. Vozač je ostao unutra i nije ugasio motor.
 
 Stala je na vrata i pogledala unutra i nije ušla.
 
@@ -174,15 +174,15 @@ Zatvorila je vrata za mnom i nije ih zaključala, jer ključ nismo imali ni ja n
 
 „Aha. Ograda.“ Spustila je tanjir. „Hoćeš kod mene? Moja soba je veća.“
 
-„Nije veća“, rekla je Jovana.
+„Nije veća.“
 
 „Veća je za oko.“
 
 „Za oko.“
 
-„Za oko, da. Ti nemaš oko.“
+„Za oko, da. Ti nemaš oko“, rekla je Andrijana.
 
-Jovana nije odgovorila na to. Ustala je, otišla u hodnik, i vratila se s jastukom i ćebetom i spustila ih na kauč.
+Ona nije odgovorila na to. Ustala je, otišla u hodnik, i vratila se s jastukom i ćebetom i spustila ih na kauč.
 
 „Nisam rekao da ostajem.“
 
@@ -214,7 +214,7 @@ Sedele su jedna na fotelji, druga na naslonu fotelje, i pričale su o meni kao d
 
 „Nema veze koja.“ Vratila je viljušku. „Sad si zainteresovan.“
 
-Jovana je odnela tanjir pre nego što sam završio i vratila mi ga puniji.
+Ona mi je odnela tanjir pre nego što sam završio i vratila ga puniji.
 
 Kod Andrijane sam spavao na dušeku pored kuhinje, i njena majka bi ujutru stavljala hleb na sto i govorila:
 
@@ -268,7 +268,7 @@ Sutradan sam imao telefon.
 
 Išao sam peške.
 
-U subotu sam Jovani kupio patike jer su njene propuštale vodu.
+U subotu sam joj kupio patike jer su njene propuštale vodu.
 
 „Ne treba mi.“
 
@@ -440,7 +440,7 @@ Kad sam spustio kašiku, ustao je i uzeo kaput.
 
 Prešao sam pola grada peške, iako sam imao za taksi.
 
-Kod Jovane je u kuhinji gorelo svetlo i vrata su bila zatvorena. Iza njih je neko pomerio šolju po stolu.
+Kod nje je u kuhinji gorelo svetlo i vrata su bila zatvorena. Iza njih je neko pomerio šolju po stolu.
 
 Nisam ušao.
 
