@@ -1307,3 +1307,124 @@ Dva poglavlja su **jedna neprekinuta noć**, a `Maska` na mestu 15 je preseca.
 
 **Nijedan dokument to nije imao upisano.** **Ne rešava se u `Maski`** — ide u prolaz kroz
 šavove, i odluka je autorova. Tri moguća pravca stoje u `PLAN_RADA.md`, ZAKAZANO POSLE.
+
+---
+
+# 19 — `MASKA` NAPISANA, MESTO 14 · MAJKA ŽIVA · „DOBRO" ZAŠTIĆENO *(31.08.2026, treća sesija)*
+
+> **Ovom sekcijom je knjiga cela: šesnaest poglavlja, oko 30.000 reči.**
+> `PLAN_RADA.md` je time iscrpljen i više ne vodi posao.
+
+## 19.1 — `MASKA` STOJI NA MESTU 14, NE NA 15 *(odluka autora)*
+
+**Plan i mapa su je vodili na 15, između `Kukavice` i `Ćebenceta`. Tamo ne može.**
+
+`Kukavica` se završava time što mu Jovana zaspi na ramenu i *„Znao sam da je vreme."*
+`Ćebence` počinje sa *„Na naslonu sofe stajalo je ćebence... Uzeo sam ga."*
+**To je isti dah, razmak od dve sekunde.** Ta dva poglavlja su i pisana kao jedno pa
+razdvojena 23.08.2026. Sve što stane između njih nije prelaz nego **rez**.
+
+**Nova numeracija od 14. mesta:**
+
+| # | poglavlje |
+|---|---|
+| 13 | Beli grad |
+| **14** | **MASKA** |
+| **15** | **Kukavica** |
+| **16** | **Ćebence** |
+
+**Zašto je 14 bolje mesto, a ne samo moguće — povez radi na oba kraja:**
+
+- **Otpozadi:** `Beli grad` se završava time što on **mesec dana čeka** i ne ide nikud,
+  pa dobije poziv i kaže *„Doći ću."* `Maska` je poslednji dan tog čekanja.
+- **Napred:** `Maska` se završava time što **zatvori svoja ulazna vrata do kraja i brava
+  klikne.** Prva rečenica `Kukavice`: *„Otvorila je pre nego što sam stigao do vrata."*
+  **Zatvori jedna vrata, pa svejedno ode i druga se otvore pred njim.**
+
+**Nijedna rečenica ni u `Kukavici` ni u `Ćebencetu` nije dirana. Menjaju se samo brojevi.**
+
+## 19.2 — ŠTA JE `MASKA` *(2.301 reč, sedam scena)*
+
+> **Dan u kom ga stari svet dodirne rukavom, račun prema njoj ostane otvoren, on nema
+> čime da ga zatvori — i prvi put u životu za nju pita *smem li*.**
+
+**Svih šest preostalih poteza uneto:**
+
+| # | potez | kako je izveden |
+|---|---|---|
+| 9 | NEŽNI MONSTRUM | šibice, kašičica i čep na njenoj glavi dok broji pare; ona ih vraća ne gledajući |
+| 10 | MAST | teglica iz `Majke`, sek na kažiprstu iz `Ćebenceta` |
+| 11 | ZVONCE | oglašava se na **ULAZ**, jednom. U `Susretu` je zvonilo za starcem koji **izlazi** |
+| 12 | MIRIS DUVANA | tuđi kaput ostao na njegovom u uskom prolazu; bez halucinacije |
+| 13 | BESPOMOĆNOST | zakopani broj iz `Prazne stolice`; prvi put pita *smem li*, odgovor je **ne** |
+| 14 | VRATA | zatvori ulazna do kraja, brava klikne, ostane unutra u svetlu |
+
+**Poštovane sve četiri zabrane:** nema trilerske ivice i niko ne strada · ona ne sumnja i
+ne proverava · **David ne saznaje šta mu je Jovana** · nema četvrtog ogledala.
+**Nijedno ime ne pada u naraciji.**
+
+**Opasnost je izvedena bez glasnika.** Nema Andrijaninog poziva i niko ništa ne javlja —
+samo stranac koji uđe u kafić i **ne uradi ništa**, i račun koji je David sam upisao u
+`Praznoj stolici`: *„neko ko će je jednog dana pitati odakle joj taj doktor."*
+**Užas nije da se nešto desilo nego da on ne može da zna je li se desilo.**
+
+## 19.3 — ⚑ MAJKA JE ŽIVA *(odluka autora)*
+
+**Nalaz koji je ovo otvorio:** majčin luk se prekidao usred dijagnoze u `Fabrici` (11) —
+skener, nalaz na latinskom, *„nalaz za deset dana"* — i knjiga do kraja **nije rekla šta
+je s njom.** To nije bila diskrecija nego prekinut luk.
+
+**Zatvoreno u `Maski`, jednom rečenicom uz teglicu**, bez scene, bez imena i bez telefona:
+
+> *Živa je. To je sve što o tome imam da kažem i sve što sam ikad rekao naglas — živa je,
+> i gasi peć u hodniku kad neko gleda, a ne gasi je kad niko.*
+
+Predmet i gest su iz poglavlja `Majka` *(„Gasim je." / „Nije je gasila.")*.
+**Potez 8 ostaje pao** — majka i dalje nema scenu u sadašnjosti.
+
+## 19.4 — ⚑ ZAŠTIĆENO: JOVANINO „DOBRO" *(potvrdio autor)*
+
+Kad David u `Kukavici` odbije poljubac, ona kaže samo **„Dobro."**
+
+**To je namerno ista reč** koju je rekla u `Nestanku`, kad joj je Andrijana pokazala
+poruku: *„Pročitala je jednom, vratila mi telefon i rekla: dobro."*
+
+**Ista reč, dvanaest godina i sedam poglavlja razmaka. NE DIRA SE, NE OBJAŠNJAVA SE,
+NE POJAČAVA SE — ni u jednom narednom prolazu.**
+
+## 19.5 — ČETIRI ISPRAVKE IZ ČITANJA KNJIGE U NIZU
+
+| gde | šta | zašto |
+|---|---|---|
+| `Pukotina` 2 | **dodat prelaz posle „A ko si ti?"** | između njenog drugog pitanja i šale o godinama **nije stajalo ništa** — najteže pitanje u prva dva poglavlja padalo je u prazno. Poglavlje samo postavlja pravilo da skreću **oboje**; sad skreće **ona sama**, i to je nalaz o njoj |
+| `Pukotina` 2 | **skinut „Ruka mi je otišla u džep"** | motiv pada osam puta u knjizi; ovo je bila najslabija instanca |
+| `Fabrika` 11 | **skinuta „leđima uza zid"** u kafiću kod parka | u tom poglavlju motiv pada tri puta; treći je višak |
+| `Nestanak` 9 | **italijanska kuća dobila pasus** | šest godina, stolica u ćošku i žena od osamdeset dve nestajale su bez ijedne reči, a poglavlje nabraja šta je ostavljeno |
+
+## 19.6 — DVA NALAZA KOJA SU PALA — upisujem ih jer su bili moji i bili su pogrešni
+
+**„Šest žena je karakterisano istim gestom — nijedna ne pita."** **Netačno.**
+Andrijana pita stalno *(„A ko si ti?", „Šta si ti uradio")*, Nataša pita stalno, Katarina
+pita *(„Ko ti to piše po noći?")*. Ne pitaju stvarno samo **Anja** *(i sama to imenuje)* i
+**majka** *(to joj je karakter)* — i **Jovana, do `Kukavice`**, gde postavi **jedino pravo
+pitanje u knjizi.** **To nije šema nego postavka s naplatom.** Nalaz je nastao brojanjem
+narativnih sažetaka bez merenja dijaloga.
+
+**„Knjiga jedanaest poglavlja krije koliko je težak, pa sve kaže u `Praznoj stolici`."**
+**Netačno.** Lestvica postoji: `Ulazak` (ulazak) → `Krv` (vodi noć) → `Italija` (ekipa
+ustaje pre nego što progovori) → `Ivičnjak` (nasilje u kadru) → **`Prelom` (trojica mu
+prilaze iznad rake, jedan kaže „Samo jednu reč tvoju")** → `Prazna stolica` (pun domet).
+**`Prelom` je taj zubac za koji sam tvrdila da fali.**
+
+> **Pouka za svaki naredni prolaz, i ovo je treći put da ista greška izlazi:**
+> **nalaz izveden iz narativnog sažetka nije nalaz dok se ne proveri u dijalogu.**
+> *(Prvi put: „dva različita odgovora zašto odlazi" — sekcija 18. Drugi put: „Katarina je
+> alibi" — sekcija 18.)*
+
+## 19.7 — OSTAJE OTVORENO: `ULAZAK` NA MESTO 2?
+
+**Nalaz stoji, posao ne.** Poglavlja 1 i 2 su **istog oblika** — njegov sto, neko sedne
+preko puta, on ne kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na otvaranju.
+
+**Predlog:** `Ulazak` na 2, `Pukotina` na 3. Košta **nula reči**.
+**Čeka „da" ili „ne" od autora. Ne raditi bez toga.**

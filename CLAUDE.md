@@ -63,10 +63,21 @@ Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 netaknuto i u istom redosledu, nova se umeću između njih.
 **Na 30.08.2026. napisano je četrnaest poglavlja — 26.351 reč.**
 
-**⚑ STANJE NA 31.08.2026: napisano je PETNAEST poglavlja, 27.758 reči.** Napisan je
-`IVIČNJAK` (7), a `Pukotina` (2) i `Krv` (4) su prepravljene. **Ostaje jedno poglavlje —
-`MASKA`, mesto 15 — i šest poteza (9–14), svi u njoj.** Puna tabela svih šesnaest mesta, s
-imenima fajlova i tačnim brojevima, stoji u **`roman/NASTAVAK.md`**.
+**⚑ STANJE NA 31.08.2026, TREĆA SESIJA: KNJIGA JE CELA — ŠESNAEST POGLAVLJA, oko 30.000
+reči.** `MASKA` je napisana (2.301 reč) i **stoji na MESTU 14, ispred `Kukavice`** — ne na
+15, kako je plan vodio. **Nema više nenapisanih poglavlja i nema otvorenih poteza; svih
+četrnaest je zatvoreno.**
+
+**Novi redosled od 13. mesta: `Beli grad` 13 · `MASKA` 14 · `Kukavica` 15 · `Ćebence` 16.**
+Stariji zapisi koji kažu „Maska, mesto 15" misle na **mesto 14**. Razlog pomeranja i pun
+opis: `REGISTAR_ODLUKA.md`, **sekcija 19**.
+
+**Jedino otvoreno pitanje u celom repou:** ide li `Ulazak` na mesto 2. Stoji u
+`NASTAVAK.md` i **ne radi se bez autorovog „da".**
+
+*(Istorija: na 31.08.2026, druga sesija, bilo je petnaest poglavlja i 27.758 reči —
+napisan `IVIČNJAK` (7), prepravljene `Pukotina` (2) i `Krv` (4).)* Puna tabela svih
+šesnaest mesta stoji u **`roman/NASTAVAK.md`**.
 
 > **⚑ DRUGA SESIJA 31.08.2026 — `MASKA` JE NAPISANA I BAČENA.** Pisana je po **potezu 8**
 > *(majka u sadašnjosti, telefon zvoni kod nje)*, a taj potez je istog dana **pao** — autor:
@@ -85,12 +96,12 @@ Stariji zapisi koji kažu „Maska, mesto 14" misle na **mesto 15**. Mapa je i d
 tačna u svemu osim u numeraciji i broju poglavlja.
 
 **Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_RADA.md`** —
-**četrnaest poteza, od kojih je osam zatvoreno**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
+**četrnaest poteza — svi zatvoreni, plan iscrpljen**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
 se odozgo. **Ne planirati mimo njega.**
 
-**Stanje na 31.08.2026:** `Ivičnjak` (7) je napisan, `Pukotina` (2) i `Krv` (4) su
-prepravljene. **Ostaje samo `Maska` (15)** i **šest poteza (9–14)**; potez 8 je pao istog
-dana. Cilj oko **30.500 reči**.
+**Stanje na 31.08.2026, treća sesija:** **sve je napisano.** `Ivičnjak` (7), `Maska` (14),
+prepravljene `Pukotina` (2) i `Krv` (4). **Potezi 9–14 su uneti u `Masku`; potez 8 je pao.**
+`PLAN_RADA.md` je time **iscrpljen** i ostao je kao zapis, ne kao spisak posla.
 
 Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
 je **iscrpljen** i zamenjen je `PLAN_RADA.md`.
