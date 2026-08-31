@@ -486,7 +486,7 @@ uskladiti. **Odgovor: ne, i to nije opreznost nego nalaz.**
 
 # 9 — NOVA KNJIGA: ULAZAK *(zaključano 29.08.2026)*
 
-**`NOVO 1 — Ulazak` je napisan i zaključan.** 2.181 reči. Sve odluke ispod su autorove
+**`NOVO 1 — Ulazak` je napisan i zaključan.** 2.180 reči *(bilo 2.181 do 31.08.2026, kad je skinuto ime)*. Sve odluke ispod su autorove
 i **ne predlažu se za izmenu.**
 
 ### Forma
@@ -550,7 +550,7 @@ ekipa dolaze kroz njega. **Nijedno slovo `Italije` nije promenjeno.**
 
 # 10 — NOVA KNJIGA: PRELOM *(zaključano 29.08.2026)*
 
-**`NOVO 3 — Prelom` je napisan i zaključan.** 1.791 reč. Sve odluke ispod su autorove
+**`NOVO 3 — Prelom` je napisan i zaključan.** 1.792 reči *(bilo 1.791 do 31.08.2026, kad je skinuto ime)*. Sve odluke ispod su autorove
 i **ne predlažu se za izmenu.**
 
 ### Šta je Prelom

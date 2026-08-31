@@ -26,47 +26,45 @@ netaknuto i u istom redosledu; nova se umeću između njih.
 Autor je tog dana **otvorio sva poglavlja** za preostali posao, i u knjigu je umetnuto
 novo — **`IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`.
 
-**Napisano: 26.351 reč u četrnaest poglavlja. Cilj oko 31.500.**
+**Napisano: 27.762 reči u petnaest poglavlja. Ostaje jedno — `MASKA`. Cilj oko 31.500.**
 
 **Ostaje:**
 
 | | šta | gde |
 |---|---|---|
-| **piše se** | **`IVIČNJAK`** *(~2.000 reči)* | novo, mesto **7** |
-| **piše se** | **`MASKA`** *(~2.800 reči)* | novo, mesto **15** |
-| **prepravka** | tri poteza | `Pukotina` **(2)** |
-| **prepravka** | dva poteza | `Krv` **(4)** |
+| **piše se** | **`MASKA`** *(~2.800 reči)* — sedam poteza | novo, mesto **15** |
 
-**Ceo posao — četrnaest poteza s tačnim mestima — stoji u `dokumenti/PLAN_RADA.md`.**
-Otvara se odmah posle `NASTAVAK.md`.
+**Sedam od četrnaest poteza je plaćeno** *(31.08.2026)*: `Pukotina` tri, `Krv` dva,
+`Ivičnjak` dva. **Ceo preostali posao stoji u `dokumenti/PLAN_RADA.md`**, i otvara se
+odmah posle `NASTAVAK.md`.
 
 > **Numeracija se pomerila.** Sve od `Preloma` nadalje ima broj veći za jedan nego u
 > `dokumenti/NOVA_KNJIGA_MAPA.md`, koja i dalje vodi petnaest. Mapa je tačna u svemu
 > osim u numeraciji.
 
+## Svih šesnaest mesta, redom kojim se čita
+
+**Imena fajlova ne prate mesta u knjizi** — stari nose rimske brojeve, novi nose `NOVO_`.
+**Redosled je ovaj, ne po imenu fajla.**
+
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
-| I | `POGLAVLJE_1_SUSRET.md` | Susret | 797 |
-| II | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.574 |
-| III | `POGLAVLJE_3_KRV.md` | Krv | 1.135 |
-| IV | `POGLAVLJE_4_PARIZ.md` | Pariz | 1.973 |
-| V | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.289 |
-| VI | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.405 |
-| VII | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.150 |
-| VIII | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.635 |
-| IX | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.571 |
-
-**Nova poglavlja** *(mesta po novoj numeraciji od šesnaest)*:
-
-| mesto | Fajl | Naslov | reči | stanje |
-|---|------|--------|------|--------|
-| 3 | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.181 | zaključano |
-| 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 | zaključano |
-| **7** | *(nije napisano)* | **Ivičnjak** | — | **predstoji — prvo** |
-| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.791 | zaključano |
-| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 | zaključano |
-| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 | zaključano |
-| **15** | *(nije napisano)* | **Maska** | — | **predstoji — poslednje** |
+| 1 | `POGLAVLJE_1_SUSRET.md` | Susret | 797 |
+| 2 | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.699 |
+| 3 | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.180 |
+| 4 | `POGLAVLJE_3_KRV.md` | Krv | 1.303 |
+| 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 |
+| 6 | `POGLAVLJE_4_PARIZ.md` | Pariz | 1.973 |
+| **7** | `POGLAVLJE_NOVO_IVICNJAK.md` | **Ivičnjak** | **1.118** |
+| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.792 |
+| 9 | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.289 |
+| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 |
+| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 |
+| 12 | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.405 |
+| 13 | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.150 |
+| 14 | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.635 |
+| **15** | *(nije napisano)* | **Maska** | **predstoji** |
+| 16 | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.571 |
 
 **23.08.2026.** je stari VII (5.896 reči, 38% knjige) podeljen na **VII — Beli grad**
 i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**. Zapisi stariji

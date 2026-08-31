@@ -404,8 +404,8 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 | # | Poglavlje | reči | vreme |
 |---|-----------|------|-------|
 | I | Susret | 797 | sadašnjost |
-| II | Pukotina | 1.574 | prošlost (~godinu i po pre I) |
-| III | Krv | 1.135 | sadašnjost → zaron |
+| II | Pukotina | **1.699** | prošlost — **33, pre nesreće** |
+| III | Krv | **1.303** | sadašnjost → zaron |
 | IV | Pariz | 1.973 | sadašnjost (veče + jutro) → zaron |
 | V | Nestanak | 1.289 | sadašnjost → zaron |
 | VI | Prazna stolica | 1.405 | **prošlost** (~2 godine pre I) → zaron |
@@ -413,7 +413,12 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 | VIII | Kukavica | 3.635 | jedna noć, ~godinu pre I |
 | IX | Ćebence | 1.571 | ista noć → skok u sadašnjost |
 
-**Ukupno 15.529 reči.** *(Ispravljeno 30.08.2026 po Pravilu E: V ima 1.289, ne 1.278.)*
+**Ukupno u devet starih: 15.822 reči** *(bilo 15.529 do 31.08.2026, kad su `Pukotina` i
+`Krv` prepravljene)*.
+
+> **⚑ OVA TABELA OPISUJE SAMO DEVET STARIH POGLAVLJA — prvu knjigu.** Nova knjiga ima
+> **šesnaest mesta i 27.762 napisane reči.** Puna tabela svih šesnaest, s imenima fajlova,
+> stoji u **`NASTAVAK.md`** i to je jedino mesto s tačnim brojevima.
 
 ---
 

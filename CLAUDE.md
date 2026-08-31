@@ -59,6 +59,11 @@ Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 netaknuto i u istom redosledu, nova se umeću između njih.
 **Na 30.08.2026. napisano je četrnaest poglavlja — 26.351 reč.**
 
+**⚑ STANJE NA 31.08.2026: napisano je PETNAEST poglavlja, 27.762 reči.** Napisan je
+`IVIČNJAK` (7), a `Pukotina` (2) i `Krv` (4) su prepravljene. **Ostaje jedno poglavlje —
+`MASKA`, mesto 15 — i sedam poteza, svi u njoj.** Puna tabela svih šesnaest mesta, s
+imenima fajlova i tačnim brojevima, stoji u **`roman/NASTAVAK.md`**.
+
 ## ⚑ KNJIGA IMA ŠESNAEST POGLAVLJA *(odluka autora, 30.08.2026)*
 
 **Mapa je do tog dana vodila petnaest.** Tog dana je autor **otvorio sva poglavlja** za
