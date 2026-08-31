@@ -18,6 +18,28 @@ Mali drži, ali mu se ruke tresu, i čovek na podu klizi, krv ide svuda, po plo�
 
 Trebalo je da bude ništa. Utovar, istovar, dva sata posla. Takvih noći sam imao stotinu i sve su bile dosadne, a dosadno je u tom poslu najlepša reč koja postoji. Mali me pokupio u dva — klinac, sedamnaest-osamnaest godina, nečiji sestrić, primljen jer je neko garantovao za njega. Vozio je dobro i ćutao loše: pričao je kad je nervozan, a nervozan je bio uvek. Celim putem mi je pričao o nekom motoru koji će da kupi na leto. Pola grada je prošlo kroz to brbljanje — mrtve ulice, žute lampe, pas koji je pretrčao kod stare pekare. Sećam se psa. Smešno je čega se čovek seća.
 
+Na pola puta je stao kod one pumpe što radi celu noć i vratio se s dve kafe u plastičnim čašama.
+
+„Šta je ovo.“
+
+„Kafa.“
+
+„Vidim da je kafa.“
+
+„Pa uzmi.“ Držao ju je pruženu dok je nisam uzeo. „Nema mleko. Ne znam kako pijete.“
+
+Izvadio sam pare. Odmahnuo je glavom, seo za volan i upalio, i nije mi dao da mu ih gurnem ni kad sam pokušao drugi put.
+
+„Sledeći put vi“, rekao je.
+
+Kafa je bila loša i pio sam je celu.
+
+„Vozi polako.“
+
+„Ja vozim polako.“
+
+„Vozi polako“, rekao sam.
+
 Ne znam ni danas tačno kako je puklo. Neko je rekao pogrešnu cifru, neko je razumeo pogrešnu reč, neko je dugovao nekom trećem koga niko od nas nikad nije video. U tom svetu stvari ne pucaju zbog velikih razloga. Puknu zbog cifre, zbog tona, zbog pogleda koji traje sekund duže nego što sme. I onda je čovek na podu, i neonka trepće, i ono što je do maločas bilo dosadan posao sad klizi Malom kroz prste.
 
 Onda je ona ušla.
@@ -81,6 +103,24 @@ Ona. Moja. Na vratima kuhinje, pokazuje glavom na šerpu gde se meso uhvatilo za
 „I bude savršeno.“
 
 „Bude previše, pa ja kažem savršeno.“ Nasmejala se, uštinula me za bok, i to me je vratilo skroz — taj uštip, ta sitnica, ta glupost koja nema veze ni sa krvlju ni sa magacinima ni sa devojkom koja se nije plašila. Ovde se niko ne plaši i nema čega. Ovde je najveća opasnost da prekuvam špagete.
+
+„Probaj“, rekao sam, i pružio kašiku.
+
+Nagnula se, i ja sam je povukao pola centimetra pre nego što je stigla.
+
+„Nemoj.“
+
+Pružio sam opet.
+
+„Nemoj, kažem.“
+
+Treći put sam je držao mirno i pustio je da proba, i dok je zatvarala oči da oceni, prevukao sam joj prstom preko nosa i ostavio trag.
+
+Stajala je s tim na nosu i pravila se da ne zna.
+
+„Ostavi ga tu“, rekao sam.
+
+„Ostaviću ga ceo dan. Videćeš.“
 
 Kad se okrenula ka ormanu, sipao sam još vina u šerpu. Nije trebalo. Sipao sam iz inata.
 

@@ -2753,3 +2753,22 @@ jedno od glavnih oružja knjige (Pravilo M je time formalno ispoštovano, a suš
 **Upisano kao Pravilo R** u `FINALNI_PROLAZ_PRAVILA.md` i kao izuzetak u `CLAUDE.md`:
 **lektorski prolaz ide obrnutim redom — tekst prvo, go, pa registar.** Rad na poglavlju i
 traženje nesuglasica se **nikad ne rade u istom prolazu.**
+
+### 7. Potezi 1–5 uneti — `Pukotina` i `Krv` *(31.08.2026)*
+
+**Sedam od četrnaest poteza plaćeno; ostaje sedam, svi u `Maski`.**
+`Pukotina` 1.574 → **1.699**. `Krv` 1.135 → **1.303**. Zbir knjige **27.762**.
+
+Sve odluke i sve zabrane: `REGISTAR_ODLUKA.md`, **sekcija 17.**
+
+**Dve stvari koje su se promenile u toku rada, obe upisane s razlogom:**
+
+1. **„A ko si ti?" je premešteno.** Prvo mesto (odmah posle *„Nije se izvinila drugi
+   put."*) je palo jer odmah iza njega stoji *„Bilo je lako."* — najteža razmena u
+   poglavlju bila bi potrta rečenicom koja kaže da je sve išlo lako. Uneto **posle
+   njenog skretanja**, čime poglavlje dobija dva prilaza liniji s dva ishoda.
+2. **Izbačena druga konobarova upadica.** Dva skretanja kroz konobara u istoj sceni su
+   tik; posle njenog pitanja bolje radi tišina.
+
+**Provera posle unosa:** ime „Jovana" 0 svuda osim `Kukavice` · „Beograd" 0 · „porodica" 1 ·
+formula 3/3 · refren 5/5 · svih petnaest fajlova bez preloma reda.

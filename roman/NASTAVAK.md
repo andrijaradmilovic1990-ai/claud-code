@@ -56,8 +56,8 @@ Brojevi ispod su stanje **posle koraka 4.**
 | # | Poglavlje | Stanje | reči |
 |---|-----------|--------|------|
 | I | Susret | zaključano — nedirano u koraku 4 | 797 |
-| II | Pukotina | zaključano *(korak 4: 1 prepis)* | 1.574 |
-| III | Krv | zaključano *(korak 4: 1 dopuna na kraju)* | 1.135 |
+| II | Pukotina | **prepravljena 31.08.2026 — potezi 1, 2, 3** | **1.699** |
+| III | Krv | **prepravljena 31.08.2026 — potezi 4, 5** | **1.303** |
 | IV | Pariz | zaključano *(korak 4: **nova scena** na početku)* | 1.973 |
 | V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis; 28.08. otvoren za rodni grad, 1 prepis)* | 1.289 |
 | VI | Prazna stolica | zaključano *(korak 4: 3 prepisa)* | 1.405 |
@@ -77,15 +77,19 @@ Brojevi ispod su stanje **posle koraka 4.**
 
 | 7 | **IVIČNJAK** | **zaključano 31.08.2026** | **1.118** |
 
-**Ukupno: 27.469 reči u petnaest poglavlja.**
+**Ukupno: 27.762 reči u petnaest poglavlja.**
 
-**⚑ OSTAJE DVANAEST OD ČETRNAEST POTEZA — ne „`Maska` i dve male prepravke".**
+**⚑ OSTAJE SEDAM OD ČETRNAEST POTEZA — svi u `Maski`.**
 
-| gde | potezi | koliko |
+| gde | potezi | stanje |
 |---|---|---|
-| `Pukotina` (2) | 1, 2, 3 | **tri** |
-| `Krv` (4) | 4, 5 | **dva** |
-| `MASKA` (15) | 8–14 | **sedam** |
+| ~~`Pukotina` (2)~~ | ~~1, 2, 3~~ | **urađeno 31.08.2026** |
+| ~~`Krv` (4)~~ | ~~4, 5~~ | **urađeno 31.08.2026** |
+| ~~`IVIČNJAK` (7)~~ | ~~6, 7~~ | **napisan 31.08.2026** |
+| **`MASKA` (15)** | **8–14** | **ostaje — sedam** |
+
+**Posle `Maske` slede dva velika prolaza koja diraju skoro sve:** prolaz kroz devet
+šavova, pa **NOIR PROLAZ kroz ceo roman.** Oba su u `PLAN_RADA.md`.
 
 *(Ispravljeno 31.08.2026, na autorovu primedbu. Raniji zapis je pet poteza u 2 i 4 sažeo
 u „dve male prepravke" — netačno i opasno, jer sažimanje spiska poslova je način na koji

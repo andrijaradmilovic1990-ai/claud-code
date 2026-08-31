@@ -1101,3 +1101,87 @@ dno za *„Mera za meru"* (`12`) · dno za *„Kukavica"* (`14`).
 **„Zamalo pita pa odustane"** — ta figura pripada **majci Malog u `Prelomu`** i
 `Ivičnjak` je **svesno ne koristi**, iako stoji tačno pre njega. Ona ne prilazi pitanju
 uopšte. **Ne dopisivati joj načeto pitanje.**
+
+
+---
+
+# 17 — POTEZI 1–5: `PUKOTINA` I `KRV` *(uneto 31.08.2026)*
+
+**Sedam od četrnaest poteza je time plaćeno.** Ostaje sedam, svi u `Maski`.
+`Pukotina` **1.574 → 1.699**, `Krv` **1.135 → 1.303**.
+
+## `Pukotina` (2) — tri poteza
+
+### Potez 1 — majka u sadašnjosti
+
+**Gde:** usred Andrijanine svađe s njenom majkom preko telefona, jer je to jedino mesto
+u knjizi gde bi neko prirodno pitao za njegovu.
+
+> „A tvoja?" / „Šta moja." / „Petnaest minuta odavde ti je." / „Znam gde mi je." /
+> „Nisam pitala gde ti je." / **Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.**
+
+**Ne dirati:** David **ne odgovara i ne laže — skrene kroz konobara.** To je ceo potez.
+**Ne dodavati mu odgovor** i ne praviti od majke temu. Time je postavljena za `Masku`.
+
+### Potez 2 — PRVI ODRAZ *(dopuna, ne prepis)*
+
+Rečenica o ogledalu ostala je **nedirnuta**; dopisane su dve iza nje:
+
+> **Sijalica je bila iznad ogledala i malo iza, pa mi je jedna polovina lica bila tamnija
+> od druge. Pomerio sam glavu dok obe nisu bile iste.**
+
+**Ovde on to još može da namesti.** U `Ivičnjaku` (7) staklo mu svaki put vrati isto ma
+kako se pomerao; u `Ćebencetu` (16) stoji *„Isti čovek."* **Senka se ne imenuje i iz nje
+se ne izvodi zaključak. Tri mesta i nijedno više.**
+
+### Potez 3 — „A KO SI TI?"
+
+**Mesto je promenjeno u toku rada, i razlog se upisuje.** Prvo je bilo odmah posle
+*„Nije se izvinila drugi put."* — **palo**, jer je odmah iza toga red *„Bilo je lako."*,
+pa je najteža razmena u poglavlju bila potrta rečenicom koja kaže da je sve išlo lako.
+
+**Uneto posle *„Star sam, to je sve."*** — dakle **posle** njenog skretanja s pitanja o
+prošlosti. Time poglavlje ima **dva prilaza liniji s dva ishoda**, kako plan i traži:
+kad pita **zašto je otišao** — ona ustukne; kad pita **ko je** — on priđe ivici.
+
+**Zašto baš tu radi:** poglavlje je petnaest redova ranije samo opisalo mehanizam —
+*„skrenemo, oboje, u isto vreme, i sledeći minut se smejemo nečemu što nije smešno."*
+Njeno pitanje ostaje neodgovoreno, a odmah zatim ona sama zbija šalu *„Nisi star. Star
+si ti meni."* **To je taj mehanizam izveden, a ne opisan. Ne razdvajati ta dva mesta.**
+
+**Skinuto pri unosu:** druga konobarova upadica posle njenog pitanja. **Dva skretanja
+kroz konobara u istoj sceni su tik** — prvo ostaje (potez 1), drugo je izbačeno i tišina
+radi bolje.
+
+**Ne dirati:** replika ostaje **u opštem** („loše stvari"), nikad u konkretnom; zvuči kao
+**izbegavanje, ne ispovest**; **poslednja reč je njena i ostaje bez odgovora.**
+
+## `Krv` (4) — dva poteza
+
+### Potez 4 — MALI
+
+**Kafa s pumpe koja radi celu noć**, gurnuta Davidu u ruku, i **odbijene pare** — dvaput.
+*„Sledeći put vi."* Pa: **„Vozi polako." / „Ja vozim polako." / „Vozi polako", rekao sam.**
+
+**Ovo je najvažnija prepravka u knjizi i evo zašto radi:** u `Prelomu` (8) njegova majka
+kaže Davidu *„Kaže: on je meni rekao da vozim polako. Meni nikad nije rekao, a vama je
+verovao."* — **do sada je to bila lepa rečenica bez korena. Sada je isplata.**
+
+**Ne dirati:** potez ide **pored motora, ne umesto njega** — motor ostaje poslednja stvar
+koju čitalac o njemu pamti. **Mali persira** (*„Ne znam kako pijete"*, *„Sledeći put vi"*),
+kao i njegova majka u `Prelomu`. **Ne dodavati mu još jedan topao potez** — jedan je
+gubitak, dva su priprema za gubitak.
+
+### Potez 5 — NEŽNI MONSTRUM
+
+Kašika pružena pa povučena, dvaput; treći put je pusti da proba i **prevuče joj prstom
+preko nosa i ostavi trag**. *„Ostavi ga tu." / „Ostaviću ga ceo dan. Videćeš."*
+
+**Ide odmah posle njenog uštipa**, tako da razmena postane uzajamna — dotad je maženje
+u knjizi išlo **sedam prema dva** u njenu korist. **Ovo je prvi Davidov potez te vrste.**
+
+**Ne dirati:** ništa se ne imenuje, reč „čudovište" pada samo u poglavlju 1, i **kraj
+poglavlja ostaje nedirnut** — *„Vrata su bila zatvorena. Gledao sam ih dok smo jeli."*
+
+**Svesno izbegnuto:** poređenje s detetom. `Krv` već ima *„kao što se briše nešto sa
+deteta"* — i to je **Jovanin** red, na semaforu. **Ne ponavljati tu reč u Katarininoj sceni.**
