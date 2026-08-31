@@ -16,6 +16,18 @@ svi predlozi i sve izmene idu na srpskom.
 
 Bez ta tri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
 
+> **⚑ IZUZETAK — LEKTORSKI PROLAZ IDE OBRNUTO** *(Pravilo R, 31.08.2026)*.
+> **Kad je posao „pročitaj knjigu i nađi šta ne valja", tekst se čita PRVI, go, bez
+> ijednog dokumenta**, i uz njega se pravi spisak iz samog teksta: ko je ko, kako ga
+> tekst zove na kom mestu, gde se ko prvi put imenuje. **Tek onda se otvara registar i
+> spiskovi se porede — svaka razlika je nalaz.**
+>
+> *Zašto:* redosled iznad štiti knjigu od ponovnog otvaranja zatvorenog, ali **oslepljuje
+> za nesuglasice** — ko pročita registar pre teksta, taj rupu popuni pre nego što je
+> vidi. Tako je 31.08.2026. promašeno da `Ulazak` imenuje Jovanu tri poglavlja pre
+> zaveta da je neće imenovati. **Dva posla se nikad ne rade u istom prolazu.**
+> Puni zapis: `FINALNI_PROLAZ_PRAVILA.md`, Pravilo R.
+
 Zatim, po potrebi:
 
 | Fajl | Kad ga otvaraš |
