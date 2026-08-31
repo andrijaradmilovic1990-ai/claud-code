@@ -106,6 +106,8 @@ Bezbedan sam. Ne tražite.
 
 Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još malo — čovek koji je svom starom životu upravo rekao jedinu rečenicu koju će mu ikad reći.
 
+Preko granice je ostala kuhinja u kojoj je stolica u ćošku bila moja i deca se na nju nisu penjala, i žena od osamdeset dve koja je sredom spremala čiste stvari za slučaj da dođem u petak. Njima nisam poslao ni te tri reči.
+
 ⁂
 
 Kako su je primile, saznao sam tek godinama kasnije, na kapaljku, za onim našim stolom. Andrijana jedina ume da priča o tome kao o vremenskoj prognozi, bez optužbe u glasu.
