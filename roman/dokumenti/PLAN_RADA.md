@@ -14,7 +14,7 @@
 
 ## STANJE NA 31.08.2026
 
-- Napisano **petnaest poglavlja, 27.762 reči** *(izmereno `wc -w` po fajlu)*.
+- Napisano **petnaest poglavlja, 27.758 reči** *(izmereno `wc -w` po fajlu)*.
 - **Ostaje jedno poglavlje: `MASKA` (mesto 15)** i **sedam poteza — svi u njoj.**
 - **Sedam poteza plaćeno 31.08.2026:** `Pukotina` tri, `Krv` dva, `Ivičnjak` dva.
 - **Knjiga ima ŠESNAEST poglavlja.**
@@ -67,7 +67,7 @@ poslovima A–D.
 | # | poglavlje | stanje | reči |
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
-| **2** | **Pukotina** | **PREPRAVLJENA 31.08.2026** | **1.699** |
+| **2** | **Pukotina** | **PREPRAVLJENA 31.08.2026** | **1.695** |
 | 3 | Ulazak | **otvoren 31.08. samo za ime** *(registar 15)* | 2.180 |
 | **4** | **Krv** | **PREPRAVLJENA 31.08.2026** | **1.303** |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
@@ -83,7 +83,7 @@ poslovima A–D.
 | **15** | **MASKA** | **PIŠE SE — posao E** | ~2.800 |
 | 16 | Ćebence | zaključano, **ne dira se** | 1.571 |
 
-**Napisano 27.762 reči. S `Maskom` oko 30.500.**
+**Napisano 27.758 reči. S `Maskom` oko 30.500.**
 
 > **Numeracija se pomerila.** Sve od `Preloma` nadalje ima **broj veći za jedan** nego u
 > `NOVA_KNJIGA_MAPA.md`. Stariji zapisi koji kažu „mesto 14 — Maska" misle na **mesto 15**.

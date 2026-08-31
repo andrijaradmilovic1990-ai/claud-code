@@ -114,11 +114,11 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Šta moja.“
 
-„Petnaest minuta odavde ti je.“
+„Ti spavaš u njenoj kući.“
 
-„Znam gde mi je.“
+„Spavam.“
 
-„Nisam pitala gde ti je.“
+„Nisam pitala gde spavaš.“
 
 Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
 

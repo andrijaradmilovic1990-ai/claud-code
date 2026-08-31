@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **31.08.2026.** *(**`IVIČNJAK` JE NAPISAN.** Petnaest napisanih poglavlja, 27.762 reči. Ostaje **`Maska`** i dve male prepravke. Uz to: **ime „Jovana" pada samo u `Kukavici`** — vidi niže.)*
+> Poslednje ažuriranje: **31.08.2026.** *(**`IVIČNJAK` JE NAPISAN.** Petnaest napisanih poglavlja, 27.758 reči. Ostaje **`Maska`** i dve male prepravke. Uz to: **ime „Jovana" pada samo u `Kukavici`** — vidi niže.)*
 
 ---
 
@@ -56,7 +56,7 @@ Brojevi su izmereni `wc -w` po fajlu, 31.08.2026.
 | # | poglavlje | fajl | reči | stanje |
 |---|---|---|---|---|
 | 1 | Susret | `POGLAVLJE_1_SUSRET.md` | 797 | zaključano |
-| **2** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | **1.699** | **prepravljena 31.08. — potezi 1, 2, 3** |
+| **2** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | **1.695** | **prepravljena 31.08. — potezi 1, 2, 3; potez 1 ispravljen isti dan** |
 | 3 | Ulazak | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.180** | zaključano *(31.08. skinuto ime)* |
 | **4** | **Krv** | `POGLAVLJE_3_KRV.md` | **1.303** | **prepravljena 31.08. — potezi 4, 5** |
 | 5 | Italija | `POGLAVLJE_NOVO_2_ITALIJA.md` | 3.368 | zaključano |
@@ -72,7 +72,7 @@ Brojevi su izmereni `wc -w` po fajlu, 31.08.2026.
 | **15** | **MASKA** | — | **~2.800** | **PIŠE SE — jedino što ostaje** |
 | 16 | Ćebence | `POGLAVLJE_9_CEBENCE.md` | 1.571 | zaključano |
 
-**ZBIR NAPISANOG: 27.762 reči. S `Maskom` oko 30.500. Cilj je bio oko 31.500.**
+**ZBIR NAPISANOG: 27.758 reči. S `Maskom` oko 30.500. Cilj je bio oko 31.500.**
 
 > **Imena fajlova ne prate mesta u knjizi** — stari fajlovi nose stare rimske brojeve,
 > novi nose `NOVO_`. **Redosled čitanja je onaj iz tabele, ne po imenu fajla.**
@@ -462,7 +462,7 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
   daje **veći** broj na istom fajlu (Susret: 797 naspram 805) jer drugačije lomi reči oko
   navodnika i crta. **Svi brojevi u knjizi su u prvom standardu.** *(Zatečeno 29.08.2026
   — jedan prolaz je izmešao dva merenja i dobio pogrešan zbir.)*
-- **Zbir svih petnaest napisanih poglavlja je 27.762** *(31.08.2026, izmereno `wc -w` po
+- **Zbir svih petnaest napisanih poglavlja je 27.758** *(31.08.2026, izmereno `wc -w` po
   fajlu)*. Zbir devet starih je **15.822**. *(Do 31.08. je bilo 26.351 u četrnaest, i
   15.529 u devet — pre nego što su `Pukotina` i `Krv` prepravljene, i pre `Ivičnjaka`.)*
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
@@ -509,7 +509,7 @@ PA PODNESI ULAZNI LIST (Pravilo H, sedam stavki) i cekaj da kazem da.
 
 -- STANJE --
 
-SESNAEST poglavlja. Napisano PETNAEST, 27.762 reci. Ostaje MASKA (15).
+SESNAEST poglavlja. Napisano PETNAEST, 27.758 reci. Ostaje MASKA (15).
 Puna tabela s brojevima i imenima fajlova je gore u ovom fajlu.
 
 -- STA SE RADI --
