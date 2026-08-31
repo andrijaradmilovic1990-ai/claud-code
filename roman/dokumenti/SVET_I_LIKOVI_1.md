@@ -199,9 +199,26 @@ računa odavde.
 | **24** | doseljava se kod majke *(NOVO 4)* | 11 |
 | 27 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
 | **32** | fabrika — **veza s Katarinom počinje** *(NOVO 5)* · **majka oboli od raka**; ona ga vozi u Beli grad na skener, **Nataša na kafi kod parka** | **3** |
-| **33** | **Prazna stolica** — deset godina posle nestanka · **Jovanina nesreća** | 2 |
+| **33** | **Pukotina** *(pre nesreće)* · **Prazna stolica** — deset godina posle nestanka · **Jovanina nesreća** | 2 |
 | **34** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
-| **35** | **Susret · Pukotina · Ćebence** | danas |
+| **35** | **Susret · Ćebence** | danas |
+
+> **ISPRAVLJENO 31.08.2026 po Pravilu E.** Ova tabela je `Pukotinu` vodila na **35**, u
+> sadašnjosti — a **tekst kaže suprotno:** *„u stanu koji još nije moj"* (`2`, red 253),
+> dok se Katarina useljava tek sa **34**. Vremenski registar u istom fajlu je sve vreme
+> vodio ispravno (*„prošlost, pre nesreće, NE žive zajedno"*); tabela godina se s njim
+> kosila.
+>
+> **Druga potvrda, iz same knjige:** Andrijana u `Pukotini` **nijednom ne pominje
+> Jovaninu nesreću** — a to je najveći događaj njihovog kruga. Da poglavlje pada posle
+> nesreće, to ćutanje se ne bi dalo objasniti.
+>
+> **`Pukotina` pada na 33, pre nesreće.** Nijedna rečenica u knjizi nije promenjena.
+>
+> **Šta ovo usput dobija:** majka oboli sa Davidovih **32**, godinu dana pre `Pukotine` —
+> pa Andrijanino *„A tvoja? Petnaest minuta odavde ti je."* (potez 1, unet 31.08.2026)
+> pada **godinu dana posle njene bolesti**, a čitalac to sazna tek u `Fabrici`. Rečenica
+> se time naplaćuje unazad, bez ijedne dopune.
 
 **Provere koje se zatvaraju same:**
 
