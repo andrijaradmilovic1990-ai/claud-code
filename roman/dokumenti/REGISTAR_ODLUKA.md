@@ -1108,6 +1108,9 @@ uopšte. **Ne dopisivati joj načeto pitanje.**
 # 17 — POTEZI 1–5: `PUKOTINA` I `KRV` *(uneto 31.08.2026)*
 
 **Sedam od četrnaest poteza je time plaćeno.** Ostaje sedam, svi u `Maski`.
+
+> **⚑ ISPRAVLJENO ISTOG DANA, druga sesija:** od tih sedam je **potez 8 pao** *(odluka
+> autora)*. **Ostaje šest — 9 do 14.** Vidi **sekciju 18** i `POENTA_KNJIGE.md`.
 `Pukotina` **1.574 → 1.695**, `Krv` **1.135 → 1.303**.
 
 ## `Pukotina` (2) — tri poteza
@@ -1214,3 +1217,93 @@ poglavlja ostaje nedirnut** — *„Vrata su bila zatvorena. Gledao sam ih dok s
 
 **Svesno izbegnuto:** poređenje s detetom. `Krv` već ima *„kao što se briše nešto sa
 deteta"* — i to je **Jovanin** red, na semaforu. **Ne ponavljati tu reč u Katarininoj sceni.**
+
+
+---
+
+# 18 — POENTA KNJIGE, I ŠTA JE S NJOM PALO *(odluka autora, 31.08.2026, druga sesija)*
+
+> **Puni zapis je u `dokumenti/POENTA_KNJIGE.md`.** Taj fajl je od ovog dana **najviši sprat
+> u repou** — iznad plana, mape i zbornika. Ovde stoji samo ono što se **ne dira**.
+
+## Šta je palo — i zašto se registar time menja
+
+Autor je posle prve napisane verzije `Maske` rekao da mu je knjiga pretrpana i da **ne zna
+šta je poenta od prvog do šesnaestog poglavlja.** Iz tog razgovora je izašla osa, i s njom
+**dva obaranja i jedan potvrđen nalaz.**
+
+## Osa — ne dira se
+
+> **Čovek koji je otišao od svih koje voli, jer se dugovi ne naplaćuju na dužniku nego na
+> onima koje dužnik voli — i koji nikad sebi nije dozvolio da zna šta mu je ona.
+> Ona zna. On ne.**
+
+- **Jovana:** sestra, možda najveća ljubav, možda najveći neprijatelj. **On ne zna koje.**
+  Nikad je nije gledao kao Andrijanu i Natašu — **zabrana koju je sam sebi izdao.**
+  **ZABRANA: David nigde ne saznaje šta mu je ona.** Nema rečenice, gesta ni slike u kojoj
+  shvata — ni u `Maski`, ni u prolazu kroz šavove, ni u noir prolazu. **Neznanje je motor.**
+- **Katarina:** **sidro.** Novi život, promena, budućnost umesto prošlosti. Voli je i
+  obožava je.
+- **Oba odlaska su isti potez.** `Nestanak` (9) fizički; `Kukavica` (14) ćutanjem.
+
+## PAO POTEZ 8 — „MAJKA U SADAŠNJOSTI" u `Maski`
+
+**Prva verzija `Maske` je napisana 31.08.2026. po tom potezu i bačena istog dana.**
+
+**Autorova primedba:** David je pre dvanaest godina izašao iz tog života; da njegova majka
+**dvanaest godina kasnije** dobija pozive zbog njega — ne pije vodu.
+
+**Primedba stoji na dva sprata:**
+
+1. Jedini mogući uzrok u knjizi nije star dvanaest nego **dve godine** — `Prazna stolica`
+   (12), gde David sam diže dva zakopana telefona i sam upiše cenu. **Napisana `Maska` to
+   nigde nije povezala.**
+2. **Teže:** opasnost u ovoj knjizi ide **ka njoj, preko njega.** Skretanje opasnosti na
+   majku daje knjizi **drugi motor u pretposlednjem poglavlju.**
+
+**Potez se ne vraća osim na autorovu reč.** **Majka nema neplaćen dug** — naplaćena je u
+`Fabrici` (11), sekcije 11 i 13. **U `Maski` ostaje samo kroz teglicu** *(potez 10)*, bez
+scene, bez pomena, bez telefona.
+
+## OBOREN NALAZ — „Katarina je alibi"
+
+U istom razgovoru je ponuđeno čitanje da je **Katarina alibi** kojim David sebi dokazuje da
+je izabrao život. **Autor je to oborio.** Ona je **sidro**, ne alibi. Alibi bi značio da je
+izbor lažan; izbor je stvaran i zato boli.
+
+**Ne vraćati to čitanje.** Ono ruši i sekciju 2 ovog registra.
+
+## OBOREN NALAZ — „knjiga daje dva različita odgovora zašto odlazi"
+
+Tvrđeno je da drugi odlazak izgleda **zbog Katarine**, pa da su to dva čoveka u istoj knjizi.
+**Netačno, i tekst to obara sam.**
+
+`Kukavica` na početku postavlja pravila: *„Ko odbije — ili pije ili skida."* Kad ona postavi
+ono jedino pitanje, **David ne kaže „ne" — uzme čašu i popije do dna.** Po pravilima te igre
+to nije odbijanje **nje** nego **odbijanje da odgovori.**
+
+**Zato je `Kukavica` tačna reč** — jedina za čoveka koji nije pogledao. I ona je jedina koja
+sme da mu je kaže, jer je jedina koja zna da nije kukavica ni u čemu drugom *(`Ivičnjak`)*.
+
+**Sidro stoji u istoj sceni, u predmetu:** *„Ruka mi je otišla u džep, sama, kao uvek. Nije
+bio prazan."* — njena ceduljica. **Ne dirati, ne dopunjavati, ne objašnjavati.**
+
+> **Pouka koja iz ovoga ostaje, za svaki naredni prolaz:** kad scena ima **pravila upisana u
+> samo poglavlje**, scena se meri **tim pravilima**, ne opštim utiskom. Nalaz je nastao
+> čitanjem poljupca bez pravila igre postavljenih petnaest strana ranije.
+
+## NALAZ KOJI STOJI — poenta postoji samo u prošlosti
+
+Sve što knjigu objašnjava dešava se **pre dvanaest do četrnaest godina.** Sadašnjost — pet
+poglavlja, tri kuhinje i dva kafića — nosi **isključivo posledicu.**
+
+**Knjiga nije pretrpana nego nedovršena na jednom kraju.** **`Maska` je jedino mesto gde se
+to popravlja**, i to je ceo njen zadatak. Puni opis: `PLAN_RADA.md`, POSAO E.
+
+## NALAZ KOJI STOJI I NIJE REŠEN — jedna noć presečena na dva dela
+
+**`Kukavica` (14) se završava usred noći; `Ćebence` (16) počinje tom istom noći.**
+Dva poglavlja su **jedna neprekinuta noć**, a `Maska` na mestu 15 je preseca.
+
+**Nijedan dokument to nije imao upisano.** **Ne rešava se u `Maski`** — ide u prolaz kroz
+šavove, i odluka je autorova. Tri moguća pravca stoje u `PLAN_RADA.md`, ZAKAZANO POSLE.

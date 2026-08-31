@@ -164,3 +164,37 @@ sredina — 9, 10, 11.
 
 **Nije komplimenat što kažem da može da bude velika. To je nalaz o tome koliko malo joj
 fali, i baš zato je opasno pogrešiti `Masku`.**
+
+
+---
+
+# ⚑ DOPUNA ISTOG DANA — šta je od ove ocene ostalo posle razgovora s autorom
+
+> Upisano 31.08.2026, druga sesija, pošto je prva verzija `Maske` napisana i bačena.
+
+**Nalaz 1 (sadašnjost nema ulog) i nalaz 3 (ništa ga ne lovi) — stoje, i autor ih je
+potvrdio svojim rečima.** Ali **lek koji sam iz njih izvela bio je pogrešan.**
+
+Ova ocena je tražila da `Maska` nosi „jedini trenutak u kom sadašnjost može da se sruši", i
+plan je to izveo kao **potez 8 — opasnost preti majci.** Autor je taj potez oborio:
+čovek je pre dvanaest godina izašao iz tog života, pa da mu majka **dvanaest godina kasnije**
+dobija pozive zbog njega ne pije vodu — a dublje od toga, **opasnost u ovoj knjizi ide ka
+njoj, preko njega.** Skretanje na majku daje knjizi drugi motor u pretposlednjem poglavlju.
+
+**Nalaz je bio tačan, meta pogrešna.** Ispravljeno: `POENTA_KNJIGE.md` i `PLAN_RADA.md`,
+POSAO E *(prepisan)*.
+
+**Nalaz 4 (Katarina) — dopunjen odlukom autora.** Ona nije ni tanka ni alibi. **Ona je
+sidro** — novi život, promena, budućnost umesto prošlosti. Čitanje „Katarina je alibi",
+ponuđeno u istom razgovoru, **autor je oborio i ono se ne vraća.**
+
+**Jedan nalaz iz ove ocene je bio pogrešan i povlači se:** tvrdila sam da knjiga daje **dva
+različita odgovora** zašto David odlazi. **`Kukavica` to već izvodi kako treba** — pravila
+igre kažu *„ko odbije — pije"*, i on **pije umesto da odgovori.** To nije odbijanje nje nego
+odbijanje da pogleda, i zato je *„Kukavica"* tačna reč. Puni zapis: registar, sekcija 18.
+
+**Nov nalaz koji ova ocena nije imala:** `Kukavica` (14) i `Ćebence` (16) su **jedna
+neprekinuta noć**, a `Maska` na mestu 15 je preseca. Nerešeno, ide u prolaz kroz šavove.
+
+**Ocena po spratovima se ne menja:** rečenica izuzetna, poglavlje vrlo jako, knjiga na jedno
+poglavlje i jedan prolaz od velike.

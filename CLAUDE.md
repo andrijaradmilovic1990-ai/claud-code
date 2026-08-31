@@ -6,15 +6,18 @@ svi predlozi i sve izmene idu na srpskom.
 
 ## PRVO — pre bilo čega
 
-**Tri fajla, tim redom:**
+**Četiri fajla, tim redom:**
 
 1. **`roman/NASTAVAK.md`** — handoff: gde je revizija stala, šta je sledeće.
-2. **`roman/dokumenti/PLAN_RADA.md`** — **⚑ ceo preostali posao, četrnaest poteza, svaki
-   s tačnim mestom.** Radi se odozgo. **Ne planirati mimo njega.**
-3. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
+2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
+   **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
+   **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
+3. **`roman/dokumenti/PLAN_RADA.md`** — **⚑ ceo preostali posao, svaki potez s tačnim
+   mestom.** Radi se odozgo. **Ne planirati mimo njega.**
+4. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
-Bez ta tri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
+Bez ta četiri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
 
 > **⚑ IZUZETAK — LEKTORSKI PROLAZ IDE OBRNUTO** *(Pravilo R, 31.08.2026)*.
 > **Kad je posao „pročitaj knjigu i nađi šta ne valja", tekst se čita PRVI, go, bez
@@ -32,6 +35,7 @@ Zatim, po potrebi:
 
 | Fajl | Kad ga otvaraš |
 |------|----------------|
+| `roman/dokumenti/POENTA_KNJIGE.md` | **uvek, pre svega osim `NASTAVAK.md`** — osa knjige |
 | `roman/dokumenti/DUGOVI_KNJIGE.md` | pre otvaranja poglavlja — koji dug knjige pada baš tu |
 | `roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog |
 | `roman/dokumenti/PRAVILA_STILA.md` | zanat — kako se piše |
@@ -59,10 +63,16 @@ Poglavlja su u `roman/poglavlja/`, imena fajlova ujednačena istog dana.
 netaknuto i u istom redosledu, nova se umeću između njih.
 **Na 30.08.2026. napisano je četrnaest poglavlja — 26.351 reč.**
 
-**⚑ STANJE NA 31.08.2026: napisano je PETNAEST poglavlja, 27.762 reči.** Napisan je
+**⚑ STANJE NA 31.08.2026: napisano je PETNAEST poglavlja, 27.758 reči.** Napisan je
 `IVIČNJAK` (7), a `Pukotina` (2) i `Krv` (4) su prepravljene. **Ostaje jedno poglavlje —
-`MASKA`, mesto 15 — i sedam poteza, svi u njoj.** Puna tabela svih šesnaest mesta, s
+`MASKA`, mesto 15 — i šest poteza (9–14), svi u njoj.** Puna tabela svih šesnaest mesta, s
 imenima fajlova i tačnim brojevima, stoji u **`roman/NASTAVAK.md`**.
+
+> **⚑ DRUGA SESIJA 31.08.2026 — `MASKA` JE NAPISANA I BAČENA.** Pisana je po **potezu 8**
+> *(majka u sadašnjosti, telefon zvoni kod nje)*, a taj potez je istog dana **pao** — autor:
+> čovek je pre dvanaest godina izašao iz tog života, pa da mu majka dvanaest godina kasnije
+> dobija pozive zbog njega **ne pije vodu.** Iz tog razgovora je izašla **osa knjige** i nov
+> fajl **`POENTA_KNJIGE.md`**. Sve odluke: `REGISTAR_ODLUKA.md`, **sekcija 18.**
 
 ## ⚑ KNJIGA IMA ŠESNAEST POGLAVLJA *(odluka autora, 30.08.2026)*
 
@@ -75,11 +85,12 @@ Stariji zapisi koji kažu „Maska, mesto 14" misle na **mesto 15**. Mapa je i d
 tačna u svemu osim u numeraciji i broju poglavlja.
 
 **Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_RADA.md`** —
-**četrnaest poteza**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
+**četrnaest poteza, od kojih je osam zatvoreno**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
 se odozgo. **Ne planirati mimo njega.**
 
-Ostaje: napisati **`Ivičnjak`** (7) i **`Masku`** (15), i uraditi dve male prepravke —
-u **`Pukotini`** (2) i **`Krvi`** (4). Cilj oko **31.500 reči**.
+**Stanje na 31.08.2026:** `Ivičnjak` (7) je napisan, `Pukotina` (2) i `Krv` (4) su
+prepravljene. **Ostaje samo `Maska` (15)** i **šest poteza (9–14)**; potez 8 je pao istog
+dana. Cilj oko **30.500 reči**.
 
 Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
 je **iscrpljen** i zamenjen je `PLAN_RADA.md`.

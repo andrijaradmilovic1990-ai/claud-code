@@ -2875,3 +2875,75 @@ sadašnjosti tamo više ne spava.
 **`Pukotina` 1.699 → 1.695. Zbir 27.762 → 27.758.**
 Puni zapis: registar, sekcija 17. Hronološka posledica: `SVET_I_LIKOVI_1`, sekcija
 HRONOLOGIJA.
+
+
+---
+
+# 31.08.2026 — DRUGA SESIJA: `MASKA` NAPISANA I BAČENA, OSA KNJIGE UPISANA
+
+## Šta je urađeno
+
+1. **`MASKA` je napisana** — `POGLAVLJE_NOVO_MASKA.md`, **2.655 reči, sedam scena**, po
+   sedam poteza iz plana (8–14), s potezom 8 kao jezgrom.
+2. **Autor ju je bacio istog dana.** Fajl je uklonjen iz `roman/poglavlja/`. Stanje je
+   opet **petnaest poglavlja, 27.758 reči.**
+3. **Iz razgovora koji je usledio izašla je osa knjige** i nov fajl:
+   **`dokumenti/POENTA_KNJIGE.md`** — od sad najviši sprat u repou.
+
+## Zašto je pala — autorova primedba, doslovno po smislu
+
+> Čovek je pre dvanaest godina izašao iz tog života. Ako je sadašnjost, njegova majka
+> **dvanaest godina kasnije** dobija pozive zbog njega. **To ne pije vodu.**
+
+**Primedba stoji na dva sprata**, i drugi je teži:
+
+1. **Poglavlje.** Jedini uzrok koji knjiga ima nije star dvanaest nego **dve godine** —
+   `Prazna stolica` (12), gde David sam diže dva zakopana telefona i **sam upiše cenu**
+   (*„čim me taj svet ponovo čuje… neko ko će je jednog dana pitati odakle joj taj doktor"*).
+   **Napisana `Maska` to nigde nije povezala.**
+2. **Knjiga.** **Opasnost u ovoj knjizi ide ka njoj, preko njega.** Skretanje opasnosti na
+   majku daje knjizi **drugi motor u pretposlednjem poglavlju.** To je pravi uzrok pada.
+
+## Šta je autor rekao kad sam pitala šta je poenta
+
+Zapisano njegovim materijalom, i to je sada `POENTA_KNJIGE.md`:
+
+- **Otišao je od svih njih i celog života** jer se dugovi ne naplaćuju na dužniku nego na
+  onima koje voli.
+- **Jovana** je sestra, možda najveća ljubav, možda najveći neprijatelj. **On ne zna koje.
+  Ona zna.** Voli ga iz dna duše pored svega. **Nikad je nije gledao kao Andrijanu i
+  Natašu** — nije sebi dozvolio.
+- **Katarina** je novi život, **sidro**, promena, budućnost umesto prošlosti.
+
+## Nalazi — dva oborena, dva potvrđena, jedan nov
+
+| nalaz | stanje |
+|---|---|
+| „Katarina je alibi" | **OBOREN** *(autor)*. Ona je **sidro**. Alibi bi značio da je izbor lažan |
+| „knjiga daje dva odgovora zašto odlazi; drugi je zbog Katarine" | **OBOREN tekstom.** `Kukavica` postavlja pravila *(„ko odbije — pije")* i on **pije umesto da odgovori.** To nije odbijanje nje nego odbijanje da pogleda — zato je *„Kukavica"* tačna reč |
+| „poenta postoji samo u prošlosti, sadašnjost nosi posledicu" | **POTVRĐEN.** To je ceo zadatak `Maske` |
+| „`Maska` mora nositi trenutak u kom sadašnjost može da se sruši" *(lektorska ocena)* | **POTVRĐEN, ali s pogrešnom metom.** Meta se preusmerava s majke na **nju** |
+| **`Kukavica` i `Ćebence` su jedna neprekinuta noć, a `Maska` je preseca** | **NOV, NEREŠEN.** Nijedan dokument to nije imao. Ide u prolaz kroz šavove |
+
+## Pouka o čitanju, upisana da se ne ponovi
+
+**Kad scena ima pravila upisana u samo poglavlje, scena se meri tim pravilima, ne opštim
+utiskom.** Nalaz o „dva odgovora" nastao je čitanjem poljupca u `Kukavici` **bez pravila
+igre koja poglavlje samo postavlja petnaest strana ranije.**
+
+## Šta je upisano u dokumente
+
+- **nov:** `POENTA_KNJIGE.md`
+- `REGISTAR_ODLUKA.md` — **sekcija 18** *(osa, pad poteza 8, dva oborena nalaza, šavni nalaz)*
+- `PLAN_RADA.md` — **POSAO E prepisan**; potez 8 precrtan u tabeli; šavni nalaz dodat u
+  ZAKAZANO POSLE; stanje na vrhu ispravljeno
+- `NASTAVAK.md` — nov blok o drugoj sesiji, tabela poteza na šest, **nov prompt za sledeću
+  sesiju**
+- `CLAUDE.md` — `POENTA_KNJIGE.md` uvršten kao **drugi fajl koji se čita**, stanje dopunjeno
+- `LEKTORSKA_OCENA_31_08_2026.md` — dopuna o tome šta je od ocene ostalo
+- ovaj dnevnik
+
+## Šta ostaje
+
+**`MASKA` (15) — piše se u sledećoj sesiji, po `POENTA_KNJIGE.md` i prepisanom POSLU E.**
+Šest poteza (9–14), četiri zabrane, ~2.800 reči.

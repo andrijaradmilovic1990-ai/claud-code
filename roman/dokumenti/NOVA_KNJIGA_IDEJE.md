@@ -6,8 +6,9 @@
 > **`PLAN_RADA.md`**. Ideje su ovde vođene po brojevima (`IDEJA 4`, `IDEJA 5`) i po
 > oznakama (`G1`–`G10`) — **ti brojevi se više ne koriste.**
 >
-> - **„IDEJA 4 — pravi strah"** je razložena: živo iz nje je **MALI** (`Krv`) i
->   **MAJKA U SADAŠNJOSTI** (`Maska`).
+> - **„IDEJA 4 — pravi strah"** je razložena: živo iz nje je **MALI** (`Krv`).
+>   Drugi deo, **MAJKA U SADAŠNJOSTI** (`Maska`), **PAO JE 31.08.2026** *(odluka autora)* —
+>   `REGISTAR_ODLUKA.md`, sekcija 18, i `POENTA_KNJIGE.md`.
 > - **„IDEJA 5"** se sada zove **„A KO SI TI"** i ide u **`Pukotinu`**.
 > - `G4` je **ZVONCE**, `G5` je **MIRIS DUVANA**, `G9` je **MERA**, `G10` je **ODRAZ**.
 > - **Obrisano, s razlogom** *(nije zaključano — vidi `PLAN_RADA.md`)*: MELODIJA · PROMAJA kao sistem · KLJUČEVI.
