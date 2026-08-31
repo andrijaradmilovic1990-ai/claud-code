@@ -1427,7 +1427,8 @@ prilaze iznad rake, jedan kaže „Samo jednu reč tvoju")** → `Prazna stolica
 preko puta, on ne kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na otvaranju.
 
 **Predlog:** `Ulazak` na 2, `Pukotina` na 3. Košta **nula reči**.
-**Čeka „da" ili „ne" od autora. Ne raditi bez toga.**
+
+> **⚑ ZATVORENO ISTOG DANA — autor je rekao „da". Vidi sekciju 20.1.**
 
 ---
 
