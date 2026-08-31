@@ -72,8 +72,13 @@ reči.** `MASKA` je napisana (2.301 reč) i **stoji na MESTU 14, ispred `Kukavic
 Stariji zapisi koji kažu „Maska, mesto 15" misle na **mesto 14**. Razlog pomeranja i pun
 opis: `REGISTAR_ODLUKA.md`, **sekcija 19**.
 
-**Jedino otvoreno pitanje u celom repou:** ide li `Ulazak` na mesto 2. Stoji u
-`NASTAVAK.md` i **ne radi se bez autorovog „da".**
+**⚑ `ULAZAK` JE NA MESTU 2** *(odluka autora, treća sesija)* — `Pukotina` je 3, `Krv` 4;
+sve od `Krvi` nadalje stoji kako je stajalo. **Naslovi svih šesnaest poglavlja prenumerisani
+su I–XVI** i odgovaraju redosledu. **Nema otvorenih pitanja u repou.**
+
+**Pun redosled:** I Susret · **II Ulazak** · **III Pukotina** · IV Krv · V Italija · VI Pariz ·
+VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika · XII Prazna stolica ·
+XIII Beli grad · **XIV Maska** · XV Kukavica · XVI Ćebence.
 
 *(Istorija: na 31.08.2026, druga sesija, bilo je petnaest poglavlja i 27.758 reči —
 napisan `IVIČNJAK` (7), prepravljene `Pukotina` (2) i `Krv` (4).)* Puna tabela svih

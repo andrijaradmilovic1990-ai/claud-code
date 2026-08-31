@@ -1,4 +1,4 @@
-# II — Pukotina
+# III — Pukotina
 
 Znao sam pre nego što je pozvala. Ne znam kako — možda je to ono što ostane kad sve ostalo odeš, neka životinjska stvar koja meri vreme drugačije od kalendara. Telo uvek zna pre glave.
 

@@ -1,4 +1,4 @@
-# Maska
+# XIV — Maska
 
 Kod garderobe visi spisak za dojavu smene i pored njega kalendar koji niko ne skida.
 
@@ -52,11 +52,11 @@ Voda u mojoj čaši stajala je ravna. Nijedan krug po površini.
 
 Konobar je došao po pepeljaru koja nije bila prljava.
 
-„Tražio nekog", rekao je sam od sebe, jer konobari uvek kažu.
+„Tražio nekog“, rekao je sam od sebe, jer konobari uvek kažu.
 
-„Koga."
+„Koga.“
 
-„Ma nekog. Nisam ni čuo ime dobro. Kaže radio je ovde neko." Obrisao je sto koji je bio suv. „Ovde niko nije radio osim mene, i to devet godina."
+„Ma nekog. Nisam ni čuo ime dobro. Kaže radio je ovde neko.“ Obrisao je sto koji je bio suv. „Ovde niko nije radio osim mene, i to devet godina.“
 
 Klimnuo sam glavom.
 
@@ -96,69 +96,69 @@ Sedela je za stolom i brojala pare.
 
 Papirni novčić po novčić, na dve gomile, usnama je govorila brojeve bez glasa. Kosa joj je padala preko jednog oka i nije je sklanjala jer su joj obe ruke bile zauzete. Nešto je zagorelo na šporetu i to je već bilo skinuto i to je već bilo rešeno i sad se brojalo.
 
-„Nemoj ništa da pričaš", rekla je. „Treći put brojim."
+„Nemoj ništa da pričaš“, rekla je. „Treći put brojim.“
 
 Uzeo sam stolicu i seo preko puta i ćutao.
 
 Ćutao sam tačno onoliko koliko je trebalo da opet uđe u ritam, do dvesta i nešto, i onda sam uzeo kutiju šibica sa stola i spustio joj je na glavu.
 
-Nije podigla pogled. „Dvesta trideset."
+Nije podigla pogled. „Dvesta trideset.“
 
 Spustio sam pored kutije kašičicu.
 
-„Dvesta pedeset. Ne diraj me."
+„Dvesta pedeset. Ne diraj me.“
 
 Spustio sam čep od flaše. Kašičica je skliznula, ona ju je uhvatila u vazduhu rukom u kojoj je držala pare, i vratila je gore na glavu sama, ne gledajući, i nastavila da broji.
 
 To me je oborilo. Nasmejao sam se naglas, prvi put tog dana, i ona je zbog tog smeha izgubila red i podigla glavu, i sve joj je palo — šibice, kašičica, čep — i pare su joj se pomešale.
 
-„Eto ti sad!"
+„Eto ti sad!“
 
-„Šta sam ja kriv."
+„Šta sam ja kriv.“
 
-„Sve si ti kriv." Ustala je da kupi kašičicu s poda. Uhvatio sam je za članak u prolazu i povukao je nazad i ona je sela na naslon stolice umesto na pod, jer je znala da ću je povući, jer to radim.
+„Sve si ti kriv.“ Ustala je da kupi kašičicu s poda. Uhvatio sam je za članak u prolazu i povukao je nazad i ona je sela na naslon stolice umesto na pod, jer je znala da ću je povući, jer to radim.
 
-„Pusti me, ozbiljna sam."
+„Pusti me, ozbiljna sam.“
 
-„Vidim da si ozbiljna. Zato i smeta."
+„Vidim da si ozbiljna. Zato i smeta.“
 
 Uzeo sam kutiju šibica s poda i namestio joj je opet na glavu i ona je ovog puta stajala.
 
-„Vidi je", rekao sam. „Stoji kao kod stare gospođe."
+„Vidi je“, rekao sam. „Stoji kao kod stare gospođe.“
 
-„Skidaj to."
+„Skidaj to.“
 
-„Ne mrdaj. Padaće."
+„Ne mrdaj. Padaće.“
 
-„Skidaj."
+„Skidaj.“
 
 Nije mrdala. Sedela je s kutijom šibica na glavi, bradu podignutu da ne padne, i gledala me odozgo s onim licem koje pokušava da ostane ljuto a nema čime.
 
 Uzeo sam joj kutiju s glave, i dlanom joj sklonio kosu s oka, i ona je trznula obrazom.
 
-„Grebeš", rekla je.
+„Grebeš“, rekla je.
 
-„Izvini."
+„Izvini.“
 
-„Ne mora izvini." Uhvatila mi je ruku obema svojim i okrenula je dlanom naviše i pogledala je, kratko, kao što se gleda nešto što se već zna. Pa mi je vratila. „Nego se namaži nečim. Ko drvo."
+„Ne mora izvini.“ Uhvatila mi je ruku obema svojim i okrenula je dlanom naviše i pogledala je, kratko, kao što se gleda nešto što se već zna. Pa mi je vratila. „Nego se namaži nečim. Ko drvo.“
 
-„Fabrika."
+„Fabrika.“
 
-„Fabrika je i meni." Pokazala mi je svoje ruke, obe, s obe strane, kao dokaz. „Pa mi nisu ko drvo."
+„Fabrika je i meni.“ Pokazala mi je svoje ruke, obe, s obe strane, kao dokaz. „Pa mi nisu ko drvo.“
 
 Skupila je pare u jednu gomilu i odustala od brojanja i gurnula sve u kesicu.
 
-„Neće me biti u subotu i nedelju", rekao sam.
+„Neće me biti u subotu i nedelju“, rekao sam.
 
-„Aha." Vezala je kesicu čvorom. „Kod tvojih?"
+„Aha.“ Vezala je kesicu čvorom. „Kod tvojih?“
 
-„Kod drugova. Gore."
+„Kod drugova. Gore.“
 
-„Dobro." Ustala je i spustila kesicu u fioku i zatvorila je kolenom, jer su joj ruke već bile na drugoj stvari. „Javi mi kad stigneš, da ne mislim."
+„Dobro.“ Ustala je i spustila kesicu u fioku i zatvorila je kolenom, jer su joj ruke već bile na drugoj stvari. „Javi mi kad stigneš, da ne mislim.“
 
-„Javiću."
+„Javiću.“
 
-„Nećeš." Nije se okrenula. „Ali javi."
+„Nećeš.“ Nije se okrenula. „Ali javi.“
 
 ⁂
 
@@ -196,7 +196,7 @@ Broj koji sam tražio nije bio u imeniku. Taj broj nigde nije zapisan, taj broj 
 
 Znao sam i šta bih rekao. To sam sastavio još u kafiću, dok mi je voda u čaši stajala ravna. Dve rečenice, ne više. Neka se raspita ko je pitao za koga u jednom kafiću u jednom malom gradu na jugu, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu.
 
-Čovek s druge strane ne bi pitao zašto. Rekao bi „smatraj gotovim", kao i prošli put, i spustio bi, i do jutra bi bilo urađeno.
+Čovek s druge strane ne bi pitao zašto. Rekao bi „smatraj gotovim“, kao i prošli put, i spustio bi, i do jutra bi bilo urađeno.
 
 I onda bi taj svet ponovo znao da sam živ.
 

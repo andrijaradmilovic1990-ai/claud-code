@@ -1,4 +1,4 @@
-# Italija
+# V — Italija
 
 U toj kući se danju nije zaključavalo. Vrata su se dole zaglavljivala o prag pa si morao ramenom, i ja sam ih tako otvarao godinama, a niko nikad nije rekao da će ih popraviti. Unutra je već neko vikao nešto iz kuhinje pre nego što sam stigao da se izujem.
 
@@ -232,7 +232,7 @@ Nije vrisnula, nije pitala šta se desilo, nije se uhvatila za usta. Sklonila se
 
 Nataša je rekla „joj“ i pošla ka meni pa stala jer ju je Andrijana uhvatila za ruku po drugi put te večeri.
 
-Andrijana me je pogledala od vrata, celog, odozgo nadole, i klimnula glavom.
+Andrijana me je pogledala od vrata, celog, odozgo nadole.
 
 „Lepo“, rekla je. „Sad bar ličiš.“
 

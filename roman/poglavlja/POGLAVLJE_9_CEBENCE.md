@@ -1,4 +1,4 @@
-# IX — Ćebence
+# XVI — Ćebence
 
 Na naslonu sofe stajalo je ćebence — tanko, nečija stara stvar prebačena tu da se ima pri ruci u sobi u kojoj se sedi do zore. Uzeo sam ga.
 
@@ -72,39 +72,39 @@ Zatvorila je vrata. Ajfelova kula se zaljuljala pod magnetom i stala.
 
 Onda me je videla.
 
-„Uh." Ruka na grudi. „Nisam te čula."
+„Uh.“ Ruka na grudi. „Nisam te čula.“
 
-„Kasno je krenuo autobus."
+„Kasno je krenuo autobus.“
 
-„Jesi li jeo?"
+„Jesi li jeo?“
 
-„Jesam."
+„Jesam.“
 
-„Kako je bilo?"
+„Kako je bilo?“
 
-„Lepo je bilo veče."
+„Lepo je bilo veče.“
 
-„Svi su bili?"
+„Svi su bili?“
 
-„Svi."
+„Svi.“
 
-„Dobro. Lepo da ste se videli." Donela mi je čašu vode, sela naspram, sklupčala noge ispod sebe na stolici kao što sedi uvek. „Slušaj, pitala sam se — možda jednom da ih upoznam. Andrijanu bar. Pričao si toliko, i o Nataši, i—"
+„Dobro. Lepo da ste se videli.“ Donela mi je čašu vode, sela naspram, sklupčala noge ispod sebe na stolici kao što sedi uvek. „Slušaj, pitala sam se — možda jednom da ih upoznam. Andrijanu bar. Pričao si toliko, i o Nataši, i—“
 
-„To su dva različita sveta." Rekao sam to mirno, bez zaustavljanja. „Teško je da ti objasnim. Oni i ovo ovde — ne ide jedno u drugo tako lako."
+„To su dva različita sveta.“ Rekao sam to mirno, bez zaustavljanja. „Teško je da ti objasnim. Oni i ovo ovde — ne ide jedno u drugo tako lako.“
 
-„Pa ne mora da ide. Samo da ih vidim."
+„Pa ne mora da ide. Samo da ih vidim.“
 
-„Andrijana je hladna prema svakome ko je nov, treba joj vreme. Bivše devojke su se uvek žalile, mislile da ih ne volim dovoljno jer ih ne uvodim odmah." Otpio sam vode. „Nije to do njih bilo."
+„Andrijana je hladna prema svakome ko je nov, treba joj vreme. Bivše devojke su se uvek žalile, mislile da ih ne volim dovoljno jer ih ne uvodim odmah.“ Otpio sam vode. „Nije to do njih bilo.“
 
-„Ja nisam bivša."
+„Ja nisam bivša.“
 
-„Znaš da nisi." Pogledao sam je. „Jednog dana, naravno. Hoću da ih upoznaš. Samo ne sad, ne na silu."
+„Znaš da nisi.“ Pogledao sam je. „Jednog dana, naravno. Hoću da ih upoznaš. Samo ne sad, ne na silu.“
 
-Nasmešila se. „Dobro. Ne na silu."
+Nasmešila se. „Dobro. Ne na silu.“
 
-Onda je, već ustajući, rekla: „Ono za ličnu — moraću u martu. Podsetiću te."
+Onda je, već ustajući, rekla: „Ono za ličnu — moraću u martu. Podsetiću te.“
 
-„Dobro."
+„Dobro.“
 
 Nisam pitao na koju adresu. Znao sam.
 
@@ -112,47 +112,47 @@ Nisam pitao na koju adresu. Znao sam.
 
 Nosila je čaše do sudopere kad sam progovorio.
 
-„Naročito to", rekao sam.
+„Naročito to“, rekao sam.
 
 Stala je. Čaše u obe ruke, na pola puta.
 
-„Molim?"
+„Molim?“
 
-„Ništa."
+„Ništa.“
 
 Okrenula se polako. Gledala me je onim pogledom koji traži gde je zamka, pa je našla, pa joj je krenulo u lice pre nego što je stigla da ga zaustavi.
 
-„Ti si —" Spustila je čaše. „Nisi valjda —"
+„Ti si —“ Spustila je čaše. „Nisi valjda —“
 
-„Nisam ništa."
+„Nisam ništa.“
 
-„Bože, kako mi je neprijatno." Rukama preko obraza, pa u kosu, pa opet preko obraza. „Napisala sam to u pola šest ujutru kao debil, i onda sam ceo dan htela da ti ga uzmem nazad, i nisam mogla jer si ga već obukao—"
+„Bože, kako mi je neprijatno.“ Rukama preko obraza, pa u kosu, pa opet preko obraza. „Napisala sam to u pola šest ujutru kao debil, i onda sam ceo dan htela da ti ga uzmem nazad, i nisam mogla jer si ga već obukao—“
 
-„Kasno."
+„Kasno.“
 
-„Vrati mi ga."
+„Vrati mi ga.“
 
-„Neću."
+„Neću.“
 
 Nije sela nazad. Stala mi je iza stolice, naslonila bradu na moje teme, obe ruke na naslon, i ostala tako.
 
-„Ti si kao kuče", rekla je odozgo.
+„Ti si kao kuče“, rekla je odozgo.
 
-„Molim?"
+„Molim?“
 
-„Ne ljuti se. Mislim lepo." Nije se pomerila. „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li."
+„Ne ljuti se. Mislim lepo.“ Nije se pomerila. „Šta god ti oni kažu, ti bi to uradio. Odmah. Ne pitaš zašto, ne pitaš smeš li.“
 
 Nije to bilo tako. Lojalnost se tamo odakle dolazim merila drugačije — ja bih za njih sve, i one za mene sve, i to nema nikakve veze sa slušanjem. Odgovor mi je stajao ceo, spreman, tačan, izbrojan.
 
 Nisam ga izgovorio.
 
-„Vidiš", rekla je, i pomilovala me po glavi. Jednom, pa još jednom, i ostavila dlan tu. „Ne ljutiš se ni sad."
+„Vidiš“, rekla je, i pomilovala me po glavi. Jednom, pa još jednom, i ostavila dlan tu. „Ne ljutiš se ni sad.“
 
-„Umoran si", rekla je posle, i sklonila ruku.
+„Umoran si“, rekla je posle, i sklonila ruku.
 
-„Jesam."
+„Jesam.“
 
-„Idi spavaj. Pričamo sutra."
+„Idi spavaj. Pričamo sutra.“
 
 Ustao sam. U hodniku, na čiviluku, visila je njena jakna — mala, tamna, s kopčom koja se odvezala na jednoj strani i ja je još nisam sredio. Kažem da ću sutra, kažem svaki put sutra, i ona se svaki put nasmeje i kaže da zna da neću. I ne popravim. I ostane odvezana, i niko ne dira.
 
@@ -184,7 +184,7 @@ Ruka mi je otišla ka telefonu.
 
 Znao sam šta radim. Otvorio sam poruke, krenuo, kucao — tri slova, četiri, pa petim stao prstom i obrisao. Zatvorio.
 
-Pre nego što sam zatvorio, video sam ga u listi — broj bez imena, iznad Andrijane. Starčev, iz onog dana kad me je pomešao s nekim. Ime radionice, i lim, i „ako ikad zatreba."
+Pre nego što sam zatvorio, video sam ga u listi — broj bez imena, iznad Andrijane. Starčev, iz onog dana kad me je pomešao s nekim. Ime radionice, i lim, i „ako ikad zatreba.“
 
 Nisam ga sačuvao. Nisam ga ni obrisao.
 

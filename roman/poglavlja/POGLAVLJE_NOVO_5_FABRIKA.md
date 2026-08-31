@@ -1,4 +1,4 @@
-# Fabrika
+# XI — Fabrika
 
 Traka ne staje.
 
@@ -88,8 +88,6 @@ Jedne noći nije bilo nikog osim nas dvoje jer je pola smene ostalo unutra zbog 
 
 „Ti ćutiš“, rekao sam.
 
-Klimnula je glavom.
-
 „Odakle si ti?“
 
 Rekla je odakle je. To je dole, daleko, tamo gde autobus ide celu noć.
@@ -164,7 +162,7 @@ Autobus u pola šest ide skoro prazan i svako u njemu ima svoje mesto koje niko 
 
 Ona je ulazila dve stanice pre mene i sedela napred, iza vozača.
 
-Ja sam ulazio, klimnuo glavom u prolazu i seo pozadi. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
+Ja sam ulazio, pozdravio u prolazu i seo pozadi. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
 
 Tako je išlo mesec i po.
 
@@ -210,7 +208,7 @@ Napolju je prolazila ograda, pa krug, pa kapija.
 
 „Ljudi“, rekao sam.
 
-Klimnula je glavom kao da je to odgovor.
+Primila je to kao odgovor.
 
 Autobus je stao i vrata su se otvorila i ja sam ustao da je pustim.
 
@@ -398,7 +396,7 @@ Kroz park je prošla žena s dvoja kolica i jedno je gurala, drugo vukla.
 
 „Snima se.“
 
-Klimnula je glavom i pustila to.
+Pustila je to.
 
 Kad je ustala, izvadila je telefon.
 
@@ -447,8 +445,6 @@ Na klupi je već sedela kad sam izašao.
 Zapalio sam i pustio da prođe pola cigare.
 
 „Vodio sam majku gore. Na snimanje.“
-
-Klimnula je glavom.
 
 Nije pitala šta se snima, ni kome, ni kako je prošlo.
 

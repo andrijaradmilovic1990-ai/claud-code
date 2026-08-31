@@ -1428,3 +1428,122 @@ preko puta, on ne kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na
 
 **Predlog:** `Ulazak` na 2, `Pukotina` na 3. Košta **nula reči**.
 **Čeka „da" ili „ne" od autora. Ne raditi bez toga.**
+
+---
+
+# 20 — `ULAZAK` NA MESTO 2 · ŠAVOVI PROVERENI · PONAVLJANJA IZMERENA *(31.08.2026, treća sesija)*
+
+## 20.1 — `ULAZAK` JE MESTO 2 *(odluka autora)*
+
+**Pun redosled, konačan:**
+
+| # | | # | |
+|---|---|---|---|
+| **I** | **Susret** | **IX** | **Nestanak** |
+| **II** | **ULAZAK** *(premešten s 3)* | **X** | **Majka** |
+| **III** | **Pukotina** *(premeštena s 2)* | **XI** | **Fabrika** |
+| **IV** | **Krv** | **XII** | **Prazna stolica** |
+| **V** | **Italija** | **XIII** | **Beli grad** |
+| **VI** | **Pariz** | **XIV** | **Maska** |
+| **VII** | **Ivičnjak** | **XV** | **Kukavica** |
+| **VIII** | **Prelom** | **XVI** | **Ćebence** |
+
+**Razlog:** poglavlja 1 i 2 su bila **istog oblika** — njegov sto, neko sedne preko puta,
+on ne kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na otvaranju knjige.
+
+**Dobitak koji se video tek posle premeštanja:** `Ulazak` se završava time što dečak leži
+budan i misli *„kako izgleda onaj dugački sto na ulici kad se sve četiri spoje"* — a
+`Pukotina` odmah zatim otvara čoveka koji za tim stolom sedi sam. **Poslednja slika knjige
+su tri prazne stolice.** Ta linija postoji **samo** u ovom redosledu.
+
+**Nijedna rečenica nije dirana zbog premeštanja.**
+
+## 20.2 — NASLOVI PRENUMERISANI I–XVI
+
+Stara devetka je nosila **stare rimske brojeve** *(`Pukotina` je pisala „II" a bila treća,
+`Ćebence` „IX" a bilo šesnaesto)*, a novih sedam nije imalo broj uopšte.
+**Sad svih šesnaest nosi tačan broj.** Mehanika, bez izmene teksta.
+
+## 20.3 — NAVODNICI UJEDNAČENI
+
+**Pet poglavlja je koristilo ravne navodnike (`"`), jedanaest tipografske (`“`).**
+`Prazna stolica`, `Beli grad`, `Kukavica`, `Ćebence` i `Maska` — ukupno **403 znaka** —
+prevedeni na `“`. **Cela knjiga je sad na jednom sistemu.**
+
+## 20.4 — ⚑ ŠAVOVI: NALAZ KOJI JE MERENJE DALO
+
+**Merena je gustina motiva u staroj devetci naspram novih sedam poglavlja**
+*(po 1.000 reči; stara devetka 15.861 reč, nova sedmorka 14.232)*:
+
+| motiv | staro | novo | |
+|---|---|---|---|
+| **„klimnuo glavom"** | **0,2** | **1,4** | **7× gušće u novom** |
+| „nije pitao/pitala" | 0,8 | 1,4 | 2× gušće |
+| „i ja sam / a ja sam" kao početak | 1,4 | 2,4 | 2× gušće |
+| **„nasmejao se"** | **1,7** | **0,6** | **3× ređe u novom** |
+
+**Nalaz nije da se knjiga ponavlja nego da nova poglavlja imaju SVOJ tik koji stara nemaju.**
+Klimanje glavom je bilo najgore: stara devetka ga ima **tri puta ukupno**, nova sedmorka
+**dvadeset**. `Fabrika` sama šest.
+
+**Uneto: 20 → 11.** `Fabrika` 6→1 · `Prelom` 5→3 · `Italija` 4→3 · `Majka` 2→1.
+Ostavljene su samo one koje nose teret: gomila koja mu klima iznad rake u `Prelomu`,
+baka koja čeka potvrdu za ćufte, Ninov brat *(koji je i uveden kao čovek koji klima na sve)*,
+i **`Prelom` — „nije klimnula glavom"**, koje je negacija i poenta.
+
+**„Nasmejao se" NIJE dirano** — to nije tik nego **tonalni nalaz**: nova poglavlja se smeju
+tri puta ređe. Može biti tačno *(nose tešku prošlost)*, ali stoji upisano.
+
+## 20.5 — DVA ŠAVA KOJA NISU RADILA — POPRAVLJENA
+
+### `Italija` (V) → `Pariz` (VI)
+
+**Problem:** `Italija` se završava time što ga Anja moli da ostane zbog bake od osamdeset
+dve, a `Pariz` odmah zatim prikazuje najlepšu nedelju njegovog života s druge tri žene —
+**i nijednom ne pomene da ta kuća postoji.** Dok su poglavlja bila razdvojena to se nije
+videlo; jedno do drugog je glasno.
+
+**Uneto u `Pariz`, dve rečenice:**
+> *Jednoj kući preko granice nisam javio da putujem. Rečeno mi je da ne javljam, i to je
+> jedino od svega što mi je tamo rečeno a što sam poslušao odmah.*
+
+Naslanja se direktno na poslednje Anjine reči u `Italiji` *(„Ne javljaj joj kad dolaziš.")*.
+**Ostaje izostavljanje, ne laž** — po `Pukotini`: *„Ti samo izostaviš."*
+
+### `Prelom` (VIII) → `Nestanak` (IX)
+
+**Problem, i ovo je prava šteta koju je umetanje napravilo:** `Nestanak` otvara domaća
+scena u sadašnjosti *(Katarina se pakuje)*, i tek posle nje pada obrt *„A ja sam otišao
+zauvek."* **Ranije je to radilo jer je `Nestanak` išao odmah posle `Pariza`, koji se
+završava u toj istoj kuhinji, kod frižidera.** S `Ivičnjakom` i `Prelomom` umetnutim,
+čitalac u `Nestanak` ulazi iz duboke prošlosti *(„Legao sam u odeći.")* i **prvu scenu
+lako pročita kao prošlost** — čime obrt gubi pola snage.
+
+**Uneto u `Nestanak`, jedna rečenica** — sidro sadašnjosti kroz predmet koji knjiga već ima:
+> *Čuo sam kako je u prolazu zakačila vrata frižidera i kako se ona kula pod magnetom
+> zaljuljala pa stala.*
+
+**Isti magnet iz `Pariza` (VI) i `Ćebenceta` (XVI).** Trostruko vezuje knjigu, a čitaocu
+kaže gde je pre nego što obrt padne.
+
+## 20.6 — ŠAVOVI KOJI RADE — provereni, ne diraju se
+
+| šav | zašto radi |
+|---|---|
+| **I `Susret` → II `Ulazak`** | `Susret` se završava sa *„čudovište koje je naučilo da pije kafu kao čovek"*, `Ulazak` otvara *„Mali."* **Čudovište, pa dete.** |
+| **II `Ulazak` → III `Pukotina`** | dugački sto koji dečak zamišlja → čovek koji za tim stolom sedi sam |
+| **IV `Krv` → V `Italija`** | `Krv` se završava sa *„Vrata su bila zatvorena. Gledao sam ih dok smo jeli."*, `Italija` otvara *„U toj kući se danju nije zaključavalo."* |
+| **VI `Pariz` → VII `Ivičnjak`** | `Pariz` se završava sa *„Nismo mogli."*, `Ivičnjak` otvara *„Prošle godine smo u ovo doba bili u Parizu."* |
+| **VII `Ivičnjak` → VIII `Prelom`** | šaka koja se ne sklapa → ruke koje staju na pola |
+| **IX `Nestanak` → X `Majka`** | *„Jedna torba"* u `Nestanku` → *„Torba mi je bila u levoj ruci. Bila je jedna."* u trećem redu `Majke` |
+| **XIII `Beli grad` → XIV `Maska`** | *„u stanu u kom sam još uvek imao jednu fioku"* → `Maska` otvara tu fioku |
+| **XIV `Maska` → XV `Kukavica`** | zatvori svoja vrata i brava klikne → *„Otvorila je pre nego što sam stigao do vrata."* |
+
+## 20.7 — JEDAN ŠAV OSTAVLJEN NAMERNO
+
+**X `Majka` → XI `Fabrika`.** `Majka` se završava telefonom *(„Ko je zvao?" / „Niko.")* i
+`Fabrika` počinje **šest godina kasnije** *(„Sedmu godinu.")*, ne pominjući taj poziv.
+
+**Razmatrano i odbijeno.** Odgovor na taj poziv **jeste** to što se šest godina ništa nije
+desilo. Rečenica koja bi to rekla — objasnila bi. **Ako autor ipak želi da se šav stegne,
+to je jedino mesto u knjizi gde bi jedna rečenica još nešto donela.**
