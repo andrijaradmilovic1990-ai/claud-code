@@ -264,6 +264,44 @@ ne kaže „otvaram"** tom rečju.
 > njih zakazan je za trenutak kad knjiga bude cela — tada mera prestaje da raste, jer
 > nema više poglavlja koje bi je promenilo.
 
+**R (novo, 31.08.2026) — LEKTORSKI PROLAZ SE RADI PRE REGISTRA, NE POSLE.**
+
+**Kad se knjiga čita da bi se našle nesuglasice, čita se PRVA — pre `NASTAVAK`,
+`PLAN_RADA` i `REGISTAR`.** Uz nju se vodi **spisak napravljen isključivo iz teksta:**
+
+- ko se pojavljuje, i **kako ga tekst zove na svakom mestu**
+- **gde se ko prvi put imenuje**, i čime je zamenjen dok nije imenovan
+- šta čitalac na tom mestu **još ne zna**
+
+**Tek onda se otvara registar i spiskovi se porede. Svaka razlika je nalaz.**
+
+> **Zašto ovo pravilo postoji.** 31.08.2026. je autor sam našao da `Ulazak` (3) izgovara
+> ime „Jovana" **tri poglavlja pre zaveta** *„Neću je imenovati ovde"* — posle sesije u
+> kojoj je cela knjiga pročitana u nizu i ocenjena, i u kojoj **ta nesuglasica nije ni
+> nagoveštena.**
+>
+> **Uzrok nije nepažnja nego redosled.** Registar je pročitan pre teksta, pa je u glavi
+> već stajalo *„ona pod šeširom = Jovana"*. Ime u trećem poglavlju je zato pročitano kao
+> **potvrda, ne kao protivrečnost.** Rupa je bila popunjena pre nego što je viđena.
+> **Čitalac nema registar; lektor koji ga ima ne čita knjigu nego svoje beleške.**
+>
+> **Uz to su radila još dva mehanizma, oba upisana da se prepoznaju:**
+> **čitanje sa zadatkom** (knjiga je čitana da bi se napisalo novo poglavlje, pa se
+> čitalo za glasom i scenama, a ne za greškom), i **slepilo za odsustvo** — „evo imena"
+> se vidi, a „ovde ga nema a tamo ga ima" traži poređenje kroz sve fajlove.
+
+**Sukob koji ovo otvara, i priznaje se umesto da se zataška:** redosled propisan u
+`CLAUDE.md` *(tri fajla, tim redom, pre svega)* **štiti knjigu od ponovnog otvaranja
+zatvorenog, ali oslepljuje za nesuglasice.** Oba su stvarna. **Rešenje nije ukinuti
+redosled nego razdvojiti dva posla:**
+
+| posao | šta se čita prvo |
+|---|---|
+| **rad na poglavlju** *(pisanje, prepravka)* | **dokumenti prvo** — da se ne otvori zatvoreno |
+| **lektorski prolaz** *(traženje nesuglasica)* | **tekst prvo, gol** — pa tek onda registar |
+
+**Nikad oba u istom prolazu.**
+
 **M (novo) — sprat se prijavljuje uz nalaz.** Svaka Helenina ocena, pohvala ili primedba mora reći **na kom spratu govori** — rečenica, poglavlje ili knjiga. Zabranjeno mešati spratove u jednoj presudi. „Ovo nije na nivou" bez sprata je bezvredna rečenica.
 > Razlog: knjiga je na spratu rečenice pogodila cilj, a na spratu knjige nije bila ni merena. Mešanje ta dva daje lažnu presudu u oba smera.
 

@@ -2723,3 +2723,33 @@ Zapis je govorio da ostaje *„jedno poglavlje i dve male prepravke"*. **Netačn
 dvanaest od četrnaest poteza** — tri u `Pukotini`, dva u `Krvi`, sedam u `Maski`.
 Pet poteza je sažeto u „dve male prepravke". **Sažimanje spiska poslova je način na koji
 posao iz njega ispada**, i zato je ispravljeno u tabelu koja broji.
+
+### 6. Drugo autorovo pitanje — zašto lektor nije pitao „ko je ko" *(31.08.2026)*
+
+**Pitanje:** rečeno mi je da knjigu pročitam **kao lektor**; primetila sam mnogo toga i
+ocenila knjigu visoko, a nisam primetila da je u jednom poglavlju „Jovana" a u drugom
+„devojka sa šeširom" — i nisam pitala **ko je ko**.
+
+**Odgovor, i on je o redosledu, ne o pažnji.**
+
+Nisam pitala zato što sam **odgovor imala pre nego što sam otvorila knjigu.** Propisani
+redosled je `NASTAVAK` → `PLAN_RADA` → `REGISTAR` → tekst. Kad sam stigla do `Ulaska`, u
+glavi je već stajalo *„ona pod šeširom = Jovana"*, pa je ime u trećem poglavlju
+pročitano kao **potvrda, ne kao protivrečnost.** **Čitalac nema registar. Lektor koji ga
+ima ne čita knjigu nego svoje beleške.**
+
+**Dva mehanizma su radila uz to:**
+
+- **Čitanje sa zadatkom.** Knjiga je čitana da bi se napisao `Ivičnjak` — dakle za
+  glasom, scenama i za onim što novom poglavlju treba. Ko čita sa zadatkom, čita ono što
+  mu treba, ne ono što ne valja.
+- **Slepilo za odsustvo.** „Evo imena" je vidljivo. „Ovde imena nema, a tamo ga ima"
+  traži poređenje kroz svih petnaest fajlova i ne javlja se samo od sebe.
+
+**I jedan nalaz o sopstvenom izveštaju:** sve ocene su bile na spratu **rečenice** i
+**poglavlja**. Nijedna nije data na spratu **knjige** o sistemu imena — a taj sistem je
+jedno od glavnih oružja knjige (Pravilo M je time formalno ispoštovano, a suštinski nije).
+
+**Upisano kao Pravilo R** u `FINALNI_PROLAZ_PRAVILA.md` i kao izuzetak u `CLAUDE.md`:
+**lektorski prolaz ide obrnutim redom — tekst prvo, go, pa registar.** Rad na poglavlju i
+traženje nesuglasica se **nikad ne rade u istom prolazu.**
