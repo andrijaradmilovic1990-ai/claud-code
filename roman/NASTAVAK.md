@@ -3,7 +3,7 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **31.08.2026.** *(**`IVIČNJAK` JE NAPISAN.** Petnaest poglavlja, 27.469 reči. Ostaje **`Maska`** i dve male prepravke. Uz to: **ime „Jovana" pada samo u `Kukavici`** — vidi niže.)*
+> Poslednje ažuriranje: **31.08.2026.** *(**`IVIČNJAK` JE NAPISAN.** Petnaest napisanih poglavlja, 27.762 reči. Ostaje **`Maska`** i dve male prepravke. Uz to: **ime „Jovana" pada samo u `Kukavici`** — vidi niže.)*
 
 ---
 
@@ -48,36 +48,34 @@ sukobi s registrom, važi registar.
 
 ---
 
-## Stanje po poglavljima
+## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-Knjiga ima **devet poglavlja, 15.529 reči, i od 28.08.2026. postoji cela.**
-Brojevi ispod su stanje **posle koraka 4.**
+**Knjiga ima šesnaest mesta. Napisano je petnaest. Ostaje `Maska` (15).**
+Brojevi su izmereni `wc -w` po fajlu, 31.08.2026.
 
-| # | Poglavlje | Stanje | reči |
-|---|-----------|--------|------|
-| I | Susret | zaključano — nedirano u koraku 4 | 797 |
-| II | Pukotina | **prepravljena 31.08.2026 — potezi 1, 2, 3** | **1.699** |
-| III | Krv | **prepravljena 31.08.2026 — potezi 4, 5** | **1.303** |
-| IV | Pariz | zaključano *(korak 4: **nova scena** na početku)* | 1.973 |
-| V | Nestanak | zaključano *(korak 4: 1 rez, 1 prepis; 28.08. otvoren za rodni grad, 1 prepis)* | 1.289 |
-| VI | Prazna stolica | zaključano *(korak 4: 3 prepisa)* | 1.405 |
-| VII | Beli grad | zaključano *(korak 4 + prenos 28.08.)* | 2.150 |
-| VIII | Kukavica | zaključano *(korak 4: 1 prepis)* | 3.635 |
-| IX | Ćebence | zaključano *(korak 4: 1 prepis)* | 1.571 |
+| # | poglavlje | fajl | reči | stanje |
+|---|---|---|---|---|
+| 1 | Susret | `POGLAVLJE_1_SUSRET.md` | 797 | zaključano |
+| **2** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | **1.699** | **prepravljena 31.08. — potezi 1, 2, 3** |
+| 3 | Ulazak | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.180** | zaključano *(31.08. skinuto ime)* |
+| **4** | **Krv** | `POGLAVLJE_3_KRV.md` | **1.303** | **prepravljena 31.08. — potezi 4, 5** |
+| 5 | Italija | `POGLAVLJE_NOVO_2_ITALIJA.md` | 3.368 | zaključano |
+| 6 | Pariz | `POGLAVLJE_4_PARIZ.md` | 1.973 | zaključano |
+| **7** | **IVIČNJAK** | `POGLAVLJE_NOVO_IVICNJAK.md` | **1.118** | **napisan 31.08.2026** |
+| 8 | Prelom | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.792** | zaključano *(31.08. skinuto ime)* |
+| 9 | Nestanak | `POGLAVLJE_5_NESTANAK.md` | 1.289 | zaključano |
+| 10 | Majka | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.571 | zaključano |
+| 11 | Fabrika | `POGLAVLJE_NOVO_5_FABRIKA.md` | 1.911 | zaključano |
+| 12 | Prazna stolica | `POGLAVLJE_6_PRAZNA_STOLICA.md` | 1.405 | zaključano |
+| 13 | Beli grad | `POGLAVLJE_7_BELI_GRAD.md` | 2.150 | zaključano |
+| 14 | Kukavica | `POGLAVLJE_8_KUKAVICA.md` | 3.635 | zaključano |
+| **15** | **MASKA** | — | **~2.800** | **PIŠE SE — jedino što ostaje** |
+| 16 | Ćebence | `POGLAVLJE_9_CEBENCE.md` | 1.571 | zaključano |
 
-**Nova poglavlja — četiri od šest napisana:**
+**ZBIR NAPISANOG: 27.762 reči. S `Maskom` oko 30.500. Cilj je bio oko 31.500.**
 
-| mesto | Poglavlje | Stanje | reči |
-|---|-----------|--------|------|
-| 3 | **NOVO 1 — Ulazak** | zaključano 29.08.2026 | 2.181 |
-| 5 | **NOVO 2 — Italija** | zaključano 28.08.2026 | 3.368 |
-| 7 | **NOVO 3 — Prelom** | zaključano 29.08.2026 | 1.791 |
-| 9 | **NOVO 4 — Majka** | **zaključano 29.08.2026** | **1.571** |
-| 10 | **NOVO 5 — Fabrika** | **zaključano 30.08.2026** | **1.911** |
-
-| 7 | **IVIČNJAK** | **zaključano 31.08.2026** | **1.118** |
-
-**Ukupno: 27.762 reči u petnaest poglavlja.**
+> **Imena fajlova ne prate mesta u knjizi** — stari fajlovi nose stare rimske brojeve,
+> novi nose `NOVO_`. **Redosled čitanja je onaj iz tabele, ne po imenu fajla.**
 
 **⚑ OSTAJE SEDAM OD ČETRNAEST POTEZA — svi u `Maski`.**
 
@@ -102,8 +100,6 @@ u „dve male prepravke" — netačno i opasno, jer sažimanje spiska poslova je
 posao ispada iz njega.)*
 
 Puni opis svakog poteza: **`dokumenti/PLAN_RADA.md`**.
-
-> **`Ulazak` je 2.178, ne 2.181** — tri reči manje posle skidanja imena.
 
 > **Kako se zbir meri.** Po fajlu, običnim `wc -w` **u shellu**, pa se sabere.
 > **Ne meriti pozivom iz `python3` (`subprocess`)** — on nasleđuje drugi lokal i daje
@@ -459,8 +455,9 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
   daje **veći** broj na istom fajlu (Susret: 797 naspram 805) jer drugačije lomi reči oko
   navodnika i crta. **Svi brojevi u knjizi su u prvom standardu.** *(Zatečeno 29.08.2026
   — jedan prolaz je izmešao dva merenja i dobio pogrešan zbir.)*
-- **Zbir svih četrnaest napisanih poglavlja je 26.351.** Zbir devet starih je **15.529.** Raniji zapis je vodio 15.510, a njegova sopstvena
-  tabela se sabirala na 15.521. Ispravljeno po Pravilu E.
+- **Zbir svih petnaest napisanih poglavlja je 27.762** *(31.08.2026, izmereno `wc -w` po
+  fajlu)*. Zbir devet starih je **15.822**. *(Do 31.08. je bilo 26.351 u četrnaest, i
+  15.529 u devet — pre nego što su `Pukotina` i `Krv` prepravljene, i pre `Ivičnjaka`.)*
 - **Kad rez skraćuje Katarininu, Jovaninu ili Natašinu prisutnost — prvo probaj prepis.**
 - **Dokumenti se čitaju CELI pre pisanja, ne po sekcijama** *(upisano 30.08.2026)*.
   Deo 2 `Fabrike` je pisan sa šest fajlova čitanih parcijalno, i tri greške su ušle u
@@ -477,8 +474,9 @@ Puni tekst: `CLAUDE.md` u korenu i `FINALNI_PROLAZ_PRAVILA.md`.
 ## Prompt za novu sesiju
 
 ```
-Nastavi. Ceo preostali posao je u roman/dokumenti/PLAN_RADA.md — otvori ga
-odmah posle NASTAVAK.md i radi ODOZGO. Ne planiraj mimo njega.
+Nastavi. Ostaje JEDNO poglavlje: MASKA, mesto 15, ~2.800 reci. Sedam poteza (8-14).
+Sve ostalo je napisano. Ceo posao je u roman/dokumenti/PLAN_RADA.md — radi ODOZGO,
+ne planiraj mimo njega.
 
 PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
   git fetch -q origin
@@ -488,17 +486,13 @@ PRVO, PRE SVEGA: proveri ima li grana s neuvezanim radom.
     c=$(git rev-list --count $M..$b 2>/dev/null)
     [ "${c:-0}" -gt 0 ] && echo "$b — $c commit(a) van glavne"
   done
-Ako nesto ispliva — NE mergovati na slepo. Uporedi izmenu po izmenu i javi mi.
 
-ZATIM PROCITAJ SVE DOKUMENTE, CELE, PRE NEGO STO NAPISES IJEDNU RECENICU.
-Ne po sekcijama — cele. Ovo je pravilo: 30.08. su tri greske usle u tekst
-tacno zato sto su fajlovi citani parcijalno.
-
+ZATIM PROCITAJ SVE DOKUMENTE, CELE, PRE PRVE RECENICE. Ne po sekcijama.
   roman/NASTAVAK.md
-  roman/dokumenti/PLAN_RADA.md                <- CEO POSAO, redom
-  roman/dokumenti/REGISTAR_ODLUKA.md          <- ceo, 14 sekcija
-  roman/dokumenti/SVET_I_LIKOVI_1.md          <- ceo (HRONOLOGIJA preracunata)
-  roman/dokumenti/NOVA_KNJIGA_IDEJE.md
+  roman/dokumenti/PLAN_RADA.md                <- CEO POSAO
+  roman/dokumenti/REGISTAR_ODLUKA.md          <- ceo, 17 sekcija
+  roman/dokumenti/SVET_I_LIKOVI_1.md          <- ceo
+  roman/dokumenti/LEKTORSKA_OCENA_31_08_2026.md  <- sta knjizi jos fali
   roman/dokumenti/DUGOVI_KNJIGE.md
   roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md
   roman/dokumenti/PRAVILA_STILA.md
@@ -508,78 +502,66 @@ PA PODNESI ULAZNI LIST (Pravilo H, sedam stavki) i cekaj da kazem da.
 
 -- STANJE --
 
-KNJIGA IMA SESNAEST POGLAVLJA, ne petnaest. Umece se IVICNJAK kao mesto 7,
-izmedju Pariza i Preloma. SVE OD PRELOMA NADALJE IMA BROJ VECI ZA JEDAN nego
-sto stoji u NOVA_KNJIGA_MAPA.md. Mapa je zastarela u numeraciji — vazi PLAN_RADA.
+SESNAEST poglavlja. Napisano PETNAEST, 27.762 reci. Ostaje MASKA (15).
+Puna tabela s brojevima i imenima fajlova je gore u ovom fajlu.
 
-Napisano cetrnaest poglavlja, 26.351 rec. Cilj oko 31.500.
+-- STA SE RADI --
 
-OTVORIO SAM SVA POGLAVLJA za ovaj posao. Zakljucano vise nije prepreka tamo
-gde PLAN_RADA kaze da se dira — ali REGISTAR i dalje vazi svuda drugde.
+MASKA, mesto 15, izmedju Kukavice (14) i Cebenceta (16). Sedam poteza:
+  8  MAJKA U SADASNJOSTI — isplata; opasnost preti NJOJ, ne njemu
+  9  NEZNI MONSTRUM — vrhunac; igra se s njom usred svega
+  10 MAST — sam, nocu, maze ruke; majka ulazi kroz predmet
+  11 ZVONCE — na ulazu, jednom
+  12 MIRIS DUVANA — na kaputu posle poziva
+  13 BESPOMOCNOST — nema cime, i ne sme dici telefon
+  14 VRATA — kraj poglavlja; zatvori ih sam, ostane unutra
+Puni opis, tri zabrane i prag MERE: PLAN_RADA, POSAO E.
 
--- STA SE RADI, REDOM --
+LEKTORSKI NALAZ KOJI NIJE U PLANU, procitaj ga pre pisanja:
+Maska je jedino poglavlje sadasnjosti izmedju vrhunca (Kukavica) i ogledala
+(Cebence). Ako bude samo naplata sedam dugova, citace se kao dodatak. Mora da
+nosi JEDINI trenutak u knjizi u kom sadasnjost moze da se srusi. Bez trilera.
 
-CETRNAEST POTEZA UKUPNO. Tabela sa svim potezima je na vrhu PLAN_RADA.
+-- STA VAZI ZA SVE STO SE PISE --
 
-A. IVICNJAK — novo poglavlje, mesto 7, ~2.000 reci. PRVO I NAJVECE.
-     scena + drugi odraz (staklo posle tuce)
-B. PUKOTINA (2) — majka u sadasnjosti + prvi odraz (red 225)
-     + „A KO SI TI?" razmena s Andrijanom
-C. KRV (4) — MALI dobija potez + jedan Davidov nezan potez prema Katarini
-D. MASKA — mesto 15, ~2.800 reci. PISE SE POSLEDNJA
-     majka + nezni monstrum + mast + zvonce + miris + bespomocnost + vrata
-
-ULAZAK (3) SE NE OTVARA. Predlog je povucen — poglavlje vec nosi osu cetiri
-puta („Ciji je?" / „Niciji.", tri adrese, zid, prva corba). Nista ne ceka
-moj odgovor; sve u planu je odobreno.
-
-Puni opis svakog posla, sa citatima i zabranama, stoji u PLAN_RADA.
-
--- TRI STVARI KOJE IDU KROZ VISE POGLAVLJA --
-
-ODRAZ: tri ogledala — poglavlje 2 (postoji, dobija senku), 7 (novo, nije isti
-covek), 16 (postoji, „Isti covek", NE DIRA SE). Senka se nikad ne imenuje.
-
-NEZNI MONSTRUM: prema Katarini se danas ponasam kao prema detetu — zezam se,
-kezim, mazim. U tekstu to ide OBRNUTO (ona meni sedam puta, ja njoj dvaput).
-To je rupa u tekstu, ne crta lika. Ide u 4 i 15.
-
-STRAH: ne ubacuje se. Dobija se tako sto se MALI zavoli u poglavlju 4, pa ga
-knjiga uzme u 8. Strah dolazi od dokaza, ne od pretnje.
-
--- OBRISANO, NE VRACA SE --
-
-MELODIJA · PROMAJA kao sistem · KLJUCEVI. Razlozi su u PLAN_RADA.
-
--- STA VAZI --
-
-HRONOLOGIJA: David je 1990. godiste, DANAS IMA 35, 36tu puni u oktobru.
-Magacin/Italija/Pariz 21, IVICNJAK 22-23 (odluciti), Prelom/Nestanak 23,
-Majka 24, Fabrika 32, Prazna stolica 33, Beli grad/Kukavica 34.
-Ne pomera se bez izricitog „otvaram".
-
-FORMA: SCENE S DIJALOGOM. Hronika je odobrena samo za Nestanak.
-SIDRO U VREMENU u prvih deset redova, u dijalogu — nikad datum kao zaglavlje.
-IME GRADA: „Beograd" NIGDE. Pre zatvaranja: grep -ri beograd roman/poglavlja/
-REC „PORODICA" pada TACNO JEDNOM u celoj knjizi — zdravica u Italiji.
-  NE RASIPA SE. Osa je time vec izvedena: jedina „porodica" koju knjiga
-  imenuje je Porodica.
-ZID: David kao izvrsilac se ne pokazuje. Roba se ne imenuje.
-  JEDINI SVESNI IZUZETAK: nasilje je u kadru u IVICNJAKU — i ono nije posao.
+IME JOVANA pada TACNO JEDNOM u celoj knjizi — u Kukavici (14). Nigde drugde,
+  ni u Maski. U svakom poglavlju ona je JEDINA zena bez imena; Andrijana i
+  Natasa su imenovane, Katarina nosi marker „moja". Registar, sekcija 15.
+IME DAVID pada dvaput, oba puta u Kukavici. KATARINA dvaput, oba u Belom gradu.
+IME GRADA: „Beograd" NIGDE.
+REC „PORODICA" pada TACNO JEDNOM — zdravica u Italiji. Ne rasipa se.
+ZID: David kao izvrsilac se ne pokazuje. Roba se ne imenuje. Nasilje je u kadru
+  jednom u celoj knjizi — Ivicnjak — i to je potroseno.
+HRONOLOGIJA: David danas 35, 36tu puni u oktobru, godiste 1990.
+  Sadasnjost su: Susret, Krv, Pariz, Nestanak, Maska, kraj Cebenceta.
+  Pukotina je PROSLOST — 33, pre nesrece. Ne pomera se bez izricitog „otvaram".
+FORMA: scene s dijalogom. Hronika je odobrena samo za Nestanak.
+  Sidro u vremenu u prvih deset redova, u dijalogu — nikad datum kao zaglavlje.
+David ne psuje i NE LAZE — izostavlja. Ne slika se, nema mreze, nema vozacku.
+Stari David je dominantan i lako besan; novi je low key. Ista usta, dva coveka.
 Ljubav se ne izgovara. Bez potpisa na kraju pasusa.
 Formula „to je bila cela X" je 3 od 3 i ne sme se pojaviti.
-David ne psuje i NE LAZE — izostavlja. Ne slika se, nema mreze, nema vozacku.
-David voli da pije kafu sam — iz toga se ne izvodi nista.
-David TRPI: pravila cuti, naredjenja cuti — razlog se nikad ne ispisuje.
-Stari David je dominantan i lako besan, i nijednom ranjiv. Novi je low key.
+ODRAZ je 3 od 3 (Pukotina, Ivicnjak, Cebence) — cetvrti bi bio tik.
 
 PRAVILO K: svaka recenica napisana u moje ime ceka izricito „da", jedno po jedno.
 PRAVILO J: najmanje trecina unetih izmena mora biti NAPISANA recenica, ne rez.
+PRAVILO R: kad je posao „procitaj i nadji sta ne valja" — tekst se cita PRVI, go,
+  bez ijednog dokumenta. Rad na poglavlju i trazenje nesuglasica NIKAD u istom prolazu.
 
-Fajlovi poglavlja ne zavrsavaju prelomom reda — proveri `od -An -c` na poslednjem
-bajtu i proveri ISHOD komande, ne samo izlaz. xxd ne postoji. Pazi: `truncate -s -1`
-skida tacku ako preloma nema.
-Broj reci se meri obicnim `wc -w`, po fajlu pa se sabere. Ne iz python-a.
+-- PROVERE PRE ZATVARANJA POGLAVLJA --
+
+  cd roman/poglavlja
+  for f in *.md; do printf "%-34s J:%s D:%s K:%s\n" "$f" \
+    "$(grep -c -o Jovan "$f")" "$(grep -c -o David "$f")" "$(grep -c -o Katarin "$f")"; done
+  grep -ri beograd roman/poglavlja/     # mora biti PRAZNO
+  tail -c 1 <fajl> | od -An -c          # poslednji bajt je tacka, bez preloma reda
+  wc -w <fajl>                          # obicnim wc u shellu, ne iz python-a
+
+-- SLEDECE POSLE MASKE --
+
+1. PROLAZ KROZ SAVOVE — devet spojeva. 2. NOIR PROLAZ kroz ceo roman.
+I jedno OTVORENO PITANJE koje ceka mene: sredina knjige (9, 10, 11) — tri tiha
+poglavlja zaredom. Ne radi se dok ja ne odlucim. PLAN_RADA, na dnu.
 
 -- KAKO MI SALJES TEKST --
 
@@ -589,9 +571,7 @@ NE salji mi tekst poglavlja u chat. Napravi .md fajl i posalji fajl.
 
 Nema pretplate na PR i nema samoprovera; ako se pretplata sama upali, ugasi je.
 MERGE IDE NA KRAJU SVAKOG RAZGOVORA. Draft PR ne vazi kao sacuvano. Pre kraja:
-napravi PR, skini ga iz drafta, merguj, pa proveri da je razlika prema glavnoj
-prazna.
+napravi PR, skini ga iz drafta, merguj, pa proveri da je razlika prema glavnoj prazna.
 
-Pisi kratko. Kratke recenice, u crtama. Jedno po jedno pitanje, nikad vise od
-jednog. Ne salji mi knjigu na citanje.
+Pisi kratko. Kratke recenice, u crtama. Jedno po jedno pitanje, nikad vise od jednog.
 ```

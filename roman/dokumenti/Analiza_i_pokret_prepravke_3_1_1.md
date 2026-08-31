@@ -2772,3 +2772,45 @@ Sve odluke i sve zabrane: `REGISTAR_ODLUKA.md`, **sekcija 17.**
 
 **Provera posle unosa:** ime „Jovana" 0 svuda osim `Kukavice` · „Beograd" 0 · „porodica" 1 ·
 formula 3/3 · refren 5/5 · svih petnaest fajlova bez preloma reda.
+
+### 8. Revizija cele dokumentacije *(31.08.2026, kraj sesije)*
+
+**Zadatak autora:** proći svu dokumentaciju, proveriti, mergovati sve — tako da sledeća
+sesija može samo da pregleda i **završi knjigu.**
+
+**Nađeno i ispravljeno — svuda su brojevi bili zastareli, u sedam fajlova:**
+
+| fajl | šta je bilo netačno |
+|---|---|
+| `NASTAVAK.md` | zbir 27.469; dve odvojene tabele poglavlja plus jedan siroti red; **prompt za novu sesiju je vodio četrnaest poglavlja i dva preostala** |
+| `README.md` | 26.351 u četrnaest; tabele s brojevima od pre prepravki |
+| `CLAUDE.md` | nosio samo stanje od 30.08. |
+| `PLAN_RADA.md` | „STANJE NA 30.08." — četrnaest poglavlja, dve male prepravke |
+| `NOVA_KNJIGA_MAPA.md` | „ostaju DVA"; Ulazak 2.181, Prelom 1.791 |
+| `SVET_I_LIKOVI_1.md` | tabela strukture: Pukotina 1.574, Krv 1.135, zbir 15.529 |
+| `FINALNI_PROLAZ_PRAVILA.md` | snimak od 28.08. bez oznake da je zastareo |
+| `REGISTAR_ODLUKA.md` | Ulazak 2.181, Prelom 1.791 |
+
+**Dnevnik nije diran** — stari zapisi su istorija rada i ne prepisuju se.
+
+**Najvažnija izmena je `NASTAVAK.md`:**
+
+1. **Jedna tabela svih šesnaest mesta**, u redosledu čitanja, s imenima fajlova i
+   izmerenim brojevima — umesto dve tabele koje su se preklapale. Uz nju upozorenje da
+   **imena fajlova ne prate mesta u knjizi.**
+2. **Prompt za novu sesiju prepisan ceo.** Stari je vodio četrnaest poglavlja i dva
+   preostala; novi vodi petnaest i **samo `Masku`**, s pravilima o imenima, hronologijom
+   *(uključujući `Pukotinu` na 33)*, Pravilom R, brojačem imena i lektorskim nalazom o
+   tome šta `Maska` mora da nosi.
+
+**Merene, ne prepisane vrednosti:** Susret 797 · Pukotina 1.699 · Ulazak **2.180** ·
+Krv 1.303 · Italija 3.368 · Pariz 1.973 · Ivičnjak 1.118 · Prelom **1.792** ·
+Nestanak 1.289 · Majka 1.571 · Fabrika 1.911 · Prazna stolica 1.405 · Beli grad 2.150 ·
+Kukavica 3.635 · Ćebence 1.571. **Zbir 27.762.** Devet starih: **15.822.**
+
+> `Ulazak` i `Prelom` su za po jednu reč drugačiji nego što je upisano 31.08. ujutru —
+> posle skidanja imena i njihove zamene. **Merenje je autoritet, ne raniji zapis.**
+
+**Završna provera pred kraj sesije:** ime „Jovana" 0 svuda osim `Kukavice` (43) ·
+„David" 2 samo `Kukavica` · „Katarina" 2 samo `Beli grad` · „Beograd" 0 · „porodica" 1 ·
+formula 3/3 · refren 5/5 · svih petnaest fajlova završava tačkom bez preloma reda.

@@ -569,6 +569,9 @@ Obim *(brojevi redova iz vremena pre podele VII — istorijski zapis)*: I (59), 
 > **Stanje na 28.08.2026, posle koraka 4 — u rečima:** I 797 · II 1.574 · III 1.135 ·
 > IV 1.973 · V 1.289 · VI 1.405 · VII 2.150 · VIII 3.635 · IX 1.571.
 > **Ukupno 15.529 reči.** *(Ispravljeno 30.08.2026 po Pravilu E.)*
+>
+> **⚑ ZASTARELO OD 31.08.2026 — ovo je snimak devet starih poglavlja.** Knjiga danas ima
+> **šesnaest mesta, petnaest napisanih, 27.762 reči.** Tačni brojevi su u `NASTAVAK.md`.
 
 ---
 

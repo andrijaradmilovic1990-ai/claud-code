@@ -12,12 +12,15 @@
 
 ---
 
-## STANJE NA 30.08.2026
+## STANJE NA 31.08.2026
 
-- Napisano **četrnaest poglavlja, 26.351 reč** *(provereno `wc -w` po fajlu)*.
-- **Autor je otvorio sva poglavlja** za ovaj posao — izričito, 30.08.2026.
-- **Knjiga ide na ŠESNAEST poglavlja**, ne petnaest. Umeće se `Ivičnjak`.
-- Ostaje da se napiše **dva poglavlja** i urade **dve male prepravke** — ukupno **četrnaest poteza**, spisak odmah ispod.
+- Napisano **petnaest poglavlja, 27.762 reči** *(izmereno `wc -w` po fajlu)*.
+- **Ostaje jedno poglavlje: `MASKA` (mesto 15)** i **sedam poteza — svi u njoj.**
+- **Sedam poteza plaćeno 31.08.2026:** `Pukotina` tri, `Krv` dva, `Ivičnjak` dva.
+- **Knjiga ima ŠESNAEST poglavlja.**
+
+> *Stanje na 30.08.2026, radi istorije: četrnaest poglavlja, 26.351 reč; ostajali su
+> `Ivičnjak` i `Maska` uz pet prepravki.*
 
 ---
 
@@ -65,12 +68,12 @@ poslovima A–D.
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
 | **2** | **Pukotina** | **PREPRAVLJENA 31.08.2026** | **1.699** |
-| 3 | Ulazak | **otvoren 31.08. samo za ime** *(registar 15)* | 2.178 |
+| 3 | Ulazak | **otvoren 31.08. samo za ime** *(registar 15)* | 2.180 |
 | **4** | **Krv** | **PREPRAVLJENA 31.08.2026** | **1.303** |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
 | 6 | Pariz | zaključano, **ne dira se** | 1.973 |
 | **7** | **IVIČNJAK** | **NAPISAN 31.08.2026** | **1.118** |
-| 8 | Prelom | **otvoren 31.08. samo za ime** *(registar 15)* | 1.791 |
+| 8 | Prelom | **otvoren 31.08. samo za ime** *(registar 15)* | 1.792 |
 | 9 | Nestanak | **ne dira se** — menja mu se značenje | 1.289 |
 | 10 | Majka | **ne dira se** | 1.571 |
 | 11 | Fabrika | **ne dira se** | 1.911 |
@@ -80,7 +83,7 @@ poslovima A–D.
 | **15** | **MASKA** | **PIŠE SE — posao E** | ~2.800 |
 | 16 | Ćebence | zaključano, **ne dira se** | 1.571 |
 
-**Očekivani zbir: oko 31.500 reči.**
+**Napisano 27.762 reči. S `Maskom` oko 30.500.**
 
 > **Numeracija se pomerila.** Sve od `Preloma` nadalje ima **broj veći za jedan** nego u
 > `NOVA_KNJIGA_MAPA.md`. Stariji zapisi koji kažu „mesto 14 — Maska" misle na **mesto 15**.

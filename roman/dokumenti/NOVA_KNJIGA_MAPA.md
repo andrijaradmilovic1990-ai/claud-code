@@ -47,11 +47,11 @@
 |---|---|---|---|---|
 | **1** | **Susret** | staro `I` | sadašnjost (12 g. posle) | 797 |
 | **2** | **Pukotina** | staro `II` | sadašnjost | 1.574 |
-| **3** | **NOVO 1 — Ulazak** | **novo** | David ima 15 | **2.181 — NAPISANO** |
+| **3** | **NOVO 1 — Ulazak** | **novo** | David ima 15 | **2.180 — NAPISANO** |
 | **4** | **Krv** | staro `III` | stari svet | 1.135 |
 | **5** | **NOVO 2 — Italija** | **novo** | David ima 21 | **3.368 — NAPISANO** |
 | **6** | **Pariz** | staro `IV` | stari svet, „pre 14 g." | 1.973 |
-| **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.791 — NAPISANO** |
+| **7** | **NOVO 3 — Prelom** | **novo** | stari svet, kraj | **1.792 — NAPISANO** |
 | **8** | **Nestanak** | staro `V` | jutro odlaska + 12 g. | 1.289 |
 | **9** | **NOVO 4 — Majka** | **novo** | prva godina posle, David ima 24 | **1.571 — NAPISANO** |
 | **10** | **NOVO 5 — Fabrika** | **novo** | David ima 32 — 9 g. posle povratka | **1.911 — NAPISANO** |
@@ -62,7 +62,7 @@
 | **15** | **Ćebence** | staro `IX` | sadašnjost, posle 1 | 1.571 |
 
 **Zbir: oko 30.500 reči.** Cilj pogođen bez prebacivanja.
-*(Napisano do 30.08.2026: **26.351 reč** u četrnaest poglavlja. **Od 30.08.2026. ostaju DVA: `Ivičnjak` — novo, mesto 7 — i `Maska`, koja je sad mesto 15. Vidi upozorenje na vrhu i `PLAN_RADA.md`.**)*
+*(**STANJE 31.08.2026: napisano petnaest poglavlja, 27.762 reči. `Ivičnjak` je napisan. OSTAJE SAMO `MASKA`, mesto 15.** Brojevi u tabeli iznad su stari — tačni stoje u `NASTAVAK.md`.)*
 
 ---
 
