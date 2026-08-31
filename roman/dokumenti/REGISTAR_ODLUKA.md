@@ -1539,11 +1539,21 @@ kaže gde je pre nego što obrt padne.
 | **XIII `Beli grad` → XIV `Maska`** | *„u stanu u kom sam još uvek imao jednu fioku"* → `Maska` otvara tu fioku |
 | **XIV `Maska` → XV `Kukavica`** | zatvori svoja vrata i brava klikne → *„Otvorila je pre nego što sam stigao do vrata."* |
 
-## 20.7 — JEDAN ŠAV OSTAVLJEN NAMERNO
+## 20.7 — POSLEDNJI ŠAV ZATVOREN *(odluka autora)*
 
-**X `Majka` → XI `Fabrika`.** `Majka` se završava telefonom *(„Ko je zvao?" / „Niko.")* i
-`Fabrika` počinje **šest godina kasnije** *(„Sedmu godinu.")*, ne pominjući taj poziv.
+**X `Majka` → XI `Fabrika`.** `Majka` se završava telefonom — neko iz starog sveta ga traži,
+majka ga slaže i **glas joj se ne promeni ni za pola tona** — pa mu kaže *„Operi ruke, sipam"*.
+`Fabrika` je počinjala **šest godina kasnije** *(„Sedmu godinu.")* i taj poziv nije pominjala
+nikad više.
 
-**Razmatrano i odbijeno.** Odgovor na taj poziv **jeste** to što se šest godina ništa nije
-desilo. Rečenica koja bi to rekla — objasnila bi. **Ako autor ipak želi da se šav stegne,
-to je jedino mesto u knjizi gde bi jedna rečenica još nešto donela.**
+**Dve rupe odjednom:** preskočeno je šest godina s jedinim putokazom „Sedmu godinu", i
+**telefon nikad nije dobio odgovor.**
+
+**Uneto u `Fabriku`, odmah posle „Sedmu godinu":**
+> *Telefon u majčinoj kući je za to vreme zvonio kad zvoni — komšiluk, ambulanta, greška.
+> Nijednom više onaj.*
+
+**Radi oboje u dva reda:** kaže da je prošlo mnogo vremena, i zatvara onaj poziv **a da ništa
+ne objasni.** Odgovor ostaje ono što je i bio — da se ništa nije desilo — samo je sad izgovoren.
+
+**Time je zatvoren i poslednji od pet šavova. Nema više otvorenih pitanja u repou.**

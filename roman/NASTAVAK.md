@@ -15,7 +15,13 @@
 > **⚑ `ULAZAK` JE PREBAČEN NA MESTO 2** *(odluka autora, treća sesija)*. `Pukotina` je 3,
 > `Krv` 4. **Sve od `Krvi` nadalje stoji kako je stajalo.**
 > **Naslovi svih šesnaest poglavlja su prenumerisani I–XVI** i sad odgovaraju redosledu.
-> **Nema više otvorenih pitanja u repou.**
+>
+> **⚑ SVIH PET ŠAVOVA — mesta gde novo poglavlje stoji između dva stara — PROVERENO JE
+> RED PO RED.** Tri su radila i nisu dirana; **dva nisu radila i popravljena su**
+> *(`Italija`→`Pariz`, `Prelom`→`Nestanak`)*; **šesti, `Majka`→`Fabrika`, zatvoren je
+> poslednji.** Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 20**.
+>
+> **NEMA VIŠE OTVORENIH PITANJA U REPOU. Knjiga je zatvorena.**
 
 ---
 

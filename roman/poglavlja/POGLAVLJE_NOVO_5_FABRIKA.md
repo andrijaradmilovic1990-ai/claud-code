@@ -8,6 +8,8 @@ Ja sam bio na kraju linije. Meni je dolazilo ono što su drugi već složili, i 
 
 Sedmu godinu.
 
+Telefon u majčinoj kući je za to vreme zvonio kad zvoni — komšiluk, ambulanta, greška. Nijednom više onaj.
+
 Kad treba do toaleta, digne se ruka i čeka se da poslovođa nađe nekog da stane na tvoje mesto. Nekad dođe za dva minuta. Nekad te gleda preko hale i klimne glavom da je video, pa ne dođe.
 
 Digao sam ruku i držao je gore dok mi nije klimnuo.
