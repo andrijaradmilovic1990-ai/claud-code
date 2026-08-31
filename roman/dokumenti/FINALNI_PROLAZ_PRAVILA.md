@@ -316,6 +316,20 @@ Traži se: tri i više uzastopna pasusa koja završavaju kratkim udarcem (**form
 
 **8. Kontinuitet.** Brojevi, imena, doba dana, redosled — uz SVET_I_LIKOVI.
 
+**9. Zapečaćena imena — brojač preko cele knjige** *(novo, 31.08.2026)*.
+```
+for f in roman/poglavlja/*.md; do printf "%-34s %s\n" "$f" "$(grep -c -o Jovan "$f")"; done
+```
+**Jovana sme samo u `Kukavici` (14). David samo u `Kukavici`. Katarina samo u
+`Belom gradu` (13). „Beograd" nigde.** Radi se **pre zatvaranja svakog poglavlja**, nad
+**svim** fajlovima, ne samo nad onim koje se piše.
+
+> *Zašto:* 31.08.2026. je nađeno da `Ulazak` (3) i `Prelom` (8) izgovaraju „Jovana" — a
+> `Ulazak` stoji **tri poglavlja pre zaveta** *„Neću je imenovati ovde"*. Prošlo je kroz
+> dve sesije i kroz celo čitanje knjige u nizu. **Uzrok nije čitanje nego to što provere
+> pokrivaju samo ono što je već jednom puklo, a pravilo je uzeto iz registra
+> (*„VII i VIII smeju"*) umesto iz teksta.** Dozvola u dokumentu nije dokaz o rukopisu.
+
 > **Napomena o ponavljanju:** ponovljena reč je ritam kad je konkretna i vraća se s promenjenim teretom („voda" u II); tik je kad je apstraktna („nešto", trinaest puta). Ne brisati prvo zbog drugog.
 
 ---
