@@ -110,6 +110,18 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Ima veze. Vidimo se jednom godišnje i ja se svađam preko telefona.“ Uzela je čašu, spustila je nazad a da nije otpila. „Ceo život mi objašnjava kako se radi nešto što je sad meni na vratu.“
 
+„A tvoja?“
+
+„Šta moja.“
+
+„Petnaest minuta odavde ti je.“
+
+„Znam gde mi je.“
+
+„Nisam pitala gde ti je.“
+
+Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
+
 „Znam kako je to.“
 
 „Ne znaš.“ Brzo, bez uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio.“
@@ -149,6 +161,22 @@ A onda je sama skrenula.
 „Uglavnom“, rekla je, „dobro je što jesi. Izgledaš mirnije nego pre.“
 
 „Star sam, to je sve.“
+
+Okretala je čašu u mestu. Onda je stala.
+
+„Mogu nešto da te pitam?“
+
+„Pitaj.“
+
+„A ko si ti?“
+
+Okrenuo sam šolju u tacni, jednom.
+
+„Kad sam radio loše stvari, isključio sam se i postao neko drugi. Posle sam opet bio ja.“
+
+Klimnula je glavom, polako, kao da to negde slaže.
+
+„A kako znaš da si ti onaj koji se nije isključio“, rekla je, „a ne onaj koji jeste?“
 
 „Nisi star. Star si ti meni.“ Nasmejala se. „Ja sam mlada i lepa, a ti si matora baraba s bradom.“
 
@@ -222,7 +250,7 @@ Mirisala je na luk i na svoj šampon. Na život koji još nisam izabrao do kraja
 
 „Ostajem.“
 
-Otišao sam do kupatila. Pustio toplu vodu preko hladnih ruku i gledao se u tuđem ogledalu, u stanu koji još nije moj.
+Otišao sam do kupatila. Pustio toplu vodu preko hladnih ruku i gledao se u tuđem ogledalu, u stanu koji još nije moj. Sijalica je bila iznad ogledala i malo iza, pa mi je jedna polovina lica bila tamnija od druge. Pomerio sam glavu dok obe nisu bile iste.
 
 Isti čovek. Obrijao bih se, ali brijač je bio njen, roze, stajao je sam na ivici lavaboa, i nisam hteo da ga diram.
 

@@ -28,11 +28,11 @@ poslovima A–D.
 
 | # | potez | gde tačno |
 |---|---|---|
-| **1** | **MAJKA U SADAŠNJOSTI** — postavka, jedna Andrijanina replika | `Pukotina` **2** |
-| **2** | **PRVI ODRAZ** — senka, u postojeću rečenicu, red 225 | `Pukotina` **2** |
-| **3** | **„A KO SI TI?"** — razmena s Andrijanom, njeno pitanje ostaje neodgovoreno | `Pukotina` **2** |
-| **4** | **MALI** — jedan potez u kom on nešto **DA** Davidu, pored motora | `Krv` **4** |
-| **5** | **NEŽNI MONSTRUM** — jedan Davidov nežan potez prema Katarini | `Krv` **4** |
+| ~~**1**~~ | ~~**MAJKA U SADAŠNJOSTI**~~ **URAĐENO 31.08.2026** | `Pukotina` **2** |
+| ~~**2**~~ | ~~**PRVI ODRAZ**~~ **URAĐENO 31.08.2026** | `Pukotina` **2** |
+| ~~**3**~~ | ~~**„A KO SI TI?“**~~ **URAĐENO 31.08.2026** | `Pukotina` **2** |
+| ~~**4**~~ | ~~**MALI**~~ **URAĐENO 31.08.2026** | `Krv` **4** |
+| ~~**5**~~ | ~~**NEŽNI MONSTRUM**~~ **URAĐENO 31.08.2026** | `Krv` **4** |
 | ~~**6**~~ | ~~**CELA SCENA** — napad na nju, David ne staje, njen vrisak ga budi~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | ~~**7**~~ | ~~**DRUGI ODRAZ** — staklo izloga posle tuče~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | **8** | **MAJKA U SADAŠNJOSTI** — isplata; opasnost preti **njoj**, ne njemu | `MASKA` **15** |
@@ -64,9 +64,9 @@ poslovima A–D.
 | # | poglavlje | stanje | reči |
 |---|---|---|---|
 | 1 | Susret | zaključano, **ne dira se** | 797 |
-| **2** | **Pukotina** | **PREPRAVKA — posao B** | 1.574 |
+| **2** | **Pukotina** | **PREPRAVLJENA 31.08.2026** | **1.699** |
 | 3 | Ulazak | **otvoren 31.08. samo za ime** *(registar 15)* | 2.178 |
-| **4** | **Krv** | **PREPRAVKA — posao D** | 1.135 |
+| **4** | **Krv** | **PREPRAVLJENA 31.08.2026** | **1.303** |
 | 5 | Italija | zaključano, **ne dira se** | 3.368 |
 | 6 | Pariz | zaključano, **ne dira se** | 1.973 |
 | **7** | **IVIČNJAK** | **NAPISAN 31.08.2026** | **1.118** |
@@ -171,9 +171,11 @@ Scene s dijalogom. Hronika je odobrena samo za `Nestanak`. Fajl ne završava pre
 
 ---
 
-## POSAO B — `Pukotina` *(poglavlje 2)* — tri poteza
+## POSAO B — `Pukotina` *(poglavlje 2)* — tri poteza — **ZAVRŠENO 31.08.2026**
 
-**Otvara se.** Prve dve su male i obe su **postavke** za `Masku`; treća je razmena s Andrijanom.
+> Sve tri unete. Odluke: `REGISTAR_ODLUKA.md`, **sekcija 17.**
+
+**Otvorena i zatvorena.** Prve dve su male i obe su **postavke** za `Masku`; treća je razmena s Andrijanom.
 
 ### B1 — majka postaje živa u sadašnjosti
 
@@ -258,9 +260,11 @@ vrata; Porodica velikim je sto o kom razmišlja dok leži.**
 > `Maski`, ni u prolazu kroz šavove, ni u noir prolazu. **G1 ne traži posao nego ovu
 > zabranu.**
 
-## POSAO D — `Krv` *(poglavlje 4)* — dva poteza
+## POSAO D — `Krv` *(poglavlje 4)* — dva poteza — **ZAVRŠENO 31.08.2026**
 
-**Otvara se.**
+> Oba uneta. Odluke: `REGISTAR_ODLUKA.md`, **sekcija 17.**
+
+**Otvorena i zatvorena.**
 
 ### D1 — MALI *(najvažnija prepravka u knjizi)*
 
