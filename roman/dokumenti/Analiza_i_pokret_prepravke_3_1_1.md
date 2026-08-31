@@ -2814,3 +2814,24 @@ Kukavica 3.635 · Ćebence 1.571. **Zbir 27.762.** Devet starih: **15.822.**
 **Završna provera pred kraj sesije:** ime „Jovana" 0 svuda osim `Kukavice` (43) ·
 „David" 2 samo `Kukavica` · „Katarina" 2 samo `Beli grad` · „Beograd" 0 · „porodica" 1 ·
 formula 3/3 · refren 5/5 · svih petnaest fajlova završava tačkom bez preloma reda.
+
+### 9. Lektorski nalaz o `Maski` upisan u sam plan *(31.08.2026, na autorov zahtev)*
+
+Nalaz je do tada stajao **samo u lektorskoj oceni i u promptu za novu sesiju** — a ne u
+`POSAO E`, dakle ne tamo gde sledeća sesija čita **sam zadatak.** Autor je rekao da se
+upiše i tu.
+
+**Šta je upisano:** sedam poteza je naplata dugova i **to nije dovoljno.** `Maska` je
+jedino poglavlje sadašnjosti **između vrhunca (`Kukavica`, 14) i ogledala (`Ćebence`, 16)**;
+ako bude samo isplata, čitaće se kao **dodatak umetnut između vrhunca i kraja.** Mora da
+nosi **jedini trenutak u knjizi u kom sadašnjost može da se sruši.**
+
+**Uz nalaz su upisani i brojevi koji ga drže**, da se ne čita kao mišljenje: sadašnjost
+drži **pet** napisanih poglavlja i sva se dešavaju u tri kuhinje i dva kafića; prošlost
+drži **deset** i u njima su svi događaji. **Širenje je to pogoršalo — svako novo poglavlje
+otišlo je u prošlost.** I: u petnaest poglavlja stari svet **nijednom** ne pokaže da može
+da ga dohvati u sadašnjosti; jedini dodir je starac koji dolazi da **zahvali.**
+
+**Tri zabrane oko `Maske` nisu pale i izričito su ponovljene uz nalaz** — ne rešava se
+trilerskom ivicom, ni pucnjem, ni tako što Katarina posumnja, nego time da **održavanje
+maske jednom stvarno zamalo ne uspe.**

@@ -304,6 +304,35 @@ zatvorena. Gledao sam ih dok smo jeli."*). **Ne dirati kraj.**
 
 **Plaća `DUG 1`:** sadašnjost mora nositi opasnost, **kao scena.** Održavanje maske košta.
 
+### ⚑ ŠTA MASKA MORA DA NOSI PORED SEDAM POTEZA *(lektorski nalaz, autor rekao da se upiše — 31.08.2026)*
+
+**Sedam poteza je naplata dugova. To nije dovoljno, i evo zašto — sprat: knjiga.**
+
+`Maska` je **jedino poglavlje sadašnjosti između vrhunca (`Kukavica`, 14) i ogledala
+(`Ćebence`, 16)**. Ako bude samo isplata sedam stavki, **čitaće se kao dodatak umetnut
+između vrhunca i kraja** — a to je najgore mesto na kom poglavlje može da stoji.
+
+**Zato mora da nosi jednu stvar koja nije ni u jednom od sedam poteza:**
+
+> **Jedini trenutak u celoj knjizi u kom sadašnjost može da se sruši.**
+
+**Zašto je to nužno, prebrojano:** sadašnjost drži **pet napisanih poglavlja** — `Susret`,
+`Krv`, `Pariz`, `Nestanak`, `Ćebence` — i sva se dešavaju u **tri kuhinje i dva kafića.**
+Prošlost drži **deset**, i u njima je sve: stolovi, sahrana, tuča, bolnica, poljubac.
+**Deset prema pet, i svi događaji su na jednoj strani.** Širenje knjige je to pogoršalo —
+**svako novo poglavlje otišlo je u prošlost.** `Maska` je jedno protiv deset.
+
+**Uz to: u petnaest poglavlja stari svet nijednom ne pokaže da može da ga dohvati u
+sadašnjosti.** Jedini dodir je starac iz `Susreta`, koji dolazi da **zahvali.** Zbog toga
+je čitaočev strah do sada **teorijski** — zna da je čovek opasan, ali nikad ne vidi da je
+**ugrožen.**
+
+**Tri zabrane ispod i dalje važe u punom obimu** — ovo se **ne** rešava trilerskom ivicom,
+ni pucnjem, ni tako što Katarina posumnja. Rešava se time da **održavanje maske jednom
+stvarno zamalo ne uspe**, i da se vidi šta bi palo s tim.
+
+Puni nalaz: `LEKTORSKA_OCENA_31_08_2026.md`.
+
 ### Tri zabrane — nijedna nije pala
 
 1. **Strah se ne montira u postojeću rečenicu.** Ovo je scena, ne dopuna.

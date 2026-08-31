@@ -86,6 +86,13 @@ Brojevi su izmereni `wc -w` po fajlu, 31.08.2026.
 | ~~`IVIČNJAK` (7)~~ | ~~6, 7~~ | **napisan 31.08.2026** |
 | **`MASKA` (15)** | **8–14** | **ostaje — sedam** |
 
+> **⚑ MASKA MORA DA NOSI I OVO — pored sedam poteza** *(lektorski nalaz, upisan na
+> autorov zahtev 31.08.2026)*. Sedam poteza je naplata dugova. `Maska` je **jedino
+> poglavlje sadašnjosti između vrhunca (`Kukavica`) i ogledala (`Ćebence`)** — ako bude
+> samo isplata, čitaće se kao dodatak. Mora da nosi **jedini trenutak u knjizi u kom
+> sadašnjost može da se sruši.** Bez trilerske ivice, bez pucnja, i **Katarina i dalje ne
+> sumnja.** Puni razlog i brojevi: `PLAN_RADA.md`, POSAO E, i `LEKTORSKA_OCENA_31_08_2026.md`.
+
 **Posle `Maske` slede dva velika prolaza koja diraju skoro sve:** prolaz kroz devet
 šavova, pa **NOIR PROLAZ kroz ceo roman.** Oba su u `PLAN_RADA.md`.
 
