@@ -1,4 +1,4 @@
-# IV — Pariz
+# VI — Pariz
 
 Bio sam u kafiću do kasno, ne zato što sam hteo, nego zato što je kod kuće sve bilo gotovo i ništa nije trebalo raditi. Konobar je već brisao susedne stolove. Kafa treća, hladna, nisam je ni pio.
 
@@ -39,6 +39,8 @@ I ruka mi je stala na vratima frižidera, dlan ravan na hladnom, i nisam više b
 ⁂
 
 Pariz je bio Natašina ideja. Sve gluposti su bile Natašine ideje, i sve najbolje stvari koje su nam se desile počinjale su kao gluposti. Rekla je „idemo u Pariz“ onako kako drugi ljudi kažu „idemo na kafu“ — usred večere, punih usta — i Andrijana je rekla „može“ pre nego što je rečenica završena. Ona treća je slegnula ramenima, što je kod nje uvek značilo da. A ja sam imao novac koji nije smeo da stoji i razloge da nedelju dana ne budem nigde gde me znaju. Tako se to poklopilo. Najlepša nedelja mog života desila se zato što je para morala da se troši a ja da nestanem nakratko.
+
+Jednoj kući preko granice nisam javio da putujem. Rečeno mi je da ne javljam, i to je jedino od svega što mi je tamo rečeno a što sam poslušao odmah.
 
 Putovali smo odvojeno — ja i Andrijana prvi, njih dve dan kasnije. Ne zbog romantike; navika. Nikad svi u isti voz. Niko nije pitao zašto. Moje navike su do tada već primali kao vremenske prilike: ne raspravljaš se s kišom, poneseš kišobran.
 

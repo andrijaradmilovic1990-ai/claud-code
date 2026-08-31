@@ -12,8 +12,10 @@
 > **`dokumenti/POENTA_KNJIGE.md` je i dalje najviši sprat u repou** — iznad plana, mape i
 > zbornika. Čita se odmah posle ovog fajla, pre plana.
 >
-> **Jedno pitanje čeka autora** i jedino je otvoreno u celom repou:
-> **ide li `Ulazak` na mesto 2?** Vidi sekciju odmah ispod.
+> **⚑ `ULAZAK` JE PREBAČEN NA MESTO 2** *(odluka autora, treća sesija)*. `Pukotina` je 3,
+> `Krv` 4. **Sve od `Krvi` nadalje stoji kako je stajalo.**
+> **Naslovi svih šesnaest poglavlja su prenumerisani I–XVI** i sad odgovaraju redosledu.
+> **Nema više otvorenih pitanja u repou.**
 
 ---
 
@@ -57,15 +59,18 @@ Uneto: prelaz posle „A ko si ti?" u `Pukotini` *(tamo nije stajalo ništa)* ·
 „džep" · skinuta treća „leđa uza zid" u `Fabrici` · italijanska kuća dobila svoj pasus u
 `Nestanku` · majka zatvorena.
 
-### 5. ⚑ JEDINO OTVORENO PITANJE U REPOU — `Ulazak` na mesto 2?
+### 5. ⚑ `ULAZAK` PREBAČEN NA MESTO 2 — URAĐENO *(odluka autora)*
 
 **Nalaz:** poglavlja 1 i 2 su **istog oblika** — njegov sto, neko sedne preko puta, on ne
 kaže istinu, pa ide kući i opet ne kaže. Dvaput zaredom, na otvaranju knjige. Zato prvih
 2.500 reči deluju sporo.
 
-**Predlog:** `Ulazak` na 2, `Pukotina` na 3. **Košta nula reči** — menjaju se samo brojevi.
+**Urađeno.** `Ulazak` je 2, `Pukotina` 3. Nijedna rečenica nije dirana zbog premeštanja.
 
-**Čeka „da" ili „ne" od autora. Ne raditi bez toga.**
+**Dobitak koji se pokazao tek posle:** `Ulazak` se završava time što dečak leži budan i misli
+*„kako izgleda onaj dugački sto na ulici kad se sve četiri spoje"* — a `Pukotina` odmah zatim
+otvara čoveka koji za tim stolom sedi sam. **Poslednja slika knjige su tri prazne stolice.**
+Ta linija postoji **samo** ako `Ulazak` stoji ispred `Pukotine`.
 
 ---
 
@@ -146,8 +151,8 @@ Brojevi su izmereni `wc -w` po fajlu, 31.08.2026.
 | # | poglavlje | fajl | reči | stanje |
 |---|---|---|---|---|
 | 1 | Susret | `POGLAVLJE_1_SUSRET.md` | 797 | zaključano |
-| **2** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | **1.695** | **prepravljena 31.08. — potezi 1, 2, 3; potez 1 ispravljen isti dan** |
-| 3 | Ulazak | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.180** | zaključano *(31.08. skinuto ime)* |
+| **2** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.180** | **premešten s 3. na 2. mesto, treća sesija** |
+| **3** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | **1.702** | **premeštena s 2. na 3. mesto** |
 | **4** | **Krv** | `POGLAVLJE_3_KRV.md` | **1.303** | **prepravljena 31.08. — potezi 4, 5** |
 | 5 | Italija | `POGLAVLJE_NOVO_2_ITALIJA.md` | 3.368 | zaključano |
 | 6 | Pariz | `POGLAVLJE_4_PARIZ.md` | 1.973 | zaključano |
@@ -369,8 +374,8 @@ pravilu od 28.08. Nijedno slovo nije dirano. **Svih devet je sad usklađeno.**
 | # | poglavlje | | # | poglavlje |
 |---|---|---|---|---|
 | 1 | Susret *(staro I)* | | 9 | Nestanak *(staro V)* |
-| 2 | Pukotina *(staro II)* | | 10 | Majka *(NOVO 4)* |
-| 3 | Ulazak *(NOVO 1)* | | 11 | Fabrika *(NOVO 5)* |
+| 2 | Ulazak *(NOVO 1)* | | 10 | Majka *(NOVO 4)* |
+| 3 | Pukotina *(staro II)* | | 11 | Fabrika *(NOVO 5)* |
 | 4 | Krv *(staro III)* | | 12 | Prazna stolica *(staro VI)* |
 | 5 | Italija *(NOVO 2)* | | 13 | Beli grad *(staro VII)* |
 | 6 | Pariz *(staro IV)* | | 14 | Kukavica *(staro VIII)* |

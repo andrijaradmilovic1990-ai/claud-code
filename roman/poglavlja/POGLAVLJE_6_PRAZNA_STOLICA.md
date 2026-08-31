@@ -1,4 +1,4 @@
-# VI — Prazna stolica
+# XII — Prazna stolica
 
 Bila je sreda. Srede ne volim — toliko, i ni reč više.
 
@@ -6,9 +6,9 @@ Seo sam za sto u podne, iako nije bila subota i iako nije bio onaj dan u godini.
 
 Konobar je doneo kafu i vodu pre nego što sam seo. Pogledao je dve prazne stolice preko puta, pa treću do mene.
 
-„Čeka se još neko?"
+„Čeka se još neko?“
 
-„Ne", rekao sam. „Ne čeka se niko."
+„Ne“, rekao sam. „Ne čeka se niko.“
 
 Ostao sam sam za stolom za četvoro.
 
@@ -20,51 +20,51 @@ Znao sam pre nego što sam se javio.
 
 Javio sam se posle prvog zvona. Prvi put nisam čekao drugo.
 
-„Šta je."
+„Šta je.“
 
 Čuo sam je kako uzima vazduh. Andrijana ne uzima vazduh pre nego što progovori. Andrijana puca odmah, kao iz cevi.
 
-„Moraš da budeš miran sad", rekla je.
+„Moraš da budeš miran sad“, rekla je.
 
-To „budi miran" je već značilo da mira neće biti.
+To „budi miran“ je već značilo da mira neće biti.
 
-„Reci."
+„Reci.“
 
-„Bila je nesreća." Pauza, kratka, koliko da pređe preko nečeg oštrog. „Ona. Kolima. Sinoć."
+„Bila je nesreća.“ Pauza, kratka, koliko da pređe preko nečeg oštrog. „Ona. Kolima. Sinoć.“
 
 Nisam pitao koja ona. Postoji samo jedna ona o kojoj se zove usred srede.
 
-„Koliko."
+„Koliko.“
 
-„Teško. Ali živa. Na intenzivnoj je." Govorila je ravno, brzo, kao čovek koji je već isplakao svoje pa sad samo prenosi. „Bila je s nekim. Neki njen. On je vozio. Njemu ništa, ni ogrebotina, izašao je sam iz kola. Insistirao je da voze brzo, kažu. Padala je kiša, a on je hteo brzo."
+„Teško. Ali živa. Na intenzivnoj je.“ Govorila je ravno, brzo, kao čovek koji je već isplakao svoje pa sad samo prenosi. „Bila je s nekim. Neki njen. On je vozio. Njemu ništa, ni ogrebotina, izašao je sam iz kola. Insistirao je da voze brzo, kažu. Padala je kiša, a on je hteo brzo.“
 
 Ruka mi je stezala šolju. Gledao sam je sa strane, kao tuđu. Zglobovi beli. Spustio sam je pre nego što pukne.
 
-„Gde je."
+„Gde je.“
 
 Rekla mi je grad. Rekla mi je bolnicu.
 
-„Nisi se javljao mesecima, pa nisam znala kako da ti—"
+„Nisi se javljao mesecima, pa nisam znala kako da ti—“
 
-„Dobro si uradila."
+„Dobro si uradila.“
 
 Ćutanje. Pa, tiše:
 
-„Znam da je bilo zahladnelo među vama. Nisam zvala da te teram nigde. Mislila sam da treba da znaš." Pauza. „Ne moraš ništa."
+„Znam da je bilo zahladnelo među vama. Nisam zvala da te teram nigde. Mislila sam da treba da znaš.“ Pauza. „Ne moraš ništa.“
 
 Već sam znao šta ću.
 
-„Andrijana. Slušaj me sad." Glas mi je sišao negde gde nije bio godinama, ravan, tih, glas kojim se ne moli nego raspoređuje. „Ima jedan čovek u toj bolnici. Doktor. Zapiši ime." Rekao sam joj ime. „Nađi ga, kaži da zoveš u moje ime. Neće pitati ništa. Neka je gleda on, lično, neka joj ne fali ništa — soba, lekovi, čovek koji ne spava dok ona ne ustane na noge. Šta god košta, ne tiče te se. Samo mu kaži moje ime."
+„Andrijana. Slušaj me sad.“ Glas mi je sišao negde gde nije bio godinama, ravan, tih, glas kojim se ne moli nego raspoređuje. „Ima jedan čovek u toj bolnici. Doktor. Zapiši ime.“ Rekao sam joj ime. „Nađi ga, kaži da zoveš u moje ime. Neće pitati ništa. Neka je gleda on, lično, neka joj ne fali ništa — soba, lekovi, čovek koji ne spava dok ona ne ustane na noge. Šta god košta, ne tiče te se. Samo mu kaži moje ime.“
 
-„Otkud ti doktor u—"
+„Otkud ti doktor u—“
 
-„Andrijana."
+„Andrijana.“
 
 Ućutala je. To je ono što ona ume, a malo ko ume: da stane na ivici pitanja i ne zakorači. Deset godina je tako stajala. Zato je još tu.
 
-„Dobro", rekla je. „Reći ću mu."
+„Dobro“, rekla je. „Reći ću mu.“
 
-„I jedno još. Ne zovi me za ovo više. Ja ću zvati tebe." Spustio sam.
+„I jedno još. Ne zovi me za ovo više. Ja ću zvati tebe.“ Spustio sam.
 
 Šolja se ohladila. Voda u čaši stajala mirna, bez ijednog kruga po površini, kao da i ona čeka.
 
@@ -74,31 +74,31 @@ Ne u imeniku. Taj broj nije nigde zapisan, taj broj se ne zapisuje. Ali prsti su
 
 Zvonilo je dvaput.
 
-„Ko je." Glas dubok, naoružan, glas čoveka koji se i u snu javlja spreman.
+„Ko je.“ Glas dubok, naoružan, glas čoveka koji se i u snu javlja spreman.
 
-„Ja sam."
+„Ja sam.“
 
-Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju." Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
+Tišina na drugoj strani. Pa nešto što je kod njega bilo najbliže iznenađenju — jedan udah. „Pa gde si ti, majku ti tvoju.“ Kao da smo se juče rastali. Za takve kao mi vreme ne prolazi, samo se nakuplja.
 
-„Treba mi nešto."
+„Treba mi nešto.“
 
-„Reci."
+„Reci.“
 
 I rekao sam mu. Ime grada. Da je bio jedan, da je vozio, da je insistirao na brzini po kiši, da je izašao iz onih kola sam, na svoje noge, bez ogrebotine, dok su nju vadili na delove.
 
-„Nađi ga", rekao sam. „I uradi mu tačno ono što je on njoj. Ni manje. Koliko je ona slomljena, toliko on. Mera za meru."
+„Nađi ga“, rekao sam. „I uradi mu tačno ono što je on njoj. Ni manje. Koliko je ona slomljena, toliko on. Mera za meru.“
 
-„Koliko mi vremena daješ."
+„Koliko mi vremena daješ.“
 
-„Nema roka. Ima samo da bude."
+„Nema roka. Ima samo da bude.“
 
-„Smatraj gotovim."
+„Smatraj gotovim.“
 
 Hteo je da spusti. Onda je stao.
 
-„Dobro je čuti te", rekao je. „Mislili smo svašta."
+„Dobro je čuti te“, rekao je. „Mislili smo svašta.“
 
-„Mislite i dalje", rekao sam, i prekinuo.
+„Mislite i dalje“, rekao sam, i prekinuo.
 
 Telefon mi je ostao u ruci, vruć uz dlan, i taj njegov glas — pa gde si ti — visio je još u uvu, i nije puštao, i povukao me za sobom kao struja koja te uhvati za članak ispod mirne vode.
 
@@ -110,9 +110,9 @@ On je vozio. Uniforma mu je stajala malo zategnuto oko stomaka, kapa bačena na 
 
 Ja sam pljuvao ljuske kroz prozor i slušao na pola uva.
 
-„Vodu da vam dopunim?"
+„Vodu da vam dopunim?“
 
-„Može", rekao sam.
+„Može“, rekao sam.
 
 Jezik mi je bio pun ljuski.
 
@@ -120,11 +120,11 @@ U gepeku iza nas bilo je nešto što nije smelo da se vidi. Nešto zbog čega sm
 
 Na jednom semaforu, drugi auto, civilni, zatrubio je nestrpljivo iza nas. Čovek za volanom je samo pogledao u retrovizor. Ništa nije rekao, ništa nije uradio. Onaj iza je video šta vozi ispred njega, i ućutao, i propao u svoje sedište kao da bi da nestane. Crveno je trajalo dugo. Niko više nije trubio.
 
-„Vidiš", rekao je čovek, vadeći semenku iz zuba, „ovo je mir. Ovo niko ne može da ti uzme."
+„Vidiš“, rekao je čovek, vadeći semenku iz zuba, „ovo je mir. Ovo niko ne može da ti uzme.“
 
 Stao je pred jednom kapijom koja se otvorila pre nego što smo stigli, jer su nas čekali, jer se za nas kapije otvaraju same. Pre nego što sam izašao, okrenuo se ka meni — taj isti čovek koji će dvanaest godina kasnije, na jedan moj poziv, krenuti da nekom polomi sve što se da polomiti, i neće pitati zašto.
 
-„Šta god ti zatreba", rekao je. „Bilo kad. Znaš gde sam."
+„Šta god ti zatreba“, rekao je. „Bilo kad. Znaš gde sam.“
 
 Izašao sam. Ali leđa su mi i tamo, dok sam izlazio, tražila zid — okrenuo sam se tako da kola ostanu sa strane, ne iza mene, a da to nisam ni odlučio. Čovek za volanom mi je nešto dobacio za pozdrav i ja sam ga čuo postrance, nikad sasvim okrenut.
 
@@ -150,9 +150,9 @@ A ja sam ih digao za jedno popodne. Za nju.
 
 Konobar je prošao, pogledao praznu šolju.
 
-„Još jednu?"
+„Još jednu?“
 
-„Ne." Ustao sam. „Idem."
+„Ne.“ Ustao sam. „Idem.“
 
 Onu stolicu do mene, treću, gurnuo sam nogom pod sto u prolazu, da stoji uredno, da ne smeta nikom. Njenu. Danas mi je smetala.
 

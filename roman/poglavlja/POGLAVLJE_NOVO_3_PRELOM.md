@@ -1,4 +1,4 @@
-# Prelom
+# VIII — Prelom
 
 „Ovamo. Ostavi ga tu, ne diraj ništa.“
 
@@ -164,7 +164,7 @@ Drugi je sačekao da prođe malo.
 
 „Kod mene se ne meša.“
 
-Klimnuo je glavom i ostao još malo da stoji pored mene, valjda da se vidi da je stajao pored mene.
+Ostao je još malo da stoji pored mene, valjda da se vidi da je stajao pored mene.
 
 Treći je došao poslednji i bio je najbliži rodbini od sve trojice.
 
@@ -248,7 +248,7 @@ Andrijana je sedela meni s desne strane i nije jela. Pila je vodu i gledala u sa
 
 „Kući.“
 
-Klimnula je glavom i nastavila da presavija.
+Nastavila je da presavija.
 
 Nataša je sedela preko puta i pričala nekom čoveka kog nije poznavala kako smo prošle godine bili u Parizu i kako sam naručio nešto na francuskom pa nam je konobarica odgovorila na engleskom, i taj čovek se smejao, i još dvojica pored njega su se smejala.
 

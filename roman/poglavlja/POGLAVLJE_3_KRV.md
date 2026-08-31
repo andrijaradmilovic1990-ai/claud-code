@@ -1,4 +1,4 @@
-# III — Krv
+# IV — Krv
 
 Luk prvo. Sitno, dok oči ne počnu da peku, i to je u redu, to je jedini plač koji čovek može da naruči kad mu zatreba. Pa meso. Mleveno, uzmeš ga u šaku i razbiješ po vreloj šerpi, prstima, da ne ostanu grudve.
 

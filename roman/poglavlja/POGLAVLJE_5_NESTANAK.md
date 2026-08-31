@@ -1,4 +1,4 @@
-# V — Nestanak
+# IX — Nestanak
 
 Spakovala se za vikend kod sestre — dve torbe za dva dana, jer kod nje jedna torba ne postoji.
 
@@ -34,7 +34,7 @@ Stajao sam u hodniku i čekao da prođe.
 
 „U kuhinji.“
 
-Otišla je po njega. Vratila se s punjačem u jednoj ruci i pola kifle u ustima, i bilo je prošlo — kod nje prođe samo od sebe, bez izvinjenja ni s jedne ni s druge strane.
+Otišla je po njega. Čuo sam kako je u prolazu zakačila vrata frižidera i kako se ona kula pod magnetom zaljuljala pa stala. Vratila se s punjačem u jednoj ruci i pola kifle u ustima, i bilo je prošlo — kod nje prođe samo od sebe, bez izvinjenja ni s jedne ni s druge strane.
 
 „Kupi hleb“, rekla je. „I nemoj da jedeš iz šerpe stojeći. Ostavila sam ti u tanjiru.“
 

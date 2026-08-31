@@ -1,4 +1,4 @@
-# Majka
+# X — Majka
 
 Kapija je bila ista, samo je farba otišla s donje polovine, tamo gde kiša odskače od betona.
 
@@ -24,7 +24,7 @@ U hodniku je pogledala u torbu, pa u mene, pa opet u torbu.
 
 „Jesam.“
 
-Klimnula je glavom i uzela mi torbu iz ruke, i ja sam je pustio, i ona ju je odnela u sobu iako je bila teža nego što je izgledala.
+Uzela mi je torbu iz ruke, i ja sam je pustio, i ona ju je odnela u sobu iako je bila teža nego što je izgledala.
 
 Nije pitala ništa drugo.
 
