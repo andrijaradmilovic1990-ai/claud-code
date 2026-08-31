@@ -26,16 +26,25 @@ netaknuto i u istom redosledu; nova se umeću između njih.
 Autor je tog dana **otvorio sva poglavlja** za preostali posao, i u knjigu je umetnuto
 novo — **`IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`.
 
-**Napisano: 27.762 reči u petnaest poglavlja. Ostaje jedno — `MASKA`. Cilj oko 31.500.**
+**Napisano: 27.758 reči u petnaest poglavlja. Ostaje jedno — `MASKA`. Cilj oko 31.500.**
+
+> **⚑ 31.08.2026, druga sesija — `MASKA` je jednom napisana i BAČENA.** Pisana je po
+> potezu 8 *(majka u sadašnjosti)*, koji je istog dana pao. Iz tog razgovora je izašla
+> **osa knjige** i nov fajl **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)** —
+> od sad **najviši sprat u repou**, čita se odmah posle `NASTAVAK.md`. Sve odluke:
+> `dokumenti/REGISTAR_ODLUKA.md`, **sekcija 18.**
+>
+> *(Brojka 27.762 stajala je u nekoliko fajlova i bila je netačna — izmereno `wc -w` po
+> fajlu daje **27.758**. Ispravljeno svuda istog dana.)*
 
 **Ostaje:**
 
 | | šta | gde |
 |---|---|---|
-| **piše se** | **`MASKA`** *(~2.800 reči)* — sedam poteza | novo, mesto **15** |
+| **piše se** | **`MASKA`** *(~2.800 reči)* — **šest poteza (9–14)**; potez 8 pao | novo, mesto **15** |
 
-**Sedam od četrnaest poteza je plaćeno** *(31.08.2026)*: `Pukotina` tri, `Krv` dva,
-`Ivičnjak` dva. **Ceo preostali posao stoji u `dokumenti/PLAN_RADA.md`**, i otvara se
+**Osam od četrnaest poteza je zatvoreno** *(31.08.2026)*: `Pukotina` tri, `Krv` dva,
+`Ivičnjak` dva — **i potez 8, koji je pao.** **Ceo preostali posao stoji u `dokumenti/PLAN_RADA.md`**, i otvara se
 odmah posle `NASTAVAK.md`.
 
 > **Numeracija se pomerila.** Sve od `Preloma` nadalje ima broj veći za jedan nego u
@@ -50,7 +59,7 @@ odmah posle `NASTAVAK.md`.
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
 | 1 | `POGLAVLJE_1_SUSRET.md` | Susret | 797 |
-| 2 | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.699 |
+| 2 | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.695 |
 | 3 | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.180 |
 | 4 | `POGLAVLJE_3_KRV.md` | Krv | 1.303 |
 | 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 |
@@ -109,7 +118,8 @@ autor rečju „otvaram".
 | Fajl | Šta pokriva | Kad ga otvaraš |
 |------|-------------|----------------|
 | **[`NASTAVAK.md`](NASTAVAK.md)** | **handoff — stanje, dugovi, šta je sledeće** | **prvo, uvek** |
-| **[`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/PRESUDA_I_NOVA_KNJIGA.md)** | **presuda o gotovoj knjizi i ideja o novoj** | **odmah posle NASTAVAK.md** |
+| **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)** | **⚑ OSA KNJIGE — najviši sprat u repou** | **odmah posle `NASTAVAK.md`, pre plana** |
+| **[`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/PRESUDA_I_NOVA_KNJIGA.md)** | presuda o gotovoj knjizi i ideja o novoj — **istorija** | kad zatreba |
 | `dokumenti/REGISTAR_ODLUKA.md` | šta je zatvoreno i **ne otvara se** | pre svakog predloga izmene |
 | `dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog | pre otvaranja poglavlja |
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |

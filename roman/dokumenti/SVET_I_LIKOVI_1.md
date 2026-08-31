@@ -426,7 +426,7 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 `Krv` prepravljene)*.
 
 > **⚑ OVA TABELA OPISUJE SAMO DEVET STARIH POGLAVLJA — prvu knjigu.** Nova knjiga ima
-> **šesnaest mesta i 27.762 napisane reči.** Puna tabela svih šesnaest, s imenima fajlova,
+> **šesnaest mesta i 27.758 napisanih reči.** Puna tabela svih šesnaest, s imenima fajlova,
 > stoji u **`NASTAVAK.md`** i to je jedino mesto s tačnim brojevima.
 
 ---

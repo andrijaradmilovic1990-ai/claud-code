@@ -62,7 +62,7 @@
 | **15** | **Ćebence** | staro `IX` | sadašnjost, posle 1 | 1.571 |
 
 **Zbir: oko 30.500 reči.** Cilj pogođen bez prebacivanja.
-*(**STANJE 31.08.2026: napisano petnaest poglavlja, 27.762 reči. `Ivičnjak` je napisan. OSTAJE SAMO `MASKA`, mesto 15.** Brojevi u tabeli iznad su stari — tačni stoje u `NASTAVAK.md`.)*
+*(**STANJE 31.08.2026: napisano petnaest poglavlja, 27.758 reči. `Ivičnjak` je napisan. OSTAJE SAMO `MASKA`, mesto 15.** Brojevi u tabeli iznad su stari — tačni stoje u `NASTAVAK.md`.)*
 
 ---
 

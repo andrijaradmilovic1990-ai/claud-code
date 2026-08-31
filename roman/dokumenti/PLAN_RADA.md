@@ -15,7 +15,10 @@
 ## STANJE NA 31.08.2026
 
 - Napisano **petnaest poglavlja, 27.758 reči** *(izmereno `wc -w` po fajlu)*.
-- **Ostaje jedno poglavlje: `MASKA` (mesto 15)** i **sedam poteza — svi u njoj.**
+- **Ostaje jedno poglavlje: `MASKA` (mesto 15)** i **šest poteza (9–14) — svi u njoj.**
+- **Potez 8 je pao 31.08.2026** *(odluka autora)*. Razlog: `POENTA_KNJIGE.md`.
+- **`Maska` je jednom napisana i bačena istog dana** — pisana po palom potezu.
+- **Iznad ovog plana od 31.08.2026. stoji `POENTA_KNJIGE.md`.** Čita se pre njega.
 - **Sedam poteza plaćeno 31.08.2026:** `Pukotina` tri, `Krv` dva, `Ivičnjak` dva.
 - **Knjiga ima ŠESNAEST poglavlja.**
 
@@ -38,7 +41,7 @@ poslovima A–D.
 | ~~**5**~~ | ~~**NEŽNI MONSTRUM**~~ **URAĐENO 31.08.2026** | `Krv` **4** |
 | ~~**6**~~ | ~~**CELA SCENA** — napad na nju, David ne staje, njen vrisak ga budi~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
 | ~~**7**~~ | ~~**DRUGI ODRAZ** — staklo izloga posle tuče~~ **URAĐENO 31.08.2026** | `IVIČNJAK` **7** |
-| **8** | **MAJKA U SADAŠNJOSTI** — isplata; opasnost preti **njoj**, ne njemu | `MASKA` **15** |
+| ~~**8**~~ | ~~**MAJKA U SADAŠNJOSTI**~~ — **PAO 31.08.2026, odluka autora.** Razlog: `POENTA_KNJIGE.md` | ~~`MASKA`~~ |
 | **9** | **NEŽNI MONSTRUM** — vrhunac; igra se s njom usred svega | `MASKA` **15** |
 | **10** | **MAST** — sam, noću, maže ruke; majka ulazi kroz predmet | `MASKA` **15** |
 | **11** | **ZVONCE** — na ulazu, jednom | `MASKA` **15** |
@@ -47,6 +50,10 @@ poslovima A–D.
 | **14** | **VRATA** — kraj poglavlja; zatvori ih sam, ostane unutra | `MASKA` **15** |
 
 **Dva poglavlja se otvaraju** *(2 i 4)*, **dva se pišu** *(7 i 15)*.
+
+> **⚑ STANJE OD 31.08.2026, druga sesija tog dana.** **`Maska` je jednom napisana i
+> bačena** — pisana je po potezu 8, koji je tog dana pao. **Ostaje šest poteza (9–14)**, i
+> `Maska` uz njih nosi **osu iz `POENTA_KNJIGE.md`**. Taj fajl se čita **pre** ovog.
 
 ### Šta se ne dira ni jednim potezom
 
@@ -80,7 +87,7 @@ poslovima A–D.
 | 12 | Prazna stolica | **ne dira se** — menja mu se značenje | 1.405 |
 | 13 | Beli grad | **ne dira se** — menja mu se značenje | 2.150 |
 | 14 | Kukavica | **ne dira se** — menja mu se značenje | 3.635 |
-| **15** | **MASKA** | **PIŠE SE — posao E** | ~2.800 |
+| **15** | **MASKA** | **NIJE NAPISANA** — prva verzija bačena 31.08.2026; posao E | ~2.800 |
 | 16 | Ćebence | zaključano, **ne dira se** | 1.571 |
 
 **Napisano 27.758 reči. S `Maskom` oko 30.500.**
@@ -300,74 +307,71 @@ zatvorena. Gledao sam ih dok smo jeli."*). **Ne dirati kraj.**
 
 ## POSAO E — napisati `MASKU` *(mesto 15, ~2.800 reči)*
 
-**Piše se poslednja**, kad sve postavke stoje.
+> **⚑ PREPISAN 31.08.2026, posle bacanja prve verzije.** Stari zadatak je vodio sedam
+> poteza i **potez 8 kao jezgro**. Taj potez je pao. Ono što ga je zamenilo nije nov posao
+> nego **osa knjige, koju autor tog dana imenuje: `POENTA_KNJIGE.md`.**
+>
+> **Taj fajl se čita pre ovog odeljka. Bez njega se `Maska` ne piše.**
 
-**Plaća `DUG 1`:** sadašnjost mora nositi opasnost, **kao scena.** Održavanje maske košta.
+**Piše se poslednja**, kad sve postavke stoje. Sve postavke stoje od 31.08.2026.
 
-### ⚑ ŠTA MASKA MORA DA NOSI PORED SEDAM POTEZA *(lektorski nalaz, autor rekao da se upiše — 31.08.2026)*
+### ŠTA JE `MASKA` — jedna rečenica
 
-**Sedam poteza je naplata dugova. To nije dovoljno, i evo zašto — sprat: knjiga.**
+> **Dan u sadašnjosti u kom je račun i dalje otvoren prema njoj, on i dalje ne zna šta mu je,
+> i sidro i dalje drži.**
 
-`Maska` je **jedino poglavlje sadašnjosti između vrhunca (`Kukavica`, 14) i ogledala
-(`Ćebence`, 16)**. Ako bude samo isplata sedam stavki, **čitaće se kao dodatak umetnut
-između vrhunca i kraja** — a to je najgore mesto na kom poglavlje može da stoji.
+I taj dan ga **jednom stvarno zamalo ne pogura da digne telefon** — isti potez kao u
+`Praznoj stolici` (12), gde ga je digao za jedno popodne i sam upisao cenu.
+**Ovaj put ga ne digne.**
 
-**Zato mora da nosi jednu stvar koja nije ni u jednom od sedam poteza:**
+### Zašto poglavlje postoji — sprat knjige
 
-> **Jedini trenutak u celoj knjizi u kom sadašnjost može da se sruši.**
+**Poenta knjige postoji samo u prošlosti.** Sve što je izgovara — `Krv` 4, `Italija` 5,
+`Pariz` 6, `Nestanak` 9, `Kukavica` 14 — dešava se pre dvanaest do četrnaest godina.
+**Sadašnjost nosi isključivo posledicu.**
 
-**Zašto je to nužno, prebrojano:** sadašnjost drži **pet napisanih poglavlja** — `Susret`,
-`Krv`, `Pariz`, `Nestanak`, `Ćebence` — i sva se dešavaju u **tri kuhinje i dva kafića.**
-Prošlost drži **deset**, i u njima je sve: stolovi, sahrana, tuča, bolnica, poljubac.
-**Deset prema pet, i svi događaji su na jednoj strani.** Širenje knjige je to pogoršalo —
-**svako novo poglavlje otišlo je u prošlost.** `Maska` je jedno protiv deset.
+`Maska` je **poslednja sadašnjost pre kraja** i jedino poglavlje sadašnjosti između vrhunca
+(`Kukavica`, 14) i ogledala (`Ćebence`, 16). **Ako je promaši, knjiga se zatvara s osećajem
+umesto s poentom** — a to je tačno ono što je autor prijavio 31.08.2026.
 
-**Uz to: u petnaest poglavlja stari svet nijednom ne pokaže da može da ga dohvati u
-sadašnjosti.** Jedini dodir je starac iz `Susreta`, koji dolazi da **zahvali.** Zbog toga
-je čitaočev strah do sada **teorijski** — zna da je čovek opasan, ali nikad ne vidi da je
-**ugrožen.**
-
-**Tri zabrane ispod i dalje važe u punom obimu** — ovo se **ne** rešava trilerskom ivicom,
-ni pucnjem, ni tako što Katarina posumnja. Rešava se time da **održavanje maske jednom
-stvarno zamalo ne uspe**, i da se vidi šta bi palo s tim.
-
-Puni nalaz: `LEKTORSKA_OCENA_31_08_2026.md`.
+**Prebrojano:** sadašnjost drži pet poglavlja i sva se dešavaju u tri kuhinje i dva kafića;
+prošlost drži deset i u njima je sve. **`Maska` je jedno protiv deset.**
 
 ### Tri zabrane — nijedna nije pala
 
 1. **Strah se ne montira u postojeću rečenicu.** Ovo je scena, ne dopuna.
-2. **Nema trilerske ivice.** Niko ne mora da puca.
+2. **Nema trilerske ivice.** Niko ne puca, niko ne strada, ništa se ne dešava njoj.
 3. **Katarina ne sumnja i ne proverava.** Njen luk to zabranjuje do samog kraja.
 
-### Jezgro — bez ovoga poglavlje ne postoji
+### Četvrta zabrana, nova *(31.08.2026)*
 
-| šta | kako |
-|---|---|
-| **MAJKA U SADAŠNJOSTI** | opasnost ne mora pretiti Davidu — **može pretiti njoj.** Telefon koji zvoni **kod nje**, ista figura kao u poglavlju 10 (*„Ne. Nema ga tu. Nije dolazio."*), dvanaest godina kasnije. **Ne krši nijednu od tri zabrane.** Registar to već dopušta: *„Ako se naplaćuje drugi put, mesto je `Maska`"* (sekcija 11) |
-| **NEŽNI MONSTRUM** | vidi niže. Ovo je i vrhunac i cena — on se igra s njom **usred** onoga što se tog dana dešava |
-| **VRATA** | kraj poglavlja. Vidi niže |
-| **BESPOMOĆNOST** | on **nema čime**: nema dozvolu, nema više onaj svet, i **ne sme dići telefon** jer bi ga to koštalo tačno onog života koji čuva. To je **PORODICA / Porodica** izvedena kao radnja, ne kao tema |
+4. **David ne saznaje šta mu je ona.** Nema rečenice, gesta ni slike u kojoj shvata.
+   **Neznanje je motor knjige.** Čitalac sme da zna. On ne.
 
-### Nosači — sitnice koje drže poglavlje
+### Šest poteza koji ostaju — svi u `Maski`
 
-| šta | kako |
-|---|---|
-| **ZVONCE** | u `Susretu` se oglašava **kad starac IZLAZI**: *„Vrata su se zatvorila, zvonce se oglasilo."* **Ovde ide na ULAZ** — isti zvuk, obrnuto. **Samo jednom.** Tri puta bi bila figura |
-| **MIRIS DUVANA** | u `Susretu` je vezan za **tog jednog starca**: *„Mirisao je na duvan i na neki stari znoj."* Znači ne poziva „prošlost" uopšte nego **njega.** **Bez halucinacije** — miris na kaputu posle poziva sme |
-| **MAST** | teglica je iz `Majke` (*„teglica s nečim što nije kupovno"*), ožiljak s kažiprsta iz `Ćebenceta`. On sam, noću, maže ruke. **Majka ulazi u sadašnjost kroz predmet**, bez scene i bez pomena. **Rez:** nikakvo *„da bi mogao nežno da je dodirne"* — to je razlog izgovoren naglas. Ostaje samo radnja |
+| # | potez | kako |
+|---|---|---|
+| **9** | **NEŽNI MONSTRUM** | vrhunac. Igra se s njom **usred** onoga što se tog dana dešava. Sad je i teži nego pre: **ona je sidro**, i to se vidi samo kroz njegove poteze prema njoj |
+| **10** | **MAST** | sam, noću, maže ruke. Teglica je iz `Majke` (*„teglica s nečim što nije kupovno"*), ožiljak s kažiprsta iz `Ćebenceta`. **Majka ulazi u sadašnjost kroz predmet — bez scene, bez pomena, bez telefona.** Nikakvo *„da bi mogao nežno da je dodirne"* |
+| **11** | **ZVONCE** | u `Susretu` se oglašava kad starac **izlazi**. **Ovde ide na ULAZ.** Isti zvuk, obrnuto. **Samo jednom** — tri puta bi bila figura |
+| **12** | **MIRIS DUVANA** | u `Susretu` vezan za **tog jednog starca**. Ne priziva „prošlost" uopšte nego **njega**. **Bez halucinacije** — miris na kaputu sme |
+| **13** | **BESPOMOĆNOST** | **preusmeren 31.08.2026.** Nema čime: nema dozvolu, nema više onaj svet, i **ne sme dići telefon** jer bi ga to koštalo tačno onog života koji čuva. **Nemoć je sada prema njoj, ne prema majci** |
+| **14** | **VRATA** | kraj poglavlja. Promaja → ustane → **zatvori ulazna vrata do kraja** → brava klikne. Ostaje unutra, u svetlu, s njom. **Nijedna rečenica ne sme reći šta to znači** |
 
-### Šta je iz `Maske` SKINUTO
-
-**„A KO SI TI?" je premeštena u `Pukotinu` (2)** — vidi posao B3.
-
-Bila je ovde smeštena greškom, da bi se izbeglo otvaranje još jednog poglavlja. To bi
-značilo telefonski poziv koji postoji **isključivo** da bi replika pala — a plan sam
-zabranjuje da se scena pravi zbog replike. **Ne vraćati je ovde.**
+**Potez 8 (MAJKA U SADAŠNJOSTI) je pao** — puni razlog u `POENTA_KNJIGE.md`, odeljak
+„ŠTA JE OVIM OBORENO". Majka ostaje u poglavlju **samo kroz teglicu.**
 
 ### Prag pred pisanje — MERA
 
 **Čim Davidov potez postane želja za moći umesto odgovornosti, čitalac ga gubi.**
-To nije scena nego pitanje koje se postavlja pred svaku stranu.
+Pitanje se postavlja pred svaku stranu, nije scena.
+
+### Šta je iz `Maske` ranije SKINUTO i ne vraća se
+
+- **„A KO SI TI?"** — premeštena u `Pukotinu` (2), posao B3. Ovde bi značila poziv koji
+  postoji **isključivo** da bi replika pala. **Scena se ne pravi zbog replike.**
+- **Potez 8** — vidi gore.
 
 ---
 
@@ -565,6 +569,19 @@ Uz to je `Nestanak` **jedina hronika u knjizi** — sažetak odmah posle dva pog
 
    > **Kandidat koji nije bio na starom spisku: 15→16** *(Maska → Ćebence)*. `Maska` je
    > novo poglavlje pa je i taj spoj nov. **Nije autorova odluka — pitati pre prolaza.**
+
+   > **⚑ NALAZ KOJI SE OVDE MORA REŠITI — upisan 31.08.2026, NIJE rešen.**
+   > **`Kukavica` (14) se završava usred noći** — ona mu zaspi na ramenu, *„Nisam gledao na
+   > sat. Znao sam da je vreme."* **`Ćebence` (16) počinje tom istom noći** — ćebence preko
+   > nje, autobus u pet i sedam. **Dva poglavlja su jedna neprekinuta noć.**
+   >
+   > **`Maska` na mestu 15 preseca tu noć na dva dela.** Ni jedan dokument to nije upisao;
+   > spisak šavova je vodio 14→15 i 15→16 kao obične spojeve, a ovo nije spoj nego **sudar
+   > hronologije s rasporedom.**
+   >
+   > **Ne rešava se u `Maski` i ne rešava se sada.** Tri moguća pravca, nabrojana a ne
+   > predložena: `Maska` se čita kao skok u sadašnjost pa se `Ćebence` vraća u tu noć ·
+   > `Maska` menja mesto · šav 14→15 dobija znak da je vreme preskočilo. **Odlučuje autor.**
 2. **NOIR PROLAZ KROZ CEO ROMAN.** Najveći zakazani posao. Ide **posle** šavova. Tada se
    zaključano otvara u celini, i otvara ga autor rečju „otvaram".
 
