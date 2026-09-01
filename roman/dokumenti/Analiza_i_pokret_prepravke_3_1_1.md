@@ -3315,3 +3315,31 @@ dobija povod **u sceni**, a ne samo u karakteru.
 
 ## Otvoreno iz istog paketa, nije rađeno
 - **IV — Krv:** autor je pročitao, „nije loše ali slabo kao i treće", čitaće ponovo.
+
+## V — Italija: prošla, jedan nalaz unet
+
+**Autor je pročitao i rekao da mu deluje u redu**, pa je tražio i moj prolaz. Čitano po
+Pravilu R — prvo tekst go, pa tek onda registar.
+
+**Ocena na nivou poglavlja: drži.** Sat poglavlja *(kuhinja → ekipa → telefon → noć →
+sto → prag)* radi, ništa ne visi, kraj s ključem i sobom u kojoj od srede stoje čiste
+stvari je najjača slika u prvih pet poglavlja. **Nema nalaza koji traži prepravku
+poglavlja.**
+
+**Uneto, odobrio autor:**
+- *„…i tada su svi **pali**."* → *„…i tada je **kuhinja pukla**."* — isti glagol za smeh
+  padao je u poglavlju **tri puta** *(Toni preko stola · svi pali · pola stola palo)*.
+  Prvi i treći su ostali, jer treći nosi bakin prekid zdravice.
+
+**Nalazi prijavljeni, čeka se odluka autora:**
+- **„prozor je bio *zapaćen* s donje strane"** — reč se javlja tačno jednom u celom
+  rukopisu i nije standardna; verovatno *zapoten*. **Ne dirati dok autor ne kaže je li
+  to njegova reč iz govora.**
+- **„sela mu ponovo u krilo one stolice"** — dve slike u istoj sintagmi, a „ponovo" nema
+  osnov: ranije stoji samo *„Andrijana je sela pored Nina."*
+- **„jedina stvar koju je od mene tražila u šest godina"** — baka te iste noći traži još
+  dve stvari. Radi u korist poglavlja, ali knjiga to ne kaže naglas. **Autor odlučuje.**
+
+**Provereno pa ostavljeno:** zdravica *(registar, sekcija 23 — pitanje potrošeno,
+razlog i dalje stoji)* · *„leđa uza zid"* u redu 131 *(tu motiv ima posao: postavlja
+Anjino „Misliš da je zbog vrata")*.

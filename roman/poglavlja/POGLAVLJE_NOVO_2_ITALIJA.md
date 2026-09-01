@@ -142,7 +142,7 @@ Digao sam čašu prema njoj, jedan centimetar, i vratio se hlebu.
 
 Jeli smo dugo. Baka je sedela na uglu, jela je manje od dece, i posle svake treće ćufte gledala u mene dok ne bih klimnuo glavom da je dobro. To je bila jedina stvar koju je od mene tražila u šest godina.
 
-Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada su svi pali. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
+Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada je kuhinja pukla. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
 
 Smejao sam se i ja.
 
