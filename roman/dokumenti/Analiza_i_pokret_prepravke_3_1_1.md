@@ -3253,3 +3253,96 @@ bez definicije šta se broji, pa se sudarao s dnevnikom od 31.08. koji je izbroj
 Prebrojano s definicijom: **usko sedam, široko osamnaest u dvanaest poglavlja.** Nalaz je
 time jači, ali meta reza je promenjena — **obrtanja se ne diraju nikad**, ni prsten
 `Susret`↔`Ćebence`. Ništa u tekstu nije dirano po toj stavci.
+
+---
+
+# 01.09.2026, druga sesija — AUTOROVO ČITANJE, POGLAVLJE PO POGLAVLJE
+
+**Nov režim rada, odluka autora:** autor čita knjigu poglavlje po poglavlje i šalje
+primedbe; ne planira se ništa mimo tih primedbi. `PLAN_RASTA.md` i dalje stoji kao zapis.
+Prvi paket: poglavlja I–IV.
+
+## I — Susret: skinuta dva doslovna mesta o tome šta je David radio
+
+**Nalaz autora:** nigde se direktno ne kaže da je David ubijao, ali se **dvaput** kaže
+posredno i to preglasno — prvo *„u jarku, u reci, u temelju neke zgrade"*, pa odmah zatim
+*„Provedeš život puneći jarke i temelje"*. **Isto saznanje dvaput, drugi put kao
+objašnjenje prvog.** Traži se suptilnije.
+
+**Uneto:**
+- *„Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala
+  nikoga da bilo šta upamti."* → **„Za većinom nije došao niko."** *(prva verzija je
+  glasila „Za većinom se niko nije raspitivao", pa je promenjena istog dana jer je
+  „raspitivao" padalo dvaput u istom pasusu — odobrio autor)*
+- *„Provedeš život puneći jarke i temelje…"* → *„Provedeš pola života u poslu posle kog
+  ostanu samo imena…"* *(varijanta A, izbor autora)*
+
+Kraj poglavlja *(„čudovište koje je naučilo da pije kafu kao čovek")* nije diran.
+
+## II — Ulazak: Italijan reaguje na odbijanje
+
+**Nalaz autora:** David kaže *„Sve osim jednog"* / *„Znate šta"*, a Italijan na to samo
+klimne i kaže *„So. Va bene."* — nedostaje njegova reakcija. Ne bes, nego začuđenost:
+tuđa žena i tuđa ćerka se ne diraju, to se ovde ne radi, od toga se gubi glava.
+
+**Uneto** između *„Znate šta."* i autobusa: pogled ka šanku i reč na svom · *„Ti to mene
+pitaš? To se ovde ne radi. Nikad se nije radilo."* · *„Tuđa žena. Tuđa ćerka. Naše ćerke
+se ne diraju. Za to se glava gubi, mali. I tražio bih je ja prvi."* · posle autobusa
+*„To niko ne piše. To se zna."*
+
+**Registar, sekcija o `Ulasku`, i dalje važi u delu koji se tiče Davida:** on ne izgovara
+reč i ne dobija objašnjenje. **Promenjeno je samo ono što drugi kaže** — i s tim je,
+odlukom autora, pečat na tom mestu popustio: čitalac sad zna **šta** je to jedno.
+
+## III — Pukotina: mesto o majci bilo nečitljivo
+
+**Nalaz autora:** deo pred *„Ti nikad ne slažeš"* je nerazumljiv. **Uzrok:** pet replika
+bez ijedne atribucije, pa se ne vidi da **ona** pita njega za majku, a on odgovara na
+pitanje koje nije postavljeno.
+
+**Uneto:** pitanje dobija sadržaj *(„Kad si joj poslednji put seo za sto?")*, ponavlja se
+posle njegovog izmicanja *(„Pitala sam kad si poslednji put sedeo s njom.")*, i dodata je
+atribucija uz *„Znam kako ti je", rekao sam*. Time njena replika *„Ti samo izostaviš"*
+dobija povod **u sceni**, a ne samo u karakteru.
+
+## III — Pukotina, druga dva nalaza *(uneto istog dana, odobrio autor)*
+
+- **Špagete:** David kuva odranije, pa *„naučio sam da pravim"* ne stoji →
+  *„ponovo sam počeo da pravim"*.
+- ***„A ko si ti?"***: David je odmah kretao u odgovor, kao da razume pitanje. Umetnute
+  su dve replike — *„Kako to misliš?"* / *„Tako kako sam rekla."* — pa pitanje prvo visi,
+  on pokuša da izmakne, a ona ne pušta. **Odgovor koji sledi je iznuđen, ne ponuđen.**
+
+## Otvoreno iz istog paketa, nije rađeno
+- **IV — Krv:** autor je pročitao, „nije loše ali slabo kao i treće", čitaće ponovo.
+
+## V — Italija: prošla, jedan nalaz unet
+
+**Autor je pročitao i rekao da mu deluje u redu**, pa je tražio i moj prolaz. Čitano po
+Pravilu R — prvo tekst go, pa tek onda registar.
+
+**Ocena na nivou poglavlja: drži.** Sat poglavlja *(kuhinja → ekipa → telefon → noć →
+sto → prag)* radi, ništa ne visi, kraj s ključem i sobom u kojoj od srede stoje čiste
+stvari je najjača slika u prvih pet poglavlja. **Nema nalaza koji traži prepravku
+poglavlja.**
+
+**Uneto, odobrio autor:**
+- *„…i tada su svi **pali**."* → *„…i tada je **kuhinja pukla**."* — isti glagol za smeh
+  padao je u poglavlju **tri puta** *(Toni preko stola · svi pali · pola stola palo)*.
+  Prvi i treći su ostali, jer treći nosi bakin prekid zdravice.
+
+**Odlučeno istog dana, autor:**
+- **„prozor je bio *zapaćen*"** — **ostaje.** Autorova reč iz govora, ne ispravlja se u
+  „zapoten". *Nije omaška — ne vraćati na to.*
+- **„sela mu ponovo u krilo one stolice"** — Andrijana mu **stvarno seda u krilo**, pa je
+  to postavljeno ranije u sceni *(„Onda mu je sela u krilo, onako usput, kao da je to
+  stolica koja tu i inače stoji.")*, a kasnija rečenica očišćena na *„sela mu ponovo u
+  krilo"*. Sad „ponovo" ima osnov.
+
+**Ostaje neodlučeno:**
+- **„jedina stvar koju je od mene tražila u šest godina"** — baka te iste noći traži još
+  dve stvari. Radi u korist poglavlja, ali knjiga to ne kaže naglas. **Autor odlučuje.**
+
+**Provereno pa ostavljeno:** zdravica *(registar, sekcija 23 — pitanje potrošeno,
+razlog i dalje stoji)* · *„leđa uza zid"* u redu 131 *(tu motiv ima posao: postavlja
+Anjino „Misliš da je zbog vrata")*.

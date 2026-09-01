@@ -134,7 +134,7 @@ Anja je te večeri sedela naspram mene, s druge strane stola, sa Sale i Toni izm
 
 Andrijana je sela pored Nina.
 
-Nino je imao trideset godina i ruke kao lopate i smejao se svemu što ona kaže pola sekunde pre nego što bi završila rečenicu, a ona je govorila italijanski otprilike kao ja — deset reči, sve pogrešno, izgovorene s takvim samopouzdanjem da im je čovek verovao. Sipala mu je vino, nagnula se preko njegovog tanjira da dohvati so koja je stajala bliže njoj, i on je pocrveneo do vrata.
+Nino je imao trideset godina i ruke kao lopate i smejao se svemu što ona kaže pola sekunde pre nego što bi završila rečenicu, a ona je govorila italijanski otprilike kao ja — deset reči, sve pogrešno, izgovorene s takvim samopouzdanjem da im je čovek verovao. Sipala mu je vino, nagnula se preko njegovog tanjira da dohvati so koja je stajala bliže njoj, i on je pocrveneo do vrata. Onda mu je sela u krilo, onako usput, kao da je to stolica koja tu i inače stoji.
 
 Pogledala me je preko stola dok je to radila.
 
@@ -142,7 +142,7 @@ Digao sam čašu prema njoj, jedan centimetar, i vratio se hlebu.
 
 Jeli smo dugo. Baka je sedela na uglu, jela je manje od dece, i posle svake treće ćufte gledala u mene dok ne bih klimnuo glavom da je dobro. To je bila jedina stvar koju je od mene tražila u šest godina.
 
-Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada su svi pali. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
+Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada je kuhinja pukla. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
 
 Smejao sam se i ja.
 
@@ -240,7 +240,7 @@ Andrijana me je pogledala od vrata, celog, odozgo nadole.
 
 „Znaš na šta.“
 
-Otišla je da sipa Ninu vino i sela mu ponovo u krilo one stolice, i to je bio kraj njenog interesovanja za moje lice.
+Otišla je da sipa Ninu vino i sela mu ponovo u krilo, i to je bio kraj njenog interesovanja za moje lice.
 
 Baka je sedela za stolom. Nije spavala. Sto je bio prostrt ponovo, čist, i ćufte su bile u rerni na najnižoj temperaturi, i ja sam to shvatio tek kad je otvorila vrata rerne i izašla je para.
 

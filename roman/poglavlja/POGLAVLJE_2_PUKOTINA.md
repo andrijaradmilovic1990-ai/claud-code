@@ -92,7 +92,7 @@ Smejali smo se. Preživeli smo i to, kao što smo preživeli i sve ostalo, i ost
 
 ⁂
 
-Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam naučio da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
+Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam ponovo počeo da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
 
 Telefon joj je zazvonio na stolu, licem nagore. Videla je ko je i javila se.
 
@@ -110,7 +110,7 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Ima veze. Vidimo se jednom godišnje i ja se svađam preko telefona.“ Uzela je čašu, spustila je nazad a da nije otpila. „Ceo život mi objašnjava kako se radi nešto što je sad meni na vratu.“
 
-„A tvoja?“
+„A tvoja?“ rekla je. „Kad si joj poslednji put seo za sto?“
 
 „Šta moja.“
 
@@ -118,11 +118,11 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Spavam.“
 
-„Nisam pitala gde spavaš.“
+„Nisam pitala gde spavaš.“ Nagnula se malo preko stola. „Pitala sam kad si poslednji put sedeo s njom.“
 
 Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
 
-„Znam kako je to.“
+„Znam kako ti je“, rekao sam.
 
 „Ne znaš.“ Brzo, bez uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio.“
 
@@ -171,6 +171,10 @@ Okretala je čašu u mestu. Onda je stala.
 „A ko si ti?“
 
 Okrenuo sam šolju u tacni, jednom.
+
+„Kako to misliš?“
+
+„Tako kako sam rekla.“
 
 „Kad sam radio loše stvari, isključio sam se i postao neko drugi. Posle sam opet bio ja.“
 

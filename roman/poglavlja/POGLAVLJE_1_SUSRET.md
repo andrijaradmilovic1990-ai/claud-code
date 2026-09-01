@@ -48,13 +48,13 @@ Konobar je došao po šolju. Rekao sam mu da ostavi. Ostao sam još sat.
 
 Zapalio sam cigaretu. Pogladio sam bradu, onaj pokret koji radim kad mislim a ne želim da iko vidi da mislim. Nije bilo nikoga da vidi. Gledao sam u stolicu preko puta, u mesto na stolu gde je maločas ležala njegova ruka.
 
-Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala nikoga da bilo šta upamti. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
+Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Za većinom nije došao niko. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
 
 On vidi čoveka koji mu je spasao sina.
 
 Ja vidim sve ostalo.
 
-Provedeš život puneći jarke i temelje, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
+Provedeš pola života u poslu posle kog ostanu samo imena, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
 
 Nasmejao sam se. Tiho, sebi, u dim.
 

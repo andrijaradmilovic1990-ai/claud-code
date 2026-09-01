@@ -55,13 +55,13 @@ Konobar je došao po šolju. Rekao sam mu da ostavi. Ostao sam još sat.
 
 Zapalio sam cigaretu. Pogladio sam bradu, onaj pokret koji radim kad mislim a ne želim da iko vidi da mislim. Nije bilo nikoga da vidi. Gledao sam u stolicu preko puta, u mesto na stolu gde je maločas ležala njegova ruka.
 
-Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala nikoga da bilo šta upamti. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
+Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Za većinom nije došao niko. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
 
 On vidi čoveka koji mu je spasao sina.
 
 Ja vidim sve ostalo.
 
-Provedeš život puneći jarke i temelje, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
+Provedeš pola života u poslu posle kog ostanu samo imena, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
 
 Nasmejao sam se. Tiho, sebi, u dim.
 
@@ -485,7 +485,17 @@ Ne brzo. Digao ga je onako kako čovek diže pogled kad je čuo nešto što nije
 
 „Znate šta.“
 
+Gledao me je još koji trenutak, pa se okrenuo ka šanku i rekao nešto na svom, i neko se kratko nasmejao pa prestao.
+
+„Ti to mene pitaš?“ Naslonio se. „To se ovde ne radi. Nikad se nije radilo.“
+
+Ćutao sam.
+
+„Tuđa žena. Tuđa ćerka.“ Kucnuo je prstom o sto, jednom za svaku. „Naše ćerke se ne diraju. Za to se glava gubi, mali. I tražio bih je ja prvi.“
+
 Napolju je prošao autobus i staklo je zazvonilo u ramu.
+
+„To niko ne piše. To se zna.“
 
 Izvadio je cigaretu i nije je zapalio nego ju je držao među prstima kao što se drži olovka kad se nešto računa.
 
@@ -617,7 +627,7 @@ Smejali smo se. Preživeli smo i to, kao što smo preživeli i sve ostalo, i ost
 
 ⁂
 
-Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam naučio da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
+Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam ponovo počeo da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
 
 Telefon joj je zazvonio na stolu, licem nagore. Videla je ko je i javila se.
 
@@ -635,7 +645,7 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Ima veze. Vidimo se jednom godišnje i ja se svađam preko telefona.“ Uzela je čašu, spustila je nazad a da nije otpila. „Ceo život mi objašnjava kako se radi nešto što je sad meni na vratu.“
 
-„A tvoja?“
+„A tvoja?“ rekla je. „Kad si joj poslednji put seo za sto?“
 
 „Šta moja.“
 
@@ -643,11 +653,11 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Spavam.“
 
-„Nisam pitala gde spavaš.“
+„Nisam pitala gde spavaš.“ Nagnula se malo preko stola. „Pitala sam kad si poslednji put sedeo s njom.“
 
 Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
 
-„Znam kako je to.“
+„Znam kako ti je“, rekao sam.
 
 „Ne znaš.“ Brzo, bez uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio.“
 
@@ -696,6 +706,10 @@ Okretala je čašu u mestu. Onda je stala.
 „A ko si ti?“
 
 Okrenuo sam šolju u tacni, jednom.
+
+„Kako to misliš?“
+
+„Tako kako sam rekla.“
 
 „Kad sam radio loše stvari, isključio sam se i postao neko drugi. Posle sam opet bio ja.“
 
@@ -1067,7 +1081,7 @@ Anja je te večeri sedela naspram mene, s druge strane stola, sa Sale i Toni izm
 
 Andrijana je sela pored Nina.
 
-Nino je imao trideset godina i ruke kao lopate i smejao se svemu što ona kaže pola sekunde pre nego što bi završila rečenicu, a ona je govorila italijanski otprilike kao ja — deset reči, sve pogrešno, izgovorene s takvim samopouzdanjem da im je čovek verovao. Sipala mu je vino, nagnula se preko njegovog tanjira da dohvati so koja je stajala bliže njoj, i on je pocrveneo do vrata.
+Nino je imao trideset godina i ruke kao lopate i smejao se svemu što ona kaže pola sekunde pre nego što bi završila rečenicu, a ona je govorila italijanski otprilike kao ja — deset reči, sve pogrešno, izgovorene s takvim samopouzdanjem da im je čovek verovao. Sipala mu je vino, nagnula se preko njegovog tanjira da dohvati so koja je stajala bliže njoj, i on je pocrveneo do vrata. Onda mu je sela u krilo, onako usput, kao da je to stolica koja tu i inače stoji.
 
 Pogledala me je preko stola dok je to radila.
 
@@ -1075,7 +1089,7 @@ Digao sam čašu prema njoj, jedan centimetar, i vratio se hlebu.
 
 Jeli smo dugo. Baka je sedela na uglu, jela je manje od dece, i posle svake treće ćufte gledala u mene dok ne bih klimnuo glavom da je dobro. To je bila jedina stvar koju je od mene tražila u šest godina.
 
-Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada su svi pali. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
+Toni je pričao neku priču o čoveku koji je u carini deklarisao šesnaest zamrznutih pilića kao lične stvari. Ispričao ju je do kraja i niko se nije nasmejao, pa ju je ispričao ponovo, drugačije, i tada je kuhinja pukla. Sale se smejao onako kako se on smeje, bez glasa, savijen preko stola, s rukom na Ninovom ramenu. Jedno dete je sipalo sok pored čaše i to je otkriveno tek kad je Nino stavio lakat u to.
 
 Smejao sam se i ja.
 
@@ -1173,7 +1187,7 @@ Andrijana me je pogledala od vrata, celog, odozgo nadole.
 
 „Znaš na šta.“
 
-Otišla je da sipa Ninu vino i sela mu ponovo u krilo one stolice, i to je bio kraj njenog interesovanja za moje lice.
+Otišla je da sipa Ninu vino i sela mu ponovo u krilo, i to je bio kraj njenog interesovanja za moje lice.
 
 Baka je sedela za stolom. Nije spavala. Sto je bio prostrt ponovo, čist, i ćufte su bile u rerni na najnižoj temperaturi, i ja sam to shvatio tek kad je otvorila vrata rerne i izašla je para.
 

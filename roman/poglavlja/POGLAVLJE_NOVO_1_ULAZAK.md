@@ -414,7 +414,17 @@ Ne brzo. Digao ga je onako kako čovek diže pogled kad je čuo nešto što nije
 
 „Znate šta.“
 
+Gledao me je još koji trenutak, pa se okrenuo ka šanku i rekao nešto na svom, i neko se kratko nasmejao pa prestao.
+
+„Ti to mene pitaš?“ Naslonio se. „To se ovde ne radi. Nikad se nije radilo.“
+
+Ćutao sam.
+
+„Tuđa žena. Tuđa ćerka.“ Kucnuo je prstom o sto, jednom za svaku. „Naše ćerke se ne diraju. Za to se glava gubi, mali. I tražio bih je ja prvi.“
+
 Napolju je prošao autobus i staklo je zazvonilo u ramu.
+
+„To niko ne piše. To se zna.“
 
 Izvadio je cigaretu i nije je zapalio nego ju je držao među prstima kao što se drži olovka kad se nešto računa.
 
