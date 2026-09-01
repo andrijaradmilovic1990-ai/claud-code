@@ -685,12 +685,23 @@ Glavna grana: claude/nesto-zanimljivo-z4j3s0
 
 -- STA BI BIO SLEDECI POSAO --
 
-Knjiga je zatvorena i nema zadatka koji ceka. Ako autor trazi jos jedan prolaz,
-jedini koji jos nije uradjen kako treba je PRAVI SLEPI LEKTORSKI PROLAZ po Pravilu R:
-otvoriti SAMO roman/poglavlja/, procitati svih sesnaest redom bez ijednog dokumenta,
-napraviti spisak iz samog teksta, i TEK ONDA otvoriti registar i uporediti.
-U tri dosadasnje sesije to nijednom nije uradjeno cisto — dokumenti su uvek bili
-otvoreni pre teksta.
+SLEPI LEKTORSKI PROLAZ JE URADJEN 01.09.2026. i vise ne ceka. Knjiga je procitana
+cela, redom, bez ijednog dokumenta, spisak je napravljen iz teksta, pa je tek onda
+otvoren registar. Pun zapis: dnevnik, unos 01.09.2026.
+
+Izaslo je cetiri nalaza i sva cetiri su uneta:
+ 1. MASKA — „dvanaest godina van upotrebe" ispravljeno u „jedanaest" (Maska je na 34,
+    dvanaest je sadasnjost). MASKA NIJE BILA U TABLICI GODINA — zato je promaklo.
+ 2. CEBENCE — „Ona bez gipsa" palo; gips je bio godinu dana ranije. Istom dopunom je
+    zatvoren i sav XV->XVI (ostavlja je uz rame, zaticala se licem u jastuk).
+ 3. NESTANAK — jedini tipografski apostrof u knjizi vracen na ravan.
+ 4. REGISTAR i SVET_I_LIKOVI — sve oznake redova su u STAROJ DEVETCI. Na vrh oba fajla
+    upisana je prevodna tabela staro->novo. Stare oznake se NE prepisuju.
+
+Ostaje kao OCENA, ne kao nalaz (sprat: knjiga, ceka autorovo „otvaram"):
+najslabija noga je KATARINA — nosi veci teret nego sto joj je dato prisustvo;
+druga je ITALIJA — najtoplija kuca u knjizi, placena posle jednom recenicom u Nestanku.
+Oboje je u registru upisano kao NAMERNO, pa se ne dira bez autorove reci.
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce knjigu jednog
 dana procitati. Ponasaj se u skladu s tim.

@@ -44,7 +44,7 @@ Onda se čovek okrenuo od šanka i pogledao po lokalu. Preko dvojice za šankom,
 
 Ostao je na meni sekund duže nego na stolovima.
 
-Možda. Sekund se ne meri, sekund se oseti, a moje merenje sekundi je dvanaest godina van upotrebe i niko mi ga nije baždario.
+Možda. Sekund se ne meri, sekund se oseti, a moje merenje sekundi je jedanaest godina van upotrebe i niko mi ga nije baždario.
 
 Krenuo je ka izlazu. Prošao je pored mog stola, blizu, jer je između stola i saksije uzak prolaz i svi tuda prolaze blizu. Nije usporio. Otvorio je vrata, zvonce se oglasilo drugi put, i izašao je na ulicu i skrenuo levo i to je bilo sve.
 

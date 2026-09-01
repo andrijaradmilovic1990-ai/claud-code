@@ -2947,3 +2947,61 @@ igre koja poglavlje samo postavlja petnaest strana ranije.**
 
 **`MASKA` (15) — piše se u sledećoj sesiji, po `POENTA_KNJIGE.md` i prepisanom POSLU E.**
 Šest poteza (9–14), četiri zabrane, ~2.800 reči.
+
+
+---
+
+# 01.09.2026 — SLEPI LEKTORSKI PROLAZ PO PRAVILU R *(prvi put urađen čisto)*
+
+**Posao:** pročitati svih šesnaest poglavlja redom, **bez ijednog dokumenta**, napraviti
+spisak iz samog teksta, pa tek onda otvoriti registar i porediti. U tri prethodne sesije
+to nijednom nije urađeno tim redom.
+
+**Izmereno iz teksta pre otvaranja registra:** 16 poglavlja, **30.156 reči**, naslovi I–XVI
+tačni i u redosledu. `Jovana` pada samo u XV (47×) · `Katarina` samo u XIII (2×) · `David`
+samo u XV (2×, oba puta iz tuđih usta) · *„porodica"* jednom (V) · *„čudovište"* jednom (I) ·
+**odraz tačno tri puta** — III ogledalo, VII izlog, XVI ogledalo — senka nigde imenovana ·
+Jovanino *„Dobro"* identično u IX i XV.
+
+## Tri nalaza koja su pala na registru — i zašto se prijavljuju
+
+Slep prolaz ih **mora** naći ponovo, pa stoji zbog čega nisu nalazi:
+
+1. `Beli grad` imenuje **Katarinu** u naraciji dvaput → **namerno**, sekcija 3.
+2. `Kukavica` imenuje **Davida** dvaput → **namerno**, sekcija 16.
+3. `Pukotina` daje Andrijani rečenicu koja zvuči kao Jovanina (*„Ponekad mislim da znam
+   zašto si otišao"*) → **drži**: Andrijana ima Miju i baku, Jovana nema. Dve žene, ne jedna.
+
+## Četiri nalaza koja su stajala — sva uneta
+
+| # | mesto | šta | sprat |
+|---|---|---|---|
+| 1 | `Maska` 47 | *„dvanaest godina van upotrebe"* → **jedanaest**. Nestanak na 23, `Maska` na 34. Dvanaest je rezervisano za sadašnjost (35). **`Maska` uopšte nije bila u tablici godina** — jedino poglavlje koje nije prošlo taj račun; zato je promaklo | rečenica |
+| 2 | `Ćebence` 5 | *„Slobodna ruka. Ona bez gipsa."* — gips je bio **godinu dana ranije**, u `Belom gradu`; u `Kukavici` je izričito *„bez štapa, bez ičega"*. Uz to **šav XV→XVI**: `Kukavica` je ostavlja zaspalu **uz rame**, `Ćebence` je zatiče **licem u jastuk, celom dužinom po sofi** — a registar tvrdi *„isti dah, razmak od dve sekunde"* | rečenica + šav |
+| 3 | `Nestanak` 133 | *„je l’ tako?"* — **jedini tipografski apostrof u knjizi**; ostalih sedamnaest mesta ima ravan `'`. Ostatak posla iz 20.3, gde su ujednačeni navodnici a apostrof nije | mehanika |
+| 4 | registar + `SVET_I_LIKOVI_1.md` | **sve oznake redova su u staroj devetci** (`VII 135` = Beli grad, `VIII 65` = Kukavica, `V 89` = Nestanak…), a knjiga ide I–XVI. Ko po njima otvori „VII“, otvoriće `Ivičnjak` | knjiga / repo |
+
+**Uneto u tekst — dve napisane rečenice i jedna reč, nijedan rez** *(Pravilo J)*:
+
+- `Maska`: *dvanaest* → *jedanaest*.
+- `Ćebence`, umesto *„Spavala je licem u jastuk, jednu ruku pod obrazom, drugu duž tela.
+  Slobodna ruka. Ona bez gipsa."*:
+  > *Spustio sam je na jastuk pre toga, polako, onako kako se pomera nešto što ne sme da se
+  > probudi. Okrenula se sama, licem u njega, ruku podvukla pod obraz. Drugu je ostavila duž
+  > tela. Onu koju sam držao.*
+
+  **Rešava oboje jednim potezom:** pokret od ramena do jastuka sad postoji, a *„onu koju sam
+  držao"* zadržava eho iz `Belog grada` bez netačne činjenice — i **ne objašnjava ga.**
+- `Nestanak`: `’` → `'`.
+
+**Uneto u dokumente:** prevodna tabela staro→novo na vrh `REGISTAR_ODLUKA.md` i
+`SVET_I_LIKOVI_1.md`. **Stare oznake se ne prepisuju** — one su zapis onoga što je tada
+odlučeno; tabela ih prevodi.
+
+## Šta ostaje kao ocena, ne kao nalaz *(sprat: knjiga)*
+
+Prolaz je dao i **čitalačku ocenu**, koja nije popravka nego procena i stoji nedirnuta do
+autorove reči: knjiga radi; najslabija noga je **Katarina** — nosi veći teret nego što joj je
+dato prisustvo; druga je **Italija**, najtoplija kuća u knjizi, plaćena posle jednom
+rečenicom u `Nestanku`. Obe su u registru upisane kao **namerne**, pa se ne diraju bez
+autorovog „otvaram".

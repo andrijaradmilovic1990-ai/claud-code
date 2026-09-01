@@ -1,5 +1,34 @@
 # REGISTAR ODLUKA — šta je zatvoreno
 
+> ## ⛑ UPOZORENJE NA BROJEVE — SVE OZNAKE REDOVA U OVOM FAJLU SU U STAROJ NUMERACIJI *(upisano 01.09.2026, slepi lektorski prolaz)*
+>
+> **Knjiga danas ima šesnaest poglavlja, I–XVI. Ovaj fajl je pisan dok ih je bilo devet**,
+> i sve oznake tipa `VII 135`, `VIII 65`, `V 89`, `VI 125`, `IX 227`, `II 71` **misle na staru
+> devetku, ne na današnje brojeve.** Ko po njima otvori „VII“, otvoriće `Ivičnjak` umesto
+> `Belog grada`.
+>
+> **Prevodna tabela — staro → današnje:**
+>
+> | staro | poglavlje | danas |
+> |---|---|---|
+> | I | Susret | **I** |
+> | II | Pukotina | **III** |
+> | III | Krv | **IV** |
+> | IV | Pariz | **VI** |
+> | V | Nestanak | **IX** |
+> | VI | Prazna stolica | **XII** |
+> | VII | Beli grad | **XIII** |
+> | VIII | Kukavica | **XV** |
+> | IX | Ćebence | **XVI** |
+>
+> *(Sedam novih — `Ulazak` II, `Italija` V, `Ivičnjak` VII, `Prelom` VIII, `Majka` X,
+> `Fabrika` XI, `Maska` XIV — u staroj numeraciji nemaju broj i nisu ovde upućivana.)*
+>
+> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje: Katarinina
+> dva mesta stoje kao `VII 135` i `VII 161`, a u fajlu su danas **redovi 139 i 167**.
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ova tabela ih prevodi.
+
+
 > **Ovo je pamćenje odluka, ne zabrana.** *(Prepisano 30.08.2026, odluka autora.)*
 > Dnevnik (`Analiza_i_pokret_prepravke_3_1_1.md`) pamti *šta se radilo*. Ovaj fajl pamti
 > **šta je odlučeno i zbog čega.** Kad se sukobe — **važi registar.**

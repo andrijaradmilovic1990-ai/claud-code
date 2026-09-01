@@ -1,4 +1,33 @@
 # SAHRANA BEZ TELA — SVET, LIKOVI, HRONOLOGIJA
+
+> ## ⛑ UPOZORENJE NA BROJEVE — SVE OZNAKE REDOVA U OVOM FAJLU SU U STAROJ NUMERACIJI *(upisano 01.09.2026, slepi lektorski prolaz)*
+>
+> **Knjiga danas ima šesnaest poglavlja, I–XVI. Ovaj fajl je pisan dok ih je bilo devet**,
+> i sve oznake tipa `VII 135`, `VIII 65`, `V 89`, `VI 125`, `IX 227`, `II 71` **misle na staru
+> devetku, ne na današnje brojeve.** Ko po njima otvori „VII“, otvoriće `Ivičnjak` umesto
+> `Belog grada`.
+>
+> **Prevodna tabela — staro → današnje:**
+>
+> | staro | poglavlje | danas |
+> |---|---|---|
+> | I | Susret | **I** |
+> | II | Pukotina | **III** |
+> | III | Krv | **IV** |
+> | IV | Pariz | **VI** |
+> | V | Nestanak | **IX** |
+> | VI | Prazna stolica | **XII** |
+> | VII | Beli grad | **XIII** |
+> | VIII | Kukavica | **XV** |
+> | IX | Ćebence | **XVI** |
+>
+> *(Sedam novih — `Ulazak` II, `Italija` V, `Ivičnjak` VII, `Prelom` VIII, `Majka` X,
+> `Fabrika` XI, `Maska` XIV — u staroj numeraciji nemaju broj i nisu ovde upućivana.)*
+>
+> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje: Katarinina
+> dva mesta stoje kao `VII 135` i `VII 161`, a u fajlu su danas **redovi 139 i 167**.
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ova tabela ih prevodi.
+
 > Ovaj dokument pokriva ISKLJUČIVO priču: ko je ko, šta se desilo kad, zaključana pravila sveta, struktura poglavlja. Za zanat i stil pisanja — vidi PRAVILA_STILA.md. Za aktivni tok revizije — vidi Analiza_i_pokret_prepravke.
 >
 > Nastao spajanjem SVETILISTE_MASTER.md (delovi 5-8, 10-11) i obe DOPUNE (jun 2026, vreme). Gde su se izvori razilazili, obeleženo je eksplicitno — vidi NERAZREŠENO na dnu. Stari master i dopune ostaju u projektu kao arhiva/istorija odluka.
