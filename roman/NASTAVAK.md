@@ -698,10 +698,36 @@ Izaslo je cetiri nalaza i sva cetiri su uneta:
  4. REGISTAR i SVET_I_LIKOVI — sve oznake redova su u STAROJ DEVETCI. Na vrh oba fajla
     upisana je prevodna tabela staro->novo. Stare oznake se NE prepisuju.
 
-Ostaje kao OCENA, ne kao nalaz (sprat: knjiga, ceka autorovo „otvaram"):
-najslabija noga je KATARINA — nosi veci teret nego sto joj je dato prisustvo;
-druga je ITALIJA — najtoplija kuca u knjizi, placena posle jednom recenicom u Nestanku.
-Oboje je u registru upisano kao NAMERNO, pa se ne dira bez autorove reci.
+-- KATARINA JE OTVORENA I ZATVORENA ISTOG DANA (01.09.2026) --
+
+Autor je posle citalacke ocene IZRICITO OTVORIO Katarinu. Razlog iz registra
+(sekcija 2, „tanjina je funkcija") NIJE OBOREN — stoji. Otvorilo ga je nesto drugo:
+sekcija 2 je pisana dok je knjiga imala DEVET poglavlja, a njenih pet poteza je
+ostalo pet dok je knjiga narasla za 14.000 reci. Dva od pet padaju u poslednje
+poglavlje, a u MASKI i KUKAVICI nije imala nijedan — bas tamo gde se izbor desava.
+
+Nit je vec postojala: III (slusa korake) -> XIV („Javi mi kad stignes") -> XVI
+(„Nije otvorila vrata. Prvi put." + budna u sedam ujutru). Falila je SAMO SREDINA.
+
+Uneto, tri izmene, nijedna nije scena i nijedna nije rez:
+ 1. KUKAVICA, kraj — „Telefon mi je bio u drugom dzepu i njega nisam vadio. /
+    Rekao sam joj da cu javiti kad stignem. Stigao sam pre osam sati."
+ 2. MASKA — „Fali… Ne mnogo. Ali fali svaki mesec isto." / „Koliko." /
+    „Nema veze koliko." SESTI POTEZ, i taj potez je NE TRAZI.
+ 3. CEBENCE — „Telefon joj je stajao na naslonu fotelje, ekranom nagore."
+    Cela knjiga on spusta telefon EKRANOM NADOLE, cetiri puta. Njen stoji nagore.
+    NE OKRETATI GA i ne dodavati joj uz njega ni rec.
+
+Luk je sad SEST poteza: trazi -> imenuje -> trazi opet -> NE TRAZI -> daje -> odustane.
+Odnos se NE MENJA: Katarina ostaje ispod Jovane. Pun zapis: REGISTAR, sekcija 21.
+
+-- STA JE OSTALO NEOTVORENO --
+
+ITALIJA — najtoplija kuca u knjizi, 3.366 reci, placena posle SAMO JEDNOM recenicom
+u Nestanku („Njima nisam poslao ni te tri reci."). Anja, Toni i baka posle toga
+nestaju iz knjige. NIJE otvarano. Ceka autorovu rec.
+
+Knjiga: 16 poglavlja, 30.209 reci.
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce knjigu jednog
 dana procitati. Ponasaj se u skladu s tim.

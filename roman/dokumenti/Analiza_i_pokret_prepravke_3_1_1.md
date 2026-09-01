@@ -3005,3 +3005,52 @@ autorove reči: knjiga radi; najslabija noga je **Katarina** — nosi veći tere
 dato prisustvo; druga je **Italija**, najtoplija kuća u knjizi, plaćena posle jednom
 rečenicom u `Nestanku`. Obe su u registru upisane kao **namerne**, pa se ne diraju bez
 autorovog „otvaram".
+
+
+---
+
+# 01.09.2026, isti dan — KATARINA OTVORENA NA AUTOROVU REČ
+
+**Posle slepog prolaza autor je tražio čitalačku ocenu knjige** *(sprat: knjiga)*, pa je na
+osnovu nje **izričito otvorio Katarinu.**
+
+**Ocena koja je to izazvala, ukratko:** knjiga radi; glas, dijalog i mehanizam
+*„sve tačno, svaka reč"* drže kroz šesnaest poglavlja; najskuplja rupa je **Katarina** —
+nosi veći teret nego što joj je dato prisustvo, pa izbor koji je cela osa knjige **manje
+košta nego što knjiga tvrdi.**
+
+**Šta je urađeno pre ijednog predloga — Pravilo L:** pročitan je razlog iz sekcije 2
+*(„tanjina je funkcija")*. **Razlog stoji** i nije oboren. Ono što ga je otvorilo je
+**nova činjenica, ne stari nalaz:** sekcija 2 je pisana dok je knjiga imala devet
+poglavlja, a njenih pet poteza je ostalo pet dok je knjiga narasla za 14.000 reči —
+**dva od pet padaju u poslednje poglavlje, a u `Maski` i `Kukavici` nije imala nijedan.**
+
+**Ključno što je prolaz našao:** nit **već postoji** — III (sluša korake) → XIV
+(*„Javi mi kad stigneš"*) → XVI (*„Nije otvorila vrata. Prvi put."*, budna u sedam ujutru).
+**Falila je samo sredina.**
+
+**Uneto — tri izmene, sve tri odobrene pojedinačno po Pravilu K:**
+
+1. `Kukavica` XV, kraj — *„Telefon mi je bio u drugom džepu i njega nisam vadio. / Rekao sam
+   joj da ću javiti kad stignem. Stigao sam pre osam sati."*
+2. `Maska` XIV — *„Fali… Ne mnogo. Ali fali svaki mesec isto." / „Koliko." / „Nema veze
+   koliko."* — šesti potez, i taj potez je **ne traži**.
+3. `Ćebence` XVI — *„Telefon joj je stajao na naslonu fotelje, ekranom nagore."* — inverzija
+   njegovog pokreta koji se u knjizi ponavlja četiri puta, uvek nadole.
+
+**Nijedna nije rez i nijedna nije scena** *(Pravilo J)*. Dve su njegove, jedna je predmet.
+Pun zapis i zabrane koje uz njih idu: **registar, sekcija 21.**
+
+**Knjiga: 30.209 reči.**
+
+## Šta je autoru prijavljeno pre unosa i svesno primljeno
+
+*„Ne mnogo. Nema veze koliko."* u `Maski` je skoro doslovno replika čoveka iz `Ulaska`.
+**Prijavljeno kao dvosmislen eho pre nego što je uneto** — autor ga je uzeo. Stoji u
+registru da se ne obriše kao slučajno ponavljanje.
+
+## Šta ostaje neotvoreno
+
+**`Italija`** — najtoplija kuća u knjizi, 3.366 reči, plaćena posle **jednom rečenicom** u
+`Nestanku` (*„Njima nisam poslao ni te tri reči."*). Anja, Toni i baka posle toga nestaju iz
+knjige. **Nije otvarano** — čeka autorovu reč, kao i sve ostalo iz ocene.

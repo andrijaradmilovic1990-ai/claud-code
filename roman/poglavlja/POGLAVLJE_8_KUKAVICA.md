@@ -536,4 +536,8 @@ Sedeo sam i slušao — Natašino disanje iz sobe, daleko, i ovo uz mene, i fri�
 
 Slobodna ruka mi je bila u džepu. Papir je bio tu, presavijen, ugao izlizan od prstiju. Nisam ga vadio.
 
+Telefon mi je bio u drugom džepu i njega nisam vadio.
+
+Rekao sam joj da ću javiti kad stignem. Stigao sam pre osam sati.
+
 Nisam gledao na sat. Znao sam da je vreme.

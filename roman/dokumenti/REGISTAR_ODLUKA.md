@@ -1587,3 +1587,87 @@ nikad više.
 ne objasni.** Odgovor ostaje ono što je i bio — da se ništa nije desilo — samo je sad izgovoren.
 
 **Time je zatvoren i poslednji od pet šavova. Nema više otvorenih pitanja u repou.**
+
+
+---
+
+# 21 — ⚑ KATARINA OTVORENA I ZATVORENA · LUK JE SAD ŠEST POTEZA *(odluka autora, 01.09.2026)*
+
+> **Autor je izričito otvorio Katarinu** posle slepog lektorskog prolaza po Pravilu R.
+> Sekcija 2 (*„tanjina je funkcija, ne propust"*) **nije oborena — dopunjena je.**
+
+## 21.1 — RAZLOG IZ SEKCIJE 2 I DALJE STOJI
+
+*„Katarina ne sme biti ravnopravna sa Jovanom. Ona je ono što David bira **umesto**.
+Da je ravnopravna, izbor ga ne bi ništa koštao."* — **to se ne dira i nijedna od tri
+izmene ispod ga ne dira.** Njen luk je i dalje **ispod** Jovaninog: Jovana traži naglas
+i dobije *„Kukavica"*; Katarina, sad, **ne traži uopšte.**
+
+## 21.2 — ŠTA JE BILA NOVA ČINJENICA *(zbog čega je otvoreno)*
+
+Sekcija 2 je pisana **28.08.2026, dok je knjiga imala devet poglavlja.** Njenih pet
+poteza je ostalo pet dok je knjiga narasla **za 14.000 reči i sedam poglavlja.**
+
+U današnjem redosledu ti potezi padaju na **VI · IX · XIII · XVI · XVI** — **dva od pet
+u poslednjem poglavlju**, a između XIII i XVI stoje `Maska` i `Kukavica`, dva najteža
+poglavlja knjige, **ona u kojima se izbor stvarno dešava**, i u njima ona nije imala
+nijedan potez.
+
+**Nalaz nije „slabo napisana" — taj je pao 28.08. i pao bi opet. Nalaz je: knjiga je
+narasla, a ona nije.**
+
+## 21.3 — NIT KOJA JE VEĆ POSTOJALA, S JEDNOM KARIKOM KOJA JE FALILA
+
+Slep prolaz je našao da je nit **skoro cela napisana**, u tri poglavlja:
+
+| gde | šta je već stajalo |
+|---|---|
+| **III `Pukotina`** | *„Otvorila je vrata pre nego što sam pokucao. Slušala je korake na stepeništu."* |
+| **XIV `Maska`** | *„Javi mi kad stigneš, da ne mislim." / „Javiću." / „Nećeš." … „Ali javi."* |
+| **XVI `Ćebence`** | *„**Nije otvorila vrata. Prvi put.**"* — pa budna u sedam ujutru, televizor bez tona, šerpa u frižider cela s poklopcem |
+
+**Ona ga je čekala celu noć i knjiga to nikad ne kaže — i ne treba da kaže.** Falila je
+**samo sredina**: u `Kukavici` on tu poruku ne pošalje, a čitalac to ne vidi.
+
+## 21.4 — TRI UNETE IZMENE
+
+**1. `KUKAVICA` (XV), kraj — dopuna, dva reda, posle pasusa s papirićem:**
+> *Telefon mi je bio u drugom džepu i njega nisam vadio.*
+> *Rekao sam joj da ću javiti kad stignem. Stigao sam pre osam sati.*
+
+**Dva džepa, dve žene, jedna ruka — i ne vadi nijedno.** *„Pre osam sati"* je jedina
+cifra i **ne objašnjava se.** Ovo je **njegovo izostavljanje, ne njena scena** — po
+dopuni od 30.08.2026, Davidovi potezi prema njoj nisu pokriveni zabranom.
+
+**2. `MASKA` (XIV) — šesti potez, i jedini usred izbora a ne posle njega:**
+> *„Fali", rekla je. „Ne mnogo. Ali fali svaki mesec isto."*
+> *„Koliko."*
+> *„Nema veze koliko."*
+
+**Potez je: NE TRAŽI.** Ima razlog da traži, otvori usta i zatvori ih — a on odmah zatim
+kaže da ga neće biti, i ona veže kesicu čvorom i kaže *„Aha"*.
+**Ovo je jedino od tri koje joj stvarno dodaje, i jedino oko kog je autor pitan dvaput.**
+> **Prijavljeno pre unosa i svesno primljeno:** *„Ne mnogo. Nema veze koliko."* je skoro
+> doslovno replika čoveka iz `Ulaska` (*„Uzeo je od svog. Ne mnogo. Nije ni bitno
+> koliko."*). **Stoji kao eho — isti sud, dva sveta.** Ne brisati kao slučajno ponavljanje.
+
+**3. `ĆEBENCE` (XVI) — jedna rečenica, ništa drugo:**
+> *Telefon joj je stajao na naslonu fotelje, ekranom nagore.*
+
+**Cela knjiga on spušta telefon EKRANOM NADOLE** — `Pukotina`, `Nestanak`, `Maska`
+dvaput. To je njegov pokret, ponovljen do navike. **Njen stoji nagore.** Ništa se ne
+imenuje. **Ne okretati ga i ne dodavati joj uz njega ni reč** — inverzija radi samo dok
+je nema.
+
+## 21.5 — LUK JE SAD ŠEST POTEZA
+
+**traži** *(VI, mart)* → **imenuje** *(IX, „kao kiša")* → **traži opet** *(XIII, „Zovi je
+danju")* → **NE TRAŽI** *(XIV, pare)* → **daje** *(XVI, ceduljica)* → **odustane**
+*(XVI, „Nije me podsetila")*.
+
+**Sekcija 2 se ovim ne poništava nego dobija datum:** *„ne dodavati joj prisutnost, dubinu
+ni scenu"* i dalje važi — **nijedna od tri izmene nije scena**, dve su njegove, jedna je
+predmet i tri kratke replike u sceni koja je već postojala.
+
+**Ako knjiga ikad ponovo naraste, ovo se meri ponovo. Broj poteza nije zaključan — zaključan
+je odnos: Katarina ostaje ispod Jovane.**
