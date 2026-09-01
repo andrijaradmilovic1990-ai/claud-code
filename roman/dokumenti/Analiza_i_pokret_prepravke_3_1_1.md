@@ -3271,7 +3271,9 @@ objašnjenje prvog.** Traži se suptilnije.
 
 **Uneto:**
 - *„Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala
-  nikoga da bilo šta upamti."* → *„Za većinom se niko nije raspitivao."*
+  nikoga da bilo šta upamti."* → **„Za većinom nije došao niko."** *(prva verzija je
+  glasila „Za većinom se niko nije raspitivao", pa je promenjena istog dana jer je
+  „raspitivao" padalo dvaput u istom pasusu — odobrio autor)*
 - *„Provedeš život puneći jarke i temelje…"* → *„Provedeš pola života u poslu posle kog
   ostanu samo imena…"* *(varijanta A, izbor autora)*
 
