@@ -758,7 +758,32 @@ Ostaje samo ono sto je u ocenu uslo kao CENA ODLUKA, ne kao greska, i sto se ne
 popravlja izmenom: knjiga je kratka (30.258 reci), ide po pritisku a ne po
 hronologiji, i osa joj je namerno uska. To su izbori, ne rupe.
 
-Knjiga: 16 poglavlja, 30.258 reci.
+-- ⚑ ISPRAVKA KOJA SE MORA PROCITATI PRE BILO KAKVOG DIRANJA SREDINE --
+
+U citalackoj oceni od 01.09.2026. stajalo je da sredina (VIII-XII) „visi" i cita se kao
+niz stanica. TO JE NETACNO I POVUCENO. Nalaz je nastao slepim citanjem poglavlje po
+poglavlje — a to je nacin citanja koji OSLEPLJUJE ZA LUK.
+
+Citanje cele knjige u nizu pokazalo je da je sredina STEPENOVAN SILAZAK:
+  VIII Prelom     — iznad rake mu prilaze TROJICA DA TRAZE USLUGE („Samo jednu rec tvoju.")
+  IX  Nestanak    — nestaje
+  X   Majka       — dobija kljuc i peskir presavijen na cetvorine
+  XI  Fabrika     — DIZE RUKU i ceka da mu poslovodja klimne da sme do toaleta
+  XII Prazna st.  — dva poziva, deset minuta, i OPET JE ONAJ OD PRE
+
+VIII „Samo jednu rec tvoju" i XI „Digao sam ruku i drzao je gore dok mi nije klimnuo"
+su ISTA SLIKA OKRENUTA NAOPAKO, na razmaku od tri poglavlja. To je najsklopljeniji luk
+u knjizi. NE DIRATI GA I NE „UBRZAVATI" SREDINU.
+
+Ocena posle celog citanja: 8,5. Plafon nije rupa nego izbor — knjiga je kratka, ide po
+pritisku a ne po hronologiji, osa joj je namerno uska. Cim citalac dobije Jovaninu
+stranu direktno, neznanje prestaje da bude knjiga. NE OTVARATI TO.
+
+Knjiga: 16 poglavlja, 30.567 reci (30.501 bez naslova poglavlja).
+
+PAZNJA: golo `wc -w` u ovom okruzenju LAZE — radi u C lokalu i lomi nasa slova
+(c, c, s, z, dj), pa potcenjuje zbir za oko 1%. Sve ranije upisane cifre su zato
+bile nize. Meri se sa: LC_ALL=C.UTF-8 wc -w, ili pythonom preko .split().
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce knjigu jednog
 dana procitati. Ponasaj se u skladu s tim.

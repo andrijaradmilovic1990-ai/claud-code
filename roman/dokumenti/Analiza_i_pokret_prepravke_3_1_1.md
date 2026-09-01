@@ -3098,3 +3098,95 @@ Odbačena i mesta: `Maska` *(već nosi majku na istom predmetu)* i `Ćebence` *(
 u knjizi)*. Ponuđeno i **„ne raditi ništa"** kao ravnopravna mogućnost — autor je odbio.
 
 **Knjiga: 30.258 reči.** Pun zapis: **registar, sekcija 22.**
+
+
+---
+
+# 01.09.2026, na kraju dana — ČITANJE CELE KNJIGE U NIZU, S PET IZMENA UNUTRA
+
+**Autor je tražio da se knjiga pročita ponovo, cela, redom — ne slepo i ne tražeći nalaze,
+nego kao čitalac**, da se vidi da li se ocena pomerila. Pročitano svih šesnaest, I–XVI.
+
+## ⚑ ISPRAVKA SOPSTVENOG NALAZA — SREDINA KNJIGE NE VISI
+
+**Ovo je najvažnije što je čitanje dalo i upisuje se da sledeći prolaz ne krene da
+„popravlja" nešto što nije pokvareno.**
+
+U čitalačkoj oceni od istog dana stajalo je: *„sredina (VIII–XII) čita se kao niz dobro
+napravljenih stanica, a ne kao linija koja ubrzava."* **To je netačno i povlači se.**
+
+Nalaz je nastao **slepim čitanjem, poglavlje po poglavlje, u potrazi za nalazima** — i to je
+tačno onaj način čitanja koji Pravilo R propisuje za lektorski prolaz, a koji **oslepljuje za
+luk.** U nizu je ta sredina **stepenovan silazak:**
+
+| | gde je David |
+|---|---|
+| **VIII `Prelom`** | iznad rake mu prilaze **trojica da traže usluge** — *„Samo jednu reč tvoju."* |
+| **IX `Nestanak`** | nestaje; ime mu je bilo na svemu, i onda ga nema |
+| **X `Majka`** | vraća se i dobija **ključ i peškir presavijen na četvorine** |
+| **XI `Fabrika`** | **diže ruku i čeka da mu poslovođa klimne da sme do toaleta** |
+| **XII `Prazna stolica`** | dva poziva, deset minuta — **i opet je onaj od pre** |
+
+**`VIII` *„Samo jednu reč tvoju"* i `XI` *„Digao sam ruku i držao je gore dok mi nije
+klimnuo"* su ista slika okrenuta naopako, na razmaku od tri poglavlja.** To je
+najsklopljeniji luk u knjizi. **Ne dirati ga i ne „ubrzavati" sredinu.**
+
+## Kako pet izmena čita u nizu
+
+- **`Ćebence`, telefon ekranom nagore — najjača od pet.** U nizu radi zato što je čitalac do
+  tog reda video **njega** kako spušta telefon licem nadole četiri puta *(`Pukotina`,
+  `Nestanak`, `Maska` dvaput)*. **Inverzija radi samo dok se ne imenuje.**
+- **`Kukavica`, karika s telefonom — druga po jačini.** Dva džepa, papir u jednom, telefon u
+  drugom, ne vadi nijedno, a Jovana mu spava na ramenu.
+- **`Kukavica`, italijanski pasus — radi**, rima IV→V→XV se zatvara.
+  > **Zapažanje, ne nalaz, i ne predlaže se** *(Pravilo G)*: pada vrlo rano u poglavlju, pre
+  > prve replike za stolom, pa *„Ne znam da li je još živa"* stigne pre nego što se veče
+  > zagrejalo. Radi svejedno. Da se ikad bude postavljalo iznova — pasus niže, posle
+  > *„Pukni. Mršav si"*. **Nije prag za diranje.**
+- **`Maska` (pare) i `Ćebence` (gips) rade tiho i ne primećuju se** — što je bio zadatak.
+
+## Ocena posle celog čitanja *(sprat: knjiga)*
+
+**8,5.** Otprilike **pola** te razlike u odnosu na raniju ocenu su izmene; **druga polovina je
+ispravka gornje greške** — polazni broj je bio prenizak jer je sredina bila pogrešno
+pročitana.
+
+**Šta je i dalje tačno:** Nataša ima jedan registar *(najmanji problem u knjizi)* ·
+`Kukavica` je duga, ali **manje nego što je rečeno** — igra istine je jedini mehanizam kojim
+svako za tim stolom dobije svoju istinu, pa bi rez bio sto reči, ne tristo.
+
+**Plafon nije rupa nego izbor:** knjiga je kratka, ide po pritisku a ne po hronologiji, i osa
+joj je namerno uska. **Čim čitalac dobije Jovaninu stranu direktno, neznanje prestaje da bude
+knjiga.** Ne otvarati to.
+
+**Najbolja poglavlja posle celog čitanja:** `Italija` *(najživlje)* · `Ivičnjak` *(1.119 reči
+i nijedna višak)* · **`Fabrika` — najpotcenjenije u repou, podignuta ruka** · `Ćebence`
+*(najpreciznije)*.
+
+## Sitnica zabeležena, nedirnuta
+
+`Ćebence`: *„oprao tanjir koji sam doneo"* — doneo je vino, pa se *doneo* čita sekund
+dvosmisleno; verovatno znači „doneo do sudopere". **Ostavljeno.**
+
+
+## ⚑ ISPRAVKA BROJA REČI — SVE DOSADAŠNJE CIFRE SU BILE POTCENJENE *(01.09.2026)*
+
+Otkriveno pri pakovanju knjige u jedan fajl. **`wc -w` je u ovom okruženju radio u
+`C` lokalu i pogrešno je delio višebajtne znakove** *(č, ć, š, ž, đ)*, pa je svaki
+dosadašnji zbir bio **niži za oko 1%.**
+
+| | dosad upisivano | **tačno** |
+|---|---|---|
+| ceo tekst, sa naslovima poglavlja | 30.258 | **30.567** |
+| samo telo teksta, bez naslova | — | **30.501** |
+
+**Nijedna rečenica nije dodata ni oduzeta — greška je bila u brojanju, ne u knjizi.**
+Starije cifre u dnevniku *(15.529 · 26.351 · 27.758 · 30.141 · 30.156 · 30.209 · 30.258)*
+**ne prepisuju se** — one su zapis onoga što je tada izmereno; ova napomena ih ispravlja.
+
+> **Kako se meri ubuduće:** `python3 -c "import io,glob; print(sum(len(io.open(f,encoding='utf-8').read().split()) for f in glob.glob('roman/poglavlja/*.md')))"`
+> — ili `LC_ALL=C.UTF-8 wc -w`. **Golo `wc -w` u ovom repou laže.**
+
+> **Uz to provereno i odbačeno:** `grep -P "\x{00A0}"` je prijavio 66 „nedeljivih
+> razmaka" — **lažno**, jer u `C` lokalu hvata bajt `0xA0` unutar slova **Š** (`0xC5 0xA0`).
+> **Nedeljivih razmaka u knjizi nema nijedan.** Isti uzrok kao i pogrešan zbir.
