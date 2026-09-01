@@ -721,13 +721,44 @@ Uneto, tri izmene, nijedna nije scena i nijedna nije rez:
 Luk je sad SEST poteza: trazi -> imenuje -> trazi opet -> NE TRAZI -> daje -> odustane.
 Odnos se NE MENJA: Katarina ostaje ispod Jovane. Pun zapis: REGISTAR, sekcija 21.
 
+-- ITALIJA OTVORENA I ZATVORENA ISTOG DANA (01.09.2026) --
+
+SEKCIJA 8 NIJE DIRNUTA — nijedno slovo Italije nije promenjeno i ne sme se menjati.
+Placanje je uneto u KUKAVICU.
+
+Nalaz je prvo pogresno imenovan („placena je samo jednom recenicom") pa POVUCEN.
+Nestanak je placa dobro. Tacan nalaz: knjiga ima mehanizam kojim proslost izbija —
+PREDMET U SADASNJOSTI (dzep, meso u saci, magnet, ljuske semenki) — a Italija je
+bila JEDINI SVET BEZ IJEDNOG. Najvece ulaganje u knjizi, bez sidra.
+
+Uneto u KUKAVICU (XV), peti pasus, izmedju „Sekund, ne vise." i „Pa sam uzeo viljusku.":
+  „Meso je bilo razbijeno prstima, bez ijedne grudve, onako kako sam ga i ja uvek
+   razbijao. Preko granice mi je zbog toga jednom zena od osamdeset dve izbila saku
+   kasikom i istresla meso nazad u ciniju.
+   Ne znam da li je jos ziva. Andrijana bi znala. Nisam je pitao."
+
+Zatvara tri poglavlja odjednom: IV (razbija meso, pada u magacin) -> V (baka mu to
+zabranjuje) -> XV (Jovana mu to sipa u tanjir). „Zena od osamdeset dve" je doslovno
+isti tag iz Nestanka — NE MENJATI GA.
+
+ZASTO JE TO IZOSTAVLJANJE A NE OSVRT: Andrijana je BILA u toj kuci (pise u Italiji),
+sedi kraj prozora tri koraka od njega I ZNA ODGOVOR. I on ne pita.
+NE DODAVATI njen odgovor, ne dati joj repliku, ne vracati se na to kasnije.
+Recenica radi samo dok ostaje bez odgovora.
+
+Odbijeno na autorovu rec i upisano da se ne vrati: „Nisam je pitao NI TAD NI POSLE."
+— to je doslovno recenica iz Ivicnjaka, o Jovani; presla bi s nje na njega.
+Pun zapis: REGISTAR, sekcija 22.
+
 -- STA JE OSTALO NEOTVORENO --
 
-ITALIJA — najtoplija kuca u knjizi, 3.366 reci, placena posle SAMO JEDNOM recenicom
-u Nestanku („Njima nisam poslao ni te tri reci."). Anja, Toni i baka posle toga
-nestaju iz knjige. NIJE otvarano. Ceka autorovu rec.
+Nista iz citalacke ocene vise ne ceka. Obradjene su obe noge koje su u njoj
+imenovane — KATARINA (sekcija 21) i ITALIJA (sekcija 22).
+Ostaje samo ono sto je u ocenu uslo kao CENA ODLUKA, ne kao greska, i sto se ne
+popravlja izmenom: knjiga je kratka (30.258 reci), ide po pritisku a ne po
+hronologiji, i osa joj je namerno uska. To su izbori, ne rupe.
 
-Knjiga: 16 poglavlja, 30.209 reci.
+Knjiga: 16 poglavlja, 30.258 reci.
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce knjigu jednog
 dana procitati. Ponasaj se u skladu s tim.

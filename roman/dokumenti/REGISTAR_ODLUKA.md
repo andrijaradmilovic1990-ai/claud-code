@@ -1671,3 +1671,86 @@ predmet i tri kratke replike u sceni koja je već postojala.
 
 **Ako knjiga ikad ponovo naraste, ovo se meri ponovo. Broj poteza nije zaključan — zaključan
 je odnos: Katarina ostaje ispod Jovane.**
+
+
+---
+
+# 22 — ⚑ `ITALIJA` DOBILA SIDRO U SADAŠNJOSTI *(odluka autora, 01.09.2026)*
+
+> **Autor je izričito otvorio `Italiju`** posle čitalačke ocene. **Sekcija 8 nije ni
+> dirnuta** — `Italija` sama je ostala netaknuta do reči. Plaćanje je uneto u **`Kukavicu`**.
+
+## 22.1 — SEKCIJA 8 STOJI CELA
+
+*Bez okvira sadašnjosti na početku i na kraju · bez rečenice posle poslednjeg prozora ·
+baka se ne prevodi · Anja izgovori, David ćuti · zdravica ostaje prelomljena.*
+**Nijedno slovo `Italije` nije promenjeno i ne sme se menjati zbog ove izmene.**
+
+## 22.2 — NALAZ NIJE BIO „NEPLAĆENA" NEGO „BEZ PREDMETA"
+
+Prvo imenovanje nalaza — *„plaćena je samo jednom rečenicom"* — **bilo je netačno i
+povučeno.** `Nestanak` je plaća dobro *(„Njima nisam poslao ni te tri reči.")*.
+
+**Tačan nalaz:** knjiga ima mehanizam kojim prošlost izbija — **predmet u sadašnjosti
+koji obori čoveka u zaron.**
+
+| svet | predmet |
+|---|---|
+| stari posao | ruka ka **džepu** *(I, XII, XVI)* |
+| magacin | **meso u šaci** *(IV)* |
+| Pariz, ona pod šeširom | **magnet** *(VI)* |
+| pandur, stari svet | **ljuske semenki** *(XII)* |
+| **`Italija`** | **nije imala nijedan** |
+
+**Najveće ulaganje u knjizi — 3.366 reči, 11% — bilo je jedini svet bez sidra.** Zato je
+delovala nenaplaćeno iako je plaćena.
+
+## 22.3 — PREDMET JE VEĆ POSTOJAO, DVAPUT
+
+`Krv` (IV): *„Mleveno, uzmeš ga u šaku i razbiješ po vreloj šerpi, prstima."*
+`Italija` (V): baka mu zbog toga **izbija šaku kašikom** — *„Cemento. Ce-men-to."*
+**Ruke u mesu su bile zajednički predmet dva poglavlja, bez ijednog pojavljivanja u
+poslednjoj trećini.**
+
+## 22.4 — UNETO, `KUKAVICA` (XV), PETI PASUS
+
+Između *„Sekund, ne više."* i *„Pa sam uzeo viljušku."*:
+
+> *Meso je bilo razbijeno prstima, bez ijedne grudve, onako kako sam ga i ja uvek
+> razbijao. Preko granice mi je zbog toga jednom žena od osamdeset dve izbila šaku
+> kašikom i istresla meso nazad u činiju.*
+>
+> *Ne znam da li je još živa. Andrijana bi znala. Nisam je pitao.*
+
+**Šta je time zatvoreno — tri poglavlja jednim potezom:** on razbija meso prstima i pada u
+magacin *(IV)* → baka mu to zabranjuje *(V)* → **Jovana mu to sipa u tanjir** *(XV)*.
+
+**`Žena od osamdeset dve` je doslovno isti tag iz `Nestanka`** — vezuje jedino postojeće
+plaćanje s ovim novim, bez ijedne nove reči o toj kući. **Ne menjati taj tag.**
+
+## 22.5 — ZAŠTO JE OVO IZOSTAVLJANJE, A NE OSVRT
+
+**Andrijana je bila u toj kući** *(`Italija`: „Andrijana i Nataša su stigle poslednje i
+najglasnije, iz grada.")* — **sedi kraj prozora, tri koraka od njega, i zna odgovor.**
+I on ne pita.
+
+**To nije dodavanje ni `Italiji` ni Andrijani nego još jedno Davidovo izostavljanje** —
+isti mehanizam kao cela knjiga, primenjen na jedini svet koji ga do sada nije imao.
+**Ne dodavati Andrijanin odgovor, ne dati joj repliku, ne vraćati se na to kasnije u
+poglavlju.** Rečenica radi samo dok ostaje bez odgovora.
+
+> **Prijavljeno pre unosa i odbijeno od autora — upisano da se ne vrati:** varijanta u
+> kojoj poslednja rečenica glasi *„Nisam je pitao **ni tad ni posle**."* To je **doslovno**
+> rečenica iz `Ivičnjaka` *(o Jovani koja ga ništa nije pitala)*. Doslovno ponavljanje je
+> u ovoj knjizi tehnika, ali bi ovde **prešlo s nje na njega** i potrošilo se na mestu gde
+> nije nužno. **Stoji „Nisam je pitao." i tako ostaje.**
+
+## 22.6 — ŠTA JE PROVERENO PA ODBAČENO
+
+- **`Maska` (XIV), ruke i teglica** — odbačeno: `Maska` već nosi **majku** kroz tu teglicu,
+  dve žene na jednom predmetu.
+- **`Ćebence` (XVI), ogledalo i ruke pod hladnom vodom** — odbačeno: najgušći pasus u
+  knjizi, vodi pravo u *„Isti čovek."*; jedna klauza viška ga razvodnjava.
+- **Ne raditi ništa** — ponuđeno autoru kao ravnopravna mogućnost, pa odbijeno.
+
+**`Italija` je ovim zatvorena. Sekcija 8 važi dalje bez izuzetka.**

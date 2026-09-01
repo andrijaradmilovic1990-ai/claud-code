@@ -38,7 +38,13 @@ Seo sam. Vrata koso s leva, ne iza leđa. Jovanin stan, znam gde se sedne. Niko 
 
 Jovana je spustila šerpu nasred stola, skinula poklopac kao da otkriva nešto. Špagete, bolonjeze, sos gust i taman, krčkao dugo.
 
-Pogledao sam u tanjir kad mi je sipala. Sekund, ne više. Pa sam uzeo viljušku.
+Pogledao sam u tanjir kad mi je sipala. Sekund, ne više.
+
+Meso je bilo razbijeno prstima, bez ijedne grudve, onako kako sam ga i ja uvek razbijao. Preko granice mi je zbog toga jednom žena od osamdeset dve izbila šaku kašikom i istresla meso nazad u činiju.
+
+Ne znam da li je još živa. Andrijana bi znala. Nisam je pitao.
+
+Pa sam uzeo viljušku.
 
 „Što me gledaš tako.“
 
