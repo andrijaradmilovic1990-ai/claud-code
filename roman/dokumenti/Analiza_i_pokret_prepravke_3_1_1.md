@@ -3303,10 +3303,13 @@ posle njegovog izmicanja *(„Pitala sam kad si poslednji put sedeo s njom.")*, 
 atribucija uz *„Znam kako ti je", rekao sam*. Time njena replika *„Ti samo izostaviš"*
 dobija povod **u sceni**, a ne samo u karakteru.
 
-## Otvoreno iz istog paketa, nije rađeno
+## III — Pukotina, druga dva nalaza *(uneto istog dana, odobrio autor)*
 
-- **III — špagete bolonjeze:** autor kaže da ih je David spremao i ranije, pa *„naučio sam
-  da pravim"* ne stoji — treba *„ponovo sam krenuo"*. **Čeka formulaciju.**
-- **III — *„A ko si ti?"***: David odmah kreće da objašnjava umesto da pita šta ga pita.
-  **Čeka odluku.**
+- **Špagete:** David kuva odranije, pa *„naučio sam da pravim"* ne stoji →
+  *„ponovo sam počeo da pravim"*.
+- ***„A ko si ti?"***: David je odmah kretao u odgovor, kao da razume pitanje. Umetnute
+  su dve replike — *„Kako to misliš?"* / *„Tako kako sam rekla."* — pa pitanje prvo visi,
+  on pokuša da izmakne, a ona ne pušta. **Odgovor koji sledi je iznuđen, ne ponuđen.**
+
+## Otvoreno iz istog paketa, nije rađeno
 - **IV — Krv:** autor je pročitao, „nije loše ali slabo kao i treće", čitaće ponovo.

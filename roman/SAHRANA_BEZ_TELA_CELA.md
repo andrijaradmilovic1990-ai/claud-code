@@ -627,7 +627,7 @@ Smejali smo se. Preživeli smo i to, kao što smo preživeli i sve ostalo, i ost
 
 ⁂
 
-Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam naučio da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
+Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam ponovo počeo da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
 
 Telefon joj je zazvonio na stolu, licem nagore. Videla je ko je i javila se.
 
@@ -706,6 +706,10 @@ Okretala je čašu u mestu. Onda je stala.
 „A ko si ti?“
 
 Okrenuo sam šolju u tacni, jednom.
+
+„Kako to misliš?“
+
+„Tako kako sam rekla.“
 
 „Kad sam radio loše stvari, isključio sam se i postao neko drugi. Posle sam opet bio ja.“
 
