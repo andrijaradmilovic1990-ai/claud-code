@@ -3190,3 +3190,29 @@ Starije cifre u dnevniku *(15.529 · 26.351 · 27.758 · 30.141 · 30.156 · 30.
 > **Uz to provereno i odbačeno:** `grep -P "\x{00A0}"` je prijavio 66 „nedeljivih
 > razmaka" — **lažno**, jer u `C` lokalu hvata bajt `0xA0` unutar slova **Š** (`0xC5 0xA0`).
 > **Nedeljivih razmaka u knjizi nema nijedan.** Isti uzrok kao i pogrešan zbir.
+
+---
+
+## 01.09.2026 — spoljna kritika izmerena; zdravica dobila „dug" umesto „iskupljenja"
+
+Autor je doneo čitalačku kritiku koja poredi knjigu s Hemingvejem, Karverom, Manšetom i
+Makartijem. Tri zamerke: mehanički okidači flešbekova, „filmska patetika" zdravice u
+`Italiji`, prezasićenost lajtmotivima.
+
+**Provereno u tekstu, ne u dokumentima** *(Pravilo R — tekst prvi, brojanje pre registra)*:
+
+- **Lajtmotivi — netačno.** leđa/zid **sedam** mesta na šesnaest poglavlja; prazan džep kao
+  gest **četiri**, dva od njih **obrtanja**; doslovno ponovljena rečenica **jedna** (prva
+  strana ↔ `Ćebence`). Ništa dirano.
+- **Okidači — pola pogotka.** `Pariz`/magnet: šav se vidi. `Krv`/sos: prelaz je telesni,
+  ne predmetni — zamerka pada. Ništa dirano.
+- **Zdravica — zahtev za sasecanjem odbijen.** Tekst je već postavlja kao Davidov promašaj
+  (baka preseca, Anja ne diže čašu, sto se ledi), a `Prelom` visi o njoj. Kritika je citirala
+  govor kao blok, a u knjizi on nije blok.
+
+**Uneto je jedno:** *„O iskupljenju."* → *„**O dugu.**"* Jedina reč u knjizi iz tuđeg
+registra zamenjena je rečju koja za tim stolom nije metafora. Pun zapis, s ehom prema
+`Nestanku` koji se ne sme komentarisati: `REGISTAR_ODLUKA.md`, **sekcija 23**.
+
+`POENTA_KNJIGE.md` sinhronizovan u citatu *(Pravilo E — tekst je autoritet)*. Broj reči
+nepromenjen do na jednu.

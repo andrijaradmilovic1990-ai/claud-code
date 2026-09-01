@@ -1754,3 +1754,60 @@ poglavlju.** Rečenica radi samo dok ostaje bez odgovora.
 - **Ne raditi ništa** — ponuđeno autoru kao ravnopravna mogućnost, pa odbijeno.
 
 **`Italija` je ovim zatvorena. Sekcija 8 važi dalje bez izuzetka.**
+
+---
+
+# 23 — ⚑ ZDRAVICA: „ISKUPLJENJE" → „DUG" *(odluka autora, 01.09.2026)*
+
+> **Povod.** Spoljna čitalačka kritika je zdravicu u `Italiji` proglasila „filmskom
+> patetikom" i tražila da se saseče na jednu suvu rečenicu. **Taj zahtev je odbijen**
+> (razlozi ispod). Otvorena je i promenjena **jedna reč**, na inicijativu autora.
+
+## 23.1 — Šta je promenjeno
+
+**Bilo:** *„Naša priča je o slobodi", rekao sam. „O iskupljenju. I o porodici."*
+**Sada:** *„Naša priča je o slobodi", rekao sam. „**O dugu.** I o porodici."*
+
+**To je jedina izmena u `Italiji`.** Sekcija 8 važi dalje bez izuzetka: bez okvira
+sadašnjosti · Jovane nema · baka se ne prevodi · Anja izgovori, David ćuti · **zdravica
+ostaje prelomljena upadicama.**
+
+## 23.2 — Zašto je „iskupljenje" palo
+
+**„Iskupljenje" se u celoj knjizi javljalo tačno jednom — tu.** Jedina reč u rukopisu iz
+tuđeg registra; „sloboda" i „porodica" su reči koje taj sto stvarno koristi. „Dug" za tim
+stolom **nije metafora nego fizička stvar**, i zato sto ućuti: Toni gleda u sto, Sale
+prestane da se ceri, Andrijana skine ruku s Ninove.
+
+## 23.3 — Eho prema `Nestanku` — postoji i NE KOMENTARIŠE SE
+
+Četiri poglavlja kasnije stoji *„postoje računi koji se ne naplaćuju od dužnika.
+Naplaćuju se od onoga što dužnik voli."* Dvadesetjednogodišnjak sada **nazdravlja reči
+koja će ga trideset petog pokupiti.**
+
+**Eho se nigde ne pominje** — ni u `Nestanku`, ni u `Kukavici`, ni u `Maski`, ni jednom
+rečju. **Čitalac ga nosi sam.** Isti režim kao odbijanje govora u `Prelomu`.
+
+## 23.4 — Zašto zdravica NIJE sasečena *(zahtev kritike odbijen)*
+
+- **Tekst je već postavlja kao Davidov promašaj, ne kao autorov govor.** Baka ga preseca
+  (*„Parla, parla. Intanto si fredda tutto."*), **Anja jedina ne diže čašu**, Nataši se
+  čaša spušta prstom, baka svoju drži gore duže od svih gledajući u njega preko nje.
+- **Hronologija.** Tu ima dvadeset jednu godinu, šesta mu je godina dolazaka. Čovek koji
+  ćuti deceniju **još nije taj čovek**. Kritika je merila mladog Davida starim aršinom.
+- **`Prelom` (VIII) visi o njoj.** Dve godine kasnije, na daći: *„Reci ti nešto." / „Ne."*
+  Knjiga eho ne pominje. **Skrati zdravicu i to „Ne" ostaje bez onoga čemu je odgovor.**
+- **`POENTA_KNJIGE.md`** drži zdravicu kao jedan od pet nosećih stubova — jedina
+  „porodica" koju knjiga imenuje **nije njegova**.
+
+## 23.5 — Šta je iz iste kritike provereno pa odbačeno
+
+- **„Flešbekovi imaju mehaničke okidače."** Delimično tačno: **`Pariz`, magnet** — šav se
+  vidi (*„Hiljadu jutara ga nisam video. / Ovog jutra sam ga video."*). **`Krv`, sos —
+  netačno:** prelaz nije predmet nego telo (*„Prsti u nečem mekom i toplom, pa pritisak,
+  pa razdvajanje. / I nisam više tu."*). **Ništa nije dirano.**
+- **„Lajtmotivi se ponavljaju kroz skoro svako poglavlje."** **Izmereno — netačno.** Na
+  šesnaest poglavlja: **leđa/zid sedam mesta**, **prazan džep kao gest četiri**, od kojih
+  su dva **obrtanja** (`Prazna stolica`: *„nešto u tom džepu opet imam da branim"*;
+  `Kukavica`: *„Nije bio prazan."*). Doslovno ponovljena rečenica postoji **jednom** —
+  prva strana i `Ćebence`. **To je ram, ne tik.** Vidi i sekciju 20 (ponavljanja merena).
