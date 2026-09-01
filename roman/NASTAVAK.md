@@ -40,8 +40,25 @@
 > nikad ne laže nego samo izostavlja *(`Pukotina`, Andrijanina replika)*. **Vidi `PLAN_RASTA.md`,
 > N9 i P6.**
 >
-> **Ništa u tekstu još nije dirano.** Napisan je samo plan, na izričit zahtev autora:
-> prvo plan, pa rad. **Sledeći potez je potez 1 iz plana — sidra.**
+> # ⛔ PO PLANU SE NE RADI. ČEKA SE DA AUTOR PROČITA KNJIGU.
+>
+> **Odluka autora, 01.09.2026, na kraju sesije:** *„moraću ja da pročitam celu knjigu
+> kompletnu, pa tek onda možemo da pravimo plan i slično."*
+>
+> **`PLAN_RASTA.md` stoji kao zapis, ne kao spisak posla.** Nijedan njegov potez se ne
+> otvara — ni sidra, ni nova poglavlja, ni prepravke — **dok autor ne pročita knjigu i ne
+> kaže sam šta se radi.**
+>
+> **Ne predlagati izmene. Ne otvarati poglavlja. Ne planirati.** Sesija koja ovo otvori
+> čeka autorovu reč.
+>
+> **Za čitanje je spremljena cela knjiga u jednom fajlu:** `roman/SAHRANA_BEZ_TELA_CELA.md`
+> — šesnaest poglavlja redom, 30.593 reči. *(Sastavljeno iz poglavlja, nije zaseban izvor
+> — kad se poglavlje promeni, fajl se sastavlja ponovo. Autoritet je uvek `roman/poglavlja/`.)*
+>
+> **Jedina izmena uneta u tekst ove sesije:** `Susret`, jedna reč — *„Živim sam"* →
+> *„Živim tiho"*, na izričit zahtev autora, jer je to bila jedina prava laž u knjizi.
+> Pun zapis: dnevnik, upis od 01.09.2026.
 
 ---
 
