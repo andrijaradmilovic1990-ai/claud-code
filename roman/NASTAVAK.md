@@ -3,7 +3,36 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **31.08.2026, TREĆA sesija tog dana.**
+> Poslednje ažuriranje: **01.09.2026.**
+
+---
+
+# ⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA. CELA. POSTOJI NOV PLAN.
+
+> **Odluka autora.** Šesnaest poglavlja je **kostur**, ne gotova knjiga. **Nema više
+> zaključanih poglavlja** — svako se sme menjati ako ga to čini boljim.
+>
+> **⚑ `dokumenti/PLAN_RASTA.md` je od danas jedini plan.** Otvara se odmah posle
+> `POENTA_KNJIGE.md`, i radi se odozgo. `PLAN_RADA.md` je iscrpljen i ostaje kao zapis.
+>
+> **Tri odluke autora koje plan nosi:**
+> 1. **Rupa ostaje zapečaćena.** Knjiga nikad neće reći šta je David radio ni šta je
+>    prelilo čašu. **Posledica: knjiga ne raste unazad, raste unapred.**
+> 2. **Obim: 45.000–50.000 reči.** Sada 30.273. Devet novih poglavlja, pet prepravki.
+> 3. **Podela na tri dela + sidra u tekstu**, jer se čitalac danas gubi u vremenu.
+>
+> **Urađen je slepi lektorski prolaz po Pravilu R** — svih šesnaest poglavlja pročitano
+> je u nizu, go, bez ijednog dokumenta, i tek je onda otvoren registar. **Četiri od šest
+> nalaza nisu bila upisana nigde:** dezorijentacija u vremenu · nepodignute puške *(brat,
+> majčina bolest, čovek u kaputu, starac)* · zasićenost motiva *(„leđa ka zidu" — deset
+> puta)* · kraj koji izostavlja Katarinu.
+>
+> **Ništa u tekstu još nije dirano.** Napisan je samo plan, na izričit zahtev autora:
+> prvo plan, pa rad. **Sledeći potez je potez 1 iz plana — sidra.**
+
+---
+
+## Ispod ovog reda stoji stanje od 31.08.2026, kad je knjiga bila zatvorena. Istorija, ne registar.
 >
 > **⚑ KNJIGA JE CELA. ŠESNAEST POGLAVLJA, oko 30.000 reči.**
 > `MASKA` je napisana i **stoji na mestu 14, ispred `Kukavice`** — ne na 15.

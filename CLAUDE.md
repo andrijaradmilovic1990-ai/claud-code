@@ -12,8 +12,9 @@ svi predlozi i sve izmene idu na srpskom.
 2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
    **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
    **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
-3. **`roman/dokumenti/PLAN_RADA.md`** — **⚑ ceo preostali posao, svaki potez s tačnim
-   mestom.** Radi se odozgo. **Ne planirati mimo njega.**
+3. **`roman/dokumenti/PLAN_RASTA.md`** — **⚑ JEDINI PLAN, od 01.09.2026.** Ceo preostali
+   posao, svaki potez s tačnim mestom, redom kojim se radi. **Radi se odozgo. Ne planirati
+   mimo njega.** *(`PLAN_RADA.md` je iscrpljen 31.08.2026. i ostaje samo kao zapis.)*
 4. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
@@ -103,6 +104,12 @@ tačna u svemu osim u numeraciji i broju poglavlja.
 **Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_RADA.md`** —
 **četrnaest poteza — svi zatvoreni, plan iscrpljen**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
 se odozgo. **Ne planirati mimo njega.**
+
+> **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA, ODLUKA AUTORA.** Šesnaest poglavlja je
+> **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** Knjiga raste na
+> **45.000–50.000 reči** — devet novih poglavlja i pet prepravki. **Rupa ostaje zapečaćena**
+> *(nikad se ne kaže šta je David radio ni šta je prelilo čašu)*, pa **knjiga ne raste
+> unazad nego unapred.** Ceo posao: **`roman/dokumenti/PLAN_RASTA.md`.**
 
 **Stanje na 31.08.2026, treća sesija:** **sve je napisano.** `Ivičnjak` (7), `Maska` (14),
 prepravljene `Pukotina` (2) i `Krv` (4). **Potezi 9–14 su uneti u `Masku`; potez 8 je pao.**
