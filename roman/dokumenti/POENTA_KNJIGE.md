@@ -73,7 +73,7 @@ Poenta **nije razbacana i ne treba je pisati iznova.** Stoji na pet mesta, sva j
 | gde | tekst | šta nosi |
 |---|---|---|
 | `Krv` **4** | *„Bila mi je sestra… za koju bih dao sve — i dao sam je. Celu."* | oba odlaska u jednoj rečenici |
-| `Italija` **5** | zdravica: *„o slobodi. O iskupljenju. I o porodici."* | jedina „porodica" koju knjiga imenuje **nije njegova** |
+| `Italija` **5** | zdravica: *„o slobodi. O dugu. I o porodici."* | jedina „porodica" koju knjiga imenuje **nije njegova** |
 | `Pariz` **6** | *„sve troje ostalo bi preživelo da ga dotaknem, a ona ne."* | zašto je nikad nije pogledao |
 | `Nestanak` **9** | *„računi… se naplaćuju od onoga što dužnik voli."* | zašto je otišao |
 | `Kukavica` **14** | pravila igre: **ko odbije da odgovori — pije.** On uzme čašu i **popije do dna.** | drugi odlazak, izveden kao ćutanje |

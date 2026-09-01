@@ -316,7 +316,7 @@ Anja je gledala u svoju. Nije je bila digla.
 
 Pola stola je palo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
 
-„Naša priča je o slobodi“, rekao sam. „O iskupljenju. I o porodici.“
+„Naša priča je o slobodi“, rekao sam. „O dugu. I o porodici.“
 
 Za stolom se nešto pomerilo. Toni je gledao u sto. Sale je prestao da se ceri. Andrijana je skinula ruku s Ninove ruke.
 
