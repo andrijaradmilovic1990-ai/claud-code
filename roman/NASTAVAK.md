@@ -27,6 +27,19 @@
 > majčina bolest, čovek u kaputu, starac)* · zasićenost motiva *(„leđa ka zidu" — deset
 > puta)* · kraj koji izostavlja Katarinu.
 >
+> **⚑ ISPRAVKA AUTORA, isti dan.** Prva verzija plana tvrdila je da je David **izgubio
+> Katarinu**. **Netačno — on je u sadašnjosti s njom**, vratio joj se posle `Kukavice`, i u
+> `Susretu` sedi u kafiću kao čovek koji s njom živi. Rečenica *„Mart je prošao. Nije me
+> podsetila."* znači da je **prestala da traži** ličnu kartu na njegovu adresu, ne da je
+> otišla.
+>
+> **Ali greška je imala uzrok u tekstu, i taj uzrok je jači nalaz od pogrešne tvrdnje:**
+> u najkasnijoj vremenskoj ravni knjige *(`Susret` i poslednji blok `Ćebenceta`)* **Katarina
+> se ne pojavljuje nijednom**, a `Susret` na trećoj strani kaže **„Živim sam"** — što je,
+> ako je s njom, **jedina prava laž u celoj knjizi**, dok knjiga stoji na tome da David
+> nikad ne laže nego samo izostavlja *(`Pukotina`, Andrijanina replika)*. **Vidi `PLAN_RASTA.md`,
+> N9 i P6.**
+>
 > **Ništa u tekstu još nije dirano.** Napisan je samo plan, na izričit zahtev autora:
 > prvo plan, pa rad. **Sledeći potez je potez 1 iz plana — sidra.**
 

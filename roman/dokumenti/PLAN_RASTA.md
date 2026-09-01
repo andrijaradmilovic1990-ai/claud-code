@@ -323,20 +323,50 @@ i ono stoji. Ne uvodi se niko nov.
 
 ---
 
-### N9 — POSLEDNJE
-**Mesto:** kraj knjige, unutar ili neposredno posle `Ćebenceta` · **~1.500 reči**
+### N9 — KATARINA U RAMU
+**Mesto:** u sadašnjosti — `Susret` i/ili poslednji blok `Ćebenceta` · **~1.500 reči**
 
-**Šta plaća.** Nalaz o kraju iz slepog prolaza: **„Mart je prošao. Nije me podsetila." je
-jedina informacija da je izgubio Katarinu.** Za kraj knjige to je preveliko izostavljanje —
-čitalac ne zna ni da li ona još postoji.
+> **⚑ Ovaj potez je prepisan iz korena 01.09.2026, posle ispravke autora.** Prva verzija je
+> stajala na tvrdnji da je David **izgubio Katarinu**, i da to knjiga saopštava jednom
+> rečenicom *(„Mart je u međuvremenu prošao. Nije me podsetila.")*. **Netačno, i autor je to
+> oborio: on je u sadašnjosti s njom.** Ta rečenica znači da je prestala da traži da se lična
+> karta vadi na njegovu adresu — sat iz `Pariza` je otkucao — a ne da je otišla.
+>
+> **Ali pogrešno čitanje nije nastalo ni iz čega, i to je pravi nalaz** *(niže)*. Zapisano po
+> Pravilu L, da naredni prolaz ne vrati istu grešku.
 
-**Šta je poglavlje.** Ono što je ostalo od tog života, u kadru, jednom. **Ne objašnjenje i ne
-scena rastanka** — kraj knjige je zaštićen i gleda unazad, i to se ne dira. Ali čitalac mora
-**videti** šta je cena, umesto da je izračuna iz jedne rečenice.
+**Šta plaća — prebrojano na golom tekstu.** U **najkasnijoj vremenskoj ravni knjige** —
+`Susret` i poslednji blok `Ćebenceta`, jedina dva mesta koja se dešavaju *sada* — **Katarina
+se ne pojavljuje nijednom.** Sve njene scene su ranije. Poslednjih ~800 reči knjige nema je,
+a Jovana u njima ima ceo pasus.
 
-**Mera, i najstroža u planu:** naslov. *Sahrana bez tela* danas pada u poslednjem pasusu kao
-gola fraza. Posle ovog poglavlja mora biti **zarađen** — čitalac mora znati na koliko sahrana
-se odnosi, i da je poslednja njegova sopstvena.
+**A prva stvar koju čitalac sazna o Davidovoj sadašnjosti je da je sam:**
+
+> `Susret`: *„Ja radim fizički posao, šta se nađe. Leđa me bole uveče. **Živim sam**, pijem
+> kafu, čitam."*
+
+**I knjiga to nikad ne opovrgne u sadašnjosti.** Čitalac dobije „živim sam" na trećoj strani,
+ostane bez ijednog dokaza suprotnog, i knjiga se zatvori scenom čoveka koji sam sedi u kafiću
+i čeka ženu s kišobranom.
+
+**Dokaz da nalaz radi:** slepi prolaz po Pravilu R pročitao je upravo to — da je Katarina
+izgubljena — i uneo tu grešku u prvu verziju ovog plana. **Ako se izgubi prolaz koji je
+knjigu upravo pročitao red po red, izgubiće se i čitalac.**
+
+**Šta je poglavlje.** Katarina **u kadru sadašnjosti** — jednom, kratko, dovoljno da čitalac
+zna gde je David stvarno kad sedi za tim stolom. Ne objašnjenje i ne scena rastanka. Kraj
+knjige je zaštićen i gleda unazad; to se ne dira.
+
+**Šta se time NE menja:** Katarina i dalje nije ravnopravna Jovani. Poslednja strana i dalje
+pripada Jovani — to je odluka autora i ostaje. **Menja se samo to da čitalac zna da Katarina
+postoji dok David gleda u praznu stolicu.** Tek tad prazna stolica znači ono što treba: ne
+usamljenost, nego **izbor koji ga i dalje košta.**
+
+**Mera 1:** čitalac posle poslednje strane ume da odgovori gde David spava te noći. Danas ne ume.
+
+**Mera 2, i najstroža u planu:** naslov. *Sahrana bez tela* danas pada u poslednjem pasusu kao
+gola fraza. Posle ovog poteza mora biti **zarađen** — čitalac mora znati na koliko se sahrana
+odnosi, i da je poslednja njegova sopstvena.
 
 **Šta ga upropašćuje:** da David nešto shvati. **`POENTA_KNJIGE.md` to zabranjuje i razlog
 stoji: on ne sme da sazna, čitalac sme.** Ovo poglavlje ništa ne razrešava u njemu.
@@ -394,6 +424,28 @@ ono što N8 utvrdi.
 Posle N4: proveriti da nalaz, skener i teglica u postojećim poglavljima sad stoje kao jedna
 linija, a ne kao tri odvojena detalja.
 
+### P6 — ⚑ „ŽIVIM SAM" — JEDINA PRAVA LAŽ U KNJIZI
+
+**Nađeno 01.09.2026, posle autorove ispravke. Sprat: knjiga.**
+
+Ako je David u sadašnjosti s Katarinom — a jeste — onda je *„Živim sam"* iz `Susreta`
+**jedina rečenica u celoj knjizi u kojoj on stvarno laže.** Sve ostalo su izostavljanja.
+
+**A knjiga stoji na suprotnom**, i sama to izgovara kao ključ, u `Pukotini`:
+
+> *„Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s
+> pogrešnom slikom u glavi i misli da si mu rekao sve."*
+
+**`Susret` krši to pravilo tri strane pre nego što bude izgovoreno**, i to na najvidljivijem
+mestu u knjizi. Presuda o knjizi to je propustila jer je merila postupak, ne ovu rečenicu:
+*„David nijednom ne slaže, a čitalac ceo roman zna više od ljudi za stolom."*
+
+**Popravka je jedna rečenica** — zameniti „Živim sam" nečim što izostavlja umesto da laže
+*(„Niko me ovde ne zna", ili slično)*. Prepis, ne rez; po Pravilu K čeka izričito „da".
+
+**Ovo se radi zajedno s N9** — obe stvari drže isto mesto: šta čitalac zna o Davidovoj
+sadašnjosti.
+
 ---
 
 # DEO 7 — RED RADA. Radi se odozgo
@@ -412,7 +464,7 @@ linija, a ne kao tri odvojena detalja.
 | **10** | **P5 — vezati krajeve** | 9 |
 | **11** | **N7 — Starac** | 2 |
 | **12** | **N6 — Kaput, posle** | 3 |
-| **13** | **N9 — Poslednje** | sve gore |
+| **13** | **N9 — Katarina u ramu** + **P6** *(„Živim sam")* | sve gore |
 | **14** | **P1 — proređivanje motiva** | 13 *(broji se tek kad je tekst ceo)* |
 | **15** | **P2, P3** | 14 |
 | **16** | **Slepi prolaz po Pravilu R** — cela knjiga, bez ijednog dokumenta | sve |
@@ -457,7 +509,8 @@ kaže da je knjiga gotova.
 3. **Čitalac ume da kaže šta Katarina hoće od svog života, ne od njega.** *(N2)*
 4. **Nijedna postavljena stvar ne visi neplaćena.** Brat, majčina bolest, čovek u kaputu,
    starac. *(N1, N4, N6, N7)*
-5. **Naslov je zarađen** — čitalac zna na koliko se sahrana odnosi. *(N9)*
+5. **Čitalac zna gde David spava kad zatvori knjigu**, i naslov je zarađen — zna na koliko
+   se sahrana odnosi. *(N9, P6)*
 
 **Ako svih pet stoji, knjiga je gotova bez obzira na broj reči.** Ako ijedno ne stoji, nije
 gotova ni na 60.000.
