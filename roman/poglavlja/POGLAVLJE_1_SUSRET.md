@@ -28,7 +28,7 @@ Kafa je bila vrela, gorka, opekla me po jeziku.
 
 „Nisam.“
 
-„Jeste.“ Pogledao sam ga pravo. „Ja radim fizički posao, šta se nađe. Leđa me bole uveče. Živim sam, pijem kafu, čitam. Nemam sina kome bih mogao da spasem išta, a kamoli vašem.“
+„Jeste.“ Pogledao sam ga pravo. „Ja radim fizički posao, šta se nađe. Leđa me bole uveče. Živim tiho, pijem kafu, čitam. Nemam sina kome bih mogao da spasem išta, a kamoli vašem.“
 
 Nasmešio se. Slušao me je do kraja i osmeh se nije pomerio. Čekao sam cifru, ili ime, ili uslugu.
 

@@ -379,16 +379,34 @@ Bez novih scena. Rade se **posle** sidara, **paralelno** s novim poglavljima.
 
 ### P1 — PROREDITI MOTIVE
 
-**Prebrojano na golom tekstu:**
+> **⚑ Cifra ispravljena 01.09.2026.** Prva verzija je pisala „deset puta" bez definicije šta
+> se broji, pa se sudarala s dnevnikom, koji je 31.08. izbrojao **sedam**. Obe cifre su bile
+> „tačne" po svojoj meri, i baš zato bezvredne. **Ovde je definicija upisana uz broj.**
 
-| motiv | pojavljivanja | predlog |
+**Prebrojano na golom tekstu, s definicijom:**
+
+| motiv | usko *(doslovno „leđa ka zidu / uza zid")* | **široko** *(svaki Davidov gest čuvanja leđa: leđa, zid, „vide se vrata", „ko ulazi")* |
 |---|---|---|
-| leđa ka zidu / vidim vrata | **10** | **5** |
-| ruka ka džepu, džep prazan | **5** | **3** |
-| konobar donosi pre nego što sednem | **3** | ostaje 3 |
+| leđa / vrata / ko ulazi | **7** | **18**, u **12 poglavlja** |
+| ruka ka džepu, džep prazan | — | **4**, od toga **2 obrtanja** |
+| konobar donosi pre nego što sednem | — | **3** |
 
-**Nalaz:** motiv radi savršeno prvih pet puta. Deseti put prestaje da znači i **postaje tik.**
-Ono što je bio karakter postaje manir.
+**Nalaz je jači nego što je prva verzija tvrdila, ne slabiji.** Osamnaest u dvanaest
+poglavlja znači da čitalac gest sreće **u tri od četiri poglavlja koje otvori.** Motiv radi
+savršeno prvih pet-šest puta; posle toga prestaje da znači i **postaje tik** — ono što je bio
+karakter postaje manir.
+
+**Ali rez nije prosto smanjenje na broj**, i evo zašto se meta menja:
+
+- **`Fabrika` sama nosi četiri**, i **jedno od njih je obrtanje** — *„celim putem do
+  svlačionice nisam se okrenuo da vidim ko ulazi."* **Obrtanja se ne diraju nikad**; ona su
+  jedina mesta gde motiv nešto radi umesto da se javlja.
+- **`Prazna stolica` nosi dva u dva reda** — *„leđa su mi… tražila zid"* i *„nisam se okretao
+  leđima nikom"*. To je jedno mesto rečeno dvaput.
+- **Prvo *(`Susret`)* i poslednje *(`Ćebence`)* su prsten** i ne diraju se.
+
+**Meta: sa 18 na 9–10**, brisanjem isključivo tamo gde je motiv **usputni komentar, ne
+radnja.** Stepenovanje je važnije od broja.
 
 **Kako se seče:** ostavljaju se **prvo, poslednje i tri koja nose scenu.** Briše se svako gde
 je motiv usputni komentar, ne radnja. **Stepenovanje je važnije od broja** — poslednji put
@@ -424,7 +442,7 @@ ono što N8 utvrdi.
 Posle N4: proveriti da nalaz, skener i teglica u postojećim poglavljima sad stoje kao jedna
 linija, a ne kao tri odvojena detalja.
 
-### P6 — ⚑ „ŽIVIM SAM" — JEDINA PRAVA LAŽ U KNJIZI
+### P6 — ⚑ „ŽIVIM SAM" — JEDINA PRAVA LAŽ U KNJIZI · **URAĐENO 01.09.2026**
 
 **Nađeno 01.09.2026, posle autorove ispravke. Sprat: knjiga.**
 
@@ -443,8 +461,17 @@ mestu u knjizi. Presuda o knjizi to je propustila jer je merila postupak, ne ovu
 **Popravka je jedna rečenica** — zameniti „Živim sam" nečim što izostavlja umesto da laže
 *(„Niko me ovde ne zna", ili slično)*. Prepis, ne rez; po Pravilu K čeka izričito „da".
 
-**Ovo se radi zajedno s N9** — obe stvari drže isto mesto: šta čitalac zna o Davidovoj
-sadašnjosti.
+**UNETO, odlukom autora *(„zameni to u tekstu samo to. da ne slaze.")*:**
+
+> *„Ja radim fizički posao, šta se nađe. Leđa me bole uveče. **Živim tiho**, pijem kafu,
+> čitam."*
+
+**Jedna reč, „sam" → „tiho".** Ritam rečenice nedirnut, slika koju čitalac odnese
+nepromenjena — a rečenica je sad **tačna.** David više ne laže nigde u knjizi; `Pukotina`
+opet stoji.
+
+**N9 i dalje ostaje** — on je o tome da Katarine **nema u kadru sadašnjosti**, a to ova
+izmena ne rešava.
 
 ---
 
