@@ -3054,3 +3054,47 @@ registru da se ne obriše kao slučajno ponavljanje.
 **`Italija`** — najtoplija kuća u knjizi, 3.366 reči, plaćena posle **jednom rečenicom** u
 `Nestanku` (*„Njima nisam poslao ni te tri reči."*). Anja, Toni i baka posle toga nestaju iz
 knjige. **Nije otvarano** — čeka autorovu reč, kao i sve ostalo iz ocene.
+
+
+---
+
+# 01.09.2026, isti dan — `ITALIJA` OTVORENA I ZATVORENA
+
+**Autor je izričito otvorio `Italiju`.** `Sekcija 8` nije dirnuta — **nijedno slovo
+`Italije` nije promenjeno.** Plaćanje je uneto u `Kukavicu`.
+
+## Nalaz je jednom pogrešno imenovan, pa povučen
+
+Prvo je rečeno *„plaćena je samo jednom rečenicom"*. **Netačno** — `Nestanak` je plaća
+dobro. **Tačan nalaz je drugi:** knjiga ima mehanizam kojim prošlost izbija — **predmet u
+sadašnjosti** *(džep, meso u šaci, magnet, ljuske semenki)* — a `Italija` je bila
+**jedini svet bez ijednog.** Najveće ulaganje u knjizi, bez sidra.
+
+**Ovo je i pouka o merenju:** *„nije plaćeno"* i *„nema predmet"* liče, a traže suprotan
+posao. Prvo vodi na dopisivanje o toj kući; drugo na jednu ruku u tanjiru.
+
+## Uneto — `Kukavica` (XV), peti pasus
+
+> *Meso je bilo razbijeno prstima, bez ijedne grudve, onako kako sam ga i ja uvek razbijao.
+> Preko granice mi je zbog toga jednom žena od osamdeset dve izbila šaku kašikom i istresla
+> meso nazad u činiju.*
+>
+> *Ne znam da li je još živa. Andrijana bi znala. Nisam je pitao.*
+
+**Zatvara tri poglavlja jednim potezom:** IV *(razbija meso, pada u magacin)* → V *(baka mu
+to zabranjuje)* → XV *(Jovana mu to sipa u tanjir)*.
+
+**Provera koja je odlučila oblik:** `Italija` kaže da su **Andrijana i Nataša bile u toj
+kući**. Andrijana u `Kukavici` sedi kraj prozora, tri koraka od njega, **i zna odgovor.**
+Zato je to **izostavljanje, ne osvrt** — isti mehanizam kao cela knjiga.
+
+## Odbijeno pre unosa, na autorovu reč
+
+Varijanta *„Nisam je pitao **ni tad ni posle**."* — doslovno rečenica iz `Ivičnjaka`, o
+Jovani. Prešla bi s nje na njega i potrošila doslovno ponavljanje bez nužde.
+**Stoji „Nisam je pitao."**
+
+Odbačena i mesta: `Maska` *(već nosi majku na istom predmetu)* i `Ćebence` *(najgušći pasus
+u knjizi)*. Ponuđeno i **„ne raditi ništa"** kao ravnopravna mogućnost — autor je odbio.
+
+**Knjiga: 30.258 reči.** Pun zapis: **registar, sekcija 22.**
