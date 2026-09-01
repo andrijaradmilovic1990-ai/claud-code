@@ -3216,3 +3216,40 @@ registra zamenjena je rečju koja za tim stolom nije metafora. Pun zapis, s ehom
 
 `POENTA_KNJIGE.md` sinhronizovan u citatu *(Pravilo E — tekst je autoritet)*. Broj reči
 nepromenjen do na jednu.
+
+---
+
+## 01.09.2026 — „Živim sam" → „Živim tiho" *(`Susret`, jedna reč, odluka autora)*
+
+**Nalaz, sprat knjige.** Autor je ispravio tvrdnju iz plana da je David izgubio Katarinu —
+**nije, u sadašnjosti je s njom.** Iz te ispravke je izašlo nešto teže: ako je s njom, onda
+je *„Živim sam"* iz `Susreta` **jedina rečenica u celoj knjizi u kojoj David stvarno laže.**
+
+A knjiga stoji na suprotnom i sama to izgovara kao ključ, `Pukotina`:
+
+> *„Ti nikad ne slažeš… Ti samo izostaviš. Svaka reč ti bude tačna, a čovek ode kući s
+> pogrešnom slikom u glavi i misli da si mu rekao sve."*
+
+`Susret` je to kršio **tri strane pre nego što bude izgovoreno**, na najvidljivijem mestu u
+knjizi. Presuda o knjizi je to propustila jer je merila postupak, ne ovu rečenicu.
+
+**Uneto, na izričit zahtev autora — jedna reč, ništa drugo:**
+
+> *„Ja radim fizički posao, šta se nađe. Leđa me bole uveče. **Živim tiho**, pijem kafu,
+> čitam. Nemam sina kome bih mogao da spasem išta, a kamoli vašem."*
+
+Ritam nedirnut *(tri kratke stavke, prvo lice prezent)*, slika koju čitalac odnese
+nepromenjena — a rečenica je sad **tačna.** To je tačno postupak koji knjiga hvali: svaka
+reč istinita, sagovornik odlazi s pogrešnom slikom.
+
+**Provereno da nema drugog mesta** — ostala „sam sam" u knjizi su druge stvari *(sam za
+stolom, otključao sam sam, rekao sam sam)* i nijedno nije tvrdnja o njegovom životu.
+
+**Ne rešava se ovim:** Katarine i dalje **nema u kadru sadašnjosti** — ni u `Susretu` ni u
+poslednjem bloku `Ćebenceta`. To ostaje `PLAN_RASTA.md`, **N9**.
+
+**Uz to ispravljena cifra u planu, ne u tekstu.** `P1` je pisao „leđa ka zidu — deset puta"
+bez definicije šta se broji, pa se sudarao s dnevnikom od 31.08. koji je izbrojao sedam.
+Prebrojano s definicijom: **usko sedam, široko osamnaest u dvanaest poglavlja.** Nalaz je
+time jači, ali meta reza je promenjena — **obrtanja se ne diraju nikad**, ni prsten
+`Susret`↔`Ćebence`. Ništa u tekstu nije dirano po toj stavci.
