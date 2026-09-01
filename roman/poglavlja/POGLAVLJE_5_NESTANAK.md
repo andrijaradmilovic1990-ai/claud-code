@@ -130,7 +130,7 @@ A onda sam pitao ono što nisam smeo, i znao sam da ne smem, i pitao sam svejedn
 
 Andrijana je dugo ćutala. Predugo.
 
-„Njoj sam ja prenela“, rekla je na kraju. „Tebi je bilo zgodnije da pošalješ na jedan broj, je l’ tako? Dva broja, dva traga.“ Nije me gledala dok je to govorila. „Sedele smo kod mene u kuhinji. Pokazala sam joj ekran. Pročitala je jednom, vratila mi telefon i rekla: dobro.“
+„Njoj sam ja prenela“, rekla je na kraju. „Tebi je bilo zgodnije da pošalješ na jedan broj, je l' tako? Dva broja, dva traga.“ Nije me gledala dok je to govorila. „Sedele smo kod mene u kuhinji. Pokazala sam joj ekran. Pročitala je jednom, vratila mi telefon i rekla: dobro.“
 
 „Dobro?“
 

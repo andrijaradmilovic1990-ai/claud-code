@@ -2,7 +2,7 @@
 
 Na naslonu sofe stajalo je ćebence — tanko, nečija stara stvar prebačena tu da se ima pri ruci u sobi u kojoj se sedi do zore. Uzeo sam ga.
 
-Spavala je licem u jastuk, jednu ruku pod obrazom, drugu duž tela. Slobodna ruka. Ona bez gipsa.
+Spustio sam je na jastuk pre toga, polako, onako kako se pomera nešto što ne sme da se probudi. Okrenula se sama, licem u njega, ruku podvukla pod obraz. Drugu je ostavila duž tela. Onu koju sam držao.
 
 Raširio sam ćebence i spustio ga preko nje. Polako, da se ne podigne, da legne celom dužinom — od ramena, preko leđa, do stopala. Namestio sam ivicu uz vrat. Onako kako se nešto pokriva kad više ne mora da diše ispod.
 
