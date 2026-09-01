@@ -3331,12 +3331,15 @@ poglavlja.**
   padao je u poglavlju **tri puta** *(Toni preko stola · svi pali · pola stola palo)*.
   Prvi i treći su ostali, jer treći nosi bakin prekid zdravice.
 
-**Nalazi prijavljeni, čeka se odluka autora:**
-- **„prozor je bio *zapaćen* s donje strane"** — reč se javlja tačno jednom u celom
-  rukopisu i nije standardna; verovatno *zapoten*. **Ne dirati dok autor ne kaže je li
-  to njegova reč iz govora.**
-- **„sela mu ponovo u krilo one stolice"** — dve slike u istoj sintagmi, a „ponovo" nema
-  osnov: ranije stoji samo *„Andrijana je sela pored Nina."*
+**Odlučeno istog dana, autor:**
+- **„prozor je bio *zapaćen*"** — **ostaje.** Autorova reč iz govora, ne ispravlja se u
+  „zapoten". *Nije omaška — ne vraćati na to.*
+- **„sela mu ponovo u krilo one stolice"** — Andrijana mu **stvarno seda u krilo**, pa je
+  to postavljeno ranije u sceni *(„Onda mu je sela u krilo, onako usput, kao da je to
+  stolica koja tu i inače stoji.")*, a kasnija rečenica očišćena na *„sela mu ponovo u
+  krilo"*. Sad „ponovo" ima osnov.
+
+**Ostaje neodlučeno:**
 - **„jedina stvar koju je od mene tražila u šest godina"** — baka te iste noći traži još
   dve stvari. Radi u korist poglavlja, ali knjiga to ne kaže naglas. **Autor odlučuje.**
 
