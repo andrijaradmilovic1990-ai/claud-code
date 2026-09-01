@@ -110,7 +110,7 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Ima veze. Vidimo se jednom godišnje i ja se svađam preko telefona.“ Uzela je čašu, spustila je nazad a da nije otpila. „Ceo život mi objašnjava kako se radi nešto što je sad meni na vratu.“
 
-„A tvoja?“
+„A tvoja?“ rekla je. „Kad si joj poslednji put seo za sto?“
 
 „Šta moja.“
 
@@ -118,11 +118,11 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Spavam.“
 
-„Nisam pitala gde spavaš.“
+„Nisam pitala gde spavaš.“ Nagnula se malo preko stola. „Pitala sam kad si poslednji put sedeo s njom.“
 
 Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
 
-„Znam kako je to.“
+„Znam kako ti je“, rekao sam.
 
 „Ne znaš.“ Brzo, bez uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio.“
 
