@@ -64,7 +64,7 @@ Samo sam čuvao papirić u džepu i slušao radio.
 
 Nije otvorila vrata. Prvi put.
 
-Otključao sam sam, tiho, jer je bilo sedam ujutru i mislio sam da spava. Nije spavala. Sedela je u fotelji okrenutoj ka prozoru, televizor upaljen bez tona, i nije se okrenula na ključ.
+Otključao sam sam, tiho, jer je bilo sedam ujutru i mislio sam da spava. Nije spavala. Sedela je u fotelji okrenutoj ka prozoru, televizor upaljen bez tona, i nije se okrenula na ključ. Telefon joj je stajao na naslonu fotelje, ekranom nagore.
 
 Ustala je. Ne zbog mene — nije znala da sam tu. Prišla je šporetu, podigla poklopac sa šerpe, pogledala unutra. Pa je uzela šerpu s ringle i odnela je do frižidera i spustila je unutra celu, s poklopcem, u sedam ujutru.
 

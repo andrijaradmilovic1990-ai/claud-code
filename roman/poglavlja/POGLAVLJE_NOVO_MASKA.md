@@ -148,6 +148,12 @@ Uzeo sam joj kutiju s glave, i dlanom joj sklonio kosu s oka, i ona je trznula o
 
 Skupila je pare u jednu gomilu i odustala od brojanja i gurnula sve u kesicu.
 
+„Fali“, rekla je. „Ne mnogo. Ali fali svaki mesec isto.“
+
+„Koliko.“
+
+„Nema veze koliko.“
+
 „Neće me biti u subotu i nedelju“, rekao sam.
 
 „Aha.“ Vezala je kesicu čvorom. „Kod tvojih?“
