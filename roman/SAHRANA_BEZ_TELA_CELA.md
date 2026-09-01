@@ -55,13 +55,13 @@ Konobar je došao po šolju. Rekao sam mu da ostavi. Ostao sam još sat.
 
 Zapalio sam cigaretu. Pogladio sam bradu, onaj pokret koji radim kad mislim a ne želim da iko vidi da mislim. Nije bilo nikoga da vidi. Gledao sam u stolicu preko puta, u mesto na stolu gde je maločas ležala njegova ruka.
 
-Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala nikoga da bilo šta upamti. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
+Spasao sam mu sina. Možda. Verovatno. Bilo je to davno i bilo je samo jedno ime u dugom spisku imena, a većina tih imena nije imala oca koji bi se godinama raspitivao i pamtio lice. Za većinom se niko nije raspitivao. A ovaj me je otpisao, sahranio negde u glavi kao čoveka kog više nema — i onda uđe na kafu i nađe me živog, tu, za stolom.
 
 On vidi čoveka koji mu je spasao sina.
 
 Ja vidim sve ostalo.
 
-Provedeš život puneći jarke i temelje, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
+Provedeš pola života u poslu posle kog ostanu samo imena, pa pobegneš na kraj sveta da postaneš niko, tih čovek s knjigom i kafom, i baš kad pomisliš da si se zakopao dovoljno duboko da te niko više ne nađe — uđe stranac kroz vrata i kaže ti hvala.
 
 Nasmejao sam se. Tiho, sebi, u dim.
 
@@ -485,7 +485,17 @@ Ne brzo. Digao ga je onako kako čovek diže pogled kad je čuo nešto što nije
 
 „Znate šta.“
 
+Gledao me je još koji trenutak, pa se okrenuo ka šanku i rekao nešto na svom, i neko se kratko nasmejao pa prestao.
+
+„Ti to mene pitaš?“ Naslonio se. „To se ovde ne radi. Nikad se nije radilo.“
+
+Ćutao sam.
+
+„Tuđa žena. Tuđa ćerka.“ Kucnuo je prstom o sto, jednom za svaku. „Naše ćerke se ne diraju. Za to se glava gubi, mali. I tražio bih je ja prvi.“
+
 Napolju je prošao autobus i staklo je zazvonilo u ramu.
+
+„To niko ne piše. To se zna.“
 
 Izvadio je cigaretu i nije je zapalio nego ju je držao među prstima kao što se drži olovka kad se nešto računa.
 
@@ -635,7 +645,7 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Ima veze. Vidimo se jednom godišnje i ja se svađam preko telefona.“ Uzela je čašu, spustila je nazad a da nije otpila. „Ceo život mi objašnjava kako se radi nešto što je sad meni na vratu.“
 
-„A tvoja?“
+„A tvoja?“ rekla je. „Kad si joj poslednji put seo za sto?“
 
 „Šta moja.“
 
@@ -643,11 +653,11 @@ Spustila je telefon licem nadole i par sekundi nije rekla ništa.
 
 „Spavam.“
 
-„Nisam pitala gde spavaš.“
+„Nisam pitala gde spavaš.“ Nagnula se malo preko stola. „Pitala sam kad si poslednji put sedeo s njom.“
 
 Konobar je prolazio i ja sam ga pogledao kao da mi nešto treba.
 
-„Znam kako je to.“
+„Znam kako ti je“, rekao sam.
 
 „Ne znaš.“ Brzo, bez uvijanja. „Ti nemaš nikog na vratu. Ti si to lepo rešio.“
 

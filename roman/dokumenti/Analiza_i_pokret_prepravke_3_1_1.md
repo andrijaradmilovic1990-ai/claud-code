@@ -3253,3 +3253,60 @@ bez definicije šta se broji, pa se sudarao s dnevnikom od 31.08. koji je izbroj
 Prebrojano s definicijom: **usko sedam, široko osamnaest u dvanaest poglavlja.** Nalaz je
 time jači, ali meta reza je promenjena — **obrtanja se ne diraju nikad**, ni prsten
 `Susret`↔`Ćebence`. Ništa u tekstu nije dirano po toj stavci.
+
+---
+
+# 01.09.2026, druga sesija — AUTOROVO ČITANJE, POGLAVLJE PO POGLAVLJE
+
+**Nov režim rada, odluka autora:** autor čita knjigu poglavlje po poglavlje i šalje
+primedbe; ne planira se ništa mimo tih primedbi. `PLAN_RASTA.md` i dalje stoji kao zapis.
+Prvi paket: poglavlja I–IV.
+
+## I — Susret: skinuta dva doslovna mesta o tome šta je David radio
+
+**Nalaz autora:** nigde se direktno ne kaže da je David ubijao, ali se **dvaput** kaže
+posredno i to preglasno — prvo *„u jarku, u reci, u temelju neke zgrade"*, pa odmah zatim
+*„Provedeš život puneći jarke i temelje"*. **Isto saznanje dvaput, drugi put kao
+objašnjenje prvog.** Traži se suptilnije.
+
+**Uneto:**
+- *„Većina tih imena završila je u jarku, u reci, u temelju neke zgrade, i nije imala
+  nikoga da bilo šta upamti."* → *„Za većinom se niko nije raspitivao."*
+- *„Provedeš život puneći jarke i temelje…"* → *„Provedeš pola života u poslu posle kog
+  ostanu samo imena…"* *(varijanta A, izbor autora)*
+
+Kraj poglavlja *(„čudovište koje je naučilo da pije kafu kao čovek")* nije diran.
+
+## II — Ulazak: Italijan reaguje na odbijanje
+
+**Nalaz autora:** David kaže *„Sve osim jednog"* / *„Znate šta"*, a Italijan na to samo
+klimne i kaže *„So. Va bene."* — nedostaje njegova reakcija. Ne bes, nego začuđenost:
+tuđa žena i tuđa ćerka se ne diraju, to se ovde ne radi, od toga se gubi glava.
+
+**Uneto** između *„Znate šta."* i autobusa: pogled ka šanku i reč na svom · *„Ti to mene
+pitaš? To se ovde ne radi. Nikad se nije radilo."* · *„Tuđa žena. Tuđa ćerka. Naše ćerke
+se ne diraju. Za to se glava gubi, mali. I tražio bih je ja prvi."* · posle autobusa
+*„To niko ne piše. To se zna."*
+
+**Registar, sekcija o `Ulasku`, i dalje važi u delu koji se tiče Davida:** on ne izgovara
+reč i ne dobija objašnjenje. **Promenjeno je samo ono što drugi kaže** — i s tim je,
+odlukom autora, pečat na tom mestu popustio: čitalac sad zna **šta** je to jedno.
+
+## III — Pukotina: mesto o majci bilo nečitljivo
+
+**Nalaz autora:** deo pred *„Ti nikad ne slažeš"* je nerazumljiv. **Uzrok:** pet replika
+bez ijedne atribucije, pa se ne vidi da **ona** pita njega za majku, a on odgovara na
+pitanje koje nije postavljeno.
+
+**Uneto:** pitanje dobija sadržaj *(„Kad si joj poslednji put seo za sto?")*, ponavlja se
+posle njegovog izmicanja *(„Pitala sam kad si poslednji put sedeo s njom.")*, i dodata je
+atribucija uz *„Znam kako ti je", rekao sam*. Time njena replika *„Ti samo izostaviš"*
+dobija povod **u sceni**, a ne samo u karakteru.
+
+## Otvoreno iz istog paketa, nije rađeno
+
+- **III — špagete bolonjeze:** autor kaže da ih je David spremao i ranije, pa *„naučio sam
+  da pravim"* ne stoji — treba *„ponovo sam krenuo"*. **Čeka formulaciju.**
+- **III — *„A ko si ti?"***: David odmah kreće da objašnjava umesto da pita šta ga pita.
+  **Čeka odluku.**
+- **IV — Krv:** autor je pročitao, „nije loše ali slabo kao i treće", čitaće ponovo.
