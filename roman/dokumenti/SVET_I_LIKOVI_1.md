@@ -102,7 +102,16 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 
 ### ANDRIJANA — ona koja zna i ćuti
 - Bivša ljubavnica, sad najbliža drugarica. Bila u onom životu. Sluti zašto je otišao — nikad ne pita direktno; staje na ivici pitanja i ne zakorači.
-- Ćerka **Mia**. Detalj: **voda umesto pića** (istrošenost onoga što je gorelo).
+- Ćerka **Mija** *(u tekstu je svuda „Mija"; raniji zapis „Mia" je bio greška dokumenta — Pravilo E)*. Detalj: **voda umesto pića** (istrošenost onoga što je gorelo).
+- **⚑ MIJA IMA ŠEST GODINA U SADAŠNJOSTI** *(činjenica autora, 03.09.2026)*. Iz toga sledi:
+  rođena je kad je Davidu bilo **29** — šest godina posle nestanka — i **u `Pukotini` (33) ima
+  četiri.** Andrijana se posle njegovog odlaska udala, dobila Miju i razvela se *(`ODGOVORI_AUTORA_03_09_2026.md`, 10)*, i taj niz staje u tih šest godina.
+  **Zbog toga je 03.09.2026. ispravljen jedan red u `Pukotini`:** *„čita već sama"* → *„zna sva
+  slova a ne ume da ih spoji"* — četvorogodišnjak ne čita. Druge dve stavke u istom nizu
+  *(pravi se da spava, izmišljeni prijatelj Bob)* su tačne za taj uzrast i **nisu dirane.**
+  **Mijin uzrast se u tekstu nigde ne izgovara brojem** i ne postaje merilo vremena — proba da
+  se od njega napravi sidro je pala 03.09.2026, jer bi tražila drugu tačku merenja u
+  sadašnjosti, a jedino mesto gde bi stala je zaštićena završna razmena `Ćebenceta`.
 - Ritam: jednom godišnje, isti sto, ritual koji se sam iskristalisao i preživeo.
 - **Zna kako radi njegovo izostavljanje i imenuje ga naglas** (II, kafić) — pa i dalje ne pita zašto je otišao. Zna fintu i pristaje na nju. To je razlika između nje i Katarine, koja fintu ne vidi.
 - **Ima sopstveni život u koji David ne ulazi:** majka koja joj se meša oko Mije, svađa preko telefona usred njihovog jedinog godišnjeg viđenja. Ume da bude neprijatna i ne povuče („Ti nemaš nikog na vratu. Ti si to lepo rešio.") — dodato u finalnom prolazu, rešava „Andrijana je savršena".
