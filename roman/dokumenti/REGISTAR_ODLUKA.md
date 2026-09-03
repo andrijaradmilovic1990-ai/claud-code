@@ -1261,16 +1261,27 @@ Autor je posle prve napisane verzije `Maske` rekao da mu je knjiga pretrpana i d
 šta je poenta od prvog do šesnaestog poglavlja.** Iz tog razgovora je izašla osa, i s njom
 **dva obaranja i jedan potvrđen nalaz.**
 
-## Osa — ne dira se
+## Osa — ⚑ ISPRAVLJENA 03.09.2026, ODLUKOM AUTORA
 
 > **Čovek koji je otišao od svih koje voli, jer se dugovi ne naplaćuju na dužniku nego na
-> onima koje dužnik voli — i koji nikad sebi nije dozvolio da zna šta mu je ona.
-> Ona zna. On ne.**
+> onima koje dužnik voli — i koji tačno zna šta mu je ona, pa je sebi zabranio da to ikad
+> pogleda. Oboje znaju. Nijedno to nikad nije izgovorilo. Ta zabrana je knjiga.**
 
-- **Jovana:** sestra, možda najveća ljubav, možda najveći neprijatelj. **On ne zna koje.**
-  Nikad je nije gledao kao Andrijanu i Natašu — **zabrana koju je sam sebi izdao.**
-  **ZABRANA: David nigde ne saznaje šta mu je ona.** Nema rečenice, gesta ni slike u kojoj
-  shvata — ni u `Maski`, ni u prolazu kroz šavove, ni u noir prolazu. **Neznanje je motor.**
+> **Šta je promenjeno i zašto.** Do 03.09.2026. je ovde stajalo *„nikad sebi nije dozvolio
+> da ZNA šta mu je ona. Ona zna. On ne. Neznanje je motor."* **Autor je to oborio:** on zna,
+> i zabranio je sebi, **zato što ju je voleo najviše pa nije hteo da joj se išta desi.**
+> Tekst je oduvek bio na autorovoj strani — `Krv` *(„spalio bih za nju grad")*, `Pariz`
+> *(„sve troje bi preživelo da ga dotaknem, a ona ne")*. **Neznanje je pasivno, zabrana je
+> izbor koji se ponavlja — i zato `Kukavica` radi.**
+> Pun zapis: `POENTA_KNJIGE.md` i `ODGOVORI_AUTORA_03_09_2026.md`, stavka 2.
+
+- **Jovana:** sestra, možda najveća ljubav, možda najveći neprijatelj. **On ne zna koje od to
+  dvoje — ali zna da mu je jedno od to dvoje, i da je najveće.** Nikad je nije gledao kao
+  Andrijanu i Natašu — **zabrana koju je sam sebi izdao i nikad opozvao.**
+  **ZABRANA KOJA STOJI: David nigde ne dobija scenu prosvetljenja.** Nema rečenice, gesta ni
+  slike u kojoj „shvata" — **jer nema šta da shvati, zna od početka.** Ono što se ne sme
+  desiti je da to **izgovori.** **A ona zna da on zna** — `Kukavica`: *„Kao da je odavno
+  znala i tek sad prestala da se nada da greši."*
 - **Katarina:** **sidro.** Novi život, promena, budućnost umesto prošlosti. Voli je i
   obožava je.
 - **Oba odlaska su isti potez.** `Nestanak` (9) fizički; `Kukavica` (14) ćutanjem.
@@ -1811,3 +1822,42 @@ rečju. **Čitalac ga nosi sam.** Isti režim kao odbijanje govora u `Prelomu`.
   su dva **obrtanja** (`Prazna stolica`: *„nešto u tom džepu opet imam da branim"*;
   `Kukavica`: *„Nije bio prazan."*). Doslovno ponovljena rečenica postoji **jednom** —
   prva strana i `Ćebence`. **To je ram, ne tik.** Vidi i sekciju 20 (ponavljanja merena).
+
+
+---
+
+# 24 — ⚑ ČOVEK U KAPUTU IZLAZI IZ `MASKE` *(03.09.2026, odluka autora)*
+
+**Autor, na pitanje o tom liku:** *„iskreno nisam sto posto siguran o kome pričaš."*
+**Znači lik nije njegov** — ušao je u tekst u sesiji pisanja `Maske`, ne iz materijala.
+
+**A odluka koja ga ubija je druga i teža:** na pitanje da li ga neko još traži autor je
+rekao da ga **niko iz starog sveta zapravo ne traži.**
+
+> **U ovoj knjizi ne postoji spoljna pretnja, i ne sme se izmišljati.**
+> Strah je u potpunosti unutrašnji. **Napetost sadašnjosti nije opasnost nego cena.**
+
+## Šta s njim pada, i zašto razlog za zaštitu više ne stoji
+
+- **G4 — zvonce nad vratima koje se vraća neprijatnije.** **Zvonce ostaje kao zvuk, gubi
+  pretnju.**
+- **Potez 12 — miris starog duvana na njegovom kaputu**, tuđi kaput okrznut u uskom prolazu.
+
+**Oba su bila zaštićena zato što daju pretnju bez objašnjenja. Pretnje nema** — pa su to
+sad dva lepo napisana detalja koja pokazuju na ništa.
+
+## Čime se zamenjuje — ničim novim
+
+Okidač za skoro-poziv **već stoji u istom poglavlju**:
+
+> *„Ta poruka koja stiže u dva ujutru… tih dana je prestala da stiže, jer je ona ustala na
+> noge."*
+
+**On hoće da je zove zato što je prestala da mu piše.** Ozdravljenje znači da mu više ne
+treba. **Bolji strah, i već napisan.**
+
+**Ne dira se u `Maski`:** brojanje unazad *(„Devet.")* · teglica i majka u jednoj rečenici ·
+brojanje para i šibice na glavi · brava koja klikne · *„moje merenje sekundi je jedanaest
+godina van upotrebe"* — **posle reza ta rečenica meri njega, ne stranca.**
+
+**Vraća se ako autor kaže.** Razlog je upisan.

@@ -12,10 +12,13 @@ svi predlozi i sve izmene idu na srpskom.
 2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
    **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
    **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
-3. **`roman/dokumenti/PLAN_RASTA.md`** — **⚑ JEDINI PLAN, od 01.09.2026.** Ceo preostali
-   posao, svaki potez s tačnim mestom, redom kojim se radi. **Radi se odozgo. Ne planirati
-   mimo njega.** *(`PLAN_RADA.md` je iscrpljen 31.08.2026. i ostaje samo kao zapis.)*
-4. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
+3. **`roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md`** — **⚑ IZVOR.** Autorovo znanje o
+   svojim ljudima, dato u razgovoru 03.09.2026. Kad se dokument s njim sukobi — **važi on.**
+4. **`roman/dokumenti/PLAN_03_09_2026.md`** — **⚑ JEDINI PLAN, usvojen autorovom rečju.**
+   Devet zahvata *(higijena)* + potezi **A, B i C** *(ono što menja kategoriju)*.
+   **Radi se odozgo.** *(`PLAN_RASTA.md` je obrisan — nije bio autorov. `PLAN_RADA.md` je
+   iscrpljen 31.08.2026. Ne raditi ni po jednom.)*
+5. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
 Bez ta četiri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
@@ -106,10 +109,21 @@ tačna u svemu osim u numeraciji i broju poglavlja.
 se odozgo. **Ne planirati mimo njega.**
 
 > **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA, ODLUKA AUTORA.** Šesnaest poglavlja je
-> **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** Knjiga raste na
-> **45.000–50.000 reči** — devet novih poglavlja i pet prepravki. **Rupa ostaje zapečaćena**
-> *(nikad se ne kaže šta je David radio ni šta je prelilo čašu)*, pa **knjiga ne raste
-> unazad nego unapred.** Ceo posao: **`roman/dokumenti/PLAN_RASTA.md`.**
+> **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** **Rupa ostaje
+> zapečaćena** *(nikad se ne kaže šta je David radio ni šta je prelilo čašu)*, pa **knjiga
+> ne raste unazad nego unapred.**
+>
+> **⚑ 03.09.2026 — PLAN OD DEVET NOVIH POGLAVLJA JE ODBAČEN I OBRISAN.** Autor: to je bila
+> ideja, ne odluka, i zapisana je kao plan bez njegove reči. **`PLAN_RASTA.md` više ne
+> postoji.** Obim od 45.000–50.000 reči pao je s njim.
+>
+> **⚑ ISTOG DANA USVOJEN JE NOV PLAN — `PLAN_03_09_2026.md`.** Nastao je iz teksta i iz
+> autorovih odgovora, i autor ga je usvojio svojom rečju. **Dva nova poglavlja, sedam
+> zahvata u postojećem tekstu, i tri poteza A/B/C.** Knjiga završava oko 35.000 reči; cifra
+> nije cilj.
+>
+> **Jedino pravilo rada:** *svaki zahvat ili oduzima ili otvara — nijedan ne objašnjava.*
+> Knjizi više ne prete rupe, preti joj glačanje.
 
 **Stanje na 31.08.2026, treća sesija:** **sve je napisano.** `Ivičnjak` (7), `Maska` (14),
 prepravljene `Pukotina` (2) i `Krv` (4). **Potezi 9–14 su uneti u `Masku`; potez 8 je pao.**
