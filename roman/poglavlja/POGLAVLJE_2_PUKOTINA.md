@@ -70,6 +70,8 @@ Prošli put nije pila vodu. Prošli put nije pila ništa što nije gorelo.
 
 Bilo je to pre godinu dana, u ovom istom gradu, kad je dovela Miju kod bake i mi smo izašli „samo na jedno“ i to jedno se pretvorilo u nešto čega se sećam u delovima.
 
+Deset godina dolazi u ovaj grad kod bake, i deset godina izlazimo na to jedno.
+
 Ona na stolu. Stvarno na stolu, pleše, ljudi je gledaju, neko aplaudira. Ja sedim dole, ne ustajem, samo se smejem — smejem se onako kako se nisam smejao godinama, do suza, do bola u stomaku. Nisam je zaustavljao. Nisam mislio na vrata, ni na to ko ulazi, ni na ruku ni na džep. Nisam mislio ni na šta.
 
 Bili smo srećni. Na trenutak. Glupo, pijano, matori a ponašamo se kao klinci — srećni.
