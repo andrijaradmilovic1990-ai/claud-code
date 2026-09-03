@@ -118,7 +118,7 @@ Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko
 
 Heroin, ako neko pita. Niko nije pitao.
 
-Na sahrani su teča i tetka stajali sa dve strane rake jer se do tada već bilo razišlo sve što je imalo da se raziđe.
+Na sahrani su teča i tetka stajali sa dve strane rake jer se do tada već bilo razišlo sve što je imalo da se raziđe. Cveće su donosili njoj.
 
 „Treba li ti nešto?“
 
