@@ -3346,3 +3346,38 @@ poglavlja.**
 **Provereno pa ostavljeno:** zdravica *(registar, sekcija 23 — pitanje potrošeno,
 razlog i dalje stoji)* · *„leđa uza zid"* u redu 131 *(tu motiv ima posao: postavlja
 Anjino „Misliš da je zbog vrata")*.
+
+---
+
+# 03.09.2026 — `PLAN_RASTA.md` OBRISAN NA AUTOROVU REČ
+
+**Autor je pročitao ceo repo i celu knjigu ponovo i rekao, doslovno:** *„taj plan da se
+ubaci devet poglavlja to je čisto bila ideja, ne znam što je zapisano kao plan rada — to
+slobodno izbriši, i izbriši sve novo što je stavljeno kao plan posle onog prvog gde sam
+rekao da se čita knjiga pa onda da se pravi."*
+
+**Nalaz koji iz ovoga izlazi i vredi za svaki naredni prolaz:**
+razgovor nije odluka. Plan od 01.09.2026. nastao je iz jedne sesije razmišljanja i **upisan
+je kao „jedini plan" i „ne menja se"**, iako autor nijedan njegov potez nije odobrio.
+Isti dan je autor stavio zabranu da se po njemu radi — što je bilo tačno očitavanje da nije
+njegov. **Ubuduće: ništa se ne upisuje kao plan dok autor ne kaže „ovo radimo."**
+
+## Obrisano
+- `roman/dokumenti/PLAN_RASTA.md` — ceo fajl.
+- Blok od 01.09.2026. u `roman/NASTAVAK.md`, zamenjen zapisom zašto je plan pao.
+- Pomeni plana i obima 45.000–50.000 reči u `CLAUDE.md`.
+
+**S planom padaju:** devet poglavlja N1–N9 · pet prepravki P1–P5 · podela na tri dela ·
+red rada u deset koraka · cifra od 45.000–50.000 reči.
+
+## Zadržano, jer nije plan nego nalaz ili unos
+- Nalazi slepog prolaza po Pravilu R *(dezorijentacija u vremenu, nepodignute puške,
+  zasićenost motiva, Katarina van kadra sadašnjosti)* — stoje kao nalazi o tekstu.
+- `Susret`: *„Živim sam"* → *„Živim tiho"* — uneto 01.09. na izričit zahtev autora.
+- Ispravka autora: **David nije izgubio Katarinu**, on je u sadašnjosti s njom.
+- `POENTA_KNJIGE.md` — osa je autorova, od 31.08.2026, i ostaje najviši sprat.
+
+## Šta sledi
+Nov plan se pravi **iz razgovora s autorom.** Autor je tražio da mu se postave pitanja o
+tome šta knjiga govori i šta treba da govori, pa da se plan sklopi tek na njegove odgovore.
+**Do tada se ne piše ni jedna rečenica.**

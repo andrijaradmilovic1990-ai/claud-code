@@ -12,9 +12,10 @@ svi predlozi i sve izmene idu na srpskom.
 2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
    **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
    **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
-3. **`roman/dokumenti/PLAN_RASTA.md`** — **⚑ JEDINI PLAN, od 01.09.2026.** Ceo preostali
-   posao, svaki potez s tačnim mestom, redom kojim se radi. **Radi se odozgo. Ne planirati
-   mimo njega.** *(`PLAN_RADA.md` je iscrpljen 31.08.2026. i ostaje samo kao zapis.)*
+3. **⚑ NEMA PLANA. Knjiga je otvorena i plan se pravi iznova** *(odluka autora, 03.09.2026)*.
+   `PLAN_RASTA.md` je obrisan — bio je ideja od devet novih poglavlja koju autor nije
+   usvojio. `PLAN_RADA.md` je iscrpljen 31.08.2026. i ostaje samo kao zapis.
+   **Ne raditi ni po jednom od njih. Ništa se ne piše dok autor ne kaže šta se piše.**
 4. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
@@ -106,10 +107,14 @@ tačna u svemu osim u numeraciji i broju poglavlja.
 se odozgo. **Ne planirati mimo njega.**
 
 > **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA, ODLUKA AUTORA.** Šesnaest poglavlja je
-> **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** Knjiga raste na
-> **45.000–50.000 reči** — devet novih poglavlja i pet prepravki. **Rupa ostaje zapečaćena**
-> *(nikad se ne kaže šta je David radio ni šta je prelilo čašu)*, pa **knjiga ne raste
-> unazad nego unapred.** Ceo posao: **`roman/dokumenti/PLAN_RASTA.md`.**
+> **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** **Rupa ostaje
+> zapečaćena** *(nikad se ne kaže šta je David radio ni šta je prelilo čašu)*, pa **knjiga
+> ne raste unazad nego unapred.**
+>
+> **⚑ 03.09.2026 — PLAN OD DEVET NOVIH POGLAVLJA JE ODBAČEN I OBRISAN.** Autor: to je bila
+> ideja, ne odluka, i zapisana je kao plan bez njegove reči. **`PLAN_RASTA.md` više ne
+> postoji.** Obim od 45.000–50.000 reči pao je s njim. Nov plan se pravi iz razgovora s
+> autorom, ne iz dokumenata.
 
 **Stanje na 31.08.2026, treća sesija:** **sve je napisano.** `Ivičnjak` (7), `Maska` (14),
 prepravljene `Pukotina` (2) i `Krv` (4). **Potezi 9–14 su uneti u `Masku`; potez 8 je pao.**

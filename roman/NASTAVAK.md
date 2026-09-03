@@ -3,62 +3,47 @@
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 > Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **01.09.2026.**
+> Poslednje ažuriranje: **03.09.2026.**
 
 ---
 
-# ⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA. CELA. POSTOJI NOV PLAN.
+# ⚑ 03.09.2026 — KNJIGA JE OTVORENA, PLANA NEMA, PRAVI SE NOV
 
-> **Odluka autora.** Šesnaest poglavlja je **kostur**, ne gotova knjiga. **Nema više
-> zaključanih poglavlja** — svako se sme menjati ako ga to čini boljim.
+> **Odluka autora, 03.09.2026.** Šesnaest poglavlja je **kostur**, ne gotova knjiga.
+> **Nema više zaključanih poglavlja.** **Rupa ostaje zapečaćena** — knjiga nikad neće reći
+> šta je David radio ni šta je prelilo čašu, pa **ne raste unazad nego unapred.**
 >
-> **⚑ `dokumenti/PLAN_RASTA.md` je od danas jedini plan.** Otvara se odmah posle
-> `POENTA_KNJIGE.md`, i radi se odozgo. `PLAN_RADA.md` je iscrpljen i ostaje kao zapis.
+> ## ⛔ `PLAN_RASTA.md` JE OBRISAN. NE TRAŽITI GA I NE VRAĆATI.
 >
-> **Tri odluke autora koje plan nosi:**
-> 1. **Rupa ostaje zapečaćena.** Knjiga nikad neće reći šta je David radio ni šta je
->    prelilo čašu. **Posledica: knjiga ne raste unazad, raste unapred.**
-> 2. **Obim: 45.000–50.000 reči.** Sada 30.273. Devet novih poglavlja, pet prepravki.
-> 3. **Podela na tri dela + sidra u tekstu**, jer se čitalac danas gubi u vremenu.
+> Nastao je 01.09.2026. i vodio **devet novih poglavlja i obim od 45.000–50.000 reči.**
+> **Autor ga nije usvojio** — bio je to razgovor i ideja, a zapisan je kao plan i kao
+> odluka. Autor, 03.09.2026: *„to je čisto bila ideja, ne znam što je zapisano kao plan
+> rada."*
 >
-> **Urađen je slepi lektorski prolaz po Pravilu R** — svih šesnaest poglavlja pročitano
-> je u nizu, go, bez ijednog dokumenta, i tek je onda otvoren registar. **Četiri od šest
-> nalaza nisu bila upisana nigde:** dezorijentacija u vremenu · nepodignute puške *(brat,
-> majčina bolest, čovek u kaputu, starac)* · zasićenost motiva *(„leđa ka zidu" — deset
-> puta)* · kraj koji izostavlja Katarinu.
+> **S njim padaju i:** cifra od 45.000–50.000 reči · devet poglavlja N1–N9 · pet prepravki
+> P1–P5 · podela na tri dela · red rada u deset koraka.
 >
-> **⚑ ISPRAVKA AUTORA, isti dan.** Prva verzija plana tvrdila je da je David **izgubio
-> Katarinu**. **Netačno — on je u sadašnjosti s njom**, vratio joj se posle `Kukavice`, i u
-> `Susretu` sedi u kafiću kao čovek koji s njom živi. Rečenica *„Mart je prošao. Nije me
-> podsetila."* znači da je **prestala da traži** ličnu kartu na njegovu adresu, ne da je
-> otišla.
+> **Šta od 01.09.2026. OSTAJE, jer nije plan nego nalaz ili unos:**
+> - **Slepi lektorski prolaz po Pravilu R je urađen** i njegovi nalazi stoje u dnevniku:
+>   dezorijentacija u vremenu · nepodignute puške *(brat, majčina bolest, čovek u kaputu,
+>   starac)* · zasićenost motiva „leđa ka zidu" · Katarine nema u kadru sadašnjosti.
+>   **To su nalazi o tekstu, ne poslovi.** Šta se od njih radi — odlučuje autor.
+> - **Jedna izmena uneta u tekst:** `Susret`, *„Živim sam"* → *„Živim tiho"*, na izričit
+>   zahtev autora, jer je to bila jedina prava laž u knjizi. Dnevnik, 01.09.2026.
+> - **Ispravka autora:** David **nije izgubio Katarinu.** On je u sadašnjosti s njom.
+>   Rečenica *„Mart je prošao. Nije me podsetila."* znači da je prestala da traži da se
+>   lična karta vadi na njegovu adresu, **ne** da je otišla. *(Prva verzija plana je to
+>   pogrešno pročitala. Ne ponavljati.)*
 >
-> **Ali greška je imala uzrok u tekstu, i taj uzrok je jači nalaz od pogrešne tvrdnje:**
-> u najkasnijoj vremenskoj ravni knjige *(`Susret` i poslednji blok `Ćebenceta`)* **Katarina
-> se ne pojavljuje nijednom**, a `Susret` na trećoj strani kaže **„Živim sam"** — što je,
-> ako je s njom, **jedina prava laž u celoj knjizi**, dok knjiga stoji na tome da David
-> nikad ne laže nego samo izostavlja *(`Pukotina`, Andrijanina replika)*. **Vidi `PLAN_RASTA.md`,
-> N9 i P6.**
+> ## ŠTA SE RADI SADA
 >
-> # ⛔ PO PLANU SE NE RADI. ČEKA SE DA AUTOR PROČITA KNJIGU.
->
-> **Odluka autora, 01.09.2026, na kraju sesije:** *„moraću ja da pročitam celu knjigu
-> kompletnu, pa tek onda možemo da pravimo plan i slično."*
->
-> **`PLAN_RASTA.md` stoji kao zapis, ne kao spisak posla.** Nijedan njegov potez se ne
-> otvara — ni sidra, ni nova poglavlja, ni prepravke — **dok autor ne pročita knjigu i ne
-> kaže sam šta se radi.**
->
-> **Ne predlagati izmene. Ne otvarati poglavlja. Ne planirati.** Sesija koja ovo otvori
-> čeka autorovu reč.
+> **Nov plan se pravi iz razgovora s autorom, ne iz dokumenata i ne iz prethodnog plana.**
+> Sesija koja ovo otvori **ne predlaže poteze, ne otvara poglavlja i ne piše ni jednu
+> rečenicu** dok autor ne kaže šta se piše.
 >
 > **Za čitanje je spremljena cela knjiga u jednom fajlu:** `roman/SAHRANA_BEZ_TELA_CELA.md`
-> — šesnaest poglavlja redom, 30.593 reči. *(Sastavljeno iz poglavlja, nije zaseban izvor
-> — kad se poglavlje promeni, fajl se sastavlja ponovo. Autoritet je uvek `roman/poglavlja/`.)*
->
-> **Jedina izmena uneta u tekst ove sesije:** `Susret`, jedna reč — *„Živim sam"* →
-> *„Živim tiho"*, na izričit zahtev autora, jer je to bila jedina prava laž u knjizi.
-> Pun zapis: dnevnik, upis od 01.09.2026.
+> — šesnaest poglavlja redom. *(Sastavljeno iz poglavlja, nije zaseban izvor — kad se
+> poglavlje promeni, fajl se sastavlja ponovo. Autoritet je uvek `roman/poglavlja/`.)*
 
 ---
 
