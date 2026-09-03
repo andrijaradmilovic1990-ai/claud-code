@@ -213,3 +213,59 @@ istinu, ne laže, ali ne kaže celu.* **Zna za Jovanu, Andrijanu i Natašu.**
 1. **Sme li knjiga da zna da je pisana njoj** *(iz 12)*.
 2. **Ostaje li čovek u kaputu u `Maski`** — nije autorov lik.
 3. **Šta je brat govorio kad nešto ne valja** — smišlja se, čeka autorovo „da".
+
+---
+
+# TREĆI KRUG — 03.09.2026, isti dan
+
+## 17 — ⚑ KNJIGA SE NE OBRAĆA NIKOME
+
+**Autor:** *„knjiga nije direktno pisana njoj, ali se u knjizi govori i o tome zašto je
+zapravo otišao."*
+
+**Ograda na prethodni nalaz (12):** to što će Jovana saznati čitajući **je činjenica o
+životu, ne postupak u tekstu.** Knjiga **nema** obraćanje, nema pismo, nema „ti" — i ne
+dobija ga. **Ostaje samo kao ključ za čitanje, nikad kao rečenica u rukopisu.**
+
+## 18 — DVORIŠTE DANAS
+
+**Nisu se venčali. Nemaju dece.** Žive normalno, grade. **Sve je otvoreno i sve je u toku.**
+
+> **Nalaz:** to je bolje nego da je gotovo. Katarina hoće brak, prsten i adresu *(6)*, a
+> **čovek koji je sam sebe sahranio nema šta od toga da izvadi iz fioke.** Knjiga tu žicu
+> već ima, i to dvaput — lična karta u `Parizu` i mart u `Ćebencetu`. **To je jedini ulog
+> koji sadašnjost ima, i nije izmišljen.**
+
+## 19 — JOVANA DANAS
+
+**Radi kao programer.** Pokušava da živi normalan život — **ne luduje više kolima**, ne
+živi život kakav je živela. **Zalečila se u potpunosti. Izgleda prelepo.**
+
+> **Nalaz:** ona je jedina osoba u knjizi koja je izašla **cela.** A izašla je **posle** noći
+> u kojoj ju je odbio. Knjiga to danas ne kaže nijednom rečju — završava se na
+> *„Pita za tebe nekad."*
+
+## 20 — ITALIJANSKA KUĆA: GOTOVO
+
+**Anja je prekinula odnos s Davidom** posle svega — bila je previše povređena i shvatila je
+da je David napustio taj život. **Čuo se jednom s bakom. To je sve.**
+
+## 21 — ⚑ NIKO GA NE TRAŽI
+
+**Autor: niko iz starog sveta ga zapravo ne traži.**
+
+> **Nalaz, i menja ceo pristup:** **u knjizi ne postoji spoljna pretnja i ne sme se
+> izmišljati.** Strah je u potpunosti unutrašnji. Sve što je prethodni plan gradio oko
+> čoveka u kaputu **pada.** Napetost sadašnjosti nije opasnost nego **cena.**
+
+## 22 — TRI ŽENE, JEDNOM REČENICOM AUTORA
+
+> **„Jovana je pokušavala da glumi Andrijanu zbog Davida. Andrijana je glumila nekog drugog
+> zbog nečeg drugog. A Nataša je uvek bila nešto sa strane."**
+
+**Knjiga to već izvodi**, i to u istoj sceni — `Kukavica`, kad se Andrijana skine:
+*„video sam je kako pokušava da je preslika… i kako joj ne polazi za rukom. Ramena su joj
+ostala gore."* I Natašino *„Ja sam druga. Oduvek. S drugog mesta se bolje vidi ceo sto."*
+
+**Nataša:** autor nije siguran ni sam. **Užasno dobra osoba**, ceo život **zasebna.**
+*(Ne dopisivati joj dno koje autor ne tvrdi.)*
