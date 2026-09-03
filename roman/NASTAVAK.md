@@ -57,8 +57,13 @@
 > zabranio.** Stara formulacija *„on ne zna"* je pala. Nema scene u kojoj shvata — nema šta
 > da shvati.
 >
-> **Sledeći korak:** potez 1 iz plana — **sidra u vremenu.** Autor je najavio još dve
-> uspomene za potez B; ne izmišljaju se dok ih ne da.
+> **Sledeći korak:** potez 1 iz plana — **sidra u vremenu.**
+>
+> **⚑ Potez B je dobio sav najavljeni materijal — četiri uspomene, ne dve.** Uz brata
+> *(već u planu)*: majčina dijagnoza, druga Jovana *(⚑ osetljivo — dodiruje Pravilo T,
+> vidi `ODGOVORI_AUTORA_03_09_2026.md`, stavka 26)*, i tuča/bolnica. **Za sam potez B se
+> i dalje koristi samo brat** — ostalo troje je izvor, ne ulazi u plan ni u tekst dok
+> autor ne kaže.
 
 ---
 
