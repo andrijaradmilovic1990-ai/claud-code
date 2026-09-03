@@ -269,3 +269,37 @@ ostala gore."* I Natašino *„Ja sam druga. Oduvek. S drugog mesta se bolje vid
 
 **Nataša:** autor nije siguran ni sam. **Užasno dobra osoba**, ceo život **zasebna.**
 *(Ne dopisivati joj dno koje autor ne tvrdi.)*
+
+---
+
+# ČETVRTI KRUG — 03.09.2026 · ⚑ POTEZ B DOBIO MATERIJAL
+
+## 23 — KAD SE DAVID RASPAO: BRAT
+
+**Autorov odgovor na pitanje „gde je stvarno stajao i nije znao šta se radi":**
+
+> **Kod brata. Kad ga je našao.** *„Tad se bukvalno raspao. Jednostavno je stajao, buljio u
+> njega pet minuta i nije znao šta da radi. I tad je naučio — možda je tad i dobio taj tik,
+> da mora da zna šta će da se desi napred."*
+
+**Šta ovo znači za knjigu — najveći nalaz dana:**
+
+> **Najčešće ponavljan gest u rukopisu — leđa ka zidu, vide se vrata, ko ulazi — nije
+> zanatski tik nego žalost.** Rodio se u jednoj sobi, u jednom trenutku, kad je
+> četrnaestogodišnjak prvi i poslednji put u životu bio **zatečen.**
+
+**A knjiga to već ima, jednom rečenicom u `Ulasku`, samo nepovezano:**
+
+> *„Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko nije
+> došao."*
+
+**Posledica za posao:** proređivanje motiva *(zahvat 8)* **radi se posle B**, jer se posle B
+motiv drugačije broji — nije više manir nego linija.
+
+**Zatečenost nije pad.** David se ne ponižava i ne raspada pred nama kao karakter; ovo je
+jedan trenutak s četrnaest godina, i vidi se, a ne objašnjava.
+
+## 24 — NAJAVLJENO, NIJE JOŠ DATO
+
+**Autor je rekao da postoje još dve uspomene istog reda** — druga mesta gde je bio zatečen.
+**Daće ih kasnije. Ne izmišljati ih i ne popunjavati u međuvremenu.**

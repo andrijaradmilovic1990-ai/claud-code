@@ -7,7 +7,7 @@
 
 ---
 
-# ⚑ 03.09.2026 — KNJIGA JE OTVORENA, PLANA NEMA, PRAVI SE NOV
+# ⚑ 03.09.2026 — KNJIGA JE OTVORENA, STARI PLAN OBRISAN, NOV PLAN USVOJEN
 
 > **Odluka autora, 03.09.2026.** Šesnaest poglavlja je **kostur**, ne gotova knjiga.
 > **Nema više zaključanih poglavlja.** **Rupa ostaje zapečaćena** — knjiga nikad neće reći
@@ -35,17 +35,33 @@
 >   lična karta vadi na njegovu adresu, **ne** da je otišla. *(Prva verzija plana je to
 >   pogrešno pročitala. Ne ponavljati.)*
 >
-> ## ŠTA SE RADI SADA
+> ## ⚑ ŠTA SE RADI SADA — POSTOJI PLAN, USVOJEN ISTOG DANA
 >
-> **Nov plan se pravi iz razgovora s autorom, ne iz dokumenata i ne iz prethodnog plana.**
-> Sesija koja ovo otvori **ne predlaže poteze, ne otvara poglavlja i ne piše ni jednu
-> rečenicu** dok autor ne kaže šta se piše.
+> **`roman/dokumenti/PLAN_03_09_2026.md`** — jedini plan. Nastao je iz teksta i iz
+> **`roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md`** *(autorov materijal, tri kruga pitanja
+> i odgovora)*, i **autor ga je usvojio svojom rečju.** Otvara se odmah posle `POENTA_KNJIGE.md`
+> i radi se odozgo.
 >
-> **Za čitanje je spremljena cela knjiga u jednom fajlu:** `roman/SAHRANA_BEZ_TELA_CELA.md`
-> — šesnaest poglavlja redom. *(Sastavljeno iz poglavlja, nije zaseban izvor — kad se
-> poglavlje promeni, fajl se sastavlja ponovo. Autoritet je uvek `roman/poglavlja/`.)*
+> **Šta plan nosi:** devet zahvata kao higijena *(sidra u vremenu · tetka u `Ulasku` ·
+> kaput napolje iz `Maske` · nova poglavlja `KATARINA` i `BRAT` · dvorište · Jovana danas u
+> `Ćebencetu` · proređivanje motiva · slepi prolaz)* i **tri poteza koji menjaju kategoriju:**
+>
+> - **A — Jovanin glas jednom, ceo.** Pet-šest redova njenim rečima, nepreneseno.
+> - **B — mesto gde David ne zna šta da radi**, i s njim **poreklo celog motiva „leđa ka
+>   zidu"**: kod brata, s četrnaest, buljio je pet minuta i nije znao šta se radi.
+> - **C — jedno poglavlje koje diše drugačije** od ostalih. Jednom, nikad drugi put.
+>
+> **Jedino pravilo rada:** *svaki zahvat ili oduzima ili otvara — nijedan ne objašnjava.*
+>
+> **⚑ OSA JE ISPRAVLJENA 03.09.2026:** David **zna** šta mu je Jovana i **sam sebi je
+> zabranio.** Stara formulacija *„on ne zna"* je pala. Nema scene u kojoj shvata — nema šta
+> da shvati.
+>
+> **Sledeći korak:** potez 1 iz plana — **sidra u vremenu.** Autor je najavio još dve
+> uspomene za potez B; ne izmišljaju se dok ih ne da.
 
 ---
+
 
 ## Ispod ovog reda stoji stanje od 31.08.2026, kad je knjiga bila zatvorena. Istorija, ne registar.
 >
@@ -132,6 +148,9 @@ razgovora je izašla osa, zapisana njegovim rečima: **`dokumenti/POENTA_KNJIGE.
 > Čovek koji je otišao od svih koje voli, jer se dugovi ne naplaćuju na dužniku nego na
 > onima koje dužnik voli — i koji nikad sebi nije dozvolio da zna šta mu je ona.
 > **Ona zna. On ne.**
+
+> **⛔ OVA FORMULACIJA JE PALA 03.09.2026.** Autor: **David zna** šta mu je Jovana i **sam
+> sebi je zabranio.** Važeća osa stoji u `POENTA_KNJIGE.md`. Ovo je istorija, ne registar.
 
 **Jovana** — sestra, možda najveća ljubav, možda najveći neprijatelj; **on ne zna koje**, i
 nikad je nije gledao kao Andrijanu i Natašu. **Katarina** — **sidro**, novi život,

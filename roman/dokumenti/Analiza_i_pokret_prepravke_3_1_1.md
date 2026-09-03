@@ -3381,3 +3381,61 @@ red rada u deset koraka · cifra od 45.000–50.000 reči.
 Nov plan se pravi **iz razgovora s autorom.** Autor je tražio da mu se postave pitanja o
 tome šta knjiga govori i šta treba da govori, pa da se plan sklopi tek na njegove odgovore.
 **Do tada se ne piše ni jedna rečenica.**
+
+---
+
+# 03.09.2026, isti dan — USVOJEN NOV PLAN, I OSA ISPRAVLJENA
+
+**Posle brisanja `PLAN_RASTA.md` autor je odgovorio na tri kruga pitanja, pa je iz tog
+materijala sklopljen `PLAN_03_09_2026.md` i autor ga je usvojio.**
+
+## Šta je autor oborio od zatečenog
+
+1. **⚑ Osa.** `POENTA_KNJIGE.md` je stajao na *„on ne zna šta mu je ona… to neznanje je
+   knjiga."* **Netačno.** Autor: **zna, i sam sebi je zabranio**, jer ju je voleo najviše
+   pa nije hteo da joj se išta desi. **Tekst je oduvek bio na autorovoj strani** — `Krv`
+   *(„spalio bih za nju grad")* i `Pariz` *(„sve troje bi preživelo da ga dotaknem, a ona
+   ne")*. **Zabrana je izbor, neznanje je magla; zato `Kukavica` radi.**
+2. **Spoljna pretnja ne postoji.** Niko ga ne traži. **Sve gradjeno oko čoveka u kaputu
+   pada, a kaput izlazi iz `Maske`.** Napetost sadašnjosti nije opasnost nego **cena**.
+3. **Knjiga se ne obraća nikome.** To što će Jovana saznati čitajući je činjenica o životu,
+   **ne postupak u tekstu.**
+4. **Smer kod Andrijane** je bio okrenut naopako: **David je bio njena najveća ljubav**, ne
+   obrnuto, a ona je to pakovala kao *„ovo ništa ne znači."*
+
+## Dva nalaza koja su ispala iz teksta, a nisu bila upisana nigde
+
+**Oba su nađena tek kad je `Ulazak` pročitan kao drugo poglavlje** — napisan je poslednji i
+premešten u trećoj sesiji, pa se niko nije okrenuo unazad.
+
+- **⚑ ĆEBE JE NJEN POTEZ, VRAĆEN.** `Ulazak`: s četrnaest, tri dana posle bratove smrti,
+  *„vratila se s jastukom i ćebetom i spustila ih na kauč."* `Ćebence` (16): on prostire
+  ćebence preko nje *„onako kako se nešto pokriva kad više ne mora da diše ispod."*
+  **Isti predmet, obrnut smer.**
+- **⚑ POLJUBAC U ČELO JE BRATOV.** Autorov materijal: brat ga je pre izlaska iz kuće ljubio
+  u čelo. `Ćebence`: *„poljubio je u čelo. Kratko. Suvo. Tačka, ne rečenica."*
+
+> **Zajedno: poslednja scena knjige je David koji na Jovanu vraća oba gesta kojima je
+> preživeo godinu kad mu je bilo četrnaest.** Nijedno nije bilo planirano. **Ne dirati.**
+
+- **„Dobro" pada tri puta, ne dva.** Repo je čuvao `Nestanak` i `Kukavicu`. **Prvo je u
+  `Ulasku`** — *„To je sve?" / „To je sve." / „Dobro."* **Svaki put ona primi gubitak i ne
+  raspravlja se.**
+
+## ⚑ Poreklo najčešćeg motiva u knjizi
+
+Autor, na pitanje gde se David stvarno raspao: **kod brata, kad ga je našao. Stajao je i
+buljio pet minuta i nije znao šta da radi — i tad je dobio tik da mora da zna šta dolazi.**
+
+**Znači „leđa ka zidu / ko ulazi" nije zanat nego žalost.** `Ulazak` to već nosi jednom
+rečenicom — *„Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko nije došao."*
+**Zato se proređivanje motiva radi tek posle poteza B.**
+
+## Šta je zapisano kao mera, a ne kao pohvala
+
+Devet zahvata iz plana su **higijena** — sklanjaju razloge da se knjiga odloži. **A, B i C**
+su ono zbog čega se ne odlaže. **Bez A/B/C knjiga postaje vrlo dobra i bez greške; s njima
+menja kategoriju.**
+
+**I upisano upozorenje:** knjizi više ne prete rupe nego **glačanje.** Otud jedino pravilo
+rada — *svaki zahvat ili oduzima ili otvara, nijedan ne objašnjava.*
