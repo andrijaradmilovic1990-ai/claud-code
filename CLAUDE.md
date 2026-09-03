@@ -168,6 +168,20 @@ knjiga se svejedno prepravlja, pa je zabrana samo stvarala trenje.)*
 *šta je palo i zbog čega*. Bez tog razloga sledeći prolaz neće ponoviti zabranu, nego
 grešku.
 
+**⚑ Pravilo T — tajna se ne otvara** *(odluka autora, 03.09.2026)*.
+*„Knjiga mora da ima i misteriju, ne sme da se otkriva i objašnjava. Nije fora da se sve zna
+i svaki detalj objasni."*
+
+**Knjiga sme da pokaže. Ne sme da protumači.** Ako čitalac posle nekog mesta zna **više
+činjenica** a **isto toliko oseća** — to mesto je objašnjenje i briše se, ma koliko tačno bilo.
+
+**Granica koja se lako pomeša:** čitalac se **nikad** ne sme izgubiti u **poziciji**
+*(koje je vreme, čija je kuhinja, ko govori)*, a **uvek** se mora gubiti u **uzroku**
+*(zašto je otišao, šta je radio, šta mu je ona)*.
+
+**Ne znači dodavati novo uskraćivanje** — sistem je na tavanici. **Pravilo T brani zatečenu
+tajnu, ne traži novu.** Pun zapis i revizija svakog poteza: `PLAN_03_09_2026.md`, Deo 1B i Deo 8.
+
 **Pravilo M — prijavi sprat.**
 Svaka ocena mora reći na kom spratu govori: **rečenica**, **poglavlje** ili
 **knjiga**. „Ovo nije na nivou" bez sprata je bezvredna rečenica.
