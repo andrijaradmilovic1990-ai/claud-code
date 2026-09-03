@@ -22,71 +22,19 @@ Konobar je doneo crnu i čašu mlake vode pre nego što sam seo. Spusti, klimne,
 
 Bilo je prazno. Dvojica za šankom gledala su neku utakmicu bez tona i povremeno rekla nešto jedan drugom, ne okrećući glave.
 
-Onda se oglasilo zvonce.
+Izmerio sam koliko ima do zadnjeg izlaza kroz kuhinju, i setio se da su ona vrata zaključana od šest, i preračunao kroz šta bi se izlazilo umesto njih. Nije bilo nikog zbog koga bih to radio. Radim to svejedno, u praznom kafiću, kao što se pere ruka koja nije prljava.
 
-To zvonce visi iznad vrata i oglašava se i kad se ulazi i kad se izlazi, i ja sam ga u ovom kafiću čuo mnogo puta. Ali sam ga do tog dana čuo samo za nekim ko izlazi. Tako ide sa zvukom koji ti ništa ne znači — čuješ ga tek kad zakasni.
-
-Ovaj put se oglasio na ulazu.
-
-Čovek je ušao i zastao onaj deo sekunde koji ljudi zastanu kad iz svetla uđu u polumrak. Kaput teži nego što je napolju tražilo. Ni star ni mlad, od onih godina koje se ne pogode. Nije me pogledao.
-
-Nisam se pomerio.
-
-Otišao je do šanka i naslonio se laktom i rekao nešto konobaru. Konobar je odmahnuo glavom. Čovek je rekao još nešto, kraće. Konobar je opet odmahnuo, pa slegnuo ramenima, pa se okrenuo ka mašini i pustio vodu preko dve šolje koje su već bile čiste.
-
-Za to vreme sam ja uradio sve.
-
-Video sam gde su mu ruke — obe napolju, jedna na šanku, druga uz telo, i to je dobro, jer čovek koji je došao zbog nečeg drži jednu ruku tamo gde je ne vidiš. Video sam kako je obuven, jer se po cipelama vidi je li čovek došao pešice ili je izašao iz kola. Izmerio sam koliko ima do zadnjeg izlaza kroz kuhinju, i setio se da su ona vrata zaključana od šest, i preračunao kroz šta bi se izlazilo umesto njih. Prebrojao sam koliko koraka ima od mog stola do njegovih leđa i s koje strane bi mi bio šank ako krenem.
-
-Sve to za ono vreme koliko čoveku treba da dvaput odmahne glavom.
-
-Onda se čovek okrenuo od šanka i pogledao po lokalu. Preko dvojice za šankom, preko praznih stolova, preko mene, pa dalje, pa na vrata.
-
-Ostao je na meni sekund duže nego na stolovima.
-
-Možda. Sekund se ne meri, sekund se oseti, a moje merenje sekundi je jedanaest godina van upotrebe i niko mi ga nije baždario.
-
-Krenuo je ka izlazu. Prošao je pored mog stola, blizu, jer je između stola i saksije uzak prolaz i svi tuda prolaze blizu. Nije usporio. Otvorio je vrata, zvonce se oglasilo drugi put, i izašao je na ulicu i skrenuo levo i to je bilo sve.
+Moje merenje je jedanaest godina van upotrebe i niko mi ga nije baždario.
 
 Voda u mojoj čaši stajala je ravna. Nijedan krug po površini.
 
 Konobar je došao po pepeljaru koja nije bila prljava.
 
-„Tražio nekog“, rekao je sam od sebe, jer konobari uvek kažu.
-
-„Koga.“
-
-„Ma nekog. Nisam ni čuo ime dobro. Kaže radio je ovde neko.“ Obrisao je sto koji je bio suv. „Ovde niko nije radio osim mene, i to devet godina.“
-
-Klimnuo sam glavom.
-
-To nije značilo ništa. To je bila jedna od dvadeset stvari koje čovek pita u praznom kafiću u pola pet po podne, i devetnaest od tih dvadeset ne znače ništa, a onu dvadesetu ne razlikuješ od ostalih dok ne bude kasno.
-
-Ranije sam znao koja je koja. To se znalo tako što si bio unutra, pa si čuo ko se raspituje i za koga i preko koga, i onda ti čovek u kaputu nije bio pitanje nego odgovor.
-
-Sad sam bio čovek koji sedi i gleda ga kako odlazi i nema koga da pita.
-
-Popio sam kafu do kraja. Nije bila hladna. To sam primetio i to sam upamtio, jer čovek koji je stvarno uplašen ne pije kafu do kraja.
-
 ⁂
 
-Kući sam išao dužim putem.
+Kod kioska sam stao da zapalim. Palio sam duže nego što treba, s obe ruke oko plamena iako nije bilo vetra.
 
-Nisam tako odlučio. Skrenuo sam kod pijace umesto kod pošte, i tek posle dva bloka mi je došlo da to nije put kojim idem, nego put koji ima tri raskrsnice i dva prelaza i nijedan slep ugao.
-
-Kod kioska sam stao da zapalim. Palio sam duže nego što treba, s obe ruke oko plamena iako nije bilo vetra, i za to vreme sam pogledao niz ulicu odakle sam došao.
-
-Ulica je bila puna ljudi koji se vraćaju s posla. Nijedan kaput.
-
-Nastavio sam.
-
-U hodniku sam okačio kaput na čiviluk i onda sam stao.
-
-Kaput je mirisao na duvan.
-
-Ne na moj. Moj ima svoj miris i taj nosim po sebi i ne osećam ga. Ovaj je bio tuđi, star, uvučen u tkaninu odnekud, onakav kakav ostaje na kaputu koji je visio pored drugog kaputa, ili prošao pored njega uz saksiju u uskom prolazu.
-
-Stajao sam u hodniku i mirisao tuđi kaput na svom, i to je trajalo koliko je trajalo.
+U hodniku sam okačio kaput na čiviluk.
 
 Onda sam iz kuhinje čuo kako neko lupa poklopcem, preglasno, kao što se lupa kad je nešto zagorelo a nije mnogo.
 
