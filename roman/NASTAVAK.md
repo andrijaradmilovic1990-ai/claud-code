@@ -57,7 +57,15 @@
 > zabranio.** Stara formulacija *„on ne zna"* je pala. Nema scene u kojoj shvata — nema šta
 > da shvati.
 >
-> **Sledeći korak:** potez 1 iz plana — **sidra u vremenu.**
+> **⚑ POTEZ 1 — SIDRA U VREMENU — ZATVOREN 03.09.2026.** Provereno svih šesnaest;
+> **deset ih je sidro već imalo**, rupa je bila u tri. **Uneta dva:** `Pukotina` *(„Deset
+> godina dolazi u ovaj grad kod bake, i svaki put izađemo na to jedno")* i `Krv` *(„Meni
+> je bila dvadeset prva")*. **`Pariz` ostaje bez sidra, odlukom** — `Krv` i `Pariz` su ista
+> godina pa bi dva poglavlja izgovorila isti broj, a `Parizu` je rasuto vreme funkcija.
+> Uz to je ispravljena jedna klauza o Miji, jer je autor dao da **Mija danas ima šest**
+> *(u `Pukotini` četiri)*. Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 25**.
+>
+> **Sledeći korak:** potez 2 iz plana — **`Ulazak`, tetka sahranjuje sina.**
 >
 > **⚑ Potez B je dobio sav najavljeni materijal — četiri uspomene, ne dve.** Uz brata
 > *(već u planu)*: majčina dijagnoza, druga Jovana *(⚑ osetljivo — dodiruje Pravilo T,

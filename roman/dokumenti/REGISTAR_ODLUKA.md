@@ -1861,3 +1861,89 @@ brojanje para i šibice na glavi · brava koja klikne · *„moje merenje sekund
 godina van upotrebe"* — **posle reza ta rečenica meri njega, ne stranca.**
 
 **Vraća se ako autor kaže.** Razlog je upisan.
+
+
+---
+
+# 25 — ⚑ POTEZ 1: SIDRA U VREMENU *(03.09.2026)*
+
+**Prvi potez iz `PLAN_03_09_2026.md`, Deo 2, tačka 1**, po reviziji iz Dela 8
+*(sidro ide samo tamo gde čitalac stvarno ne zna gde je, ne u svih šesnaest)*.
+
+## 25.1 — NALAZ: RUPA JE BILA U TRI POGLAVLJA, NE U ŠESNAEST
+
+Provereno je svih šesnaest. **Deset poglavlja je sidro već imalo** — `Ulazak`
+*(„Imao sam četrnaest")*, `Italija` *(„Peta si godina." / „Šesta.")*, `Ivičnjak`
+*(„Prošle godine smo u ovo doba bili u Parizu")*, `Prelom` *(„Dvadeset mu je bilo u
+aprilu")*, `Majka` *(„Rekli su mi u avgustu da si tu")*, `Fabrika` *(„Sedmu godinu")*,
+`Prazna stolica` *(„Deset godina", četiri puta)*, `Beli grad` *(„Prvi put za deset
+godina — umalo", red 105)*, `Maska` *(„Devet.")*, `Ćebence` *(„pre godinu dana")*.
+`Kukavica` ga ima kroz *„godinu dana čekao da budeš na sigurnom mestu"* (red 537) i kroz
+lanac `Beli grad` → `Maska` → `Kukavica`. `Susret` je sadašnjost i ne meri se.
+
+**Bez sidra su bile tri: `Pukotina`, `Krv`, `Pariz`.**
+
+## 25.2 — UNETO, DVA SIDRA
+
+**`Pukotina` (III), uz red 71:**
+> *Deset godina dolazi u ovaj grad kod bake, i svaki put izađemo na to jedno.*
+
+Poglavlje je na Davidovih **33**, nestanak na **23**. Broj se hvata za *„Dvanaest
+godina"* iz `Susreta`, pa čitalac sabere da je ovo dve godine pre onog kafića.
+**Broj je vezan za Andrijanine dolaske, ne za Miju** — Mija u poglavlju ima četiri
+godine i ne može biti dovođena deset.
+
+> **Prva verzija je nosila „deset godina" dvaput u istoj rečenici i skraćena je isti
+> dan.** `Prazna stolica` gradi *„Deset godina"* kao svoj refren, četiri puta; duplo
+> pojavljivanje devet poglavlja ranije ga je trošilo unapred. **Sada broj pada jednom.**
+
+**`Krv` (IV), red 19:**
+> *Meni je bila dvadeset prva.*
+
+Ide odmah iza opisa Malog *(„klinac, sedamnaest-osamnaest godina")*, gde poglavlje već
+broji godine. Kontrast postavlja Davida kao mladog ali starijeg, i smešta zaron
+četrnaest godina pre sadašnjosti.
+
+## 25.3 — `PARIZ` OSTAJE BEZ SIDRA — ODLUKA, NE PROPUST
+
+Predlog *„A ja sam imao dvadeset jednu…"* je **povučen na autorovu primedbu:** `Krv` i
+`Pariz` su ista godina (21), pa bi dva poglavlja izgovorila isti broj — mehanika.
+
+**I jači razlog:** `Pariz` sam kaže *„Dani su se lepili jedan na drugi kao da im je neko
+skinuo brojeve."* **Rasuto vreme je tu funkcija**, i registar to već čuva *(sekcija 8:
+„Pariz ima okvir… vreme mu je namerno rasuto")*. Tvrd broj bi radio protiv poglavlja.
+
+**Ne treba mu, jer je vezan s obe strane:** `Krv` dva poglavlja ranije nosi „dvadeset
+prva", `Italija` odmah pre nosi „Šesta", a sam `Pariz` ima *„Jednoj kući preko granice
+nisam javio da putujem"* — što ga lepi za `Italiju`. **Čitalac grupiše grozd i bez cifre.**
+
+## 25.4 — ⚑ MIJA IMA ŠEST GODINA DANAS *(činjenica autora, 03.09.2026)*
+
+Iz toga sledi da u `Pukotini` **ima četiri**, i to je oborilo jednu klauzu:
+
+| bilo | sad |
+|---|---|
+| *„O Miji najviše — **čita već sama**, pravi se da spava…"* | *„O Miji najviše — **zna sva slova a ne ume da ih spoji**, pravi se da spava…"* |
+
+**Ostale dve stavke u istom nizu nisu dirane** — pravljenje da spava i izmišljeni
+prijatelj Bob su tačno taj uzrast.
+
+**Mija je rođena kad je Davidu bilo 29**, šest godina posle nestanka. Poklapa se s tim da
+se Andrijana posle njegovog odlaska udala, dobila Miju i razvela *(`ODGOVORI`, 10)*.
+
+## 25.5 — PROVERENO PA ODBAČENO: MIJA KAO SAT
+
+Razmatrano je da Mijin uzrast bude sidro sam po sebi — četiri u `Pukotini`, šest u
+sadašnjosti, dete raste i po njemu se meri razmak. **Palo:** za to je potrebna druga
+tačka merenja u sadašnjosti, a Mija se u `Susretu` i `Ćebencetu` **ne pominje nijednom.**
+Jedino mesto gde Andrijana progovara u sadašnjosti je **zaštićena razmena na kraju
+knjige** *(„Kako je." / „Dobro je. Pita za tebe nekad.")*, gde po planu pada **potez 7**.
+Ubacivanje Mije tamo razvodnjava poslednju rečenicu knjige. **`Ćebence` nije dirano.**
+
+## 25.6 — HRONOLOGIJA POTVRĐENA, NIJE POMERENA
+
+U toku rada je otvoreno pitanje da li je `Pukotina` sadašnjost. **Nije, i autor je to sam
+potvrdio:** u njoj David i Katarina **još ne žive zajedno** *(„u stanu koji još nije moj",
+red 261; „nisam još imao to pravo", red 233)*, a u sadašnjosti žive. **`Pukotina` ostaje
+na 33.** Ispravka od 31.08.2026. u `SVET_I_LIKOVI_1.md` stoji nedirnuta.
+
