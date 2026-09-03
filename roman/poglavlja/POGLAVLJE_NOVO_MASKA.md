@@ -148,7 +148,7 @@ To je bilo dobro. To sam sebi rekao tim rečima: to je dobro.
 
 Broj koji sam tražio nije bio u imeniku. Taj broj nigde nije zapisan, taj broj se ne zapisuje. Ali prsti su ga znali.
 
-Znao sam i šta bih rekao. To sam sastavio još u kafiću, dok mi je voda u čaši stajala ravna. Dve rečenice, ne više. Neka se raspita ko je pitao za koga u jednom kafiću u jednom malom gradu na jugu, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu.
+Znao sam i šta bih rekao. To sam sastavio još u kafiću, dok mi je voda u čaši stajala ravna. Dve rečenice, ne više. Neka proveri je l' iko pitao odakle joj onaj doktor, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu.
 
 Čovek s druge strane ne bi pitao zašto. Rekao bi „smatraj gotovim“, kao i prošli put, i spustio bi, i do jutra bi bilo urađeno.
 

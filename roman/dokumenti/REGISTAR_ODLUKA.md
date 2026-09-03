@@ -1947,3 +1947,75 @@ potvrdio:** u njoj David i Katarina **još ne žive zajedno** *(„u stanu koji 
 red 261; „nisam još imao to pravo", red 233)*, a u sadašnjosti žive. **`Pukotina` ostaje
 na 33.** Ispravka od 31.08.2026. u `SVET_I_LIKOVI_1.md` stoji nedirnuta.
 
+
+
+---
+
+# 26 — ⚑ POTEZ 3 IZVEDEN: `MASKA` BEZ ČOVEKA U KAPUTU *(03.09.2026)*
+
+> **Odluka je upisana u sekciji 24. Ovde stoji kako je izvedena.**
+
+## 26.1 — ŠTA JE IZAŠLO
+
+**Oko 580 reči. Poglavlje 2.301 → 1.722.**
+
+- **zvonce na ulazu** *(G4)* i pasus koji ga objašnjava — postojali su samo da nose pretnju
+- **ceo dolazak i odlazak stranca** — kaput, šank, konobar koji dvaput odmahuje, pogled po lokalu
+- **procena kao odgovor na pretnju** — ruke, cipele, koraci do njegovih leđa
+- **konobarevo *„Tražio nekog"*** i pasus o dvadeset pitanja od kojih jedno nije nevino
+- **duži put kući** s tri raskrsnice i proverom ulice, *„Nijedan kaput"*
+- **miris tuđeg duvana na kaputu** *(potez 12)*
+
+## 26.2 — TRI PREPISA, JER JE SCENA BILA PISANA ZA PRETNJU
+
+**Rez sam po sebi nije bio dovoljan** — tri mesta su visila bez lika.
+
+**1. Procena prostora ostaje, ali menja vlasnika:**
+> *Izmerio sam koliko ima do zadnjeg izlaza kroz kuhinju… **Nije bilo nikog zbog koga bih to
+> radio. Radim to svejedno, u praznom kafiću, kao što se pere ruka koja nije prljava.***
+
+Prestaje da bude odgovor na nekoga i postaje **njegova navika**. Čovek sam u praznoj
+prostoriji meri izlaze — to je jače nego čovek koji meri stranca.
+
+**2. Zaštićena rečenica dobija svoj predmet:**
+> bilo: *„Sekund se ne meri, sekund se oseti, a moje merenje **sekundi** je jedanaest godina
+> van upotrebe…"* → sada: ***„Moje merenje je jedanaest godina van upotrebe i niko mi ga nije
+> baždario."***
+
+Registar *(sekcija 24)* je tražio da posle reza ta rečenica **meri njega, ne stranca.**
+Kako je stajala, merila je koliko ga je stranac gledao. Sada meri naviku iznad nje.
+
+**3. Poruka koju sastavlja u glavi:**
+> bilo: *„Neka se raspita **ko je pitao za koga u jednom kafiću u jednom malom gradu na
+> jugu**, i neka neko bude blizu nje…"* → sada: ***„Neka proveri je l' iko pitao odakle joj
+> onaj doktor, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu."***
+
+## 26.3 — ⚑ ZAŠTO JE OVO BOLJI STRAH — I ZAŠTO JE VEĆ NAPISAN
+
+**`Prazna stolica` (XII) sama upisuje cenu**, godinu dana ranije:
+> *„čim me taj svet ponovo čuje, vraća se i sve ostalo… i **neko ko će je jednog dana pitati
+> odakle joj taj doktor**."*
+
+**David je te telefone digao za nju, i sam je znao šta time otvara.** Godinu kasnije to je
+jedina stvar koju ne može da proveri — a poruke u dva ujutru su prestale *(„jer je ona
+ustala na noge")*, pa ni od nje ne saznaje ništa.
+
+> **Da bi proverio, mora ponovo da digne isti telefon koji je i napravio opasnost.**
+
+**Strah prestaje da dolazi spolja i postaje račun koji je sam otvorio.** Rečenica
+*„jedini potez koji imam ujedno je i jedini način da se ono što se plašim i desi"* (red 165)
+posle ovoga radi jače nego pre, i nije dirana.
+
+## 26.4 — ŠTA JE ZADRŽANO IZ REZANE SCENE
+
+- ***„Voda u mojoj čaši stajala je ravna. Nijedan krug po površini."*** — ista slika stoji u
+  `Praznoj stolici` dok diže oba telefona, i poglavlje se na nju poziva kasnije
+  *(„sastavio još u kafiću, dok mi je voda u čaši stajala ravna")*.
+- **konobar s pepeljarom koja nije prljava** — prazno vreme, bez pretnje.
+
+**Nedirnuto sve zaštićeno:** *„Devet."* · pare, šibice, kašičica i čep · teglica i majka u
+jednoj rečenici · brava koja klikne · *„Do puta je ostao jedan dan."*
+
+**Provereno posle reza:** svi preostali pomeni kaputa u poglavlju su **Davidov sopstveni**
+*(čiviluk u hodniku; „Isti kaput, ista visina, iste ruke")*. **Lika nema nigde.**
+

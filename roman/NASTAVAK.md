@@ -65,7 +65,12 @@
 > Uz to je ispravljena jedna klauza o Miji, jer je autor dao da **Mija danas ima šest**
 > *(u `Pukotini` četiri)*. Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 25**.
 >
-> **Sledeći korak:** potez 2 iz plana — **`Ulazak`, tetka sahranjuje sina.**
+> **⚑ POTEZI 2 i 3 ZATVORENI 03.09.2026.** `Ulazak` je dobio tetkin gest *(„Cveće su
+> donosili njoj.")*; `Maska` je ostala bez čoveka u kaputu — **580 reči napolje, poglavlje
+> 2.301 → 1.722**, uz tri prepisa jer je scena bila pisana za pretnju. Strah je sad račun
+> koji je David sam otvorio u `Praznoj stolici`. Pun zapis: **sekcije 26 i 25**.
+>
+> **Sledeći korak:** potez 4 — **B, zatečenost kod brata i poreklo motiva.**
 >
 > **⚑ Potez B je dobio sav najavljeni materijal — četiri uspomene, ne dve.** Uz brata
 > *(već u planu)*: majčina dijagnoza, druga Jovana *(⚑ osetljivo — dodiruje Pravilo T,
