@@ -335,8 +335,9 @@ Jovana.** Skočila je sa zgrade. Samoubistvo.
 **Desilo se u sredu.** Autor: **„to je bila sreda, znaš, ona sreda za koju niko ne zna
 zašto je ne voli."**
 
-**Istetovirao je „J" na zglobu**, u njeno sećanje. **Kasnije celu levu ruku** — rukav
-uspomena koje niko osim njega ne ume da rastumači.
+**Istetovirao je „J"**, u njeno sećanje *(autor: „na vrstu" — nije jasno da li misli na
+zglob, prst ili nešto treće; nije precizirano, ne pretpostavlja se)*. **Kasnije celu levu
+ruku** — rukav uspomena koje niko osim njega ne ume da rastumači.
 
 > **⚑ OVO SE POVEZUJE S POSTOJEĆIM TEKSTOM, I TO JE NALAZ, NE ODLUKA.**
 >
@@ -366,7 +367,8 @@ uspomena koje niko osim njega ne ume da rastumači.
 ## 27 — TUČA I TRI MESECA U BOLNICI
 
 Iz istih, mafijaških dana. Razlupan u tuči, **tri meseca u bolnici.** Po izlasku ga
-**dočekuje cela porodica** — slavljenička scena; autorova referenca za ton: povratak iz
+**dočekuje cela porodica** — slavljenička scena; autorova referenca za ton, doslovno:
+*„kao kad je Goti izašao iz zatvora, iz filma Goti, Armand De Santis"* — povratak iz
 zatvora u filmu *Gotti*.
 
 > **Nalaz:** ovo verovatno **ne pripada potezu B** — nije trenutak zatečenosti ili
