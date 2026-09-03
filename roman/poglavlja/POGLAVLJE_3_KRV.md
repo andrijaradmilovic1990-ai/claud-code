@@ -16,7 +16,7 @@ Mali drži, ali mu se ruke tresu, i čovek na podu klizi, krv ide svuda, po plo�
 
 „Držim ga, jebote, klizi—“
 
-Trebalo je da bude ništa. Utovar, istovar, dva sata posla. Takvih noći sam imao stotinu i sve su bile dosadne, a dosadno je u tom poslu najlepša reč koja postoji. Mali me pokupio u dva — klinac, sedamnaest-osamnaest godina, nečiji sestrić, primljen jer je neko garantovao za njega. Vozio je dobro i ćutao loše: pričao je kad je nervozan, a nervozan je bio uvek. Celim putem mi je pričao o nekom motoru koji će da kupi na leto. Pola grada je prošlo kroz to brbljanje — mrtve ulice, žute lampe, pas koji je pretrčao kod stare pekare. Sećam se psa. Smešno je čega se čovek seća.
+Trebalo je da bude ništa. Utovar, istovar, dva sata posla. Takvih noći sam imao stotinu i sve su bile dosadne, a dosadno je u tom poslu najlepša reč koja postoji. Mali me pokupio u dva — klinac, sedamnaest-osamnaest godina, nečiji sestrić, primljen jer je neko garantovao za njega. Meni je bila dvadeset prva. Vozio je dobro i ćutao loše: pričao je kad je nervozan, a nervozan je bio uvek. Celim putem mi je pričao o nekom motoru koji će da kupi na leto. Pola grada je prošlo kroz to brbljanje — mrtve ulice, žute lampe, pas koji je pretrčao kod stare pekare. Sećam se psa. Smešno je čega se čovek seća.
 
 Na pola puta je stao kod one pumpe što radi celu noć i vratio se s dve kafe u plastičnim čašama.
 
