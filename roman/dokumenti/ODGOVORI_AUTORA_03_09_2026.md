@@ -303,3 +303,82 @@ jedan trenutak s četrnaest godina, i vidi se, a ne objašnjava.
 
 **Autor je rekao da postoje još dve uspomene istog reda** — druga mesta gde je bio zatečen.
 **Daće ih kasnije. Ne izmišljati ih i ne popunjavati u međuvremenu.**
+
+---
+
+# PETI KRUG — 03.09.2026 · MATERIJAL ZA POTEZ B, TRI NOVE USPOMENE
+
+**Autor je najavio dve, dao tri.** Uz brata *(već zapisano, stavka 23)*, ovo je sad
+**pun spisak od četiri.** Nijedna se ovde ne pretvara u potez ili scenu — upisuje se kao
+izvor, autor odlučuje šta i kako ulazi u tekst.
+
+## 25 — MAJČINA DIJAGNOZA
+
+**Tajming:** saznao je taman kad je krenula veza s Katarinom.
+
+**Dilema, autorovim rečima:** *„ako zaključam osećanja i razmišljam racionalno,
+izgubiću Katarinu; ako ne, raspašću se."*
+
+**Ishod: odlučio je da zaključa — i nije izgubio Katarinu.** Autor: **to je još jedan
+razlog zašto je ostao s njom.**
+
+> **Nalaz:** ovo je čist materijal za potez B — trenutak izbora, ne trenutak zatečenosti
+> kao kod brata, ali istog reda: **zaključavanje kao mehanizam koji ga održava.** Ne
+> dodiruje zapečaćenu rupu *(šta je radio, šta je prelilo čašu)* — o ličnom gubitku je, ne
+> o poslu.
+
+## 26 — ⚑ DRUGA JOVANA
+
+**Dok je David bio u „kazi" (mafiji), poginula mu je najbolja drugarica — takođe po imenu
+Jovana.** Skočila je sa zgrade. Samoubistvo.
+
+**Desilo se u sredu.** Autor: **„to je bila sreda, znaš, ona sreda za koju niko ne zna
+zašto je ne voli."**
+
+**Istetovirao je „J" na zglobu**, u njeno sećanje. **Kasnije celu levu ruku** — rukav
+uspomena koje niko osim njega ne ume da rastumači.
+
+> **⚑ OVO SE POVEZUJE S POSTOJEĆIM TEKSTOM, I TO JE NALAZ, NE ODLUKA.**
+>
+> `Prazna stolica` (12), prva rečenica poglavlja: *„Bila je sreda. Srede ne volim —
+> toliko, i ni reč više."* — izgovoreno onog dana kad stiže vest o nesreći (glavne)
+> Jovane.
+>
+> **Autorov materijal kaže da taj red ima dublji koren nego što tekst danas pokazuje.**
+> David nije te srede prvi put zamrzeo sredu — sreda je već bila obeležena, godinama pre,
+> smrću **druge** Jovane, istog dana u nedelji. Kad glavna Jovana strada baš u sredu, to
+> nije nova trauma nego **jeka stare**, i obe nose isto ime.
+>
+> **⚑ OVO DIREKTNO DODIRUJE PRAVILO T, I TREBA GA TAKO ČUVATI:**
+> - **Veza se ne sme izgovoriti u tekstu.** Rečenica *„Srede ne volim"* već radi kao
+>   zatvorena vrata. Dodat razlog bi je pretvorio u objašnjenje.
+> - Ovo **nije** ista vrsta tajne kao zapečaćena rupa *(šta je radio, šta je prelilo
+>   čašu)* — ovo je lični gubitak, ne posao — ali deli istu logiku: **pokazati, ne
+>   protumačiti.**
+> - **Moguć oblik, ako autor ikad odluči da uđe u tekst:** tetovaže kao fizički detalj bez
+>   ijedne reči objašnjenja — nešto što neko primeti na njemu i ne dobije odgovor. U duhu
+>   onoga što plan već radi za tetku u `Ulasku` — gest, ne izjava.
+>
+> **Otvoreno pitanje autoru:** da li ovo uopšte ulazi u knjigu, makar kao neobjašnjen
+> detalj — ili ostaje isključivo pozadinski materijal koji nikad ne dodiruje stranicu.
+> **Dok autor ne kaže — ne ulazi.**
+
+## 27 — TUČA I TRI MESECA U BOLNICI
+
+Iz istih, mafijaških dana. Razlupan u tuči, **tri meseca u bolnici.** Po izlasku ga
+**dočekuje cela porodica** — slavljenička scena; autorova referenca za ton: povratak iz
+zatvora u filmu *Gotti*.
+
+> **Nalaz:** ovo verovatno **ne pripada potezu B** — nije trenutak zatečenosti ili
+> nemoći nego trenutak trijumfa i pripadnosti, suprotnog naboja od ostale tri uspomene.
+> Zapisuje se kao sirov materijal; **ne predlaže se scena ni potez** dok autor ne kaže
+> gde, ili da li uopšte, ide.
+
+---
+
+## Sažetak za `B` posle ovog kruga
+
+**Materijal za sam potez B ostaje ono što je već u planu** — brat, s četrnaest, pet minuta
+zatečenosti, poreklo motiva. **Stavke 25–27 se ne dodaju u `PLAN_03_09_2026.md` u ovom
+koraku.** Čekaju autorovu reč, posebno stavka 26, jer dodiruje Pravilo T najdirektnije od
+svega dosad zapisanog.
