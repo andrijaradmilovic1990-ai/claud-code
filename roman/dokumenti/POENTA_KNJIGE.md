@@ -15,11 +15,27 @@
 # JEDNA REČENICA
 
 > **Čovek koji je otišao od svih koje voli, jer se dugovi ne naplaćuju na dužniku nego na
-> onima koje dužnik voli — i koji nikad sebi nije dozvolio da zna šta mu je ona.
-> Ona zna. On ne. To neznanje je knjiga.**
+> onima koje dužnik voli — i koji tačno zna šta mu je ona, pa je sebi zabranio da to ikad
+> pogleda. Oboje znaju. Nijedno to nikad nije izgovorilo. Ta zabrana je knjiga.**
 
 Naslov nosi baš to. *Sahrana bez tela* nije samo njegov nestanak — to je ono što je uradio
-njoj, i ono što je uradio sebi tako što nikad nije pogledao.
+njoj, i ono što je uradio sebi tako što je gledao i svaki put okrenuo glavu.
+
+> **⚑ ISPRAVLJENO 03.09.2026, odlukom autora.** Fajl je do tada stajao na rečenici
+> *„nikad sebi nije dozvolio da zna šta mu je ona. Ona zna. On ne. To neznanje je knjiga."*
+> **Autor je to oborio:** *„on zna šta mu je Jovana… nikad sebi nije dozvolio da je gleda
+> drugačije… zato što je nju voleo najviše od njih sve tri i nije želeo da joj se nešto
+> desi."*
+>
+> **I tekst je oduvek bio na autorovoj strani:** `Krv` — *„znao sam tada… da bih za nju
+> spalio grad"*; `Pariz` — *„sve troje ostalo bi preživelo da ga dotaknem, a ona ne."*
+> To nije čovek koji ne zna. To je čovek koji je izračunao cenu i odbio da je plati na
+> njenim leđima.
+>
+> **Zašto je ovo bolja knjiga:** neznanje je pasivno — junak je žrtva svoje magle.
+> **Zabrana je aktivna** — čovek koji svaki put iznova bira, i svaki put ga to košta isto.
+> `Kukavica` radi baš zato: ono „ne" nije zbunjenost nego peta godina iste odluke.
+> **Stara formulacija se vraća jednom rečju autora.**
 
 ---
 
@@ -40,14 +56,31 @@ ukloni tako što ne odgovori. **Isti čovek, ista radnja, dvanaest godina razmak
 
 **Ona mu je sestra. Možda najveća ljubav u životu. Možda najveći neprijatelj.**
 
-**On ne zna koje. Ona zna.**
+**On ne zna koje od to dvoje. Ali zna da mu je jedno od to dvoje** — i zna da je najveće.
 
-Ona ga voli iz dna duše, pored svega. **On je nikad nije gledao tako** — nikad kao Andrijanu
-i Natašu — i to **nije uzdržanost nego zabrana koju je sam sebi izdao**, davno, i nikad je
-nije opozvao.
+Ona ga voli iz dna duše, pored svega. **On je nikad nije gledao kao Andrijanu i Natašu** — i
+to **nije uzdržanost i nije slepilo nego zabrana koju je sam sebi izdao**, davno, i nikad je
+nije opozvao. Bilo je trenutaka kad je popustio; svaki put se povratio i rekao **ne**, i to
+**zato što je nju voleo najviše**, pa nije smeo da joj se išta desi zbog njega.
 
-**To neznanje je motor knjige, ne rupa u njoj.** Svaki prolaz koji poželi da David negde
-„shvati" šta mu je ona — ruši knjigu. **On ne sme da sazna. Čitalac sme.**
+**Ta zabrana je motor knjige, ne rupa u njoj.** Svaki prolaz koji poželi scenu u kojoj David
+„shvata" šta mu je ona — ruši knjigu, jer nema šta da shvati; on to zna od početka.
+**On ne sme da to izgovori. Ni sebi, ni njoj, ni čitaocu — čitalac to vidi iz postupaka.**
+
+**A ona zna da on zna.** `Kukavica`, posle njegovog ćutanja: *„Kao da je odavno znala i tek
+sad prestala da se nada da greši."*
+
+## ⚑ I ZATO KNJIGA POSTOJI
+
+**Autor, 03.09.2026:** Jovana nikad nije saznala zašto je otišao pre dvanaest godina —
+**i saznaće tako što će pročitati ovu knjigu.**
+
+> **Roman nije priča o čoveku koji ćuti. Roman je ono što je taj čovek uradio umesto da
+> progovori.** `Krv` to izgovara unapred: *„Ona do danas misli da zna zašto. Nikad je nisam
+> ispravio."* — **rukopis je ta ispravka.** Čitalac stoji tačno na njenom mestu.
+
+**Otvoreno pitanje autoru:** sme li knjiga da **zna** da je pisana njoj, ili to ostaje
+potpuno van teksta.
 
 ## 3 — Katarina
 

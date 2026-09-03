@@ -130,19 +130,86 @@ ništa oko njega ne gradi.**
 
 ## 10 — ANDRIJANA
 
-- **David joj je bio sve** — prijatelj, ljubavnik, **ljubav njenog života.**
+- **⚑ SMER: David je bio NJENA najveća ljubav, ne ona njegova** *(ispravka autora, isti
+  dan — prethodni zapis je to okrenuo naopako).* Bio joj je prijatelj, ljubavnik, sve.
+  **A ona je to celog života pakovala kao „ma ovo je samo seks" ili „ovo je samo
+  prijateljstvo".** Otud u `Parizu` *„Ovo ništa ne znači, znaš."*
 - **Kad je on otišao:** udala se, dobila **Miju**, razvela se.
 - Postala **šankerka i foto-model.** Nastavila da živi.
 - **Otac joj je bio bolestan — sad je dobro.**
 
 ---
 
-# ŠTA JE OSTALO OTVORENO POSLE OVOG KRUGA
+---
 
-1. **`POENTA_KNJIGE.md` je oboren u ključnoj rečenici.** Menja ga samo autor.
-2. **Gde, kako i od koga Jovana saznaje zašto je otišao** — i da li čitalac to sazna s njom
-   ili pre nje.
-3. **Sme li knjiga da pokaže današnje dvorište** *(dve kuće, majka, Katarina)*, ili poslednja
-   strana ostaje čovek sam u kafiću.
-4. **Ostaje li čovek u kaputu u `Maski`.**
-5. **Brat — navika umesto dana.**
+# DRUGI KRUG — 03.09.2026, isti dan
+
+## 11 — ⚑ OSA: POTVRĐENO. „ON ZNA I ZABRANIO JE SEBI."
+
+**Autor je potvrdio** da je stara formulacija *„on ne zna"* netačna i da se osa prepisuje.
+`POENTA_KNJIGE.md` je izmenjen istog dana. **Vraća se jednom rečju ako autor kaže.**
+
+## 12 — ⚑ KNJIGA JE NAČIN NA KOJI JOVANA SAZNAJE
+
+**Autorov odgovor:** ne postoji scena u kojoj ona saznaje. *„Sama knjiga to realno opisuje.
+Jovana u stvarnosti, kad pročita tu knjigu, saznaće tu informaciju."*
+
+**Šta to znači za rukopis, i ovo je najveći nalaz celog dana:**
+
+> **Roman nije priča o čoveku koji ćuti. Roman je ono što je taj čovek uradio umesto da
+> progovori.** Nije mogao da joj kaže u lice — pa je napisao šesnaest poglavlja i pustio je
+> da ih nađe. **Čitalac stoji tačno na njenom mestu.**
+
+Knjiga to već izgovara na dva mesta, a da nijedan dokument to nije povezao:
+- `Krv` **4**: *„Ona do danas misli da zna zašto. Nikad je nisam ispravio."* — **rukopis je
+  ispravka.**
+- `Nestanak` **9**: *„postoje računi koji se ne naplaćuju od dužnika. Naplaćuju se od onoga
+  što dužnik voli."* — **to je rečenica zbog koje je knjiga napisana**, i autor je bira kao
+  odgovor na pitanje „zašto je otišao".
+
+**Odgovor i na pitanje šta ostaje čitaocu**, na koje je autor u prvom krugu rekao da ne zna:
+**zna — samo nije bilo u rečenici nego u postupku.**
+
+**Otvoreno, i to je odluka autora:** da li knjiga **sme da zna** da je pisana njoj, ili to
+ostaje potpuno van teksta.
+
+## 13 — DVORIŠTE: SME, ALI SUPTILNO
+
+**Autor: sme da se kaže — ali suptilno.** Gornja kuća s Katarinom, donja kuća majka, isto
+dvorište. **Ne scena i ne objašnjenje.**
+
+## 14 — ⚑ BRAT: JEDNA NAVIKA, I ONA ZATVARA KNJIGU
+
+- **Zvao ga je „Mali."**
+- **Pre nego što izađe iz kuće — poljubio bi ga u čelo.** Dečiji poljubac.
+- **Šta je govorio kad nešto ne valja — autor se ne seća i dao je da se smisli.**
+  *(Jedina stvar u ovom fajlu koja nije autorova. Piše se po Pravilu K, čeka „da".)*
+
+> **⚑ NALAZ, isti dan:** `Ćebence` **16** — *„Naslonio sam se i poljubio je u čelo. Kratko.
+> Suvo. Tačka, ne rečenica."*
+>
+> **To je bratov potez.** Uz ćebe iz `Ulaska`, poslednja scena knjige je **David koji na
+> Jovanu vraća oba gesta kojima je preživeo godinu kad mu je bilo četrnaest** — bratov
+> poljubac u čelo i njeno ćebe preko kauča. **Nijedno od to dvoje nije bilo planirano;
+> ispalo je samo. Ne dirati — samo ne pokvariti.**
+
+## 15 — TEČA I TETKA SU BRATOVI RODITELJI
+
+**Potvrđeno.** Brat je **brat od tetke**, pa žena koja na sahrani u `Ulasku` pita
+*„Treba li ti nešto?"* i ne čeka odgovor **sahranjuje sopstvenog sina.**
+Knjiga to danas ne kaže nijednom rečju.
+
+## 16 — ŠTA KATARINA ZNA
+
+**Zna otprilike šta je radio.** Rekao joj je **u fragmentima** — po svom običaju: *govori
+istinu, ne laže, ali ne kaže celu.* **Zna za Jovanu, Andrijanu i Natašu.**
+
+**Ne zna samo jedno: taj segment o dva sveta, i šta mu je Jovana.**
+
+---
+
+# ŠTA JE OSTALO OTVORENO
+
+1. **Sme li knjiga da zna da je pisana njoj** *(iz 12)*.
+2. **Ostaje li čovek u kaputu u `Maski`** — nije autorov lik.
+3. **Šta je brat govorio kad nešto ne valja** — smišlja se, čeka autorovo „da".
