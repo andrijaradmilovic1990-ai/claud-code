@@ -3439,3 +3439,51 @@ menja kategoriju.**
 
 **I upisano upozorenje:** knjizi više ne prete rupe nego **glačanje.** Otud jedino pravilo
 rada — *svaki zahvat ili oduzima ili otvara, nijedan ne objašnjava.*
+
+---
+
+# 03.09.2026, kraj dana — ⚑ PRAVILO T I REVIZIJA CELOG PLANA
+
+**Autor je posle usvajanja plana dodao pravilo koje stoji iznad plana:**
+
+> *„Knjiga mora da ima i misteriju, ne sme da se otkriva i objašnjava. U suštini nije fora
+> da se sve zna i svaki detalj objasni."*
+
+Upisano kao **Pravilo T** u `CLAUDE.md` i razrađeno u planu, Deo 1B.
+**Granica:** čitalac se nikad ne gubi u **poziciji**, uvek se gubi u **uzroku.**
+
+## Šta je revizija po Pravilu T promenila u planu *(Deo 8)*
+
+**Tri poteza prepravljena, jedan smanjen, nijedan nije pao.**
+
+1. **Sidra — smanjena.** Plan je tražio sidro u svih šesnaest poglavlja; to je šesnaest
+   prilika da se nešto usput razjasni. **Sidro ide samo tamo gde se čitalac stvarno gubi u
+   vremenu**, a to se utvrđuje merom, ne unapred.
+2. **⚑ `KATARINA` — i njena rupa se pečati.** Prva verzija je nosila „pobegla iz malog grada
+   na jugu, od porodice" **u tekst.** Po Pravilu T to je objašnjenje. **Zašto je otišla ne
+   kaže se nikad.** Dvoje ljudi u istoj kuhinji, oboje su nešto ostavili, nijedno ne kaže
+   šta — **a ogledalo koje je autor našao radi jače neizgovoreno, jer ga vidi čitalac a ne
+   oni.**
+3. **Jovana danas — izveštaj zamenjen detaljem.** Prva verzija je tražila da Andrijana kaže
+   da je Jovana dobro. **To ubija kraj.** Ostaje jedan konkretan detalj bez ocene stanja;
+   efekat proizvodi čitalac ili ne bude efekta.
+4. **Dvorište — jedan predmet, bez rečenice.**
+
+## Tri rečenice koje se nikad ne pišu
+
+Upisane jer su to najverovatnije rečenice koje bi naredni prolaz napisao u dobroj nameri:
+poreklo motiva izgovoreno naglas *(„tad sam naučio da moram da znam šta dolazi")* ·
+imenovanje onoga što mu je Jovana · ponovljeno *„nikad joj nisam rekao zašto"*.
+
+## Povučeno iz mojih ranijih predloga
+
+- **„Kraj treba da promaši prsten za milimetar"** ostaje kao smer, **ne kao zadatak** — potez
+  na poslednjoj strani se vidi.
+- **„Knjiga je način na koji Jovana saznaje"** — ponovo upisano kao **pogrešan predlog**,
+  iako je bio najjači te sesije. Knjiga se ne obraća nikome.
+
+## Mere su prepisane
+
+Prva verzija je merila time da **čitalac ume da kaže** — a takva mera gura pisca da to negde
+i napiše. **Sada se meri onim što čitalac oseća i strepi**, plus jedna nova, osma:
+**posle svih izmena u knjizi mora ostati najmanje isto toliko neodgovorenog koliko danas.**
