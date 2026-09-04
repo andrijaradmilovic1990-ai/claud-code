@@ -329,8 +329,13 @@ razlog zašto je ostao s njom.**
 
 ## 26 — ⚑ DRUGA JOVANA
 
-**Dok je David bio u „kazi" (mafiji), poginula mu je najbolja drugarica — takođe po imenu
-Jovana.** Skočila je sa zgrade. Samoubistvo.
+> **⛑ TAJMING JE ISPRAVLJEN 04.09.2026 — VIDI STAVKU 28.** Ovde je stajalo da se desilo
+> *„dok je David bio u kazi"*, dakle kasnije. **Netačno.** Autor je 04.09. dao da se mala
+> Jovana ubila **pre bratove smrti**, s njenih trinaest. **Važi novije.** Ostatak stavke
+> stoji nedirnut.
+
+**Poginula mu je najbolja drugarica — takođe po imenu Jovana.** Skočila je sa zgrade.
+Samoubistvo.
 
 **Desilo se u sredu.** Autor: **„to je bila sreda, znaš, ona sreda za koju niko ne zna
 zašto je ne voli."**
@@ -384,3 +389,65 @@ zatvora u filmu *Gotti*.
 zatečenosti, poreklo motiva. **Stavke 25–27 se ne dodaju u `PLAN_03_09_2026.md` u ovom
 koraku.** Čekaju autorovu reč, posebno stavka 26, jer dodiruje Pravilo T najdirektnije od
 svega dosad zapisanog.
+
+---
+
+# ŠESTI KRUG — 04.09.2026 · ⚑ REDOSLED GUBITAKA I ODAKLE STRAH
+
+> **Dato usred rada na potezu B, na autorovu inicijativu.** Ovo je najveći ispravak
+> hronologije od 03.09. i menja **uzročnost**, ne samo raspored.
+
+## 28 — ⚑ MALA JOVANA JE PRE BRATA, I ONA NIJE IZVOR STRAHA
+
+**Druga Jovana imala je oko trinaest godina i ubila se PRE bratove smrti**, ne kasnije
+*(ispravlja tajming iz stavke 26)*. **Sreda stoji** kako je zapisano.
+
+**David je bio skrhan — ali se nije uplašio.**
+
+> **Autor, doslovno u sadržaju:** *„tek kad je video brata, tek onda se uplašio."*
+
+## 29 — ⚑ DVA GUBITKA, DVE POSLEDICE — I TO JE CEO MEHANIZAM
+
+**Prvi lomi. Drugi zaključava.** Redosled je uzrok, ne raspored:
+
+| | šta se desilo | šta je ostalo |
+|---|---|---|
+| **mala Jovana** *(pre)* | trinaestogodišnjakinja skoči sa zgrade, sreda | **slom** — ali bez straha |
+| **brat** *(posle)* | nađe ga sam, s četrnaest | **strah**, i iz njega dve navike |
+
+**Strah, autorovim rečima:** *„ljudi koje volim umiru, ubijaju se."*
+
+**Iz toga izlaze dve stvari, i obe su danas u knjizi bez porekla:**
+
+1. **Prestaje da se vezuje za ljude** — *„tad je na neki način pokušao da se što manje
+   vezuje za ljude."*
+2. **Mora da zna unapred** — *„više nikad ne smem da ne znam šta će biti."* Autor to zove
+   **„postao je psiho"**: mora sve da predvidi, mora sve da zna, mora da čita ljude.
+
+> **⚑ NALAZ, sprat: knjiga.** Do danas je repo vodio **jedan** izvor tika — brata. Sad ih
+> je **dva, i različitog su reda.** Zatečenost kod brata i dalje je jedina koja se piše
+> *(potez B)*, jer je jedina koju je **video očima**; mala Jovana je bila **vest**, ne
+> prizor. Ali knjiga sad ima i **drugu polovinu istog čoveka** — onoga koji se ne vezuje —
+> a ta polovina objašnjava odlazak od svih koje voli **bez ijedne nove činjenice o poslu.**
+> Osa se time ne menja; dobija dno.
+
+## 30 — ⛔ ŠTA SE OD OVOGA NE PIŠE
+
+**Ništa od stavki 28 i 29 ne ulazi u tekst kao misao ni kao rečenica.** Autor je materijal
+dao **doslovno kao misao** — *„više nikad ne smem da ne znam šta će biti unapred"* — i to
+je **tačno ona rečenica koju plan zabranjuje** *(`PLAN_03_09_2026.md`, Deo 1B, prva od tri
+rečenice koje se nikad ne pišu; ista zabrana u potezu B)*.
+
+**Zabrana stoji nedirnuta.** Materijal služi da onaj ko piše **zna šta piše** — ne da to
+napiše. Veza se ne izgovara; pravi je čitalac ili je nema.
+
+## 31 — ŠTA JE OTVORENO POSLE OVOG KRUGA
+
+1. **Godine male Jovane u odnosu na Davida.** Ako je njoj bilo trinaest a David je brata
+   našao s četrnaest, sve staje u isti uzak razmak. **Nije potvrđeno koliko je Davidu bilo**
+   ni koliko je vremena prošlo između dve smrti.
+2. **Reč „kaza" iz stavke 26 sad ne stoji** — u `Ulasku` David posao počinje **posle**
+   bratove smrti *(kesa iza pijace dolazi tek posle sahrane)*. Ako je mala Jovana pre brata,
+   on tad još nije bio u poslu.
+3. **Ulazi li ijedan od ova dva sloja u tekst** — i dalje neodgovoreno, i **dok autor ne
+   kaže, ne ulazi.**
