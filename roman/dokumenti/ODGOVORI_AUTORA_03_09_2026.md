@@ -638,8 +638,37 @@ i jedno je izostavio** — i ona nema načina da sazna da joj išta fali.
 **Time poglavlje dobija svoju strepnju bez ijedne pretnje:** ne strepi se od nečeg spolja,
 strepi se od toga **koliko dobro ona živi s čovekom koji nikad ne slaže.**
 
-**OTVORENO — ne pretpostavlja se:** **gde je tetovaža.** Autor dvaput kaže **„na vrstu"**
-*(stavka 26 i ova)*, i to nije prepoznato kao deo tela. **Mesto odlučuje ko je i kako vidi**
-— zglob, šaka, vrat i nadlaktica nisu ista scena. **Pitano; čeka odgovor.**
-*(Poznato i zaključano: „J" prvo, **kasnije cela leva ruka** — rukav uspomena koje niko
+## 39 — ⚑ TETOVAŽA JE NA VRATU. *(zatvara otvoreno pitanje iz 26 i 38)*
+
+**Autorovo „na vrstu" iz stavki 26 i 38 je omaška — reč je o VRATU.** Autor je poslao
+fotografiju: **slovo „J", pisano, ispod uva, na levoj strani vrata.** Veličine prsta, staro,
+zeleno-crno kako stare stare tetovaže. **Ne krije se ničim.**
+
+*(Ostatak stavke 26 stoji: „J" prvo, **kasnije cela leva ruka** — rukav uspomena koje niko
 osim njega ne ume da rastumači.)*
+
+**⚑ ŠTA MESTO MENJA — sprat: knjiga. Ovo je veće od podatka.**
+
+**1 · Tetovaža je na najvidljivijem mestu na čoveku.** Ne ispod rukava, ne na zglobu koji se
+okrene nadole. **Nosi je otvoreno dvadeset godina i niko u knjizi nikad nije pitao** — osim
+Katarine, jednom, i ona je dobila ceo odgovor. **Čovek koji sve krije nosi jedno na vratu.**
+**To se ne komentariše u tekstu ni jednom rečju.**
+
+**2 · Do vrata se dolazi s leđa — i knjiga tu koreografiju već ima, njenu.**
+
+> `Ćebence`: *„Stala mi je iza stolice, naslonila bradu na moje teme, obe ruke na naslon."*
+> `Krv`: *„Prišla je, naslonila bradu na moje rame."*
+> `Maska`: *„dlanom joj sklonio kosu s oka"* — dodir ide u oba smera, ali **iza njega staje
+> samo ona.**
+
+**David je čovek koji nikom ne okreće leđa** *(`Prazna stolica`: „ni kelneru, ni vratima, ni
+čoveku za volanom"; `Pariz`: leđa uz kamen i u najlepšoj noći)*. **Jedina osoba u knjizi
+kojoj dozvoljava da mu stane iza leđa jeste ona** — i tačno tamo, pod njenom rukom, stoji
+znak prve osobe koju je izgubio.
+
+> **To je cela knjiga u jednom pokretu. I NIJEDNA REČENICA TO NE SME DA KAŽE.**
+> Ona stane iza njega, palac joj pređe preko toga u prolazu, on se ne okrene. **Tačka.**
+> Naracija ne primećuje, ne poredi, ne podvlači. **Vidi čitalac ili ne vidi.**
+
+**Šta ovo upropašćuje:** svaka varijanta u kojoj se pomene da mu je to jedino mesto na koje
+neko sme, ili u kojoj on registruje da mu je neko za leđima. **Čim registruje — objašnjeno je.**
