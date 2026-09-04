@@ -2088,9 +2088,27 @@ deteta koje se **samo** ne pomera.
 2. **Zatečenost se vidi kroz ono što NIJE uradio** — nije prišao, nije zvao, nije izašao
    u hodnik da viče. **Nijedna reč o tome kako se osećao.**
 3. **„Nije bilo nikog da mi kaže"** je zadržan kostur stare rečenice s promenjenim
-   predmetom: **ne da ga pomeri nego da mu kaže šta se sad radi.** Kad ljudi dođu, jedan
-   ga *„pomeri u stranu kao stolicu"* — i tek tada se pomerio. **Stara reč se ispuni
-   doslovno, na tuđim rukama.**
+   predmetom: **ne da ga pomeri nego da mu kaže šta se sad radi.**
+
+**⚑ KRAJ BLOKA PREPRAVLJEN ISTOG DANA, NA AUTOROV PREDLOG:**
+
+| bilo | sad |
+|---|---|
+| *„Kad su došli, jedan me je uhvatio za ramena i pomerio u stranu kao stolicu, i tek tada sam se pomerio."* | *„Ne znam koliko je prošlo. U jednom trenutku me je neko trznuo za rame i povukao nazad."* |
+
+**Tri razloga, i sva tri su autorova osim trećeg:**
+
+- **„Kad su došli" znači da je registrovao dolazak** — čuo ih, video ih. Čovek u tom stanju
+  ne registruje da neko dolazi; **oseti tek dodir.**
+- **„Ne znam koliko je prošlo" radi zajedno s hladnom kafom** — kafa meri spolja, on ne
+  meri iznutra. **Zatečenost jeste rupa u vremenu**, i to je jedini put da je knjiga
+  prizna.
+- **„pomerio u stranu kao stolicu" je izašlo, i dobro je što je izašlo** *(moja slika)*:
+  poređenje znači da pripovedač u tom trenutku ima mira da poredi. **Nema ga.**
+
+**Redosled je obrnut u odnosu na autorovu formulaciju** — prvo da ne zna koliko, pa dodir —
+da bi *„Ne znam koliko je prošlo"* nastavilo rečenicu iznad, a trzaj došao kao **prekid**.
+**Skinuto je i *„tek tada sam se pomerio"***, jer se nije pomerio nego **je pomeren.**
 
 ## 27.4 — ⚑ TU PADA I POTEZ C, I NIGDE DRUGDE
 

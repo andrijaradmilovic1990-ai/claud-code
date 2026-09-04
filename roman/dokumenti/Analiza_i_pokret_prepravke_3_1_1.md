@@ -3565,6 +3565,45 @@ je plaćen potez C.**
 **Od svega toga u tekst nije ušlo ništa, i upisano je kao stavka 30 da i ne uđe** — autor
 je materijal dao **doslovno u obliku rečenice koju plan zabranjuje.**
 
+## Autorova izmena, isti dan — kraj bloka zatečenosti
+
+**Autor je predložio princip, ne rečenicu:** *„u jednom trenutku sam osetio da me je neko
+trznuo za rame i povukao nazad, ne znam koliko je vremena prošlo."*
+
+**Bolji je od onoga što sam napisala, i to na tri mesta:**
+
+1. Moje *„Kad su došli"* znači da je **registrovao dolazak.** Čovek u tom stanju ne
+   registruje da neko dolazi — **oseti tek dodir.**
+2. *„Ne znam koliko je prošlo"* je bolje od svega što sam stavila: **zatečenost jeste rupa
+   u vremenu**, i to je jedini put da je knjiga prizna. Radi zajedno s hladnom kafom —
+   **kafa meri spolja, on ne meri iznutra.**
+3. **Moje *„pomerio u stranu kao stolicu" je izašlo, i dobro je što je izašlo.**
+   Poređenje znači da pripovedač u tom trenutku **ima mira da poredi.** Nema ga.
+
+**Redosled je obrnut** u odnosu na autorovu formulaciju, da *„Ne znam koliko je prošlo"*
+nastavi rečenicu iznad a trzaj dođe kao prekid. **Skinuto i *„tek tada sam se pomerio"*** —
+nije se pomerio nego **je pomeren.**
+
+`Ulazak` **2.502 → 2.498**; knjiga **30.319 → 30.315.**
+
+## ⚑ STAVKA 33 — ISTO JE ZAMALO URADIO KATARINI
+
+**Dato na kraju sesije.** Kolebao se sa Katarinom i sa srećom, i **baš zbog te sreće** je u
+jednom trenutku hteo da je ostavi — **da se njoj nešto loše ne bi desilo.**
+
+> **Ovo je veće od stavke 32.** Obrazac je do sada stajao kao **prošlost** — zatvoren krug
+> star dvanaest godina. **Nije zatvoren: traje**, i u sadašnjosti knjige, a okidač nije
+> opasnost nego **sreća.** Što mu je bolje, to je bliže odlasku, jer sreća znači da ima šta
+> da izgubi.
+>
+> **I tu je jedina pobeda u celoj knjizi: nije otišao.** Od Jovane jeste, od Katarine nije.
+> **Jedini put da je prekinuo sopstveni obrazac** — a knjiga to danas nema ni kao senku.
+
+**Ne pravi Katarinu ravnopravnom Jovani** *(registar, sekcija 2)* — pokazuje da je ista
+opasnost visila i nad njom, pa je **izbor da ostane skuplji** nego što knjiga pokazuje.
+**Ne piše se dok autor ne kaže**, ali za razliku od 30 i 32 **ima svoje mesto** ako ikad
+uđe: zahvat 4, poglavlje `KATARINA`, koje je sledeće na redu.
+
 ## Provereno posle unosa
 
 Heroin **1 instanca u celoj knjizi** · `grep -ri beograd` **prazno** · ime „Jovana" u

@@ -158,7 +158,7 @@ Stajao sam i gledao ga i čekao da mi neko kaže šta se sad radi.
 
 Nije bilo nikog da mi kaže.
 
-Kad su došli, jedan me je uhvatio za ramena i pomerio u stranu kao stolicu, i tek tada sam se pomerio.
+Ne znam koliko je prošlo. U jednom trenutku me je neko trznuo za rame i povukao nazad.
 
 Heroin, ako neko pita. Niko nije pitao.
 

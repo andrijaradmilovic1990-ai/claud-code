@@ -472,7 +472,37 @@ koji ne izgovara nikad. **Zabrana koju je sam sebi izdao je time starija od Jova
 *(`Pariz` — „sve troje ostalo bi preživelo da ga dotaknem, a ona ne")*, i **nijedno mesto
 se ne dopunjuje da bi ovo objasnilo.** Ovo je ključ za čitanje, ne građa za rečenicu.
 
-## 31 — ŠTA JE OTVORENO POSLE OVOG KRUGA
+## 33 — ⚑ ISTO JE ZAMALO URADIO KATARINI — I TO JE JEDINI PUT DA JE PREKINUO OBRAZAC
+
+**Autor, isti dan, doslovno u sadržaju:**
+
+> U jednom trenutku se **kolebao sa Katarinom i sa srećom** — i **baš zbog te sreće** je u
+> jednom trenutku **hteo da ostavi Katarinu, da se njoj nešto loše ne bi desilo.**
+
+**⚑ ŠTA OVO MENJA — sprat: knjiga. Ovo je veće od stavke 32.**
+
+Do ovog zapisa je obrazac stajao kao **prošlost**: mala Jovana umre → strah → ne vezuje se
+→ ode od glavne Jovane. Zatvoren krug, star dvanaest godina.
+
+**Nije zatvoren. Traje.** Isti potez se digao **i na Katarinu**, u sadašnjosti knjige, i
+okidač nije bila opasnost nego **sreća.** Što mu je bilo bolje, to je bilo bliže tome da
+ode — jer sreća znači da ima šta da izgubi, a on zna šta se dešava onome što voli.
+
+> **I tu je jedina pobeda u celoj knjizi: nije otišao.**
+>
+> Od Jovane jeste. Od Katarine nije. **To je jedini put da je čovek prekinuo sopstveni
+> obrazac** — i knjiga to danas nema nigde, ni kao senku.
+
+**Šta ovo NE radi:** ne pravi Katarinu ravnopravnom Jovani *(registar, sekcija 2)*. Naprotiv
+— pokazuje da je **ista opasnost** visila i nad njom, pa je izbor da ostane **skuplji** nego
+što knjiga danas pokazuje. **Ona i dalje ne sumnja i ne sme da sazna.**
+
+**Šta se od ovoga piše: ništa dok autor ne kaže.** Ali za razliku od stavki 30 i 32, ovo
+**ima svoje mesto ako autor ikad odluči** — `PLAN_03_09_2026.md`, **zahvat 4, poglavlje
+`KATARINA`**, koje je sledeće na redu. Tamo je on gost u njenoj sceni; ovo bi bilo jedino
+što on u toj sceni nosi a ona ne zna. **Ne piše se dok autor izričito ne kaže.**
+
+## 34 — ŠTA JE OTVORENO POSLE OVOG KRUGA
 
 1. **Godine male Jovane u odnosu na Davida.** Ako je njoj bilo trinaest a David je brata
    našao s četrnaest, sve staje u isti uzak razmak. **Nije potvrđeno koliko je Davidu bilo**
