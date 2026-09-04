@@ -81,6 +81,122 @@
 ---
 
 
+## ⚑ PROMPT ZA SLEDEĆU SESIJU — POTEZ B *(upisan 04.09.2026)*
+
+> Nalepiti na početak novog razgovora.
+
+```
+Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor i sve izmene.
+Autor je Andrija (Duffy). Ovo nije softverski projekat nego rukopis u reviziji.
+
+-- PRVO PROCITAJ, TIM REDOM --
+1. roman/NASTAVAK.md                              handoff, ovo
+2. roman/dokumenti/POENTA_KNJIGE.md               OSA KNJIGE, najvisi sprat
+3. roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md  IZVOR, autorov materijal
+4. roman/dokumenti/PLAN_03_09_2026.md             JEDINI PLAN, radi se odozgo
+5. roman/dokumenti/REGISTAR_ODLUKA.md             sta se ne dira; 25 i 26 su najsvezije
+6. CLAUDE.md                                      pravila zanata
+
+-- STANJE NA 04.09.2026 --
+
+Knjiga: 16 poglavlja, 30.092 reci (LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir).
+Golo `wc -w` LAZE u ovom okruzenju, potcenjuje za oko 1%.
+
+Glavna grana: claude/nesto-zanimljivo-z4j3s0. Sve je na njoj, grana je cista.
+
+POTEZI 1, 2 i 3 IZ PLANA SU ZATVORENI:
+ 1 SIDRA U VREMENU — provereno svih sesnaest, deset ih je vec imalo. Uneta dva:
+   Pukotina („Deset godina dolazi u ovaj grad kod bake, i svaki put izadjemo na to
+   jedno.") i Krv („Meni je bila dvadeset prva."). Pariz namerno ostaje bez cifre,
+   jer mu je rasuto vreme funkcija i jer je s Krvi ista godina.
+   Uz to ispravljeno „cita vec sama" -> „zna sva slova a ne ume da ih spoji", jer je
+   autor dao da MIJA DANAS IMA SEST GODINA (u Pukotini, na 33, ima cetiri).
+   Registar, sekcija 25.
+ 2 ULAZAK, TETKA — dodato „Cvece su donosili njoj." Zena koja dvaput pita „Treba li
+   ti nesto?" i ne saceka odgovor zakopava sopstvenog sina. Samo gest, bez imenovanja
+   odnosa. Razmotreno pa odbaceno razvijanje u scenu: majka Malog u Prelomu drzi
+   maksimum koji je knjiga dala tudjoj majci, i tetka je ne sme prestici.
+ 3 MASKA, COVEK U KAPUTU NAPOLJE — 580 reci rezano (2.301 -> 1.722), tri prepisa.
+   Strah vise ne dolazi spolja nego je racun koji je David sam otvorio u Praznoj
+   stolici („neko ko ce je jednog dana pitati odakle joj taj doktor").
+   Registar, sekcija 26.
+
+-- STA SE RADI SADA: POTEZ B --
+
+PLAN_03_09_2026.md, Deo 3, tacka B. Plan ga sam zove NAJOPASNIJI POTEZ U PLANU.
+
+Materijal autora (ODGOVORI, stavka 23), doslovno:
+  Kad je nasao brata, raspao se. Stajao je i buljio u njega PET MINUTA i jednostavno
+  nije znao sta da radi. „I tad je naucio, mozda je tad i dobio taj tik — da mora da
+  zna sta ce da se desi napred."
+
+NALAZ KOJI IZ TOGA IZLAZI: najcesce ponavljan gest u knjizi — ledja ka zidu, vide se
+vrata, ko ulazi — NIJE ZANATSKI TIK NEGO ZALOST. Rodio se u jednoj sobi, u jednom
+trenutku, kad je cetrnaestogodisnjak prvi i poslednji put bio ZATECEN.
+
+MESTO: Ulazak (II), scena u kojoj nalazi brata. Danas tamo stoji:
+  „Vrata su bila odskrinuta. / On je bio covek koji vrata nikad nije ostavljao
+  odskrinuta, i ja sam to znao dok sam ih jos gurao. / Imao sam cetrnaest. Nije bilo
+  nikog da me odatle pomeri, pa sam stajao dok neko nije dosao. / Heroin, ako neko
+  pita. Niko nije pitao."
+
+STA JE POTEZ: ne novo poglavlje — DA TO MESTO SLETI. Zatecenost se VIDI, ne objasnjava.
+
+ZABRANE, sve su tvrde:
+ 1. RECENICA KOJA SE NIKAD NE PISE: „i tad sam naucio da moram da znam sta dolazi."
+    Ni ta, ni blaza, ni ista misao razlivena u tri recenice. VEZU S MOTIVOM PRAVI
+    CITALAC ILI JE NEMA, i to je prihvatljivo.
+ 2. Scena je BEZ IJEDNE REPLIKE i zato udara (registar, sekcija 9). Ne dodavati dijalog.
+ 3. David NE PADA i ne ponizava se. Zatecenost nije pad. Jedan trenutak sa cetrnaest.
+ 4. Heroin pada tacno jednom, u toj sceni, i nigde vise u knjizi.
+
+MERA: posle B, svako „da vidim ko ulazi" u knjizi ima datum rodjenja.
+
+POSLE B IDE: potez 5 — novo poglavlje BRAT (~1.500 reci, ispred Ulaska) zajedno sa
+potezom C (jedno poglavlje koje dise drugacije). Proredjivanje motiva (zahvat 8) IDE
+TEK POSLE B, jer se posle njega motiv drugacije broji.
+
+-- STA SE NE DIRA, NI U JEDNOM PROLAZU --
+
+1. JOVANINO „DOBRO" u Kukavici, posle odbijenog poljupca — ista rec kao u Nestanku.
+2. DAVID NE SAZNAJE STA MU JE JOVANA. On to ZNA od pocetka i sam sebi je zabranio.
+   Nema scene prosvetljenja — nema sta da shvati.
+3. ODRAZ pada tacno tri puta: Pukotina, Ivicnjak, Cebence.
+4. Rec „porodica" jednom (zdravica u Italiji). Rec „cudoviste" jednom (kraj Susreta).
+5. IME JOVANA pada samo u Kukavici. Katarinino ne pada u naraciji nikad.
+   Davidovo i ime grada su zapecaceni. Provera: grep -ri beograd roman/poglavlja/
+6. Kraj Cebenceta i cela razmena „Kako je." / „Dobro je. Pita za tebe nekad."
+7. Fajlovi poglavlja NE zavrsavaju prelomom reda. Provereno svih 16 na 04.09.
+
+-- PRAVILO T, VAZI ZA SVAKI POTEZ --
+
+Knjiga sme da POKAZE. Ne sme da PROTUMACI. Ako citalac posle nekog mesta zna vise
+cinjenica a isto toliko oseca — to mesto je objasnjenje i brise se.
+Citalac se NIKAD ne sme izgubiti u POZICIJI (koje je vreme, cija kuhinja, ko govori).
+Citalac se UVEK mora gubiti u UZROKU (zasto je otisao, sta je radio, sta mu je ona).
+
+-- KAKO SE RADI --
+
+Pravilo K: mehanika ide bez pitanja i prijavljuje se posle. SVAKA RECENICA napisana u
+autorovo ime ceka izricito „da", JEDNO PO JEDNO. Blanko „da" se ne prima.
+Pravilo M: svaka ocena mora reci sprat — RECENICA, POGLAVLJE ili KNJIGA.
+Pravilo E: tekst je autoritet nad dokumentima.
+Pravilo G: ako se dvoumis, ne diraj. Prag je „merljivo bolje".
+Pravilo J: rez nije prolaz. Najmanje trecina unetog mora biti NAPISANA recenica.
+Pravilo P: dug se placa tamo gde je nadjen, nikad unazad u starije poglavlje.
+
+NE SKAKATI S TEME NA TEMU pred autorom. Provere radi tiho, pa iznesi JEDAN nalaz i
+JEDAN predlog. Ako predlog padne — reci zasto jednom, ponudi zamenu, idi dalje.
+
+GIT: nema nadgledanja PR-ova, nema samoprovera, nema check-inova.
+Commit kako ide, na glavnu granu, i push. Poglavlje nije zatvoreno dok nije na njoj.
+
+Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce knjigu jednog
+dana procitati. Ponasaj se u skladu s tim.
+```
+
+---
+
 ## Ispod ovog reda stoji stanje od 31.08.2026, kad je knjiga bila zatvorena. Istorija, ne registar.
 >
 > **⚑ KNJIGA JE CELA. ŠESNAEST POGLAVLJA, oko 30.000 reči.**
