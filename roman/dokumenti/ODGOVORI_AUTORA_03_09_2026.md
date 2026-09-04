@@ -601,3 +601,45 @@ dodirne, i jer poglavlje time **produbljuje NJU**: pokazuje šta ona radi s onim
 pogleda je „kao što se gleda nešto što se već zna", pa mu je vrati.)*
 
 **Ne piše se dok autor ne kaže „da" za konkretnu rečenicu.**
+
+## 38 — ⚑ KATARINA ZNA CELU PRIČU. NE ZNA SAMO ZA SREDU.
+
+> **Pitanje *(Helena)*:** *„Je l' tetovaža taj trag za malu Jovanu, ili si mislio na nešto
+> drugo?"*
+
+**Autor, doslovno u sadržaju:**
+
+> Ima tetovažu, **slovo „J"**. **Katarina ga je jednom prilikom pitala za tetovažu i on joj
+> je rekao celu priču. Ali nikad nije rekao da je to bila sreda.**
+
+**⚑ Ovo obara predloženi oblik iz stavke 37 i daje bolji — sprat: knjiga.**
+
+Predlog je bio da ga ona pita i **ne dobije odgovor.** **Netačno po autoru.** Dobila je
+odgovor, ceo, davno. Tetovaža **nije tajna između njih dvoje.**
+
+> **Uskraćena je jedna jedina stvar: dan.**
+
+**Šta to znači za tekst:**
+
+- **Čitalac zna više od nje**, i to bez ijedne nove činjenice: `Prazna stolica` **XII**
+  otvara se s *„Bila je sreda. Srede ne volim"* i zatvara s *„sad imam jedan razlog više
+  koji isto neću izgovoriti"*. **Vezu pravi čitalac. Ona je nikad ne napravi.**
+- **Tetovaža se u sceni ponaša kao stara, poznata stvar** — dodirne se u prolazu, pomene
+  bez težine, onako kako se pominje ono što je odavno ispričano. **Bez pauze, bez težine u
+  glasu, bez rečenice koja je podvlači.** Čim scena stane na njoj, potez je pao.
+- **Sreda se ne izgovara ni jednom rečju.** Ni njeno pitanje, ni njegovo izbegavanje —
+  **nema izbegavanja**, jer ona nema šta da pita. To je cela poenta.
+
+**⚑ I ovo je isti mehanizam koji knjiga već imenuje**, samo prvi put primenjen na nju —
+`Pukotina`, Andrijana: *„Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u
+glavi."* *(Registar, sekcija 2 — ta replika se ne dira.)* **Rekao joj je istinu, celu priču,
+i jedno je izostavio** — i ona nema načina da sazna da joj išta fali.
+
+**Time poglavlje dobija svoju strepnju bez ijedne pretnje:** ne strepi se od nečeg spolja,
+strepi se od toga **koliko dobro ona živi s čovekom koji nikad ne slaže.**
+
+**OTVORENO — ne pretpostavlja se:** **gde je tetovaža.** Autor dvaput kaže **„na vrstu"**
+*(stavka 26 i ova)*, i to nije prepoznato kao deo tela. **Mesto odlučuje ko je i kako vidi**
+— zglob, šaka, vrat i nadlaktica nisu ista scena. **Pitano; čeka odgovor.**
+*(Poznato i zaključano: „J" prvo, **kasnije cela leva ruka** — rukav uspomena koje niko
+osim njega ne ume da rastumači.)*
