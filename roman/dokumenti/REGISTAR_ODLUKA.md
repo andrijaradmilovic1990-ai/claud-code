@@ -2019,3 +2019,103 @@ jednoj rečenici · brava koja klikne · *„Do puta je ostao jedan dan."*
 **Provereno posle reza:** svi preostali pomeni kaputa u poglavlju su **Davidov sopstveni**
 *(čiviluk u hodniku; „Isti kaput, ista visina, iste ruke")*. **Lika nema nigde.**
 
+
+---
+
+# 27 — ⚑ POTEZ B IZVEDEN: `ULAZAK`, BRAT ŽIV I ZATEČENOST *(04.09.2026)*
+
+> **Potez B iz `PLAN_03_09_2026.md`, Deo 3 — plan ga sam zove najopasnijim potezom.**
+> Izveden **bez novog poglavlja**, u dva unosa u `Ulazak`. Oba je autor odobrio izričito.
+> `Ulazak` **2.275 → 2.502 reči**; knjiga **30.092 → 30.319**.
+
+## 27.1 — ⛔ POGLAVLJE `BRAT` SE NE PIŠE — ODLUKA, S RAZLOGOM
+
+**Zahvat 5 iz plana** *(novo poglavlje `BRAT`, ~1.500 reči, ispred `Ulaska`)* **je pao.**
+Predlog autora, prihvaćen posle dva razloga:
+
+1. **Autor nema dan.** `ODGOVORI`, stavka 7: *„ne seća se nijednog konkretnog dana i
+   nijedna scena mu ne prolazi kroz glavu."* Imamo tri navike i dva gesta. Od toga se ne
+   pravi dan nego **izmišljen** dan — a knjiga je autobiografska i čovek je stvaran i mrtav.
+   To bi bilo jedino mesto u rukopisu koje nije iz života, i to baš na njemu.
+2. **Poglavlje bi naplatilo scenu koju plaća.** Scena s odškrinutim vratima radi zato što
+   je **gola** *(sekcija 9: jedina bez replike, i zato udara)*. Toplo poglavlje od 1.500
+   reči ispred nje dovodi čitaoca **pripremljenog** — a ono što tu boli je da niko nije
+   pripremljen, ni čitalac ni David.
+
+**Vraća se ako autor kaže.** Razlog je upisan.
+
+## 27.2 — UNOS 1: BRAT ŽIV, JEDNOM
+
+**Nov ⁂ blok** posle scene s trenerom, **pre scene sa spajanjem stolova.** Oko 130 reči.
+Brat kuva, David seče luk, kratak dijalog o tome da li jede kod kuće, pa brat izlazi.
+
+**Zašto baš tu, a ne tik uz vrata:** scena sa stolovima završava se sa *„Čiji je?" /
+„Ničiji."* i to je **zalepljeno** za odškrinuta vrata. Umetanje između razdvaja dve stvari
+koje rade zajedno. Ovako reč **„ničiji" pada dok brat još živi**, pa se dva bloka kasnije
+ispuni. **Niko je ne ponavlja.**
+
+**Šta blok nosi, a nigde ne izgovara:**
+
+- **Poslednja rečenica je ključ:** *„izašao je, i zatvorio je vrata za sobom."* Tri bloka
+  kasnije stoji *„On je bio čovek koji vrata nikad nije ostavljao odškrinuta."* Bila je
+  tvrdnja pripovedača; **sad je nešto što je čitalac video.** Veza se ne pravi rečenicom.
+- **Poljubac u čelo pada prvi put ovde**, i na poslednjoj strani knjige David ga vraća
+  Jovani *(`Ćebence`: „poljubio je u čelo. Kratko. Suvo.")*. **Ne spajati nigde.**
+- **Sve tri navike iz materijala, bez scene za bilo koju:** kuvanje je radnja, fudbal je
+  priča o utakmici od sinoć, crtanje su **papiri na stolu koje ne da da se pomeraju.**
+- **„Mali" iz bratovih usta** stoji uz „Mali" iz kafane s početka poglavlja. **Ista reč,
+  dva značenja, i to se ne komentariše.**
+
+**Ne dodavati bratu još jednu scenu.** Jedna radnja, jednom — isti razlog kao Jovanin
+jastuk i ćebe *(sekcija 9)*.
+
+## 27.3 — UNOS 2: ZATEČENOST — 50 REČI POSTALO 150
+
+**Bilo:** *„Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko
+nije došao."*
+
+**Nalaz zbog kog je prepisano:** ta rečenica objašnjava stajanje **spoljašnjim** razlogom
+*(niko ga nije pomerio)*, a materijal kaže **unutrašnji** — *„stajao je, buljio pet minuta
+i nije znao šta da radi."* Dete je ispadalo objekat kog niko nije došao da makne, umesto
+deteta koje se **samo** ne pomera.
+
+**Kako je izvedeno — tri odluke, sve tri se drže zajedno:**
+
+1. **Hladna kafa meri vreme umesto cifre.** Rečenica *„pet minuta"* je razmatrana i
+   **odbačena**: pripovedač koji broji minute **merio je**, a poenta je da nije merio.
+   Šolja s ostatkom hladne kafe daje isto trajanje, a niko ga ne izgovara. *(Ista šolja
+   stoji na stolu tri dana kasnije, kad dođe po stvari — niko ništa nije dirao.)*
+2. **Zatečenost se vidi kroz ono što NIJE uradio** — nije prišao, nije zvao, nije izašao
+   u hodnik da viče. **Nijedna reč o tome kako se osećao.**
+3. **„Nije bilo nikog da mi kaže"** je zadržan kostur stare rečenice s promenjenim
+   predmetom: **ne da ga pomeri nego da mu kaže šta se sad radi.** Kad ljudi dođu, jedan
+   ga *„pomeri u stranu kao stolicu"* — i tek tada se pomerio. **Stara reč se ispuni
+   doslovno, na tuđim rukama.**
+
+## 27.4 — ⚑ TU PADA I POTEZ C, I NIGDE DRUGDE
+
+**Dah puca** — rečenice se skraćuju do jedne reči *(„Stajao sam.")* pa se opet razliju.
+To je **jedino takvo mesto u knjizi** i time je plaćen potez C *(„jedno poglavlje koje diše
+drugačije, jednom, nikad drugi put")*.
+
+**Ne ponavljati taj oblik nigde.** Drugi put prestaje da bude mesto i postaje manir —
+plan to izričito upozorava.
+
+## 27.5 — ŠTA JE ODRŽANO, PROVERENO POSLE UNOSA
+
+- **Nijedna reč o tome šta je naučio ni šta je posle toga postao.** Prva od tri rečenice
+  koje se nikad ne pišu *(plan, Deo 1B)* nije napisana ni u kakvoj varijanti.
+- **Scena s vratima i dalje nema nijednu repliku.**
+- **David ne pada** — ne plače, ne viče, ne kleči. Stoji.
+- **Heroin pada tačno jednom u celoj knjizi** *(provereno alatom: 1 instanca, `Ulazak`)*.
+- **`grep -ri beograd roman/poglavlja/` prazno. Ime „Jovana" u `Ulasku`: 0.**
+- **Fajl završava tačkom, bez preloma reda.**
+- **Mala Jovana ne ulazi ni slovom** *(`ODGOVORI`, 26 i 28)*.
+
+## 27.6 — ŠTA OSTAJE OTVORENO
+
+1. **Bratova fraza za kad nešto ne valja** *(`ODGOVORI`, 14)* — autor ju je dao da se
+   smisli, **nije ponuđena u ovom potezu** i čeka zasebno.
+2. **Proređivanje motiva** *(zahvat 8)* sad sme da se radi — motiv ima poreklo, pa se
+   drugačije broji.
+

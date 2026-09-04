@@ -74,6 +74,38 @@ Trener mi je tada stavio ruku na potiljak i držao je tu tri sekunde duže nego 
 
 ⁂
 
+Brat je te nedelje kuvao i dao mi nož i luk.
+
+„Sitnije.“
+
+„Sitno je.“
+
+„Nije sitno.“ Nije se ni okrenuo. „Sitno je kad ne moraš da žvaćeš.“
+
+Sekao sam sitnije. Pričao je o utakmici od sinoć, ko je koga i zašto je to glupo, i pričao je kao da ga je neko gore pitao za mišljenje pa nije poslušao, i ja sam pola razumeo a klimao sam na sve.
+
+„Jedeš kod kuće?“
+
+„Jedem.“
+
+„Šta jedeš?“
+
+„Šta ima.“
+
+„Aha.“ Spustio je poklopac. „Znači ne jedeš.“
+
+Jeli smo na nogama jer je sto bio pun njegovih papira i nije dao da se pomeraju.
+
+Posle je obukao jaknu i uzeo ključeve i stao kod vrata.
+
+„Mali.“
+
+„A?“
+
+Nije rekao ništa. Nagnuo se, poljubio me u čelo i izašao, i zatvorio je vrata za sobom.
+
+⁂
+
 Uveče su spajali stolove.
 
 „Mali, stolice.“
@@ -114,7 +146,19 @@ Vrata su bila odškrinuta.
 
 On je bio čovek koji vrata nikad nije ostavljao odškrinuta, i ja sam to znao dok sam ih još gurao.
 
-Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko nije došao.
+Imao sam četrnaest.
+
+Prozor je bio otvoren. Napolju je neko dozivao dete, dvaput, pa prestao. Na stolu je stajala šolja i u njoj je bilo još kafe, malo, na dnu, i ta kafa je bila hladna i ja sam je zbog nečega pipnuo prstom.
+
+Stajao sam.
+
+Nisam prišao. Nisam ga zvao. Nisam izašao na hodnik da vičem, iako je hodnik bio tu i iako su ljudi bili iza svojih vrata.
+
+Stajao sam i gledao ga i čekao da mi neko kaže šta se sad radi.
+
+Nije bilo nikog da mi kaže.
+
+Kad su došli, jedan me je uhvatio za ramena i pomerio u stranu kao stolicu, i tek tada sam se pomerio.
 
 Heroin, ako neko pita. Niko nije pitao.
 

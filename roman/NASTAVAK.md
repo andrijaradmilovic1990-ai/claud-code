@@ -70,18 +70,40 @@
 > 2.301 → 1.722**, uz tri prepisa jer je scena bila pisana za pretnju. Strah je sad račun
 > koji je David sam otvorio u `Praznoj stolici`. Pun zapis: **sekcije 26 i 25**.
 >
-> **Sledeći korak:** potez 4 — **B, zatečenost kod brata i poreklo motiva.**
+> **⚑ POTEZ B JE ZATVOREN 04.09.2026 — I S NJIM POTEZ C.** Izveden **bez novog poglavlja**,
+> u dva unosa u `Ulazak`: **brat živ jednom** *(nov blok, ~130 reči, pre scene sa spajanjem
+> stolova)* i **prepis bloka zatečenosti** *(50 → 150 reči)*. `Ulazak` **2.275 → 2.502**;
+> knjiga **30.092 → 30.319**. Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 27**.
 >
-> **⚑ Potez B je dobio sav najavljeni materijal — četiri uspomene, ne dve.** Uz brata
-> *(već u planu)*: majčina dijagnoza, druga Jovana *(⚑ osetljivo — dodiruje Pravilo T,
-> vidi `ODGOVORI_AUTORA_03_09_2026.md`, stavka 26)*, i tuča/bolnica. **Za sam potez B se
-> i dalje koristi samo brat** — ostalo troje je izvor, ne ulazi u plan ni u tekst dok
-> autor ne kaže.
+> **⛔ POGLAVLJE `BRAT` JE PALO** *(zahvat 5)*, na predlog autora i s dva razloga: autor
+> **nema konkretan dan** pa bi 1.500 reči bilo izmišljeno u autobiografskoj knjizi o
+> stvarnom mrtvom čoveku; i **poglavlje bi naplatilo scenu koju plaća** — scena s vratima
+> radi zato što niko nije pripremljen. **Vraća se ako autor kaže.**
+>
+> **⚑ Potez B je dobio sav najavljeni materijal — četiri uspomene, ne dve.** Uz brata:
+> majčina dijagnoza, druga Jovana *(⚑ osetljivo — Pravilo T)*, i tuča/bolnica. **U tekst
+> je ušao samo brat.**
+>
+> **⚑ ŠESTI KRUG MATERIJALA, 04.09.2026 — MENJA UZROČNOST, NE SAMO RASPORED.**
+> `ODGOVORI_AUTORA_03_09_2026.md`, **stavke 28–32:**
+> - **Mala Jovana (oko 13 g.) ubila se PRE brata**, ne kasnije. Sreda stoji.
+> - **Prvi gubitak lomi, drugi zaključava.** David je bio skrhan, ali se **uplašio tek kod
+>   brata** — *„ljudi koje volim umiru."* Iz toga dve navike: **prestaje da se vezuje**, i
+>   **mora da zna unapred.**
+> - **⚑ Odlazak od Jovane je ista logika** — *„bolje da je ostavim nego da joj se nešto
+>   desi."* **Obe se zovu Jovana. Prvu je sahranio; drugu je sahranio živu da ne bi morao
+>   mrtvu.** Naslov knjige je time doslovan.
+> - **Od svega toga se ne piše ništa** *(stavka 30)*. Autorova formulacija *„više nikad ne
+>   smem da ne znam šta će biti"* je **tačno ona rečenica koju plan zabranjuje.**
+>
+> **Sledeći korak:** ostaje **zahvat 4 — novo poglavlje `KATARINA`**, pa dvorište, pa
+> **A — Jovanin glas**, pa `Ćebence`. **Proređivanje motiva (zahvat 8) sad sme** — motiv
+> ima poreklo, pa se drugačije broji.
 
 ---
 
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU — POTEZ B *(upisan 04.09.2026)*
+## ⚑ PROMPT ZA SLEDEĆU SESIJU — ZAHVAT 4: `KATARINA` *(upisan 04.09.2026)*
 
 > Nalepiti na početak novog razgovora.
 
@@ -97,64 +119,61 @@ Autor je Andrija (Duffy). Ovo nije softverski projekat nego rukopis u reviziji.
 5. roman/dokumenti/REGISTAR_ODLUKA.md             sta se ne dira; 25 i 26 su najsvezije
 6. CLAUDE.md                                      pravila zanata
 
--- STANJE NA 04.09.2026 --
+-- STANJE NA 04.09.2026, KRAJ DANA --
 
-Knjiga: 16 poglavlja, 30.092 reci (LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir).
+Knjiga: 16 poglavlja, 30.319 reci (LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir).
 Golo `wc -w` LAZE u ovom okruzenju, potcenjuje za oko 1%.
 
-Glavna grana: claude/nesto-zanimljivo-z4j3s0. Sve je na njoj, grana je cista.
+Glavna grana: claude/nesto-zanimljivo-z4j3s0.
 
-POTEZI 1, 2 i 3 IZ PLANA SU ZATVORENI:
- 1 SIDRA U VREMENU — provereno svih sesnaest, deset ih je vec imalo. Uneta dva:
-   Pukotina („Deset godina dolazi u ovaj grad kod bake, i svaki put izadjemo na to
-   jedno.") i Krv („Meni je bila dvadeset prva."). Pariz namerno ostaje bez cifre,
-   jer mu je rasuto vreme funkcija i jer je s Krvi ista godina.
-   Uz to ispravljeno „cita vec sama" -> „zna sva slova a ne ume da ih spoji", jer je
-   autor dao da MIJA DANAS IMA SEST GODINA (u Pukotini, na 33, ima cetiri).
-   Registar, sekcija 25.
- 2 ULAZAK, TETKA — dodato „Cvece su donosili njoj." Zena koja dvaput pita „Treba li
-   ti nesto?" i ne saceka odgovor zakopava sopstvenog sina. Samo gest, bez imenovanja
-   odnosa. Razmotreno pa odbaceno razvijanje u scenu: majka Malog u Prelomu drzi
-   maksimum koji je knjiga dala tudjoj majci, i tetka je ne sme prestici.
- 3 MASKA, COVEK U KAPUTU NAPOLJE — 580 reci rezano (2.301 -> 1.722), tri prepisa.
-   Strah vise ne dolazi spolja nego je racun koji je David sam otvorio u Praznoj
-   stolici („neko ko ce je jednog dana pitati odakle joj taj doktor").
-   Registar, sekcija 26.
+ZATVORENO IZ PLANA: potezi 1, 2, 3, pa B i C zajedno.
+ 1 SIDRA U VREMENU — deset od sesnaest ih je vec imalo, uneta dva (Pukotina, Krv).
+   Pariz namerno bez cifre. Registar, sekcija 25.
+ 2 ULAZAK, TETKA — „Cvece su donosili njoj." Samo gest, bez imenovanja odnosa.
+ 3 MASKA, COVEK U KAPUTU NAPOLJE — 580 reci rezano, tri prepisa. Strah je sad racun
+   koji je David sam otvorio u Praznoj stolici. Registar, sekcija 26.
+ B+C ULAZAK, BRAT I ZATECENOST — 04.09. Dva unosa, +227 reci. Registar, sekcija 27.
+   Poglavlje BRAT (zahvat 5) je PALO, na predlog autora: nema konkretan dan pa bi
+   1.500 reci bilo izmisljeno, a poglavlje bi naplatilo scenu koju placa.
 
--- STA SE RADI SADA: POTEZ B --
+STA JE B UNEO U ULAZAK, da se ne dira naslepo:
+ - Nov blok pre scene sa spajanjem stolova: brat kuva, David sece luk, brat izlazi i
+   poljubi ga u celo. Poslednja recenica bloka je da je ZATVORIO VRATA ZA SOBOM — tri
+   bloka kasnije „covek koji vrata nikad nije ostavljao odskrinuta" prestaje da bude
+   tvrdnja i postaje ono sto je citalac video. NIGDE SE NE SPAJA.
+ - Prepis bloka zatecenosti, 50 -> 150 reci. Hladna kafa meri vreme umesto cifre „pet
+   minuta". Zatecenost se vidi kroz ono sto NIJE uradio. Dah puca do jednorecnih
+   recenica — TU JE PLACEN I POTEZ C, i taj oblik se NE PONAVLJA NIGDE.
 
-PLAN_03_09_2026.md, Deo 3, tacka B. Plan ga sam zove NAJOPASNIJI POTEZ U PLANU.
+-- STA SE RADI SADA: ZAHVAT 4, NOVO POGLAVLJE KATARINA --
 
-Materijal autora (ODGOVORI, stavka 23), doslovno:
-  Kad je nasao brata, raspao se. Stajao je i buljio u njega PET MINUTA i jednostavno
-  nije znao sta da radi. „I tad je naucio, mozda je tad i dobio taj tik — da mora da
-  zna sta ce da se desi napred."
+PLAN_03_09_2026.md, Deo 2, tacka 4, po reviziji iz Dela 8. ~1.700 reci, izmedju Krvi i
+Prazne stolice.
 
-NALAZ KOJI IZ TOGA IZLAZI: najcesce ponavljan gest u knjizi — ledja ka zidu, vide se
-vrata, ko ulazi — NIJE ZANATSKI TIK NEGO ZALOST. Rodio se u jednoj sobi, u jednom
-trenutku, kad je cetrnaestogodisnjak prvi i poslednji put bio ZATECEN.
+NALAZ: ni u jednoj sceni nismo sami s njom; svaka njena scena je ulazak u njegov kadar.
+A ona nosi finale.
 
-MESTO: Ulazak (II), scena u kojoj nalazi brata. Danas tamo stoji:
-  „Vrata su bila odskrinuta. / On je bio covek koji vrata nikad nije ostavljao
-  odskrinuta, i ja sam to znao dok sam ih jos gurao. / Imao sam cetrnaest. Nije bilo
-  nikog da me odatle pomeri, pa sam stajao dok neko nije dosao. / Heroin, ako neko
-  pita. Niko nije pitao."
+STA JE POGLAVLJE: njena scena, ON JE GOST U NJOJ. Sestra kojoj svaki mesec nosi svoje
+stvari jer je „jedina koja moze da ode" (vec u Nestanku). Tu se placa ulog sadasnjosti:
+hoce adresu, brak i prsten, a covek koji je sam sebe sahranio nema sta od toga da izvadi
+iz fioke. Knjiga tu zicu vec ima dvaput — licna karta u Parizu, mart u Cebencetu.
+NISTA SE NE IZMISLJA.
 
-STA JE POTEZ: ne novo poglavlje — DA TO MESTO SLETI. Zatecenost se VIDI, ne objasnjava.
+ZABRANE:
+ 1. NJENA RUPA SE PECATI KAO I NJEGOVA. Autorov materijal kaze da je pobegla iz malog
+    grada na jugu, od porodice — TO SE U TEKSTU NIKAD NE OBJASNJAVA. Zna se da je otisla
+    i da se ne vraca. ZASTO — nikad.
+ 2. Ogledalo (on je pre dvanaest godina uradio isto to) radi jace NEIZGOVORENO. Nijedno
+    od njih dvoje ne sme da ga primeti naglas.
+ 3. Ona NE SUMNJA, ne proverava, ne budi se.
+ 4. Poglavlje produbljuje NJU, ne njen odnos prema njemu. NE postaje ravnopravna Jovani.
+ 5. Ime „Katarina" pada tacno dvaput u celoj knjizi, oba puta u Belom gradu. NE DODAVATI.
 
-ZABRANE, sve su tvrde:
- 1. RECENICA KOJA SE NIKAD NE PISE: „i tad sam naucio da moram da znam sta dolazi."
-    Ni ta, ni blaza, ni ista misao razlivena u tri recenice. VEZU S MOTIVOM PRAVI
-    CITALAC ILI JE NEMA, i to je prihvatljivo.
- 2. Scena je BEZ IJEDNE REPLIKE i zato udara (registar, sekcija 9). Ne dodavati dijalog.
- 3. David NE PADA i ne ponizava se. Zatecenost nije pad. Jedan trenutak sa cetrnaest.
- 4. Heroin pada tacno jednom, u toj sceni, i nigde vise u knjizi.
+MERA: posle njega citalac STREPI za nju, iako se nista nije desilo i iako ona nista ne
+sumnja. (Ne „ume da kaze sta hoce" — ta mera je oborena.)
 
-MERA: posle B, svako „da vidim ko ulazi" u knjizi ima datum rodjenja.
-
-POSLE B IDE: potez 5 — novo poglavlje BRAT (~1.500 reci, ispred Ulaska) zajedno sa
-potezom C (jedno poglavlje koje dise drugacije). Proredjivanje motiva (zahvat 8) IDE
-TEK POSLE B, jer se posle njega motiv drugacije broji.
+POSLE TOGA: dvoriste (6) -> A, Jovanin glas (3.A) -> Cebence, Jovana danas (7) ->
+proredjivanje motiva (8, SAD SME jer motiv ima poreklo) -> slepi prolaz po Pravilu R (9).
 
 -- STA SE NE DIRA, NI U JEDNOM PROLAZU --
 
@@ -167,6 +186,15 @@ TEK POSLE B, jer se posle njega motiv drugacije broji.
    Davidovo i ime grada su zapecaceni. Provera: grep -ri beograd roman/poglavlja/
 6. Kraj Cebenceta i cela razmena „Kako je." / „Dobro je. Pita za tebe nekad."
 7. Fajlovi poglavlja NE zavrsavaju prelomom reda. Provereno svih 16 na 04.09.
+8. NOVO 04.09 — MATERIJAL IZ SESTOG KRUGA SE NE PISE (ODGOVORI, stavke 28-32).
+   Mala Jovana (ubila se PRE brata, sreda) · to da se posle toga prestao vezivati za
+   ljude · to da mora da zna unapred · to da je od Jovane otisao „bolje da je ostavim
+   nego da joj se nesto desi". SVE JE TO KLJUC ZA CITANJE, NE GRADJA ZA RECENICU.
+   Autorova formulacija „vise nikad ne smem da ne znam sta ce biti" je TACNO ona
+   recenica koju plan zabranjuje. Knjiga to vec izvodi u postupcima (Pariz: „sve troje
+   ostalo bi prezivelo da ga dotaknem, a ona ne") i NIJEDNO mesto se ne dopunjuje.
+9. OBLIK IZ POTEZA C — dah koji puca do jednorecnih recenica — pada SAMO u Ulasku, u
+   bloku zatecenosti. Drugi put prestaje da bude mesto i postaje manir.
 
 -- PRAVILO T, VAZI ZA SVAKI POTEZ --
 
