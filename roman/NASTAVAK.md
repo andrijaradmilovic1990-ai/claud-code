@@ -93,6 +93,10 @@
 > - **⚑ Odlazak od Jovane je ista logika** — *„bolje da je ostavim nego da joj se nešto
 >   desi."* **Obe se zovu Jovana. Prvu je sahranio; drugu je sahranio živu da ne bi morao
 >   mrtvu.** Naslov knjige je time doslovan.
+> - **⚑ ISTO JE ZAMALO URADIO KATARINI** *(stavka 33)* — kolebao se, i **baš zbog sreće**
+>   hteo je da je ostavi da joj se nešto ne desi. **Obrazac nije prošlost nego traje**, i
+>   okidač nije opasnost nego sreća. **Ali nije otišao** — to je jedina pobeda u knjizi i
+>   knjiga je danas nema ni kao senku. Ako ikad uđe, mesto joj je u poglavlju `KATARINA`.
 > - **Od svega toga se ne piše ništa** *(stavka 30)*. Autorova formulacija *„više nikad ne
 >   smem da ne znam šta će biti"* je **tačno ona rečenica koju plan zabranjuje.**
 >
