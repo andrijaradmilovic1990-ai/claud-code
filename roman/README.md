@@ -9,8 +9,12 @@ nova verzija poglavlja mogu uporediti red po red.
 
 ## Ako otvaraš ovo prvi put
 
-Idi na **[`NASTAVAK.md`](NASTAVAK.md)**. To je jedini ulaz — gde je revizija stala,
-šta je zaključano, šta je sledeće. Ovaj README je samo mapa fajlova.
+Idi na **[`NASTAVAK.md`](NASTAVAK.md)**. To je jedini ulaz — gde je revizija stala i
+šta je sledeće. Ovaj README je samo mapa fajlova.
+
+**Ali ne kreći u posao dok ne pročitaš i osu, izvor i plan** — redosled je u
+`CLAUDE.md`, na vrhu. Znati *da* se nešto radi a ne znati *zašto* postoji je najskuplja
+greška u ovom repou i pravljena je više puta.
 
 ---
 
@@ -26,54 +30,57 @@ netaknuto i u istom redosledu; nova se umeću između njih.
 Autor je tog dana **otvorio sva poglavlja** za preostali posao, i u knjigu je umetnuto
 novo — **`IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`.
 
-**Napisano: 27.758 reči u petnaest poglavlja. Ostaje jedno — `MASKA`. Cilj oko 31.500.**
+**Sva šesnaest su napisana od 31.08.2026.** Stanje na **04.09.2026: 30.315 reči.**
 
-> **⚑ 31.08.2026, druga sesija — `MASKA` je jednom napisana i BAČENA.** Pisana je po
-> potezu 8 *(majka u sadašnjosti)*, koji je istog dana pao. Iz tog razgovora je izašla
-> **osa knjige** i nov fajl **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)** —
-> od sad **najviši sprat u repou**, čita se odmah posle `NASTAVAK.md`. Sve odluke:
-> `dokumenti/REGISTAR_ODLUKA.md`, **sekcija 18.**
+> **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA.** Šesnaest poglavlja je **kostur**, ne
+> gotova knjiga. **Nema više zaključanih poglavlja.** Rupa ostaje zapečaćena, pa knjiga
+> **ne raste unazad nego unapred.**
 >
-> *(Brojka 27.762 stajala je u nekoliko fajlova i bila je netačna — izmereno `wc -w` po
-> fajlu daje **27.758**. Ispravljeno svuda istog dana.)*
+> **⚑ 03.09.2026 — VAŽI SAMO JEDAN PLAN: [`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md).**
+> `PLAN_RASTA.md` je obrisan *(nije bio autorov)*, `PLAN_RADA.md` je iscrpljen.
+> Uz plan idu i dva fajla iznad njega: **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)**
+> *(osa)* i **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)**
+> *(izvor — autorovo znanje o svojim ljudima)*.
 
-**Ostaje:**
+**Iz plana je zatvoreno pet poteza** *(03–04.09.2026)*: sidra u vremenu · tetka u
+`Ulasku` · kaput napolje iz `Maske` · **B** *(zatečenost kod brata)* · **C** *(jedno
+mesto koje diše drugačije)*. **Poglavlje `BRAT` je palo** — razlog u registru, sekcija 27.
 
-| | šta | gde |
-|---|---|---|
-| **piše se** | **`MASKA`** *(~2.800 reči)* — **šest poteza (9–14)**; potez 8 pao | novo, mesto **15** |
-
-**Osam od četrnaest poteza je zatvoreno** *(31.08.2026)*: `Pukotina` tri, `Krv` dva,
-`Ivičnjak` dva — **i potez 8, koji je pao.** **Ceo preostali posao stoji u `dokumenti/PLAN_RADA.md`**, i otvara se
-odmah posle `NASTAVAK.md`.
-
-> **Numeracija se pomerila.** Sve od `Preloma` nadalje ima broj veći za jedan nego u
-> `dokumenti/NOVA_KNJIGA_MAPA.md`, koja i dalje vodi petnaest. Mapa je tačna u svemu
-> osim u numeraciji.
+**Sledeće na redu: novo poglavlje `KATARINA`.**
 
 ## Svih šesnaest mesta, redom kojim se čita
 
 **Imena fajlova ne prate mesta u knjizi** — stari nose rimske brojeve, novi nose `NOVO_`.
-**Redosled je ovaj, ne po imenu fajla.**
+**Redosled je ovaj, ne po imenu fajla.** Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`,
+**04.09.2026**.
 
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
-| 1 | `POGLAVLJE_1_SUSRET.md` | Susret | 797 |
-| 2 | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.695 |
-| 3 | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.180 |
-| 4 | `POGLAVLJE_3_KRV.md` | Krv | 1.303 |
-| 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.368 |
-| 6 | `POGLAVLJE_4_PARIZ.md` | Pariz | 1.973 |
-| **7** | `POGLAVLJE_NOVO_IVICNJAK.md` | **Ivičnjak** | **1.118** |
-| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.792 |
-| 9 | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.289 |
-| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.571 |
-| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.911 |
-| 12 | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.405 |
-| 13 | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.150 |
-| 14 | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.635 |
-| **15** | *(nije napisano)* | **Maska** | **predstoji** |
-| 16 | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.571 |
+| 1 | `POGLAVLJE_1_SUSRET.md` | Susret | 793 |
+| **2** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **Ulazak** | **2.498** |
+| **3** | `POGLAVLJE_2_PUKOTINA.md` | **Pukotina** | 1.786 |
+| 4 | `POGLAVLJE_3_KRV.md` | Krv | 1.324 |
+| 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.405 |
+| 6 | `POGLAVLJE_4_PARIZ.md` | Pariz | 2.026 |
+| 7 | `POGLAVLJE_NOVO_IVICNJAK.md` | Ivičnjak | 1.127 |
+| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.795 |
+| 9 | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.367 |
+| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.580 |
+| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.936 |
+| 12 | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.420 |
+| 13 | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.167 |
+| **14** | `POGLAVLJE_NOVO_MASKA.md` | **Maska** | **1.715** |
+| 15 | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
+| 16 | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.627 |
+
+**ZBIR: 30.315 reči.**
+
+> **⚑ `ULAZAK` JE MESTO 2, `PUKOTINA` 3** *(odluka autora, 31.08.2026)*. Raniji zapisi
+> koji ih vode obrnuto su zastareli. **`MASKA` je mesto 14, ispred `Kukavice`** — ne 15.
+>
+> **Golo `wc -w` u ovom okruženju potcenjuje za oko 1%** — uvek `LC_ALL=C.UTF-8`.
+> **`cat` preko svih fajlova daje netačan zbir**, jer nijedan fajl ne završava prelomom
+> reda pa se reči slepe na spojevima.
 
 **23.08.2026.** je stari VII (5.896 reči, 38% knjige) podeljen na **VII — Beli grad**
 i **VIII — Kukavica**, a dotadašnje VIII — Ćebence postalo je **IX**. Zapisi stariji
@@ -100,12 +107,16 @@ Git prati preimenovanja — istorija nije prekinuta.
 
 ## Stanje
 
-**Prva knjiga je gotova i zaključana.** Plan od četiri koraka iscrpljen je 28.08.2026.
-Pročitana je cela i ocenjena: jako dobra, s jednom pravom zamerkom — **prekratka**
-(novela, ne roman). Presuda: `dokumenti/PRESUDA_I_NOVA_KNJIGA.md`.
+**Knjiga ima šesnaest poglavlja i sva su napisana.** Od **01.09.2026** nijedno nije
+zaključano — šesnaest poglavlja je **kostur**, i radi se po
+[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md), odozgo.
 
-**Iz toga je izašla nova knjiga, i ona se sada piše.** Gde je stalo i šta je sledeće —
-uvek `NASTAVAK.md`.
+**Šta knjiga postaje kad plan bude gotov**, upisano bez ulepšavanja: mala, precizna,
+tužna knjiga od oko 35.000 reči — četvoro ljudi, tri kuhinje i dva kafića. **Ovo nije
+noar i ne meri se noarom** *(autor je izvadio taj motor: niko ga ne traži)*. **Ovo je
+elegija.**
+
+Gde je stalo i šta je sledeće — uvek `NASTAVAK.md`.
 
 **Zakazano za kraj, kad sve bude napisano:** prolaz kroz šavove, pa **noir prolaz kroz
 ceo roman** *(odluka autora, 30.08.2026)*. Tek tada se zaključano otvara, i otvara ga
@@ -125,7 +136,9 @@ autor rečju „otvaram".
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
 | `dokumenti/PRAVILA_STILA.md` | zanat — kako se piše | kad se piše rečenica |
 | `dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta | kad se proverava činjenica |
-| **`dokumenti/PLAN_RADA.md`** | **⚑ ceo preostali posao — četrnaest poteza s mestima** | **odmah posle `NASTAVAK.md`, uvek** |
+| **[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md)** | **⚑ JEDINI PLAN — devet zahvata i potezi A/B/C** | **odmah posle ose i izvora, uvek** |
+| **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)** | **⚑ IZVOR — autorovo znanje o svojim ljudima, 34 stavke u šest krugova** | **pre plana; sve što se piše mora da stoji na njemu** |
+| `dokumenti/PLAN_RADA.md` | stari plan — **iscrpljen 31.08.2026** | istorija, ne posao |
 | `dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji** (vodi petnaest); razlozi i zabrane i dalje važe | zbog razloga, ne zbog plana |
 | `dokumenti/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
 | `dokumenti/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
@@ -148,6 +161,9 @@ Puni tekst u `CLAUDE.md` u korenu repoa. Ukratko:
 - **G** — ako se dvoumiš, ne diraj.
 - **J** — rez nije prolaz; najmanje trećina **unetog** mora biti napisana rečenica.
 - **P** — dug se plaća unapred, nikad unazad.
+- **T** — **tajna se ne otvara** *(03.09.2026)*. Knjiga sme da **pokaže**, ne sme da
+  **protumači.** Čitalac se nikad ne gubi u **poziciji** *(vreme, mesto, ko govori)*, a
+  uvek se gubi u **uzroku** *(zašto je otišao, šta mu je ona)*.
 
 **Dva radna pravila, upisana 30.08.2026:** dokumenti se čitaju **celi** pre pisanja, ne
 po sekcijama · tekst poglavlja se šalje **kao `.md` fajl**, ne u razgovor.

@@ -299,10 +299,14 @@ motiv drugačije broji — nije više manir nego linija.
 **Zatečenost nije pad.** David se ne ponižava i ne raspada pred nama kao karakter; ovo je
 jedan trenutak s četrnaest godina, i vidi se, a ne objašnjava.
 
-## 24 — NAJAVLJENO, NIJE JOŠ DATO
+## 24 — ~~NAJAVLJENO, NIJE JOŠ DATO~~ · ✅ **DATO ISTOG DANA**
 
 **Autor je rekao da postoje još dve uspomene istog reda** — druga mesta gde je bio zatečen.
 **Daće ih kasnije. Ne izmišljati ih i ne popunjavati u međuvremenu.**
+
+> **✅ ZATVORENO.** Najavio je dve, **dao tri** *(peti krug — stavke 25, 26, 27)*, pa još
+> **dva kruga materijala 04.09.** *(šesti krug — stavke 28–34)*. **Ništa više ne visi po
+> ovoj najavi.**
 
 ---
 
@@ -396,6 +400,10 @@ svega dosad zapisanog.
 
 > **Dato usred rada na potezu B, na autorovu inicijativu.** Ovo je najveći ispravak
 > hronologije od 03.09. i menja **uzročnost**, ne samo raspored.
+>
+> **⛑ BROJ 31 NE POSTOJI.** Stavke idu **28, 29, 30, 32, 33, 34** — broj 31 je preskočen
+> pri upisu i **nije izgubljena stavka.** Ne tražiti je i ne prenumerisati ostale, jer na
+> brojeve 32 i 33 već upućuju registar, `NASTAVAK.md` i dnevnik.
 
 ## 28 — ⚑ MALA JOVANA JE PRE BRATA, I ONA NIJE IZVOR STRAHA
 

@@ -46,7 +46,7 @@ Zatim, po potrebi:
 | `roman/dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta |
 | `roman/dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — **istorija, ne registar** |
 | `roman/dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji.** Vodi petnaest poglavlja; knjiga ih ima šesnaest |
-| `roman/dokumenti/NOVA_KNJIGA_IDEJE.md` | zbornik ideja — **istorija.** Šta je od njih živo i gde ide, kaže `PLAN_RADA.md` |
+| `roman/dokumenti/NOVA_KNJIGA_IDEJE.md` | zbornik ideja — **istorija.** Šta je od njih živo i gde ide, kaže `PLAN_03_09_2026.md` |
 
 **Razlika koja se stalno meša:** dnevnik pamti *šta se radilo i zašto*; registar
 pamti *šta se ne dira*. **Kad se sukobe — važi registar.**
@@ -104,7 +104,7 @@ preostali posao i u knjigu je umetnuto novo poglavlje — **`IVIČNJAK`, mesto 7
 Stariji zapisi koji kažu „Maska, mesto 14" misle na **mesto 15**. Mapa je i dalje
 tačna u svemu osim u numeraciji i broju poglavlja.
 
-**Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_RADA.md`** —
+**Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_03_09_2026.md`** *(do 03.09.2026. je to bio `PLAN_RADA.md`, koji je iscrpljen)* —
 **četrnaest poteza — svi zatvoreni, plan iscrpljen**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
 se odozgo. **Ne planirati mimo njega.**
 
@@ -124,13 +124,28 @@ se odozgo. **Ne planirati mimo njega.**
 >
 > **Jedino pravilo rada:** *svaki zahvat ili oduzima ili otvara — nijedan ne objašnjava.*
 > Knjizi više ne prete rupe, preti joj glačanje.
+>
+> **⚑ 04.09.2026 — POTEZI B I C ZATVORENI, POGLAVLJE `BRAT` PALO.** Oba su plaćena u
+> `Ulasku`, bez novog poglavlja: **brat živ jednom** *(nov blok)* i **prepis bloka
+> zatečenosti** *(50 → 150 reči)*, u kom dah puca do jednorečnih rečenica — i **to je
+> jedino takvo mesto u knjizi**, pa je time plaćen i C. **Poglavlje `BRAT` (zahvat 5) je
+> palo:** autor nema konkretan dan, pa bi 1.500 reči bilo izmišljeno u autobiografskoj
+> knjizi; i poglavlje bi **naplatilo scenu koju plaća** — scena s vratima radi zato što
+> niko nije pripremljen. Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 27**.
+>
+> **⚑ ISTOG DANA — ŠESTI KRUG MATERIJALA** *(`ODGOVORI`, stavke 28–34)*, koji menja
+> **uzročnost, ne raspored:** mala Jovana se ubila **pre** brata; **prvi gubitak lomi,
+> drugi zaključava**; odlazak od Jovane je ista logika *(„bolje da je ostavim nego da joj
+> se nešto desi")*; i **isto je zamalo uradio Katarini, a okidač je bila sreća — pa nije
+> otišao.** **Od svega toga se ne piše ništa** dok autor ne kaže; autorova formulacija je
+> doslovno ona rečenica koju Pravilo T zabranjuje.
 
 **Stanje na 31.08.2026, treća sesija:** **sve je napisano.** `Ivičnjak` (7), `Maska` (14),
 prepravljene `Pukotina` (2) i `Krv` (4). **Potezi 9–14 su uneti u `Masku`; potez 8 je pao.**
 `PLAN_RADA.md` je time **iscrpljen** i ostao je kao zapis, ne kao spisak posla.
 
 Plan od četiri koraka (sanacija repoa → VII/VIII/IX → čitanje u nizu → rad po CILJU)
-je **iscrpljen** i zamenjen je `PLAN_RADA.md`.
+je **iscrpljen** i zamenjen je `PLAN_RADA.md` *(koji je i sam iscrpljen 31.08.2026; od 03.09. važi `PLAN_03_09_2026.md`)*.
 
 **Zabrana novih scena otvarana je posle podele VII tačno jednom**, 28.08.2026, na
 inicijativu autora, za **jednu scenu na početku IV**, i odmah zatvorena. Ta scena je
