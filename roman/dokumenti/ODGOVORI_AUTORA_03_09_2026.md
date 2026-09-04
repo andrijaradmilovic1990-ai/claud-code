@@ -518,5 +518,86 @@ ode — jer sreća znači da ima šta da izgubi, a on zna šta se dešava onome 
 2. **Reč „kaza" iz stavke 26 sad ne stoji** — u `Ulasku` David posao počinje **posle**
    bratove smrti *(kesa iza pijace dolazi tek posle sahrane)*. Ako je mala Jovana pre brata,
    on tad još nije bio u poslu.
-3. **Ulazi li ijedan od ova dva sloja u tekst** — i dalje neodgovoreno, i **dok autor ne
-   kaže, ne ulazi.**
+3. ~~**Ulazi li ijedan od ova dva sloja u tekst**~~ — ⚑ **ODGOVORENO 04.09.2026, vidi
+   stavku 37.** Autor je tražio da se **mala Jovana i sreda negde plate.**
+
+---
+
+# SEDMI KRUG — 04.09.2026 · ⚑ KATARININA RUPA NE POSTOJI
+
+> **Dato u razgovoru o poglavlju `KATARINA`, na autorovu ispravku.** Obara jedan deo
+> stavke 6 i s njim jednu tačku plana.
+>
+> **Pitanja koja su postavljena** *(upisuju se, jer 03.09. nisu i to je koštalo)*:
+> 1. *„Hoćeš li da kolebanje oko Katarine (stavka 33) uđe u poglavlje, ili ide bez njega?"*
+> 2. *„Je l' to poglavlje koje hoćeš?"* — uz predlog scene u kojoj **u njenom stanu nema
+>    nijedne stvari starije od njenog dolaska**, i u kojoj se njena prošlost ne izgovara
+>    kao ni njegova.
+
+## 35 — ⛔ KATARINA NIJE POBEGLA OD PORODICE *(ispravlja stavku 6)*
+
+**Autor, doslovno u sadržaju:**
+
+> Ona ima **pune slike svog brata, sestre i roditelja** i **vezana je za njih.** Otišla je
+> zato što **to malo mesto nema šta da ponudi.** To je sve.
+
+**Šta ovim pada:**
+
+- **Stavka 6**, u delu *„pobegla iz malog grada na jugu zemlje, od porodice"*. Otišla je
+  **zbog mesta, ne od ljudi.**
+- **`PLAN_03_09_2026.md`, Deo 8, tačka 4** — *„njena rupa se pečati kao i njegova"*.
+  **Nema rupe.** Njen razlog je običan i nije tajna.
+- **Ogledalo iz stavke 6** *(„isti potez, dvanaest godina razmaka")* — **pada kao
+  istovetnost.** Ostaje samo geografija u suprotnom smeru, a razlozi su suprotni:
+  **ona je otišla ka nečemu, on je otišao od nečega.**
+
+**Šta se dobija umesto toga, i knjizi je bolje:**
+
+> **Njen stan je pun njenih ljudi. On nema nijednu fotografiju.**
+> `Nestanak` to već ima, jednom rečenicom: *„Fotografije nisam poneo. O tome neću."*
+
+**Razlika se ne izgovara.** Vidi je čitalac; njih dvoje ne. **Ogledalo nije u tome što su
+isti nego u tome što nisu**, a nijedno od njih to ne primeti.
+
+**Šta se od ovoga piše:** **sme** — kao viđeno stanje *(slike, njeni ljudi prisutni u
+stanu)*. **Nikad kao objašnjenje zašto je otišla.**
+
+## 36 — KOLEBANJE *(stavka 33)* NE ULAZI — **potvrđeno**
+
+**Autor se složio da se ne piše.** Razlog, upisan po Pravilu L:
+
+> **Knjiga tu pobedu već ima, neizgovorenu, u `Krvi`:** *„Da neko, jednog dana, broji
+> viljuške naglas u kuhinji i nema pojma da je to pobeda — najveća koju sam u životu
+> izvojevao."*
+
+Napisano drugi put i objašnjeno — **pokvareno.** Uz to bi strah dobio odgovor *(zamalo je
+otišao, pa nije)*, a strah koji je rešen prestaje da bude strah. **Vraća se ako autor kaže.**
+
+## 37 — ⚑ AUTOR TRAŽI DA SE MALA JOVANA I SREDA NEGDE PLATE
+
+**Autor, doslovno u sadržaju:**
+
+> *„Mislim da negde treba da ubacimo taj njegov strah koji je navukao još od male Jovane, i
+> mislim da negde bi trebali da ostavimo nešto za tu malu Jovanu i tu sredu."*
+
+**⚑ Ovo prvi put otvara stavke 26 i 28 za tekst.** Do danas su stajale kao isključivo
+pozadinski materijal.
+
+**Šta se time NE otvara:** zabrana iz stavke 30 stoji **za objašnjenje.** Strah se i dalje
+ne izgovara; rečenica *„više nikad ne smem da ne znam šta će biti"* ostaje zabranjena
+*(`PLAN_03_09_2026.md`, Deo 1B)*. **Otvoren je trag, ne uzrok.**
+
+**Šta knjiga već ima a čeka:** `Prazna stolica` **XII**, prva rečenica *(„Bila je sreda.
+Srede ne volim — toliko, i ni reč više.")* i poslednja *(„sad imam jedan razlog više koji
+isto neću izgovoriti")*. **Kuka je postavljena i savršena je. Fali fizički trag.**
+
+**Predloženi oblik, čeka autorovu reč po Pravilu K:** **tetovaža** — slovo, rukav — koju
+neko primeti i **ne dobije odgovor.** *(Oblik je predložen još u stavci 26 i tada nije
+odobren.)*
+
+**Predloženo mesto: poglavlje `KATARINA`** — jer mu je ona jedina dovoljno blizu da
+dodirne, i jer poglavlje time **produbljuje NJU**: pokazuje šta ona radi s onim što ne zna
+— **pusti.** *(`Maska` to već ima u gestu: uhvati mu ruku, okrene je dlanom naviše i
+pogleda je „kao što se gleda nešto što se već zna", pa mu je vrati.)*
+
+**Ne piše se dok autor ne kaže „da" za konkretnu rečenicu.**
