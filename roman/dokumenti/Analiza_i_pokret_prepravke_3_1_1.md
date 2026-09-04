@@ -3487,3 +3487,86 @@ imenovanje onoga što mu je Jovana · ponovljeno *„nikad joj nisam rekao zašt
 Prva verzija je merila time da **čitalac ume da kaže** — a takva mera gura pisca da to negde
 i napiše. **Sada se meri onim što čitalac oseća i strepi**, plus jedna nova, osma:
 **posle svih izmena u knjizi mora ostati najmanje isto toliko neodgovorenog koliko danas.**
+
+---
+
+# 04.09.2026 — POTEZ B I POTEZ C ZATVORENI U `ULASKU`, POGLAVLJE `BRAT` PALO
+
+**Sesija je počela na potezu B i zatvorila i njega i C, u istom mestu, bez novog poglavlja.**
+`Ulazak` **2.275 → 2.502 reči**; knjiga **30.092 → 30.319**.
+Pun zapis odluka: `REGISTAR_ODLUKA.md`, **sekcija 27**.
+
+## Dve moje greške na početku, obe je uhvatio autor
+
+**Vredele su tri runde i upisujem ih jer su iste vrste.**
+
+1. **Merila sam pogrešan sprat.** Donela sam dva puta **rečenicu** *(„Buljio sam u njega
+   pet minuta…")* za zamerku koja stoji na spratu **knjige** — *„David nikad ne izgubi
+   tlo."* Rečenica koja **saopštava** gubitak kontrole ne daje čitaocu da ga oseti.
+   Ista uglađena usta, isti mir. **Nalaz na spratu knjige se ne plaća na spratu rečenice.**
+2. **Vratila sam se na sopstveni sažetak umesto na izvor.** Prvi predlog je izbacio
+   *„nije bilo nikog da me pomeri"* — tačno — ali s tim i **buljio** i **pet minuta**,
+   jedine dve konkretne stvari koje je autor dao. **Sažetak je pojeo materijal.**
+
+> **Autorova primedba koja je oba nalaza izvukla, doslovno u sadržaju:** *„bukvalno gubimo
+> razlog zašto pišemo sve ako ti ne znaš prvenstveno koja pitanja si mi postavljala i zbog
+> čega si tražila odgovore na ta pitanja."*
+
+**I bio je u pravu.** Pitanja od 03.09. nisu bila anketa o likovima nego traženje **četiri
+zamerke koje su posle svega ostale** *(plan, Deo 8)*. Potez B postoji zbog jedne jedine —
+**David nikad ne izgubi tlo.** Poreklo motiva je **mera, ne razlog.**
+
+## ⛑ PROPUST DOKUMENTACIJE, NAĐEN ISTOG DANA
+
+**Sama pitanja od 03.09. nisu zapisana nigde u repou — samo odgovori.** Fajl se zove
+`ODGOVORI_AUTORA` i drži 27 stavki u pet krugova; pitanja su ostala u razgovoru koji je
+nestao. **Zašto** je pitanje postavljeno rekonstruisano je iz dve rečenice — stavka 23
+*(„na pitanje gde je stvarno stajao i nije znao šta se radi")* i dnevnik, red 3427.
+
+**Pouka:** kad se autoru postavlja krug pitanja, **pitanje se upisuje uz odgovor.** Bez
+njega sledeći prolaz ima materijal a nema razlog, pa materijal upotrebi naopako.
+
+## Zašto poglavlje `BRAT` nije napisano
+
+**Predlog autora, prihvaćen.** Dva razloga, oba upisana u registar:
+**autor nema konkretan dan** *(`ODGOVORI`, 7)* pa bi 1.500 reči bilo izmišljeno u
+autobiografskoj knjizi o stvarnom mrtvom čoveku; i **poglavlje bi naplatilo scenu koju
+plaća** — scena s vratima radi zato što niko nije pripremljen, ni čitalac ni David.
+
+## Šta je uneto
+
+**Unos 1 — brat živ, jednom.** Nov blok pre scene sa spajanjem stolova. Kuvanje, luk,
+kratak dijalog o tome da li jede kod kuće, pa izlazi i poljubi ga u čelo. **Poslednja
+rečenica je da je zatvorio vrata za sobom** — i time rečenica tri bloka niže prestaje da
+bude tvrdnja pripovedača. **Mesto je birano da ne razdvoji *„Ničiji."* od odškrinutih
+vrata**, pa ta reč pada dok brat još živi i ispuni se dva bloka kasnije.
+
+**Unos 2 — zatečenost, 50 → 150 reči.** Hladna kafa umesto cifre *(pripovedač nije merio,
+pa ne broji minute)*; zatečenost kroz ono što **nije** uradio; stara rečenica zadržala
+kostur a promenila predmet — **ne da ga pomeri nego da mu kaže šta se sad radi** — pa je
+ljudi koji dođu *„pomere u stranu kao stolicu"*. **Dah puca do jednorečnih rečenica i tu
+je plaćen potez C.**
+
+## ⚑ ŠESTI KRUG MATERIJALA — DAT USRED RADA, MENJA UZROČNOST
+
+`ODGOVORI_AUTORA_03_09_2026.md`, **stavke 28–32.** Najveći ispravak od 03.09.
+
+- **Mala Jovana (oko 13) ubila se PRE brata**, ne dok je David bio u poslu. Sreda stoji.
+- **Prvi gubitak lomi, drugi zaključava.** Skrhan je bio odmah; **uplašio se tek kod
+  brata** — *„ljudi koje volim umiru."* Iz toga **dve** navike, ne jedna: prestaje da se
+  vezuje, i mora da zna unapred.
+- **⚑ Odlazak od Jovane je ista logika** — *„bolje da je ostavim nego da joj se nešto
+  desi."* **Obe se zovu Jovana. Prvu je sahranio; drugu je sahranio živu da ne bi morao
+  mrtvu.** Naslov je time doslovan na način koji nijedan dokument nije zapisao.
+- **Osa se ne menja, dobija dno.** Račun o dugovima je razlog koji David **ume da
+  izgovori**; strah star dvadeset godina je razlog **ispod**, koji ne izgovara nikad.
+  **Zabrana koju je sam sebi izdao starija je od Jovane.**
+
+**Od svega toga u tekst nije ušlo ništa, i upisano je kao stavka 30 da i ne uđe** — autor
+je materijal dao **doslovno u obliku rečenice koju plan zabranjuje.**
+
+## Provereno posle unosa
+
+Heroin **1 instanca u celoj knjizi** · `grep -ri beograd` **prazno** · ime „Jovana" u
+`Ulasku` **0** · fajl završava tačkom · scena s vratima i dalje **bez ijedne replike** ·
+David ne pada.

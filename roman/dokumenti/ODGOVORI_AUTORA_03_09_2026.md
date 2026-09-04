@@ -441,6 +441,37 @@ rečenice koje se nikad ne pišu; ista zabrana u potezu B)*.
 **Zabrana stoji nedirnuta.** Materijal služi da onaj ko piše **zna šta piše** — ne da to
 napiše. Veza se ne izgovara; pravi je čitalac ili je nema.
 
+## 32 — ⚑ TRAUMA GA JE PRATILA CEO ŽIVOT, I ODLAZAK OD JOVANE JE ISTA LOGIKA
+
+**Autor, isti dan, doslovno u sadržaju:**
+
+> Trauma ga je pratila **ceo život**, i na kraju je išao tom logikom i za Andrijanu, a
+> **prvenstveno za Jovanu: bolje da je ostavim nego da joj se nešto desi.** Jer je dotle
+> došlo da mu je toliko značila da **jednostavno nije smeo da je izgubi.**
+
+**⚑ OVO ZATVARA KRUG I NAJVEĆI JE NALAZ CELOG DANA — sprat: knjiga.**
+
+| | |
+|---|---|
+| **prva Jovana** | umre. On je nije mogao da spreči. |
+| **strah** | *„ljudi koje volim umiru."* Prestaje da se vezuje. |
+| **druga Jovana** | zavoli je ipak, i najviše. **Pa ode — da ne bi umrla.** |
+
+**Obe se zovu Jovana. Prvu je sahranio. Drugu je sahranio živu, da ne bi morao mrtvu.**
+
+> **Naslov knjige je odjednom doslovan na način koji nijedan dokument nije zapisao.**
+> *Sahrana bez tela* nije samo njegov nestanak i nije samo ono što je uradio njoj —
+> to je **jedini način koji je znao da nekoga zadrži živog.**
+
+**Šta se ovim ne menja:** osa stoji *(`POENTA_KNJIGE.md`)* — dugovi se ne naplaćuju na
+dužniku nego na onima koje dužnik voli. **Ovo joj daje dno**, ne zamenu: račun je razlog
+koji David zna i ume da izgovori, a strah star dvadeset godina je razlog **ispod** njega,
+koji ne izgovara nikad. **Zabrana koju je sam sebi izdao je time starija od Jovane.**
+
+**Šta se od ovoga piše: ništa.** Isto kao stavka 30. Knjiga ovo već izvodi u postupcima
+*(`Pariz` — „sve troje ostalo bi preživelo da ga dotaknem, a ona ne")*, i **nijedno mesto
+se ne dopunjuje da bi ovo objasnilo.** Ovo je ključ za čitanje, ne građa za rečenicu.
+
 ## 31 — ŠTA JE OTVORENO POSLE OVOG KRUGA
 
 1. **Godine male Jovane u odnosu na Davida.** Ako je njoj bilo trinaest a David je brata
