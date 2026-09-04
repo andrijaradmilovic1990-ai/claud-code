@@ -1,6 +1,6 @@
 # XII — Katarina
 
-Bila je subota i nisam radio, i to je bilo sve što sam od te subote tražio.
+Prespavao sam kod nje te noći i to nije bilo svaki put, nego kad ispadne.
 
 S treće smene sam došao u pola sedam i legao, a probudila me je u deset — ne zato što je htela da me budi, nego zato što je već bila počela i nije mogla sama.
 
@@ -20,11 +20,11 @@ Nije bilo pitanje, pa nisam ni odgovorio. Obukao sam se i otišao da stavim vodu
 
 ⁂
 
-Stan je bio njen pre nego što sam u njega ušao i to se videlo na svakom zidu.
+Stan je bio njen pre nego što sam u njega prvi put ušao i to se videlo na svakom zidu.
 
 Iznad komode stoji ram s tri slike pod istim staklom: dvoje starijih ljudi ispred kuće koju nisam video, devojčica na biciklu prevelikom za nju, i momak na nekom betonu, sav mršav, s rukama u vazduhu. Na polici pored, u okviru za sebe, ona i sestra, obe s istim čelom. Na frižideru još dve, pod magnetima. U hodniku jedna, mala, nakrivljena, i niko je nikad nije ispravio.
 
-Prebrojao sam ih jednom, davno, kad me nije bilo ceo dan u stanu. Jedanaest.
+Prebrojao sam ih jednom, davno, dok je bila u smeni a ja nisam. Jedanaest.
 
 Ja u tom stanu nemam nijednu.
 
@@ -42,23 +42,13 @@ Pored njenih nogu je stajala kesa, ona velika karirana, koju vadi svaki mesec.
 
 „Ovo.“ Digla je džemper, pogledala ga s jedne pa s druge strane, presavila. „I ovo. I one dve majice sa stolice.“
 
-„Nove su.“
+„Nov je.“
 
 „Pa.“
 
-„Ništa. Nove su.“
+„Ništa. Nov je.“
 
-„Njoj treba“, rekla je, i to je bio ceo razgovor o tome, kao i svaki put.
-
-Nikad nisam video tu sestru. Video sam kesu.
-
-„Ovaj je bio nov prošle godine.“
-
-„Bio je.“
-
-„Nosila si ga dvaput.“
-
-„Triput.“ Presavila ga je na kolenu, ivicu na ivicu, pa ga još jednom poravnala dlanom, kao da ide u radnju a ne u kesu. „Njoj bolje stoji, ima ramena.“
+„Njoj bolje stoji, ima ramena.“ Poravnala ga je dlanom još jednom, kao da ide u radnju a ne u kesu.
 
 Ono što ide u kesu slaže bolje nego ono što ostaje. To sam primetio i ranije i nikad joj nisam rekao.
 
@@ -74,7 +64,7 @@ Radila je još minut, pa stala.
 
 „Ne znam.“
 
-Uzela ju je s kule i spustila u kesu i nije rekla ništa.
+Uzela ju je s kule, spustila u kesu i nije rekla ništa.
 
 Sačekao sam koliko treba i izvadio je opet.
 
@@ -82,7 +72,7 @@ Sačekao sam koliko treba i izvadio je opet.
 
 „Ja sam gladan.“
 
-„Nemoj da me nerviraš, ozbiljna sam.“
+„Nemoj sad, ozbiljna sam.“
 
 „Vidim.“
 
@@ -92,47 +82,31 @@ Vratio sam joj je sam. Otišla je u kesu.
 
 ⁂
 
-Do podneva su gornje dve police bile gotove i seo sam da popijem kafu, i ona je nastavila.
+„Pitala me jedna iz pripreme jesmo li mi ozbiljno.“
 
-„Kad ćeš gore?“
+„Šta si rekla.“
 
-„Mislila sam u sredu.“
+„Rekla sam joj da nije njena briga.“ Presavijala je dalje. „Posle sam rekla da jesmo.“
 
-„Ne može sreda.“
+„Što posle.“
 
-Stala je s nečim u ruci.
+„Zato što sam prvo bila ljuta pa sam se setila da mi je svejedno.“
 
-„Što ne može sreda?“
+Onda je stala, s nečim u rukama, i pogledala me.
 
-„Ne može.“
+„Znaš ti šta su mi pričali o tebi kad sam došla?“
 
-Čekala je onoliko koliko čeka.
+„Znam otprilike.“
 
-„Može i četvrtak“, rekla je, i vratila se onome što je držala. „Četvrtak mi je čak i bolje, ionako sam slobodna.“
+„Znaš ti tačno.“ Vratila se poslu. „Pola njih je pričalo. Druga polovina nije smela.“
 
-Nije pitala drugi put.
+„I?“
 
-⁂
-
-Kafu je popila stojeći, iz moje šolje, i ostavila je nazad na sto s dva prsta manje nego što je bilo.
-
-Onda je došla iza stolice, kao što dolazi, podlaktice na naslon, brada negde kod mog uva.
-
-„Smrdiš na fabriku.“
-
-„Ne smrdim.“
-
-„Smrdiš.“
-
-Ruka joj je skliznula s naslona na moje rame i palac joj je u prolazu prešao preko slova pod uvom — *J*, pisano, veliko koliko prst, staro toliko da je pozelenelo po ivicama.
-
-Nisam se okrenuo.
-
-„Volim“, rekla je odozgo, i otišla po lestve.
+„I ništa. Daj mi onu kesu.“
 
 ⁂
 
-Lestve su bile komšijine i nisu se sklapale kako treba, i držao sam ih dok se penjala, i ona se penjala kao što radi sve — brže nego što treba i bez ijednog suvišnog pokreta.
+Lestve su bile komšijine i nisu se sklapale kako treba.
 
 „Drži.“
 
@@ -140,21 +114,43 @@ Lestve su bile komšijine i nisu se sklapale kako treba, i držao sam ih dok se 
 
 „Ne držiš, gledaš.“
 
-„Gledam i držim.“
+Popela se do vrha, na onaj poslednji prečag na kom ne piše da se ne staje, i s vrha ormana krenula da vuče kutiju koja je bila veća od njenih ruku.
 
-S vrha ormana je spustila dve kutije, jednu za drugom, meni u ruke. U prvoj je bilo posuđe koje se ne koristi. U drugoj papiri, računi, dva albuma i jedna presavijena vrećica u kojoj je nešto zveckalo.
+„Silazi, daj meni.“
 
-„Šta je ovo.“
+„Mogu.“
 
-„Ne diraj.“
+„Vidim da možeš. Silazi.“
+
+„Mogu, kažem.“
+
+Kutija je krenula, pa se prevrnula, pa je iz nje ispalo pola na pod — papiri, jedan album, presavijena vrećica u kojoj je nešto zveckalo. Lestve su se pomerile za pedalj i uhvatio sam ih obema rukama, a ona se uhvatila za vrh ormana i ostala tako, gore, ni gore ni dole.
+
+„Rekao sam ti.“
+
+Sišla je sama. Nije me pogledala.
+
+Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda, i ćutala.
+
+Ćutala je i dok je brisala policu i dok je otvarala prozor i dok je vraćala lestve uza zid.
+
+Ja sam čekao koliko se čeka.
+
+„Izvini.“
+
+„Za šta izvini.“
+
+„Ne znam. Izvini.“
+
+Stajala je s krpom u ruci još tri sekunde, koliko joj treba, pa je slegla ramenima.
+
+„Dobro, ljubavi“, rekla je. „Uzmi tu vrećicu, ne diraj unutra.“
 
 Nisam dirao.
 
-Sišla je, uzela mi vrećicu iz kutije, odnela je u drugu sobu i vratila se bez nje.
-
 ⁂
 
-Nije nastavila odmah. Spustila se na pod, leđima uz krevet, i otvorila jedan od albuma na kolenima.
+Nije nastavila odmah. Spustila se na pod, leđima uz krevet, i otvorila album na kolenima.
 
 „Vidi ovo.“
 
@@ -168,7 +164,7 @@ Momak s betona. Iste ruke u vazduhu.
 
 „Šta radi.“
 
-„Pravi se važan. Skakao je s tog betona ceo dan, a voda mu je bila do pojasa.“ Nasmejala se u koleno. „Slomio je ključnu kost i nije rekao nikom tri dana. Majka je saznala kad nije mogao da obuče jaknu.“
+„Pravi se važan. Skakao je s tog betona ceo dan, a voda mu je bila do pojasa.“ Nasmejala se u koleno. „Slomio je ključnu kost i nije rekao nikom tri dana. Mama je saznala kad nije mogao da obuče jaknu.“
 
 Okrenula je list.
 
@@ -200,7 +196,45 @@ Onda je stala i podigla glavu.
 
 ⁂
 
-„Zvala je sinoć“, rekla je negde posle toga, s leđima okrenutim, dok je brisala policu. „Pitala kad ćemo mi.“
+Kafu je popila stojeći, iz moje šolje, i vratila je na sto s dva prsta manje nego što je bilo.
+
+Onda je došla iza stolice, kao što dolazi, podlaktice na naslon, brada negde kod mog uva.
+
+„Smrdiš na fabriku.“
+
+„Ne smrdim.“
+
+„Smrdiš.“
+
+Ruka joj je skliznula s naslona na moje rame i palac joj je u prolazu prešao preko slova pod uvom — *J*, pisano, veliko koliko prst, staro toliko da je pozelenelo po ivicama.
+
+Nisam se okrenuo.
+
+„Volim“, rekla je odozgo, i otišla po krpu.
+
+⁂
+
+„Kad ćeš kod nje?“
+
+„Mislila sam u sredu.“
+
+„Ne može sreda.“
+
+Stala je s krpom u ruci.
+
+„Što ne može sreda?“
+
+„Ne može.“
+
+Čekala je onoliko koliko čeka.
+
+„Može i četvrtak“, rekla je, i vratila se polici. „Četvrtak mi je čak i bolje, ionako sam slobodna.“
+
+Nije pitala drugi put.
+
+⁂
+
+„Zvala je sinoć“, rekla je s leđima okrenutim. „Pitala kad ćemo mi.“
 
 „Šta si rekla.“
 
@@ -208,17 +242,19 @@ Onda je stala i podigla glavu.
 
 „Pa nije.“
 
-„Nije.“ Cedila je krpu u lavor i nije se okretala. „Kaže mi, dođi bar da vidimo čoveka. Kažem joj, videćete čoveka.“
+„Nije.“ Cedila je krpu u lavor. „Kaže mi, dovedi bar čoveka da ga vidimo. Kažem joj, videćete čoveka.“
 
 Kesa je stajala kod vrata, puna, vezana.
 
-„Ima vremena“, rekla je.
+„A i ono što smo pričali“, rekla je. „Dva dana. Rekao si prošle godine da idemo.“
 
-Gledao sam joj u leđa i u policu koja je bila sve čistija.
+„Idemo.“
 
-„Ima“, rekao sam.
+„To si rekao i prošle godine.“
 
-To je bilo sve i posle toga smo pričali o tome da se lestve moraju vratiti do večeras.
+„Idemo, srećo.“
+
+„Dobro.“ Nije se okrenula. „Ima vremena.“
 
 ⁂
 
@@ -230,11 +266,17 @@ Kad je bilo gotovo, orman je stajao otvoren i cela leva strana je bila prazna. T
 
 Stajala je tu sekund duže nego što je trebalo, gledajući u to, zadovoljna.
 
-Onda je uzela čistu garderobu i otišla pod tuš, i kroz vrata je počela da peva onu istu pesmu koju peva pod tušem, uvek samo drugu polovinu, jer prvu ne zna.
+„Šta ti fali da preneseš stvari.“
+
+„Ništa mi ne fali.“
+
+„Pa eto.“
+
+Uzela je čistu garderobu i otišla pod tuš, i kroz vrata je počela da peva onu istu pesmu koju peva pod tušem, uvek samo drugu polovinu, jer prvu ne zna.
 
 ⁂
 
-Otišao sam u drugu sobu i otvorio svoju fioku.
+Otvorio sam svoju fioku.
 
 Dva džempera. Veš. Futrola s papirima. Teglica. Kutija cipela u kojoj su dve stvari o kojima nema šta da se priča.
 
@@ -250,6 +292,28 @@ Odmakao sam se dva koraka i pogledao. Pa sam se vratio i pomerio teglicu za dva 
 
 Odmakao sam se opet.
 
-Voda je u kupatilu stala i ona je prestala da peva.
-
 Izgledalo je kao da tu neko živi.
+
+⁂
+
+Obukao sam jaknu u hodniku. Voda je još išla.
+
+„Ideš?“
+
+„Idem. Majka je sama.“
+
+Kratko ništa, pa kroz vrata i kroz vodu:
+
+„Uzmi onu manju kesu, na stolici. To je za nju.“
+
+Uzeo sam manju kesu.
+
+Kod majke je gorelo svetlo u kuhinji iako je spavala. Ostavio sam kesu na sto i legao.
+
+Ujutru me je pitala od koga je.
+
+„Od nje.“
+
+„Reci joj hvala.“
+
+„Reći ću.“

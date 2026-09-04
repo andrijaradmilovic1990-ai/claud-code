@@ -700,3 +700,112 @@ i **pogrešiće u činjenici, a pogodiće u osećaju**, jer *(stavka 32)*:
 
 **Slovo je tačno za obe i ne kaže koja.** To nije rupa nego naslov knjige u jednom znaku.
 **Ne razrešavati, ne pojašnjavati, ne dodavati drugo slovo ni datum.**
+
+---
+
+# OSMI KRUG — 04.09.2026 · ⚑ KATARINA, DESET PITANJA I DESET ODGOVORA
+
+> **Dato na autorovu ponudu**, pošto je prva verzija poglavlja `KATARINA` napisana na
+> pogrešnoj pretpostavci. **Pitanja su upisana uz odgovore.**
+>
+> **⛔ ISPRAVKA KOJA JE POKRENULA KRUG:** *„David nije živeo kod nje. Viđali su se malo kod
+> nje, malo kod njega."* **Prva verzija poglavlja je pisala scenu u kom on tu živi.
+> Netačno — i poglavlje je time bilo mekše nego što treba.**
+
+## 41 — SREDA U POGLAVLJU `KATARINA` *(potvrđeno pre ovog kruga)*
+
+**Usvojeno:** ona mu ponudi sredu za nešto obično, **on je pomeri bez razloga**, ona pita
+jednom i **pusti.** Poglavlje stoji **pre** `Prazne stolice`, pa se sreda **ne detonira tamo
+gde je postavljena nego unazad**, kad čitalac stigne do *„Bila je sreda. Srede ne volim."*
+
+**Uz to skida i zabunu oko slova:** u istom poglavlju stoje dve zatvorene stvari — **„J" na
+vratu** i **čovek koji ne uzima sredu** — a `Prazna stolica` daje *„sad imam jedan razlog
+više"*, pa čitalac sam zaključi da je **„J" stariji i nečiji drugi.** Bez ijedne rečenice.
+
+**Cena, upisana pošteno:** ovo je **na ivici** Pravila T *(sistem uskraćivanja je na
+tavanici)*. Prolazi jer **nije nova tajna nego ista** — sreda je već uskraćena u `Praznoj
+stolici`; ovde se vidi ranije i s druge strane.
+
+## 42 — ⛔ DAVID NE ŽIVI KOD NJE
+
+**Ona živi sama, u onom iznajmljenom stanu iz `Fabrike`** *(„Sama. U stanu. Plaćam.")*.
+**On ponekad prespava.** Živi kod majke.
+
+**Šta ovo menja u poglavlju — i knjizi je bolje:** ona mu ne prazni orman *da mu bude
+lakše* nego **da pređe.** Rečenica *„Ne može čovek da živi iz jedne fioke"* prestaje da bude
+briga i postaje **pitanje.** A kraj postaje teži: **polica ostaje prazna i on te večeri ode
+kući.**
+
+**Slaže se sa zatečenim tekstom:** `Beli grad` — *„u stanu u kom sam još uvek imao jednu
+fioku"*; `Maska` — *„onu fioku koja je moja — jedna, u ovom stanu"*. **Fioka je oduvek bila
+gostinska. Nijedan dokument to nije pročitao tako.**
+
+## 43 — KAKO GA ZOVE
+
+**„Ljubavi." „Srećo."** *(Piše se — to je jedini način da se u tekstu čuje kako mu se
+obraća, a ime se i dalje ne izgovara.)*
+
+## 44 — ŠTA GA KOD NJE NERVIRA
+
+**Tvrdoglavost i lažno samopouzdanje.**
+
+> **Nalaz:** ovo je jedina mana koju autor tvrdi za nju, i **poglavlju je neophodna** —
+> registar brani da joj se **dodaje dubina**, ne da joj se prizna mana koju autor daje.
+> **Bez nje je karton.** Piše se **kao radnja, nikad kao ocena** *(ne „bila je tvrdoglava"
+> nego scena u kojoj neće da siđe s lestvi)*.
+
+## 45 — KAKO IZGLEDA KAD JE LJUTA
+
+**Uglavnom ćuti** — i **tera ga da joj se izvini** da bi prestala.
+
+> **⚑ NALAZ, sprat: knjiga.** **On se izvinjava lako, i za ono što nije njegovo.**
+> Izvinjenje je jedina stvar koju joj daje bez odbijanja — **jer ga ništa ne košta.**
+> Sve što košta, izostavlja. **To se ne izgovara nigde**; vidi se tako što u istom
+> poglavlju kaže *izvini* bez oklevanja, a *ne može* bez razloga.
+
+## 46 — SESTRA
+
+**Nosi joj stvari, nekad joj pošalje pare.** Nazad dobija **samo ono što uspe da otme.**
+
+## 47 — ⚑ ŠTA JE ZNALA O NJEMU TADA
+
+**Znala je da ima drugarice. Znala je da je švaler i da je spavao s pola žena u fabrici u
+kojoj tada zajedno rade.** I znala je da **ima prošlost o kojoj tad nije pričao** i da je
+**čudan malo.**
+
+> **⚑ OVO JE NAJVEĆI NALAZ KRUGA — sprat: knjiga.**
+>
+> **Ona nije naivna i nije prevarena. Ona je birala s punim spiskom u ruci** i svejedno
+> izabrala. **To poglavlje diže s „njemu je dobro s njom" na „ona je donela odluku"** — i
+> to je jedini način da se produbi ona a da ne postane ravnopravna Jovani
+> *(registar, sekcija 2)*.
+>
+> **I to ne ruši meru „čitalac strepi za nju".** Naprotiv: strepi se jače za onu koja je
+> **znala i ostala** nego za onu koja ne zna ništa. **Ona i dalje ne sumnja ni u šta** — jer
+> ovo nije sumnja nego zatečeno znanje.
+>
+> **Šta se s tim NE radi:** ne piše se rečenica u kojoj ona to imenuje kao izbor
+> *(„znala sam u šta ulazim")*. **Pomene se usput, bez težine, kao vic** — i time udara.
+
+## 48 — MAJKA
+
+**Upoznala ju je posle dve šetnje, pre nego što su se smuvali. Jako stidljivo.**
+*(Događaj je stariji od poglavlja; u tekst može samo kao pomen, ne kao scena.)*
+
+## 49 — KAD JE POMISLIO DA NIJE KAO OSTALE
+
+**Autor nema tačan odgovor.** *(Ne izmišlja se. Poglavlje **ne sme** da nosi takav trenutak
+— to bi bila scena koju autor ne tvrdi.)*
+
+## 50 — ŠTA JE HTELA A NIJE DOBILA
+
+**Uglavnom je dobijala sitno.** Jedina veća stvar: **htela je da idu na jedno mesto**,
+stalno su odlagali, i **otišli su tek posle dve godine, kad su počeli da žive zajedno.**
+
+> **Nalaz:** to je **treći put** da knjiga ima isti oblik — traži, odloži se, prođe:
+> **lična karta u `Parizu` · mart u `Ćebencetu` · ovaj put.** U poglavlju stoji **još
+> neodloženo do kraja**, jer se dešava pre svega toga.
+>
+> **⚑ OTVORENO — pitanje autoru:** mesto je **Kraljevo**, ali knjiga **ne imenuje nijedan
+> domaći grad** *(registar, sekcija 11 — ime grada je zapečaćeno; `Beli grad` je opis, ne
+> ime)*. **Piše se neimenovano dok autor ne kaže drugačije.**
