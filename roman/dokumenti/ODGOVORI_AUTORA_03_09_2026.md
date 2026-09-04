@@ -672,3 +672,31 @@ znak prve osobe koju je izgubio.
 
 **Šta ovo upropašćuje:** svaka varijanta u kojoj se pomene da mu je to jedino mesto na koje
 neko sme, ili u kojoj on registruje da mu je neko za leđima. **Čim registruje — objašnjeno je.**
+
+## 40 — ⛔ NEMA SCENE U KOJOJ ONA PITA ZA SLOVO *(ograda autora, isti dan)*
+
+**Autor, doslovno u sadržaju:** *„nema ni jedna scena da ona pita za slovo. Ja sam to rekao
+sad, kao info."*
+
+**Stavka 38 ostaje tačna kao činjenica** *(pitala je jednom davno i dobila ceo odgovor)* —
+**ali se ta činjenica ne pretvara u scenu, ni u repliku, ni u pomen.** To je pozadina, ne
+građa. **Nijedno od njih dvoje o tetovaži ne progovori ni reč.**
+
+**Šta od poteza ostaje — i to je sad čisto:**
+
+> **Samo gest i jedna gola činjenica u naraciji.** Ona stane iza njega, palac joj u prolazu
+> pređe preko slova pod uvom, on se ne okrene. **Naracija imenuje slovo jednom, ravno, bez
+> ijedne reči objašnjenja, i ide dalje.**
+
+**Bez dijaloga potez je jači, ne slabiji:** čitalac dobija **slovo i ništa uz njega.**
+Zatvorena vrata, po Pravilu T.
+
+### ⚑ Nuzefekat koji se NE ispravlja — dvosmislenost slova „J"
+
+Ime **Jovana** pada samo u `Kukavici`. Čitalac koji vidi „J" na vratu **pomisliće na nju** —
+i **pogrešiće u činjenici, a pogodiće u osećaju**, jer *(stavka 32)*:
+
+> **Obe se zovu Jovana. Prvu je sahranio; drugu je sahranio živu, da ne bi morao mrtvu.**
+
+**Slovo je tačno za obe i ne kaže koja.** To nije rupa nego naslov knjige u jednom znaku.
+**Ne razrešavati, ne pojašnjavati, ne dodavati drugo slovo ni datum.**
