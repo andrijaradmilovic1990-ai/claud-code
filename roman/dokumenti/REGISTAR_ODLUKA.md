@@ -2026,7 +2026,8 @@ jednoj rečenici · brava koja klikne · *„Do puta je ostao jedan dan."*
 
 > **Potez B iz `PLAN_03_09_2026.md`, Deo 3 — plan ga sam zove najopasnijim potezom.**
 > Izveden **bez novog poglavlja**, u dva unosa u `Ulazak`. Oba je autor odobrio izričito.
-> `Ulazak` **2.275 → 2.502 reči**; knjiga **30.092 → 30.319**.
+> `Ulazak` **2.275 → 2.498 reči**; knjiga **30.092 → 30.315**. *(Međukorak 2.502/30.319 je
+> bio pre autorove izmene kraja bloka istog dana — vidi 27.3.)*
 
 ## 27.1 — ⛔ POGLAVLJE `BRAT` SE NE PIŠE — ODLUKA, S RAZLOGOM
 

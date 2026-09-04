@@ -1,9 +1,28 @@
 # NASTAVAK — gde smo stali
 
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
-> Ako je sve u njemu jasno, dovoljno je reći „nastavi".
 >
-> Poslednje ažuriranje: **03.09.2026.**
+> Poslednje ažuriranje: **04.09.2026.**
+>
+> ## ⛑ GDE ŠTA STOJI U OVOM FAJLU — pročitaj ovo pre nego što skroluješ
+>
+> Fajl ima preko hiljadu redova i **samo prva petina važi.**
+>
+> | redovi | šta je | čita se |
+> |---|---|---|
+> | **do „Ispod ovog reda…"** | **aktuelno stanje, prompt za sledeću sesiju, tabela poglavlja** | **da, celo** |
+> | **od „Ispod ovog reda…" naniže** | **istorija od 31.08.2026 i ranije** | samo kad tražiš *zašto* je nešto tako |
+>
+> **U istorijskom delu stoje zastareli brojevi i zastareli planovi** — `MASKA — piše se`,
+> zbir 30.141, `PLAN_RADA.md` kao aktuelan. **Ništa odatle se ne uzima kao stanje.**
+>
+> ## ⚑ I JEDNO PRAVILO KOJE JE PLAĆENO GREŠKOM *(04.09.2026)*
+>
+> **Znati *da* se nešto radi, a ne znati *zašto* taj potez postoji, je najskuplja greška u
+> ovom repou.** Tog dana je prolaz ušao u potez B s tačnim zadatkom i pogrešnim razlogom,
+> pa je dva puta doneo rečenicu za nalaz koji stoji na spratu knjige. **Pre prve izmene se
+> čita i plan i izvor** *(`ODGOVORI_AUTORA_03_09_2026.md`)*, i traži se **zbog čega potez
+> uopšte postoji** — ne samo šta traži.
 
 ---
 
@@ -72,8 +91,9 @@
 >
 > **⚑ POTEZ B JE ZATVOREN 04.09.2026 — I S NJIM POTEZ C.** Izveden **bez novog poglavlja**,
 > u dva unosa u `Ulazak`: **brat živ jednom** *(nov blok, ~130 reči, pre scene sa spajanjem
-> stolova)* i **prepis bloka zatečenosti** *(50 → 150 reči)*. `Ulazak` **2.275 → 2.502**;
-> knjiga **30.092 → 30.319**. Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 27**.
+> stolova)* i **prepis bloka zatečenosti** *(50 → 150 reči)*. `Ulazak` **2.275 → 2.498**;
+> knjiga **30.092 → 30.315**. *(Međukorak je bio 2.502/30.319, pre autorove izmene kraja
+> bloka istog dana.)* Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 27**.
 >
 > **⛔ POGLAVLJE `BRAT` JE PALO** *(zahvat 5)*, na predlog autora i s dva razloga: autor
 > **nema konkretan dan** pa bi 1.500 reči bilo izmišljeno u autobiografskoj knjizi o
@@ -125,7 +145,7 @@ Autor je Andrija (Duffy). Ovo nije softverski projekat nego rukopis u reviziji.
 
 -- STANJE NA 04.09.2026, KRAJ DANA --
 
-Knjiga: 16 poglavlja, 30.319 reci (LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir).
+Knjiga: 16 poglavlja, 30.315 reci (LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir).
 Golo `wc -w` LAZE u ovom okruzenju, potcenjuje za oko 1%.
 
 Glavna grana: claude/nesto-zanimljivo-z4j3s0.
@@ -228,6 +248,59 @@ dana procitati. Ponasaj se u skladu s tim.
 ```
 
 ---
+
+## Stanje po poglavljima — SVE NA JEDNOM MESTU
+
+**Knjiga je cela: šesnaest poglavlja, 30.315 reči.** Izmereno **04.09.2026**, komandom
+`LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
+
+> **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
+> **`cat` preko svih fajlova takođe laže**, jer nijedan fajl ne završava prelomom reda pa
+> se poslednja reč jednog slepi s prvom sledećeg, petnaest puta.
+
+| # | poglavlje | fajl | reči |
+|---|---|---|---|
+| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 793 |
+| **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.498** |
+| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.786 |
+| **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
+| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | 3.405 |
+| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | 2.026 |
+| **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.127 |
+| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | 1.795 |
+| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | 1.367 |
+| **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
+| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | 1.936 |
+| **XII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | 1.420 |
+| **XIII** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.167 |
+| **XIV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.715** |
+| **XV** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
+| **XVI** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.627 |
+
+**ZBIR: 30.315 reči.**
+
+> **Dva podebljana su dirana posle 31.08:** `Maska` je **2.302 → 1.715** *(kaput napolje,
+> potez 3)*, `Ulazak` je **2.181 → 2.498** *(tetka, pa brat i zatečenost — potezi 2, B i C)*.
+> **Stari zbir 30.141 je iz 31.08.2026 i više ne važi nigde.**
+
+> **Imena fajlova ne prate mesta u knjizi** — stari fajlovi nose stare rimske brojeve, novi
+> nose `NOVO_`. **Ali naslov u samom fajlu nosi tačan broj** *(`# XI — Fabrika`)*, i redosled
+> čitanja je onaj iz tabele.
+
+---
+
+---
+
+# ⛔⛔ KRAJ AKTUELNOG DELA ⛔⛔
+
+## Sve ispod je ISTORIJA — stanje od 31.08.2026 i ranije. Ne uzima se kao stanje.
+
+> **Zastarelo je sve što sledi, poimenično:** zbir **30.141** · `Ulazak` **2.181** ·
+> `Maska` **2.301** i „piše se" · `PLAN_RADA.md` kao aktuelan plan · redosled u kom je
+> `Pukotina` druga a `Ulazak` treći · „nema otvorenih pitanja".
+>
+> **Čita se samo kad tražiš zašto je nešto odlučeno** — i tada uz `REGISTAR_ODLUKA.md`,
+> koji je jači od ovog fajla.
 
 ## Ispod ovog reda stoji stanje od 31.08.2026, kad je knjiga bila zatvorena. Istorija, ne registar.
 >
@@ -367,7 +440,7 @@ poimenično, dve rupe koje je zamena napravila i kako su zatvorene: **registar, 
 1. **ovaj fajl** — gde si, šta je sledeće
 1. **`dokumenti/POENTA_KNJIGE.md`** — **osa knjige. Najviši sprat. Čita se pre plana.**
 2. **`dokumenti/PLAN_RADA.md`** — **⚑ ČISTA PUTANJA. Ceo preostali posao, redom, s mestom i načinom. Otvara se odmah posle ovog fajla i radi se odozgo.**
-3. **`dokumenti/NOVA_KNJIGA_MAPA.md`** — mapa. **PAŽNJA: vodi petnaest poglavlja i staru numeraciju.** Od 30.08.2026. knjiga ima **šesnaest** — vidi `PLAN_RADA.md`
+3. **`dokumenti/NOVA_KNJIGA_MAPA.md`** — mapa. **PAŽNJA: vodi petnaest poglavlja i staru numeraciju.** Od 30.08.2026. knjiga ima **šesnaest** — vidi `PLAN_03_09_2026.md`
 3. **`dokumenti/NOVA_KNJIGA_IDEJE.md`** — građa nove knjige: zid, prazna mesta, dugovi, ideje po poglavlju
 4. **`dokumenti/REGISTAR_ODLUKA.md`** — šta se **ne dira**; čita se pre svakog predloga
 5. **`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`** — presuda o gotovoj knjizi; **istorija, odluka je pala**
@@ -377,36 +450,6 @@ Sve ostalo se otvara samo kad zatreba. **Dnevnik je istorija, ne registar** — 
 sukobi s registrom, važi registar.
 
 ---
-
-## Stanje po poglavljima — SVE NA JEDNOM MESTU
-
-**Knjiga je cela: šesnaest poglavlja, 30.141 reč.** Brojevi su izmereni `wc -w` po fajlu,
-31.08.2026, treća sesija — posle svih ispravki.
-
-| # | poglavlje | fajl | reči |
-|---|---|---|---|
-| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 797 |
-| **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | 2.181 |
-| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.702 |
-| **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.303 |
-| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | 3.366 |
-| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | 2.003 |
-| **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.119 |
-| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | 1.787 |
-| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | 1.352 |
-| **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.569 |
-| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | 1.916 |
-| **XII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | 1.405 |
-| **XIII** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.150 |
-| **XIV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | 2.302 |
-| **XV** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.635 |
-| **XVI** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.569 |
-
-**ZBIR: 30.141 reč.** Cilj je bio oko 30.500.
-
-> **Imena fajlova ne prate mesta u knjizi** — stari fajlovi nose stare rimske brojeve, novi
-> nose `NOVO_`. **Ali naslov u samom fajlu nosi tačan broj** *(`# XI — Fabrika`)*, i redosled
-> čitanja je onaj iz tabele.
 
 **⚑ SVIH ČETRNAEST POTEZA JE ZATVORENO. Potez 8 je pao.**
 
@@ -832,6 +875,7 @@ Autor je Andrija (Duffy). Ovo nije softverski projekat nego rukopis u reviziji.
 4. CLAUDE.md                  pravila zanata
 
 PLAN_RADA.md je ISCRPLJEN. Ne vodi vise posao, ostao je kao zapis.
+(OD 03.09.2026. VAZI PLAN_03_09_2026.md. Ovaj prompt je ISTORIJA, ne koristiti ga.)
 
 -- STANJE --
 
