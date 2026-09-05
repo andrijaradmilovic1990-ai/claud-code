@@ -2232,8 +2232,15 @@ rečenica nije promenjena.**
 
 ## 29.3 — Šta se ne dira
 
-1. **Rečenica se ne ponavlja.** Dvorište pada **tačno jednom u celoj knjizi.** Drugi put
-   postaje manir i pretvara se u objašnjenje.
+1. **Rečenica se ne ponavlja.** **ZAJEDNIČKO DVORIŠTE U SADAŠNJOSTI** pada **tačno
+   jednom u celoj knjizi**, i to je ova rečenica. Drugi put postaje manir i pretvara se u
+   objašnjenje.
+
+   > **⛑ NE MEŠATI S REČJU „dvorište".** Reč pada **15 puta u šest poglavlja** i sva
+   > ostala su **tuđa dvorišta u prošlosti** — `Italija` (5), `Fabrika` (3, krug fabrike),
+   > `Majka` (3), `Prelom` (2), `Ivičnjak` (1). **Ta se ne diraju i ne broje u ovaj potez.**
+   > *(Zapisano jer je prva verzija ovog reda glasila „dvorište pada tačno jednom", što bi
+   > sledeći prolaz pročitao kao nalog za brisanje.)*
 2. **Ne dodavati majku u kadar** ni u jednom poglavlju sadašnjosti. U `Maski` ostaje samo
    kroz teglicu *(sekcija 18)*.
 3. **Ne imenovati „gornju" i „donju kuću" nigde u tekstu.**
@@ -2244,3 +2251,23 @@ rečenica nije promenjena.**
 
 *Kad zatvori knjigu, čitalac **oseća gde David spava**, a knjiga to nije rekla rečenicom.*
 *(`PLAN_03_09_2026.md`, Deo 6, tačka 4.)*
+
+## 29.5 — ⚑ OTVORENO: NASLOV POGLAVLJA XII JE JEDINO LIČNO IME U SADRŽAJU
+
+**Nađeno u proveri 04.09.2026, posle zatvaranja poglavlja. Sprat: knjiga.**
+
+Naslov **`XII — Katarina`** je **jedini naslov u knjizi koji je lično ime.** Svi ostali su
+mesto, predmet ili radnja: `Susret` · `Ulazak` · `Pukotina` · `Krv` · `Italija` · `Pariz` ·
+`Ivičnjak` · `Prelom` · `Nestanak` · `Majka` · `Fabrika` · `Prazna stolica` · `Beli grad` ·
+`Maska` · `Kukavica` · `Ćebence`. **`Majka` je uloga, ne ime.**
+
+**Zašto je to nalaz, a ne sitnica:** sekcija 2 drži da njeno ime pada **tačno dvaput u celoj
+knjizi, oba puta u `Belom gradu`**, i **nikad u naraciji.** Naslov u sadržaju je najvidljivije
+mesto u knjizi — **ime bi tamo palo treći put, pre nego što ga čitalac ijednom sretne u
+tekstu.** Uz to bi bio jedini naslov koji unapred kaže o kome je poglavlje.
+
+**Ime je u planu bilo radna oznaka zahvata, ne naslov.** *(`PLAN_03_09_2026.md`, zahvat 4.)*
+
+**ODLUKA ČEKA AUTORA.** Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih
+naslova: **`Orman`** *(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
+**Dok autor ne kaže, naslov ostaje `Katarina` i ništa se ne dira.**
