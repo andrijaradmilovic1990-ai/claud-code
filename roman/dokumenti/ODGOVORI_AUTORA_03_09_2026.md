@@ -809,3 +809,38 @@ stalno su odlagali, i **otišli su tek posle dve godine, kad su počeli da žive
 > **⚑ OTVORENO — pitanje autoru:** mesto je **Kraljevo**, ali knjiga **ne imenuje nijedan
 > domaći grad** *(registar, sekcija 11 — ime grada je zapečaćeno; `Beli grad` je opis, ne
 > ime)*. **Piše se neimenovano dok autor ne kaže drugačije.**
+
+---
+
+# DEVETI KRUG — 04.09.2026 · ⚑ MAGNET JE U ZAJEDNIČKOJ KUĆI
+
+> **Pitanje *(Helena)*:** *„Zahvat 6 nema gde da stane — sve domaće scene su u njenom
+> stanu. Da padne, ili da se plati novim blokom u sloju danas?"*
+
+## 51 — ⚑ OKVIRI `KRVI` I `PARIZA` SU U ZAJEDNIČKOJ KUĆI
+
+**Autor, doslovno u sadržaju:** *„zapravo ne, magnet treba da bude u zajedničkoj kući."*
+
+**Time je zatvorena hronologija sadašnjosti, i ne menja se nijedna postojeća rečenica:**
+
+| gde | šta tekst kaže | koje mesto |
+|---|---|---|
+| `Pukotina` **III** | *„u stanu koji još nije moj"* | **njen stan**, davno |
+| `Fabrika` **XI** | *„Sama. U stanu. Plaćam."* | **njen stan** |
+| `Beli grad` **XIV** | *„još uvek imao jednu fioku"* | **njen stan** |
+| `Maska` **XV** | *„tuđa kuhinja"*, *„u stanu iznad neko hoda"* | **njen stan**, dan pred put |
+| `Ćebence` **XVII**, dolazak u 7 | isti magnet pod kojim se ljulja Ajfelova kula | **njen stan**, dva dana kasnije |
+| — | **preseljenje u dvorište** | **u godini koja sledi** |
+| `Krv` **IV** i `Pariz` **VI**, okviri | `Pariz`: *„Kod kuće je gorelo svetlo u kuhinji."* | **zajednička kuća** |
+
+**Magnet se seli s njima.** Zato stoji i u `Ćebencetu` i u `Parizu`, a *„stoji tu godinama"*
+ostaje tačno — godinama stoji, ne godinama na tom frižideru.
+
+> **⚑ ŠTA SE OVIM DOBIJA — sprat: knjiga.** Kad je ta kuhinja **kuća**, njeno
+> *„da je odmah vadim na ovu adresu"* prestaje da bude papirologija: **traži da je upišu
+> na adresu njegove porodice, u dvorište njegove majke.** A on gleda u frižider i ćuti.
+>
+> I `Ćebence` time dobija dno: *„Mart je u međuvremenu prošao. Nije me podsetila."* —
+> **odustala je od adrese na kojoj već živi.**
+>
+> **Ništa od toga se ne izgovara.** Samo prestaje da bude papir.

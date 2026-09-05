@@ -3659,3 +3659,22 @@ u njenom poglavlju.
 2. **Dva mesta na ivici Pravila T** u novom poglavlju — ostavljena svesno, padaju zajedno
    ako ikad padnu *(registar 28.3)*.
 3. **Sledeće po planu:** zahvat 6 — **dvorište.**
+
+## 04.09.2026, isti dan — ZAHVAT 6: DVORIŠTE
+
+**Jedna rečenica u okvir `Pariza`**, izabrana od tri ponuđene:
+*„Dole je već gorelo svetlo, i staza preko dvorišta bila je pometena, kao svakog jutra."*
+Knjiga: **31.958 reči.** Registar **29**, `ODGOVORI` **51**.
+
+**Put do nje je bio dug i vredi zapisati zašto.** Prvo je nađeno da zahvat 6 **nema gde da
+stane** — sve domaće scene knjige su u njenom stanu *(`Pukotina`, `Beli grad`, `Maska`,
+domaći blok `Ćebenceta`)*, a dvorište je stanje sadašnjosti; sadašnjost pak ima samo dve
+scene i obe su u kafiću. **Ponuđen je okvir `Krvi`, pa povučen** kad je grep pokazao da
+`Maska` kaže *„tuđa kuhinja"* i *„u stanu iznad neko hoda"*.
+
+**Rešio je autor jednom rečenicom:** *„magnet treba da bude u zajedničkoj kući."*
+Time je hronologija sadašnjosti zatvorena **bez ijedne izmene u postojećem tekstu** —
+okviri `Krvi` i `Pariza` su posle preseljenja, sve ostalo pre njega, magnet se seli s njima.
+
+**Pouka za sledeći prolaz:** kad potez „nema gde da stane", **pitanje ide autoru pre nego
+što se potez proglasi neplativim.** Repo je imao sve delove; falio je jedan njegov podatak.

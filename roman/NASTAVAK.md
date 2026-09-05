@@ -125,13 +125,20 @@
 > i sve od `Prazne stolice` naniže je prenumerisano. Pun zapis: `REGISTAR_ODLUKA.md`,
 > **sekcija 28**; materijal iz kog je nastalo: `ODGOVORI`, **sedmi i osmi krug, stavke 35–50**.
 >
-> **Sledeći korak:** **zahvat 6 — dvorište**, pa **A — Jovanin glas**, pa **zahvat 7 —**
+> **⚑ ZAHVAT 6 ZATVOREN 04.09.2026 — DVORIŠTE.** Jedna rečenica u okvir `Pariza` (VI):
+> *„Dole je već gorelo svetlo, i staza preko dvorišta bila je pometena, kao svakog jutra."*
+> Uz nju je zatvorena i hronologija sadašnjosti — **okviri `Krvi` i `Pariza` su u
+> zajedničkoj kući**, sve ostale domaće scene su u njenom stanu i ranije, **magnet se seli
+> s njima**, i **nijedna postojeća rečenica nije promenjena.** Registar **29**,
+> `ODGOVORI` **51**. Knjiga: **31.958 reči.**
+>
+> **Sledeći korak:** **A — Jovanin glas** *(najstroža ograda u planu)*, pa **zahvat 7 —**
 > **Jovana danas u `Ćebencetu`**, pa **proređivanje motiva (8)**, pa **slepi prolaz (9)**.
 
 ---
 
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU — ZAHVAT 6: DVORIŠTE *(upisan 04.09.2026)*
+## ⚑ PROMPT ZA SLEDEĆU SESIJU — POTEZ A: JOVANIN GLAS *(upisan 04.09.2026)*
 
 > Nalepiti na početak novog razgovora.
 
@@ -180,7 +187,7 @@ Ako na bilo koje od ta tri ne umes da odgovoris iz procitanog — nisi procitao.
 STANJE NA 04.09.2026 — provereno alatom
 ==================================================================
 
-Knjiga: 17 poglavlja, 31.943 reci.
+Knjiga: 17 poglavlja, 31.958 reci.
 MERI SE OVAKO: LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir.
 Golo `wc -w` potcenjuje za oko 1%. `cat` preko svih fajlova LAZE, jer nijedan
 fajl ne zavrsava prelomom reda pa se reci slepe na spojevima.
@@ -200,43 +207,47 @@ IZ PLANA JE ZATVORENO SEST POTEZA:
  B ZATECENOST KOD BRATA (04.09) — registar 27.
  C JEDNO MESTO KOJE DISE DRUGACIJE (04.09) — placeno u istom bloku.
  4 NOVO POGLAVLJE KATARINA (04.09) — 1.628 reci. Registar 28.
+ 6 DVORISTE (04.09) — jedna recenica u okvir Pariza. Registar 29.
 
 POGLAVLJE „BRAT" (zahvat 5) JE PALO, odluka autora. Vraca se ako autor kaze.
 
 ==================================================================
-STA SE RADI SADA: ZAHVAT 6 — DVORISTE
+STA SE RADI SADA: POTEZ A — JOVANIN GLAS, JEDNOM, CEO
 ==================================================================
 
-PLAN_03_09_2026.md, Deo 2 tacka 6, i Deo 8 gde je smanjen po Pravilu T.
+PLAN_03_09_2026.md, Deo 3 tacka A, i Deo 8 gde nosi NAJSTROZU OGRADU U PLANU.
 
-ZASTO POSTOJI, i proveri to u planu pre nego sto prepises: citalac danas
-zatvara knjigu misleci da je taj covek sam u tudjem gradu. A nije — David
-zivi u gornjoj kuci s Katarinom, majka u donjoj, isto dvoriste, majka je
-izlecena (ODGOVORI 8 i 18). SPRAT: KNJIGA. Ovo nije opis mesta nego stanje
-sadasnjosti koje knjiga nema nijednom recenicom.
+ZASTO POSTOJI, i proveri to u planu pre nego sto prepises: cela knjiga je
+NJEGOV izvestaj o njoj. Ona je sastavljena od njegovog secanja i njegovog
+odbijanja — a celo znacenje knjige visi o njoj. SPRAT: KNJIGA. To je jedna od
+cetiri zamerke koje Deo 8 ostavlja da stoje: „Jovana nikad ne progovori sama."
 
-KAKO: autor je rekao SME, ALI SUPTILNO. Deo 8 je potez SMANJIO na
-JEDAN PREDMET, BEZ RECENICE. Ne „majka zivi u donjoj kuci" — nesto sto se
-vidi iz gornje: svetlo, pec, kapija, staza. Citalac sam sklapa da su to dve
-kuce i jedno dvoriste.
+STA JE POTEZ: PET-SEST REDOVA NJENIM GLASOM, NEPRENESENO. Njena poruka ili
+njen papir. Knjiga sama nudi resenje — meseci u kojima mu pise u dva ujutru
+(Beli grad XIV), a citalac NE VIDI NIJEDNU njenu poruku u celini. Katarininu
+cedulju vidi celu, i to je najlepse mesto u knjizi. Postupak je dokazan.
+DVA PAPIRA, DVE ZENE, JEDAN DZEP.
 
-MERA (Deo 6, tacka 4): kad zatvori knjigu, citalac OSECA gde David spava, a
-knjiga to nije rekla recenicom.
+MERILO JE KATARININA CEDULJICA: tekst o NICEMU — o jutru i kafi — koji nosi
+sve. Njena poruka mora biti O SERIJI, O SUSEDU KOJI HRCE, O SESTRI. Nista o
+njemu. Tek time udara, jer citalac zna sta je ispod, a ona to ne pise.
 
-PAZI NA HRONOLOGIJU — ovo je zamka. Dvoriste je stanje DANAS. Fabrika (XI),
-Katarina (XII) i Maska (XV) su ranije, i u njima David zivi kod majke a ona
-sama u iznajmljenom stanu. Poglavlja sadasnjosti su Susret (I) i kraj
-Cebenceta (XVII). Maska ima teglicu i „nisam bio kod nje ovog meseca" — to
-je vec placeno i NE DIRA SE.
+ZABRANE, sve tvrde:
+ 1. NE SME BITI ISPOVEST, OBJASNJENJE NI OPROSTAJ.
+ 2. Ne otkriva nista novo o radnji.
+ 3. KNJIGA SE NE OBRACA NIKOME (ODGOVORI 17) — nema pisma, nema „ti", nema
+    meta-okvira.
+ 4. Ime Jovana pada SAMO u Kukavici. U poruci se ne potpisuje.
+ 5. Ne dodavati joj dubinu (registar, sekcija 2). Poruka je o nicemu.
 
-ZABRANE:
- 1. Bez scene. Bez majke u kadru. Bez objasnjenja.
- 2. Ne pominjati da su se preselili, kad ni kako.
- 3. Ime grada ostaje zapecaceno.
- 4. Ne dirati kraj Cebenceta ni razmenu „Kako je." / „Dobro je."
+MERA: citalac prvi put cuje zenu zbog koje je sve ovo, BEZ NJEGOVOG FILTERA —
+i iz toga NE SAZNAJE NIJEDNU NOVU CINJENICU (Deo 6, tacka 5).
 
-POSLE TOGA, redom iz plana: A — Jovanin glas (3.A) -> zahvat 7, Jovana danas
-u Cebencetu -> proredjivanje motiva (8) -> slepi prolaz po Pravilu R (9).
+MESTO: Beli grad (XIV), blok u kom poruke stizu u dva ujutru. Tamo danas stoji
+samo prepricano: „Pisala je glupost, jednu recenicu o sestri, o seriji koju
+gleda po sedmi put, o coveku iz susedne sobe koji hrce tako da se cuje kroz
+zid." TO PREPRICAVANJE JE VEC TACNO — potez je da se jedna od tih poruka vidi
+CELA, njenim recima, umesto da se prepricava.
 
 ==================================================================
 STA SE NE DIRA, NI U JEDNOM PROLAZU

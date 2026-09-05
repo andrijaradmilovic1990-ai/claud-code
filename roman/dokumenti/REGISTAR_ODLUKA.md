@@ -2203,3 +2203,44 @@ ne tumačenje, i knjiga isti postupak već ima *(`Nestanak`: „Pozdrav je trag.
 - **Ime mesta na koje su odlagali put** — **nije imenovano.** Knjiga ne izgovara nijedan
   domaći grad *(sekcija 11)*. **Otvoreno: autor sme da odluči drugačije, ali to menja
   pravilo za celu knjigu.**
+
+---
+
+# 29 — ⚑ ZAHVAT 6 IZVEDEN: DVORIŠTE *(04.09.2026)*
+
+**Uneta jedna rečenica u okvir `Pariza` (VI)**, posle njenog milovanja po leđima i odlaska
+po kafu, **pre** *„Moram da vadim novu ličnu"*:
+
+> **„Dole je već gorelo svetlo, i staza preko dvorišta bila je pometena, kao svakog jutra."**
+
+**Autor je birao između tri varijante i izabrao ovu.** `Pariz`: 2.026 → **2.041** reč.
+Knjiga: **31.958 reči.**
+
+## 29.1 — Zašto baš ta rečenica
+
+**„Dole" i „preko dvorišta"** daju **dve kuće i jedno dvorište** bez ijedne reči
+objašnjenja. **„Pometena"** daje **čoveka**: neko je tamo, ustaje pre njega i mete stazu —
+i **taj neko se nigde ne pominje.** Gest, ne izjava, kao tetka u `Ulasku`.
+
+**Ni on ni ona to ne komentarišu. Majka nije u kadru. Ne kaže se da su se preselili.**
+
+## 29.2 — Šta je odlučeno zajedno s tim *(vidi `ODGOVORI`, 51)*
+
+**Okviri `Krvi` i `Pariza` su u zajedničkoj kući**, u godini posle preseljenja. Sve ostale
+domaće scene su u njenom stanu i ranije. **Magnet se seli s njima.** **Nijedna postojeća
+rečenica nije promenjena.**
+
+## 29.3 — Šta se ne dira
+
+1. **Rečenica se ne ponavlja.** Dvorište pada **tačno jednom u celoj knjizi.** Drugi put
+   postaje manir i pretvara se u objašnjenje.
+2. **Ne dodavati majku u kadar** ni u jednom poglavlju sadašnjosti. U `Maski` ostaje samo
+   kroz teglicu *(sekcija 18)*.
+3. **Ne imenovati „gornju" i „donju kuću" nigde u tekstu.**
+4. `Susret` **I** i dalje **ne sme da reši da David živi s njom** *(sekcija 3, I)*.
+   Dvorište se tamo ne pominje.
+
+## 29.4 — Mera, i ona je iz plana
+
+*Kad zatvori knjigu, čitalac **oseća gde David spava**, a knjiga to nije rekla rečenicom.*
+*(`PLAN_03_09_2026.md`, Deo 6, tačka 4.)*
