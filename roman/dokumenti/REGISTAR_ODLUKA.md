@@ -2138,3 +2138,68 @@ plan to izričito upozorava.
 2. **Proređivanje motiva** *(zahvat 8)* sad sme da se radi — motiv ima poreklo, pa se
    drugačije broji.
 
+
+---
+
+# 28 — ⚑ ZAHVAT 4 IZVEDEN: NOVO POGLAVLJE `KATARINA` *(04.09.2026)*
+
+**Poglavlje je napisano i zatvoreno autorovom rečju** *(„dobro je, ostavi ga tako")*.
+**1.628 reči.** Mesto: **XII**, između `Fabrike` (XI) i `Prazne stolice`.
+
+> **⚑ KNJIGA OD SADA IMA SEDAMNAEST POGLAVLJA.** Sve od `Prazne stolice` naniže je
+> prenumerisano: **XIII Prazna stolica · XIV Beli grad · XV Maska · XVI Kukavica ·
+> XVII Ćebence.** Stariji zapisi koji kažu „Prazna stolica XII" misle na **XIII**.
+
+## 28.1 — Zašto poglavlje postoji *(sprat: knjiga)*
+
+**Ne plaća nijednu od četiri zamerke sa kraja Dela 8 plana** — one pripadaju potezima
+A, B i C, i servisnim poglavljima koja plan izričito ne otvara.
+
+**Plaća nalaz iz `POENTA_KNJIGE.md`:** *poenta postoji samo u prošlosti; sadašnjost nosi
+isključivo posledicu, pa je knjiga nedovršena na jednom kraju.* **`KATARINA` je prvo
+poglavlje koje sadašnjosti daje sopstveni ulog.** Uz to njen sopstveni nalaz: ni u jednoj
+sceni nismo sami s njom, a ona nosi finale.
+
+> **⛔ ŠTA POGLAVLJE NIJE.** Nije odgovor na nalaz *„Katarina je tanko napisana"* —
+> **taj nalaz je i dalje pao** *(sekcija 2: tanjina je funkcija, meri se potezima)*.
+> **Poglavlje postoji zbog poda knjige, ne zbog njenog broja replika.** Ko ga otvori da
+> joj doda rečenice, plaća nalaz sa sprata knjige na spratu rečenice.
+
+## 28.2 — Šta se u poglavlju ne dira
+
+1. **Kraj — polica ostaje prazna, pa je on razmešta da izgleda puna, pa ode kući majci.**
+   Nemi rođak `Nestanka` *(„Kuću u kojoj izgleda da se čovek vraća uveče niko ne pretura")*.
+   **Nigde se ne spaja. Ne spajati.**
+2. **Tetovaža — samo gest.** Palac preko slova pod uvom, on se ne okrene, naracija imenuje
+   slovo jednom i ide dalje. **Nijedno od njih o njoj ne progovori** *(`ODGOVORI`, 40)*.
+3. **Sreda** — ponudi je, on je pomeri **bez razloga**, ona pita jednom i pusti.
+   **Detonira se unazad**, u `Praznoj stolici`. Sreda se ovde ne izgovara ni jednom drugom
+   rečju.
+4. **Redosled izvinjenja i odbijanja.** *„Izvini." / „Za šta izvini." / „Ne znam. Izvini."*
+   stoji **pre** *„Ne može"* bez razloga. **To je ceo mehanizam poglavlja i ne premešta se.**
+5. **„Znaš ti šta su mi pričali o tebi kad sam došla?"** — ona zna šta bira i **nigde to ne
+   imenuje kao izbor** *(`ODGOVORI`, 47)*. Ne dopisivati joj rečenicu koja to izgovara.
+6. **Jedanaest njenih slika, nijedna njegova.** *„Ti nemaš nijednu?" / „Nemam." / „Pa
+   dobro."* **Ogledalo se ne izgovara** — ono nije u tome što su isti nego što nisu.
+7. **Njeno ime se u poglavlju ne pojavljuje** *(sekcija 2 — pada dvaput, oba puta u
+   `Belom gradu`, danas XIV)*.
+
+## 28.3 — Dva mesta na ivici Pravila T, ostavljena svesno
+
+*„Ne primećuje se ono što ne visi."* i *„Ono što ide u kesu slaže bolje nego ono što
+ostaje."* — naracija tu komentariše. **Ostavljeno odlukom autora**, jer je to njegov glas a
+ne tumačenje, i knjiga isti postupak već ima *(`Nestanak`: „Pozdrav je trag.")*.
+**Ako ikad padnu, padaju zajedno, u jednom potezu.**
+
+## 28.4 — Šta u poglavlje NIJE ušlo, i zašto
+
+- **Kolebanje oko Katarine** *(`ODGOVORI`, 33)* — autor potvrdio da se ne piše.
+  **Knjiga tu pobedu već ima neizgovorenu, u `Krvi`.**
+- **Ceo šesti krug** *(28–34)* — ključ za čitanje, ne građa.
+- **Zašto je otišla s juga** — **nije tajna nego nije ni tema** *(`ODGOVORI`, 35: nije
+  bežala od porodice)*. Ona sama kaže običan razlog: *„nema tamo ništa."*
+- **Trenutak „ova nije kao ostale"** — **autor nema tačan odgovor** *(`ODGOVORI`, 49)*,
+  pa se scena ne izmišlja.
+- **Ime mesta na koje su odlagali put** — **nije imenovano.** Knjiga ne izgovara nijedan
+  domaći grad *(sekcija 11)*. **Otvoreno: autor sme da odluči drugačije, ali to menja
+  pravilo za celu knjigu.**

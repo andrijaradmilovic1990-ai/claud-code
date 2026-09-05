@@ -3609,3 +3609,53 @@ uđe: zahvat 4, poglavlje `KATARINA`, koje je sledeće na redu.
 Heroin **1 instanca u celoj knjizi** · `grep -ri beograd` **prazno** · ime „Jovana" u
 `Ulasku` **0** · fajl završava tačkom · scena s vratima i dalje **bez ijedne replike** ·
 David ne pada.
+
+---
+
+# 04.09.2026 — ZAHVAT 4: NAPISANO POGLAVLJE `KATARINA`
+
+**Sesija je počela na zahvatu 4 i zatvorila ga.** Uz njega su otvorena **dva nova kruga
+autorovog materijala** *(`ODGOVORI`, sedmi i osmi krug, stavke 35–50)*.
+
+## Šta je urađeno
+
+- **Napisano poglavlje `KATARINA`**, 1.628 reči, **mesto XII**. Knjiga: **17 poglavlja,
+  31.943 reči.** Prenumerisano `XIII–XVII`.
+- **Registar, sekcija 28** — zašto poglavlje postoji, šta se u njemu ne dira, šta u njega
+  nije ušlo.
+- **`ODGOVORI`, stavke 35–50** — s pitanjima upisanim uz odgovore.
+
+## Tri greške ove sesije, upisane da se ne ponove
+
+**1 · Pisanje po pretpostavci.** Poglavlje je **napisano celo, pa bačeno i prepisano**,
+jer je prolaz pretpostavio da **David živi kod nje.** Ne živi *(stavka 42)*.
+**Pouka:** ono što o likovima ne piše u repou — **pita se, ne popunjava.** Autor odgovori
+na deset pitanja odjednom i to je najjeftiniji deo posla.
+
+**2 · Pogrešno nasleđena tvrdnja.** Repo je do 04.09. vodio da je Katarina **pobegla od
+porodice** *(stavka 6)*, i plan je na tome sagradio celu tačku — *„njena rupa se pečati kao
+i njegova"*. **Netačno** *(stavka 35)*: ima pune slike svojih i vezana je za njih; otišla je
+jer u tom mestu **nema šta da se radi.** **Ogledalo iz plana pada kao istovetnost** — ostaje
+samo to da je ona otišla **ka** nečemu, a on **od** nečega, i da nijedno to ne primeti.
+
+**3 · Predložen oblik koji autor nije tvrdio.** Predloženo je da ga ona **pita za tetovažu
+i ne dobije odgovor.** Netačno *(stavke 38 i 40)* — pitala je davno i dobila **celu priču**,
+a **scene o tome nema.** Ostao je samo gest, i potez je time **jači.**
+
+## Nalaz koji je iz toga ispao — sprat: knjiga
+
+> **Uskraćena joj je jedna jedina stvar: dan.**
+
+`Prazna stolica` *(sad XIII)* otvara se sa *„Bila je sreda. Srede ne volim"* i zatvara sa
+*„sad imam jedan razlog više koji isto neću izgovoriti."* **Čitalac zna više od nje, bez
+ijedne nove činjenice.** Isti mehanizam koji Andrijana imenuje u `Pukotini` — *„svaka reč ti
+bude tačna, a čovek ode kući s pogrešnom slikom u glavi"* — prvi put primenjen **na nju**,
+u njenom poglavlju.
+
+## Šta ostaje otvoreno
+
+1. **Ime mesta na koje su odlagali put** *(Kraljevo)* — nije imenovano, jer knjiga ne
+   izgovara nijedan domaći grad. **Autorova odluka; menja pravilo za celu knjigu.**
+2. **Dva mesta na ivici Pravila T** u novom poglavlju — ostavljena svesno, padaju zajedno
+   ako ikad padnu *(registar 28.3)*.
+3. **Sledeće po planu:** zahvat 6 — **dvorište.**

@@ -1,4 +1,4 @@
-# XVI — Ćebence
+# XVII — Ćebence
 
 Na naslonu sofe stajalo je ćebence — tanko, nečija stara stvar prebačena tu da se ima pri ruci u sobi u kojoj se sedi do zore. Uzeo sam ga.
 

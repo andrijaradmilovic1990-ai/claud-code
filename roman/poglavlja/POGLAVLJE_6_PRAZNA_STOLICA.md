@@ -1,4 +1,4 @@
-# XII — Prazna stolica
+# XIII — Prazna stolica
 
 Bila je sreda. Srede ne volim — toliko, i ni reč više.
 
