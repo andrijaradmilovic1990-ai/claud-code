@@ -152,6 +152,8 @@ Ona. Moja. Iza mene, bosa, raščupana, šolja u ruci. Ne znam koliko stojim tu 
 
 „Lažeš. Nikad nećeš da ideš nigde.“ Nasmejala se, nije bilo zlo, bilo je tačno. Pomilovala me po leđima u prolazu, usput, kao što se pomiluje sto ili dobar pas, otišla da sipa još kafe, nastavila da priča o nečemu, o sestri, o vikendu.
 
+Dole je već gorelo svetlo, i staza preko dvorišta bila je pometena, kao svakog jutra.
+
 „Moram da vadim novu ličnu“, rekla je negde usred toga. „Stara mi ističe u martu.“
 
 „Mhm.“

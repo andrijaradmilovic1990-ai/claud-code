@@ -518,5 +518,329 @@ ode — jer sreća znači da ima šta da izgubi, a on zna šta se dešava onome 
 2. **Reč „kaza" iz stavke 26 sad ne stoji** — u `Ulasku` David posao počinje **posle**
    bratove smrti *(kesa iza pijace dolazi tek posle sahrane)*. Ako je mala Jovana pre brata,
    on tad još nije bio u poslu.
-3. **Ulazi li ijedan od ova dva sloja u tekst** — i dalje neodgovoreno, i **dok autor ne
-   kaže, ne ulazi.**
+3. ~~**Ulazi li ijedan od ova dva sloja u tekst**~~ — ⚑ **ODGOVORENO 04.09.2026, vidi
+   stavku 37.** Autor je tražio da se **mala Jovana i sreda negde plate.**
+
+---
+
+# SEDMI KRUG — 04.09.2026 · ⚑ KATARININA RUPA NE POSTOJI
+
+> **Dato u razgovoru o poglavlju `KATARINA`, na autorovu ispravku.** Obara jedan deo
+> stavke 6 i s njim jednu tačku plana.
+>
+> **Pitanja koja su postavljena** *(upisuju se, jer 03.09. nisu i to je koštalo)*:
+> 1. *„Hoćeš li da kolebanje oko Katarine (stavka 33) uđe u poglavlje, ili ide bez njega?"*
+> 2. *„Je l' to poglavlje koje hoćeš?"* — uz predlog scene u kojoj **u njenom stanu nema
+>    nijedne stvari starije od njenog dolaska**, i u kojoj se njena prošlost ne izgovara
+>    kao ni njegova.
+
+## 35 — ⛔ KATARINA NIJE POBEGLA OD PORODICE *(ispravlja stavku 6)*
+
+**Autor, doslovno u sadržaju:**
+
+> Ona ima **pune slike svog brata, sestre i roditelja** i **vezana je za njih.** Otišla je
+> zato što **to malo mesto nema šta da ponudi.** To je sve.
+
+**Šta ovim pada:**
+
+- **Stavka 6**, u delu *„pobegla iz malog grada na jugu zemlje, od porodice"*. Otišla je
+  **zbog mesta, ne od ljudi.**
+- **`PLAN_03_09_2026.md`, Deo 8, tačka 4** — *„njena rupa se pečati kao i njegova"*.
+  **Nema rupe.** Njen razlog je običan i nije tajna.
+- **Ogledalo iz stavke 6** *(„isti potez, dvanaest godina razmaka")* — **pada kao
+  istovetnost.** Ostaje samo geografija u suprotnom smeru, a razlozi su suprotni:
+  **ona je otišla ka nečemu, on je otišao od nečega.**
+
+**Šta se dobija umesto toga, i knjizi je bolje:**
+
+> **Njen stan je pun njenih ljudi. On nema nijednu fotografiju.**
+> `Nestanak` to već ima, jednom rečenicom: *„Fotografije nisam poneo. O tome neću."*
+
+**Razlika se ne izgovara.** Vidi je čitalac; njih dvoje ne. **Ogledalo nije u tome što su
+isti nego u tome što nisu**, a nijedno od njih to ne primeti.
+
+**Šta se od ovoga piše:** **sme** — kao viđeno stanje *(slike, njeni ljudi prisutni u
+stanu)*. **Nikad kao objašnjenje zašto je otišla.**
+
+## 36 — KOLEBANJE *(stavka 33)* NE ULAZI — **potvrđeno**
+
+**Autor se složio da se ne piše.** Razlog, upisan po Pravilu L:
+
+> **Knjiga tu pobedu već ima, neizgovorenu, u `Krvi`:** *„Da neko, jednog dana, broji
+> viljuške naglas u kuhinji i nema pojma da je to pobeda — najveća koju sam u životu
+> izvojevao."*
+
+Napisano drugi put i objašnjeno — **pokvareno.** Uz to bi strah dobio odgovor *(zamalo je
+otišao, pa nije)*, a strah koji je rešen prestaje da bude strah. **Vraća se ako autor kaže.**
+
+## 37 — ⚑ AUTOR TRAŽI DA SE MALA JOVANA I SREDA NEGDE PLATE
+
+**Autor, doslovno u sadržaju:**
+
+> *„Mislim da negde treba da ubacimo taj njegov strah koji je navukao još od male Jovane, i
+> mislim da negde bi trebali da ostavimo nešto za tu malu Jovanu i tu sredu."*
+
+**⚑ Ovo prvi put otvara stavke 26 i 28 za tekst.** Do danas su stajale kao isključivo
+pozadinski materijal.
+
+**Šta se time NE otvara:** zabrana iz stavke 30 stoji **za objašnjenje.** Strah se i dalje
+ne izgovara; rečenica *„više nikad ne smem da ne znam šta će biti"* ostaje zabranjena
+*(`PLAN_03_09_2026.md`, Deo 1B)*. **Otvoren je trag, ne uzrok.**
+
+**Šta knjiga već ima a čeka:** `Prazna stolica` **XII**, prva rečenica *(„Bila je sreda.
+Srede ne volim — toliko, i ni reč više.")* i poslednja *(„sad imam jedan razlog više koji
+isto neću izgovoriti")*. **Kuka je postavljena i savršena je. Fali fizički trag.**
+
+**Predloženi oblik, čeka autorovu reč po Pravilu K:** **tetovaža** — slovo, rukav — koju
+neko primeti i **ne dobije odgovor.** *(Oblik je predložen još u stavci 26 i tada nije
+odobren.)*
+
+**Predloženo mesto: poglavlje `KATARINA`** — jer mu je ona jedina dovoljno blizu da
+dodirne, i jer poglavlje time **produbljuje NJU**: pokazuje šta ona radi s onim što ne zna
+— **pusti.** *(`Maska` to već ima u gestu: uhvati mu ruku, okrene je dlanom naviše i
+pogleda je „kao što se gleda nešto što se već zna", pa mu je vrati.)*
+
+**Ne piše se dok autor ne kaže „da" za konkretnu rečenicu.**
+
+## 38 — ⚑ KATARINA ZNA CELU PRIČU. NE ZNA SAMO ZA SREDU.
+
+> **Pitanje *(Helena)*:** *„Je l' tetovaža taj trag za malu Jovanu, ili si mislio na nešto
+> drugo?"*
+
+**Autor, doslovno u sadržaju:**
+
+> Ima tetovažu, **slovo „J"**. **Katarina ga je jednom prilikom pitala za tetovažu i on joj
+> je rekao celu priču. Ali nikad nije rekao da je to bila sreda.**
+
+**⚑ Ovo obara predloženi oblik iz stavke 37 i daje bolji — sprat: knjiga.**
+
+Predlog je bio da ga ona pita i **ne dobije odgovor.** **Netačno po autoru.** Dobila je
+odgovor, ceo, davno. Tetovaža **nije tajna između njih dvoje.**
+
+> **Uskraćena je jedna jedina stvar: dan.**
+
+**Šta to znači za tekst:**
+
+- **Čitalac zna više od nje**, i to bez ijedne nove činjenice: `Prazna stolica` **XII**
+  otvara se s *„Bila je sreda. Srede ne volim"* i zatvara s *„sad imam jedan razlog više
+  koji isto neću izgovoriti"*. **Vezu pravi čitalac. Ona je nikad ne napravi.**
+- **Tetovaža se u sceni ponaša kao stara, poznata stvar** — dodirne se u prolazu, pomene
+  bez težine, onako kako se pominje ono što je odavno ispričano. **Bez pauze, bez težine u
+  glasu, bez rečenice koja je podvlači.** Čim scena stane na njoj, potez je pao.
+- **Sreda se ne izgovara ni jednom rečju.** Ni njeno pitanje, ni njegovo izbegavanje —
+  **nema izbegavanja**, jer ona nema šta da pita. To je cela poenta.
+
+**⚑ I ovo je isti mehanizam koji knjiga već imenuje**, samo prvi put primenjen na nju —
+`Pukotina`, Andrijana: *„Svaka reč ti bude tačna, a čovek ode kući s pogrešnom slikom u
+glavi."* *(Registar, sekcija 2 — ta replika se ne dira.)* **Rekao joj je istinu, celu priču,
+i jedno je izostavio** — i ona nema načina da sazna da joj išta fali.
+
+**Time poglavlje dobija svoju strepnju bez ijedne pretnje:** ne strepi se od nečeg spolja,
+strepi se od toga **koliko dobro ona živi s čovekom koji nikad ne slaže.**
+
+## 39 — ⚑ TETOVAŽA JE NA VRATU. *(zatvara otvoreno pitanje iz 26 i 38)*
+
+**Autorovo „na vrstu" iz stavki 26 i 38 je omaška — reč je o VRATU.** Autor je poslao
+fotografiju: **slovo „J", pisano, ispod uva, na levoj strani vrata.** Veličine prsta, staro,
+zeleno-crno kako stare stare tetovaže. **Ne krije se ničim.**
+
+*(Ostatak stavke 26 stoji: „J" prvo, **kasnije cela leva ruka** — rukav uspomena koje niko
+osim njega ne ume da rastumači.)*
+
+**⚑ ŠTA MESTO MENJA — sprat: knjiga. Ovo je veće od podatka.**
+
+**1 · Tetovaža je na najvidljivijem mestu na čoveku.** Ne ispod rukava, ne na zglobu koji se
+okrene nadole. **Nosi je otvoreno dvadeset godina i niko u knjizi nikad nije pitao** — osim
+Katarine, jednom, i ona je dobila ceo odgovor. **Čovek koji sve krije nosi jedno na vratu.**
+**To se ne komentariše u tekstu ni jednom rečju.**
+
+**2 · Do vrata se dolazi s leđa — i knjiga tu koreografiju već ima, njenu.**
+
+> `Ćebence`: *„Stala mi je iza stolice, naslonila bradu na moje teme, obe ruke na naslon."*
+> `Krv`: *„Prišla je, naslonila bradu na moje rame."*
+> `Maska`: *„dlanom joj sklonio kosu s oka"* — dodir ide u oba smera, ali **iza njega staje
+> samo ona.**
+
+**David je čovek koji nikom ne okreće leđa** *(`Prazna stolica`: „ni kelneru, ni vratima, ni
+čoveku za volanom"; `Pariz`: leđa uz kamen i u najlepšoj noći)*. **Jedina osoba u knjizi
+kojoj dozvoljava da mu stane iza leđa jeste ona** — i tačno tamo, pod njenom rukom, stoji
+znak prve osobe koju je izgubio.
+
+> **To je cela knjiga u jednom pokretu. I NIJEDNA REČENICA TO NE SME DA KAŽE.**
+> Ona stane iza njega, palac joj pređe preko toga u prolazu, on se ne okrene. **Tačka.**
+> Naracija ne primećuje, ne poredi, ne podvlači. **Vidi čitalac ili ne vidi.**
+
+**Šta ovo upropašćuje:** svaka varijanta u kojoj se pomene da mu je to jedino mesto na koje
+neko sme, ili u kojoj on registruje da mu je neko za leđima. **Čim registruje — objašnjeno je.**
+
+## 40 — ⛔ NEMA SCENE U KOJOJ ONA PITA ZA SLOVO *(ograda autora, isti dan)*
+
+**Autor, doslovno u sadržaju:** *„nema ni jedna scena da ona pita za slovo. Ja sam to rekao
+sad, kao info."*
+
+**Stavka 38 ostaje tačna kao činjenica** *(pitala je jednom davno i dobila ceo odgovor)* —
+**ali se ta činjenica ne pretvara u scenu, ni u repliku, ni u pomen.** To je pozadina, ne
+građa. **Nijedno od njih dvoje o tetovaži ne progovori ni reč.**
+
+**Šta od poteza ostaje — i to je sad čisto:**
+
+> **Samo gest i jedna gola činjenica u naraciji.** Ona stane iza njega, palac joj u prolazu
+> pređe preko slova pod uvom, on se ne okrene. **Naracija imenuje slovo jednom, ravno, bez
+> ijedne reči objašnjenja, i ide dalje.**
+
+**Bez dijaloga potez je jači, ne slabiji:** čitalac dobija **slovo i ništa uz njega.**
+Zatvorena vrata, po Pravilu T.
+
+### ⚑ Nuzefekat koji se NE ispravlja — dvosmislenost slova „J"
+
+Ime **Jovana** pada samo u `Kukavici`. Čitalac koji vidi „J" na vratu **pomisliće na nju** —
+i **pogrešiće u činjenici, a pogodiće u osećaju**, jer *(stavka 32)*:
+
+> **Obe se zovu Jovana. Prvu je sahranio; drugu je sahranio živu, da ne bi morao mrtvu.**
+
+**Slovo je tačno za obe i ne kaže koja.** To nije rupa nego naslov knjige u jednom znaku.
+**Ne razrešavati, ne pojašnjavati, ne dodavati drugo slovo ni datum.**
+
+---
+
+# OSMI KRUG — 04.09.2026 · ⚑ KATARINA, DESET PITANJA I DESET ODGOVORA
+
+> **Dato na autorovu ponudu**, pošto je prva verzija poglavlja `KATARINA` napisana na
+> pogrešnoj pretpostavci. **Pitanja su upisana uz odgovore.**
+>
+> **⛔ ISPRAVKA KOJA JE POKRENULA KRUG:** *„David nije živeo kod nje. Viđali su se malo kod
+> nje, malo kod njega."* **Prva verzija poglavlja je pisala scenu u kom on tu živi.
+> Netačno — i poglavlje je time bilo mekše nego što treba.**
+
+## 41 — SREDA U POGLAVLJU `KATARINA` *(potvrđeno pre ovog kruga)*
+
+**Usvojeno:** ona mu ponudi sredu za nešto obično, **on je pomeri bez razloga**, ona pita
+jednom i **pusti.** Poglavlje stoji **pre** `Prazne stolice`, pa se sreda **ne detonira tamo
+gde je postavljena nego unazad**, kad čitalac stigne do *„Bila je sreda. Srede ne volim."*
+
+**Uz to skida i zabunu oko slova:** u istom poglavlju stoje dve zatvorene stvari — **„J" na
+vratu** i **čovek koji ne uzima sredu** — a `Prazna stolica` daje *„sad imam jedan razlog
+više"*, pa čitalac sam zaključi da je **„J" stariji i nečiji drugi.** Bez ijedne rečenice.
+
+**Cena, upisana pošteno:** ovo je **na ivici** Pravila T *(sistem uskraćivanja je na
+tavanici)*. Prolazi jer **nije nova tajna nego ista** — sreda je već uskraćena u `Praznoj
+stolici`; ovde se vidi ranije i s druge strane.
+
+## 42 — ⛔ DAVID NE ŽIVI KOD NJE
+
+**Ona živi sama, u onom iznajmljenom stanu iz `Fabrike`** *(„Sama. U stanu. Plaćam.")*.
+**On ponekad prespava.** Živi kod majke.
+
+**Šta ovo menja u poglavlju — i knjizi je bolje:** ona mu ne prazni orman *da mu bude
+lakše* nego **da pređe.** Rečenica *„Ne može čovek da živi iz jedne fioke"* prestaje da bude
+briga i postaje **pitanje.** A kraj postaje teži: **polica ostaje prazna i on te večeri ode
+kući.**
+
+**Slaže se sa zatečenim tekstom:** `Beli grad` — *„u stanu u kom sam još uvek imao jednu
+fioku"*; `Maska` — *„onu fioku koja je moja — jedna, u ovom stanu"*. **Fioka je oduvek bila
+gostinska. Nijedan dokument to nije pročitao tako.**
+
+## 43 — KAKO GA ZOVE
+
+**„Ljubavi." „Srećo."** *(Piše se — to je jedini način da se u tekstu čuje kako mu se
+obraća, a ime se i dalje ne izgovara.)*
+
+## 44 — ŠTA GA KOD NJE NERVIRA
+
+**Tvrdoglavost i lažno samopouzdanje.**
+
+> **Nalaz:** ovo je jedina mana koju autor tvrdi za nju, i **poglavlju je neophodna** —
+> registar brani da joj se **dodaje dubina**, ne da joj se prizna mana koju autor daje.
+> **Bez nje je karton.** Piše se **kao radnja, nikad kao ocena** *(ne „bila je tvrdoglava"
+> nego scena u kojoj neće da siđe s lestvi)*.
+
+## 45 — KAKO IZGLEDA KAD JE LJUTA
+
+**Uglavnom ćuti** — i **tera ga da joj se izvini** da bi prestala.
+
+> **⚑ NALAZ, sprat: knjiga.** **On se izvinjava lako, i za ono što nije njegovo.**
+> Izvinjenje je jedina stvar koju joj daje bez odbijanja — **jer ga ništa ne košta.**
+> Sve što košta, izostavlja. **To se ne izgovara nigde**; vidi se tako što u istom
+> poglavlju kaže *izvini* bez oklevanja, a *ne može* bez razloga.
+
+## 46 — SESTRA
+
+**Nosi joj stvari, nekad joj pošalje pare.** Nazad dobija **samo ono što uspe da otme.**
+
+## 47 — ⚑ ŠTA JE ZNALA O NJEMU TADA
+
+**Znala je da ima drugarice. Znala je da je švaler i da je spavao s pola žena u fabrici u
+kojoj tada zajedno rade.** I znala je da **ima prošlost o kojoj tad nije pričao** i da je
+**čudan malo.**
+
+> **⚑ OVO JE NAJVEĆI NALAZ KRUGA — sprat: knjiga.**
+>
+> **Ona nije naivna i nije prevarena. Ona je birala s punim spiskom u ruci** i svejedno
+> izabrala. **To poglavlje diže s „njemu je dobro s njom" na „ona je donela odluku"** — i
+> to je jedini način da se produbi ona a da ne postane ravnopravna Jovani
+> *(registar, sekcija 2)*.
+>
+> **I to ne ruši meru „čitalac strepi za nju".** Naprotiv: strepi se jače za onu koja je
+> **znala i ostala** nego za onu koja ne zna ništa. **Ona i dalje ne sumnja ni u šta** — jer
+> ovo nije sumnja nego zatečeno znanje.
+>
+> **Šta se s tim NE radi:** ne piše se rečenica u kojoj ona to imenuje kao izbor
+> *(„znala sam u šta ulazim")*. **Pomene se usput, bez težine, kao vic** — i time udara.
+
+## 48 — MAJKA
+
+**Upoznala ju je posle dve šetnje, pre nego što su se smuvali. Jako stidljivo.**
+*(Događaj je stariji od poglavlja; u tekst može samo kao pomen, ne kao scena.)*
+
+## 49 — KAD JE POMISLIO DA NIJE KAO OSTALE
+
+**Autor nema tačan odgovor.** *(Ne izmišlja se. Poglavlje **ne sme** da nosi takav trenutak
+— to bi bila scena koju autor ne tvrdi.)*
+
+## 50 — ŠTA JE HTELA A NIJE DOBILA
+
+**Uglavnom je dobijala sitno.** Jedina veća stvar: **htela je da idu na jedno mesto**,
+stalno su odlagali, i **otišli su tek posle dve godine, kad su počeli da žive zajedno.**
+
+> **Nalaz:** to je **treći put** da knjiga ima isti oblik — traži, odloži se, prođe:
+> **lična karta u `Parizu` · mart u `Ćebencetu` · ovaj put.** U poglavlju stoji **još
+> neodloženo do kraja**, jer se dešava pre svega toga.
+>
+> **⚑ OTVORENO — pitanje autoru:** mesto je **Kraljevo**, ali knjiga **ne imenuje nijedan
+> domaći grad** *(registar, sekcija 11 — ime grada je zapečaćeno; `Beli grad` je opis, ne
+> ime)*. **Piše se neimenovano dok autor ne kaže drugačije.**
+
+---
+
+# DEVETI KRUG — 04.09.2026 · ⚑ MAGNET JE U ZAJEDNIČKOJ KUĆI
+
+> **Pitanje *(Helena)*:** *„Zahvat 6 nema gde da stane — sve domaće scene su u njenom
+> stanu. Da padne, ili da se plati novim blokom u sloju danas?"*
+
+## 51 — ⚑ OKVIRI `KRVI` I `PARIZA` SU U ZAJEDNIČKOJ KUĆI
+
+**Autor, doslovno u sadržaju:** *„zapravo ne, magnet treba da bude u zajedničkoj kući."*
+
+**Time je zatvorena hronologija sadašnjosti, i ne menja se nijedna postojeća rečenica:**
+
+| gde | šta tekst kaže | koje mesto |
+|---|---|---|
+| `Pukotina` **III** | *„u stanu koji još nije moj"* | **njen stan**, davno |
+| `Fabrika` **XI** | *„Sama. U stanu. Plaćam."* | **njen stan** |
+| `Beli grad` **XIV** | *„još uvek imao jednu fioku"* | **njen stan** |
+| `Maska` **XV** | *„tuđa kuhinja"*, *„u stanu iznad neko hoda"* | **njen stan**, dan pred put |
+| `Ćebence` **XVII**, dolazak u 7 | isti magnet pod kojim se ljulja Ajfelova kula | **njen stan**, dva dana kasnije |
+| — | **preseljenje u dvorište** | **u godini koja sledi** |
+| `Krv` **IV** i `Pariz` **VI**, okviri | `Pariz`: *„Kod kuće je gorelo svetlo u kuhinji."* | **zajednička kuća** |
+
+**Magnet se seli s njima.** Zato stoji i u `Ćebencetu` i u `Parizu`, a *„stoji tu godinama"*
+ostaje tačno — godinama stoji, ne godinama na tom frižideru.
+
+> **⚑ ŠTA SE OVIM DOBIJA — sprat: knjiga.** Kad je ta kuhinja **kuća**, njeno
+> *„da je odmah vadim na ovu adresu"* prestaje da bude papirologija: **traži da je upišu
+> na adresu njegove porodice, u dvorište njegove majke.** A on gleda u frižider i ćuti.
+>
+> I `Ćebence` time dobija dno: *„Mart je u međuvremenu prošao. Nije me podsetila."* —
+> **odustala je od adrese na kojoj već živi.**
+>
+> **Ništa od toga se ne izgovara.** Samo prestaje da bude papir.

@@ -1,4 +1,4 @@
-# XIII — Beli grad
+# XIV — Beli grad
 
 Na vidikovac sam dolazio sam, oduvek, otkad znam ovaj grad. Bilo je to moje mesto, jedno od onih na koja čovek ide da bude sam a da to ne mora nikom da objasni. Nikad nikog nisam doveo. Tog jutra sam je doveo, jer mi je trebalo da budem gore a nisam imao snage da budem sam.
 

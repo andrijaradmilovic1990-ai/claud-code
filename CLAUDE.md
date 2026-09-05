@@ -84,6 +84,20 @@ su I–XVI** i odgovaraju redosledu. **Nema otvorenih pitanja u repou.**
 VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika · XII Prazna stolica ·
 XIII Beli grad · **XIV Maska** · XV Kukavica · XVI Ćebence.
 
+> **⚑ 04.09.2026 — KNJIGA IMA SEDAMNAEST POGLAVLJA.** Zahvat 4 iz `PLAN_03_09_2026.md` je
+> izveden: **novo poglavlje `KATARINA`, 1.628 reči, mesto XII**, između `Fabrike` i
+> `Prazne stolice`. **Sve od `Prazne stolice` naniže je prenumerisano.**
+>
+> **Redosled od sada:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
+> VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
+> **XII KATARINA** · XIII Prazna stolica · XIV Beli grad · **XV Maska** · XVI Kukavica ·
+> XVII Ćebence. **Zbir: 31.943 reči.**
+>
+> **Stariji zapisi koji kažu „Prazna stolica XII" misle na XIII, „Maska XIV" na XV,
+> „Ćebence XVI" na XVII.** Stari zapisi se ne prepisuju — oni su istorija rada.
+> Pun zapis odluke: `REGISTAR_ODLUKA.md`, **sekcija 28**. Materijal iz kog je poglavlje
+> nastalo: `ODGOVORI_AUTORA_03_09_2026.md`, **sedmi i osmi krug, stavke 35–50**.
+
 *(Istorija: na 31.08.2026, druga sesija, bilo je petnaest poglavlja i 27.758 reči —
 napisan `IVIČNJAK` (7), prepravljene `Pukotina` (2) i `Krv` (4).)* Puna tabela svih
 šesnaest mesta stoji u **`roman/NASTAVAK.md`**.
