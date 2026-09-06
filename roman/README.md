@@ -25,58 +25,76 @@ greška u ovom repou i pravljena je više puta.
 **Od 28.08.2026. piše se NOVA, veća knjiga.** Devet postojećih poglavlja ostaje
 netaknuto i u istom redosledu; nova se umeću između njih.
 
-## ⚑ Knjiga ima ŠESNAEST poglavlja *(od 30.08.2026)*
+## ⚑ Knjiga ima SEDAMNAEST poglavlja *(od 04.09.2026)*
 
-Autor je tog dana **otvorio sva poglavlja** za preostali posao, i u knjigu je umetnuto
-novo — **`IVIČNJAK`, mesto 7**, između `Pariza` i `Preloma`.
+**Sva su napisana. Stanje na 06.09.2026: 31.916 reči.**
 
-**Sva šesnaest su napisana od 31.08.2026.** Stanje na **04.09.2026: 30.315 reči.**
+Rasla je u tri koraka: **30.08.2026** je autor otvorio sva poglavlja i umetnut je
+**`IVIČNJAK`, mesto 7** *(devet → šesnaest)*; **04.09.2026** je zahvatom 4 napisano
+**`KATARINA`, mesto XII**, između `Fabrike` i `Prazne stolice`, i sve od `Prazne
+stolice` naniže je prenumerisano *(šesnaest → sedamnaest)*.
 
-> **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA.** Šesnaest poglavlja je **kostur**, ne
-> gotova knjiga. **Nema više zaključanih poglavlja.** Rupa ostaje zapečaćena, pa knjiga
-> **ne raste unazad nego unapred.**
+> **Stariji zapisi koji kažu „Prazna stolica XII" misle na XIII, „Maska XIV" na XV,
+> „Kukavica XV" na XVI, „Ćebence XVI" na XVII.** Stari zapisi se ne prepisuju — oni su
+> istorija rada.
+
+> **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA.** Kostur, ne gotova knjiga. **Nema više
+> zaključanih poglavlja.** Rupa ostaje zapečaćena, pa knjiga **ne raste unazad nego
+> unapred.**
 >
-> **⚑ 03.09.2026 — VAŽI SAMO JEDAN PLAN: [`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md).**
+> **⚑ 03.09.2026 — VAŽIO JE JEDAN PLAN: [`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md).**
 > `PLAN_RASTA.md` je obrisan *(nije bio autorov)*, `PLAN_RADA.md` je iscrpljen.
-> Uz plan idu i dva fajla iznad njega: **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)**
+> Uz plan idu dva fajla iznad njega: **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)**
 > *(osa)* i **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)**
-> *(izvor — autorovo znanje o svojim ljudima)*.
+> *(izvor — autorovo znanje o svojim ljudima, 54 stavke u jedanaest krugova)*.
 
-**Iz plana je zatvoreno pet poteza** *(03–04.09.2026)*: sidra u vremenu · tetka u
-`Ulasku` · kaput napolje iz `Maske` · **B** *(zatečenost kod brata)* · **C** *(jedno
-mesto koje diše drugačije)*. **Poglavlje `BRAT` je palo** — razlog u registru, sekcija 27.
+## ⚑ 06.09.2026 — PLAN JE ISCRPLJEN
 
-**Sledeće na redu: novo poglavlje `KATARINA`.**
+**Devet zahvata i sva tri poteza A/B/C su zatvoreni**, a poglavlje `BRAT` je palo s
+upisanim razlogom *(registar, sekcija 27)*. **Nema otvorenih zahvata i ne pravi se nov
+plan bez autorove reči.**
 
-## Svih šesnaest mesta, redom kojim se čita
+| | zatvoreno |
+|---|---|
+| **03.09.** | sidra u vremenu · tetka u `Ulasku` · kaput napolje iz `Maske` |
+| **04.09.** | **B** *(zatečenost kod brata)* i **C** u istom bloku · novo poglavlje **`KATARINA`** · dvorište |
+| **06.09.** | **A** *(Jovanin glas, jednom, ceo)* · Jovana danas · proređivanje motiva *(20 → 14)* · slepi prolaz po Pravilu R |
 
-**Imena fajlova ne prate mesta u knjizi** — stari nose rimske brojeve, novi nose `NOVO_`.
-**Redosled je ovaj, ne po imenu fajla.** Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`,
-**04.09.2026**.
+**Sledeće što knjizi treba nije zahvat nego čitalac.** Prompt stoji u `NASTAVAK.md`.
+
+## Svih sedamnaest mesta, redom kojim se čita
+
+**Imena fajlova ne prate mesta u knjizi** — stari nose stare rimske brojeve, novi nose
+`NOVO_`. **Redosled je onaj iz naslova unutar fajla** (`# XI — Fabrika`), ne po imenu
+fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
-| 1 | `POGLAVLJE_1_SUSRET.md` | Susret | 793 |
-| **2** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **Ulazak** | **2.498** |
-| **3** | `POGLAVLJE_2_PUKOTINA.md` | **Pukotina** | 1.786 |
-| 4 | `POGLAVLJE_3_KRV.md` | Krv | 1.324 |
-| 5 | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.405 |
-| 6 | `POGLAVLJE_4_PARIZ.md` | Pariz | 2.026 |
-| 7 | `POGLAVLJE_NOVO_IVICNJAK.md` | Ivičnjak | 1.127 |
-| 8 | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.795 |
-| 9 | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.367 |
-| 10 | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.580 |
-| 11 | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.936 |
-| 12 | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.420 |
-| 13 | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.167 |
-| **14** | `POGLAVLJE_NOVO_MASKA.md` | **Maska** | **1.715** |
-| 15 | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
-| 16 | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.627 |
+| I | `POGLAVLJE_1_SUSRET.md` | Susret | 793 |
+| II | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.498 |
+| III | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.786 |
+| IV | `POGLAVLJE_3_KRV.md` | Krv | 1.324 |
+| V | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.390 |
+| VI | `POGLAVLJE_4_PARIZ.md` | Pariz | 2.019 |
+| VII | `POGLAVLJE_NOVO_IVICNJAK.md` | Ivičnjak | 1.127 |
+| VIII | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.795 |
+| IX | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.366 |
+| X | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.580 |
+| XI | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.915 |
+| **XII** | `POGLAVLJE_NOVO_KATARINA.md` | **Katarina** | **1.625** |
+| XIII | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.386 |
+| XIV | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.212 |
+| XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | 1.707 |
+| XVI | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
+| XVII | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.644 |
 
-**ZBIR: 30.315 reči.**
+**ZBIR: 31.916 reči.**
 
-> **⚑ `ULAZAK` JE MESTO 2, `PUKOTINA` 3** *(odluka autora, 31.08.2026)*. Raniji zapisi
-> koji ih vode obrnuto su zastareli. **`MASKA` je mesto 14, ispred `Kukavice`** — ne 15.
+> **Ne prepisuj ovu tabelu rukom.** `roman/alati/provera.sh` meri zbir iz teksta i javlja
+> ako `README.md`, `NASTAVAK.md` ili `CLAUDE.md` nose staru cifru.
+
+> **⚑ `ULAZAK` JE MESTO II, `PUKOTINA` III** *(odluka autora, 31.08.2026)*. Raniji zapisi
+> koji ih vode obrnuto su zastareli. **`MASKA` stoji ispred `Kukavice`** — danas XV, ne XIV.
 >
 > **Golo `wc -w` u ovom okruženju potcenjuje za oko 1%** — uvek `LC_ALL=C.UTF-8`.
 > **`cat` preko svih fajlova daje netačan zbir**, jer nijedan fajl ne završava prelomom
@@ -107,20 +125,31 @@ Git prati preimenovanja — istorija nije prekinuta.
 
 ## Stanje
 
-**Knjiga ima šesnaest poglavlja i sva su napisana.** Od **01.09.2026** nijedno nije
-zaključano — šesnaest poglavlja je **kostur**, i radi se po
-[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md), odozgo.
+**Knjiga ima sedamnaest poglavlja, sva su napisana, 31.916 reči.** Od **01.09.2026**
+nijedno nije zaključano. **Plan je iscrpljen 06.09.2026** i nov se ne pravi bez
+autorove reči.
 
-**Šta knjiga postaje kad plan bude gotov**, upisano bez ulepšavanja: mala, precizna,
-tužna knjiga od oko 35.000 reči — četvoro ljudi, tri kuhinje i dva kafića. **Ovo nije
-noar i ne meri se noarom** *(autor je izvadio taj motor: niko ga ne traži)*. **Ovo je
-elegija.**
+**Šta je knjiga**, upisano bez ulepšavanja: mala, precizna, tužna knjiga — četvoro
+ljudi, tri kuhinje i dva kafića. **Ovo nije noar i ne meri se noarom** *(autor je
+izvadio taj motor: niko ga ne traži)*. **Ovo je elegija.**
 
 Gde je stalo i šta je sledeće — uvek `NASTAVAK.md`.
 
-**Zakazano za kraj, kad sve bude napisano:** prolaz kroz šavove, pa **noir prolaz kroz
-ceo roman** *(odluka autora, 30.08.2026)*. Tek tada se zaključano otvara, i otvara ga
-autor rečju „otvaram".
+**Zakazano za kraj:** prolaz kroz šavove, pa **noir prolaz kroz ceo roman** *(odluka
+autora, 30.08.2026)*. Tek tada se zaključano otvara, i otvara ga autor rečju „otvaram".
+
+---
+
+## Alati
+
+| Fajl | Šta radi |
+|------|----------|
+| `alati/build_cela.sh` | sastavlja `SAHRANA_BEZ_TELA_CELA.md` iz `poglavlja/`, redom iz naslova unutar fajla |
+| `alati/provera.sh` | zapečaćena imena · fajlovi bez preloma reda · zbir reči protiv `README`/`NASTAVAK`/`CLAUDE.md` · je li sastavljena knjiga ažurna |
+
+**`SAHRANA_BEZ_TELA_CELA.md` se ne prepravlja rukom.** Sastavlja se alatom; ako se dira
+rukom, sledeći prolaz čita staru verziju knjige kao pravu. **To se već desilo** — fajl
+je 06.09.2026. zatečen s šesnaest poglavlja i bez `Katarine`.
 
 ---
 
@@ -136,9 +165,11 @@ autor rečju „otvaram".
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
 | `dokumenti/PRAVILA_STILA.md` | zanat — kako se piše | kad se piše rečenica |
 | `dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta | kad se proverava činjenica |
-| **[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md)** | **⚑ JEDINI PLAN — devet zahvata i potezi A/B/C** | **odmah posle ose i izvora, uvek** |
-| **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)** | **⚑ IZVOR — autorovo znanje o svojim ljudima, 34 stavke u šest krugova** | **pre plana; sve što se piše mora da stoji na njemu** |
+| **[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md)** | **poslednji plan — devet zahvata i potezi A/B/C. ISCRPLJEN 06.09.2026** | zbog razloga i zabrana; posla u njemu nema |
+| **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)** | **⚑ IZVOR — autorovo znanje o svojim ljudima, 54 stavke u jedanaest krugova** | **pre svake napisane rečenice; sve mora da stoji na njemu** |
 | `dokumenti/PLAN_RADA.md` | stari plan — **iscrpljen 31.08.2026** | istorija, ne posao |
+| `dokumenti/LEKTORSKA_OCENA_31_08_2026.md` | ocena petnaest poglavlja po spratovima — **istorija** | kad se pita da li je knjiga dobra |
+| `dokumenti/ARHIVA_NASTAVAK.md` | istorijski deo `NASTAVAK.md`, izmešten 06.09.2026 | poslednje mesto, ne prvo |
 | `dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji** (vodi petnaest); razlozi i zabrane i dalje važe | zbog razloga, ne zbog plana |
 | `dokumenti/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
 | `dokumenti/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
@@ -147,6 +178,12 @@ autor rečju „otvaram".
 
 **Razlika koja se stalno meša:** dnevnik je **istorija** (šta se radilo i zašto),
 `REGISTAR_ODLUKA.md` je **zakon** (šta se ne dira). Kad se sukobe — važi registar.
+
+> **⚑ O numeraciji u starim dokumentima.** `REGISTAR_ODLUKA.md`, `SVET_I_LIKOVI_1.md`,
+> `NOVA_KNJIGA_MAPA.md`, `FINALNI_PROLAZ_PRAVILA.md`, `DUGOVI_KNJIGE.md` i dnevnik pisani
+> su dok je knjiga imala **devet, pa petnaest, pa šesnaest** poglavlja. Svaki od njih nosi
+> **prevodnu tabelu na vrhu**. Oznake se **ne prepisuju** — one su zapis onoga što je tada
+> odlučeno.
 
 ---
 
