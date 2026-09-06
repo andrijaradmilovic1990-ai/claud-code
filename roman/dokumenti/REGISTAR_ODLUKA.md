@@ -2332,3 +2332,56 @@ saznao nijednu novu činjenicu.** ✅
 
 **Ne umnožavati.** Njen glas se javlja **tačno jednom u knjizi, ovde.** Drugi put bi od
 postupka napravio manir.
+
+---
+
+# 31 — ⚑ ZAHVAT 7 IZVEDEN: JOVANA DANAS, JEDAN DETALJ *(06.09.2026)*
+
+**`PLAN_03_09_2026.md`, Deo 2 zahvat 7, u verziji iz Dela 8** *(prva verzija plana je tražila
+da Andrijana kaže da je Jovana dobro — **to je izveštaj i ubija kraj**, i sama plan-revizija
+ga je oborila)*.
+
+## 31.1 — Šta je uneto
+
+**`Ćebence` (XVII)**, poslednji blok. Posle zaštićene razmene i posle *„Gledao sam tu
+rečenicu. Dugo."*, **kao drugo, nepitano zujanje:**
+
+> Telefon je zazujao opet.
+>
+> *Kupila neka kola, čekala ih šest meseci. Vozi ko baba, kunem ti se.*
+
+Odmah zatim tekst nastavlja *„Spustio sam telefon."* — nedirnuto.
+**`Ćebence` 1.627 → 1.644 reči; knjiga 32.003 → 32.020.**
+
+## 31.2 — Zašto baš tako
+
+- **Zaštićena razmena *„Kako je." / „Dobro je. Pita za tebe nekad."* nije promenjena ni
+  slovom**, kao ni rečenica koja je gleda. Detalj **dolazi posle nje**, pa ništa ne
+  preuzima od kraja.
+- **David ne reaguje** — sledeći red je već *„Spustio sam telefon."* Nema misli, nema
+  komentara, nema olakšanja.
+- **Andrijana ne objašnjava zašto to pominje.** Ona se žali da Jovana vozi sporo. To je vic,
+  ne izveštaj.
+- **Nema ocene stanja:** nigde ne stoji *dobro je*, *oporavila se*, *izašla je cela*.
+
+## 31.3 — Šta detalj nosi a ne izgovara *(materijal: `ODGOVORI`, 52)*
+
+**Šest meseci čekanja** je autorov podatak i jedini pravi teret u rečenici: **žena koja čeka
+šest meseci na nešto računa unapred da će je biti.** Suprotnost devojci iz `Krvi`, koja je
+ulazila u prva kola koja stanu. **Knjiga tu vezu ne pravi nigde** — pravi je čitalac ili je
+nema, i to je prihvatljivo *(Deo 8, tačka 7)*.
+
+**Efekat koji se time traži:** ono *„ne"* iz `Kukavice` prestaje da bude okrutnost.
+**Proizvodi ga čitalac, ne rečenica. I David ga nikad ne sazna.**
+
+## 31.4 — ⛔ MARKA AUTOMOBILA NE ULAZI
+
+**Autorov stvarni podatak je konkretna marka.** **Ne piše se.** Knjiga ne imenuje nijednu
+marku automobila ni u jednom od sedamnaest poglavlja *(provereno alatom, 06.09.2026)*, a
+ime brenda bi je zakucalo u tačnu godinu. **Stoji „neka kola".**
+
+## 31.5 — Šta se ne dira
+
+**Sve od *„Spustio sam telefon."* naniže do kraja knjige.** Prazna stolica, žena s
+kišobranom, *Sahrana bez tela*, prazan džep — **prsten se ne pomera.** Zahvat 7 je smeo da
+doda milimetar **pre** kraja, ne u njemu.
