@@ -100,13 +100,13 @@ Džabe dobijeno, od čoveka koji me znao tri nedelje. Naučio sam da se odazivam
 
 I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 
-Posle godinu dana — telefon. Kupljen za keš, od čoveka koji prodaje takve telefone i takvo ćutanje uz njih. Sedeo sam na klupi pola sata pre nego što sam ukucao broj koji i danas znam napamet. Tri reči. Pisao sam ih i brisao kao klinac pred prvi poziv devojci, jer je sve duže od tri reči bilo pismo, a pismo je trag, a sve kraće nije bilo ništa.
+Posle godinu dana — telefon. Kupljen za keš, od čoveka koji prodaje takve telefone i takvo ćutanje uz njih. Sedeo sam na klupi pola sata pre nego što sam ukucao broj koji i danas znam napamet. Četiri reči. Pisao sam ih i brisao kao klinac pred prvi poziv devojci, jer je sve duže od toga bilo pismo, a pismo je trag, a sve kraće nije bilo ništa.
 
 Bezbedan sam. Ne tražite.
 
 Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još malo — čovek koji je svom starom životu upravo rekao jedinu rečenicu koju će mu ikad reći.
 
-Preko granice je ostala kuhinja u kojoj je stolica u ćošku bila moja i deca se na nju nisu penjala, i žena od osamdeset dve koja je sredom spremala čiste stvari za slučaj da dođem u petak. Njima nisam poslao ni te tri reči.
+Preko granice je ostala kuhinja u kojoj je stolica u ćošku bila moja i deca se na nju nisu penjala, i žena od osamdeset dve koja je sredom spremala čiste stvari za slučaj da dođem u petak. Njima nisam poslao ni te četiri reči.
 
 ⁂
 
@@ -138,7 +138,7 @@ Andrijana je dugo ćutala. Predugo.
 
 Dobro.
 
-Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem. Svi ostali su moju poruku dobili od mene. Ona od Andrijane.
+Nije primila te četiri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem. Svi ostali su moju poruku dobili od mene. Ona od Andrijane.
 
 I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna.
 
@@ -154,6 +154,6 @@ Telefon je zazujao uveče, na stolu, pored knjige koju nisam čitao.
 
 Stigla sam. Volim te.
 
-Tri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju tri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole.
+Četiri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju četiri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole.
 
 A onoj pod šeširom trebalo je četiri godine da se vrati za sto, i ja sam to čitavo vreme zvao milošću.
