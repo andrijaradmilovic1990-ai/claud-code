@@ -844,3 +844,28 @@ ostaje tačno — godinama stoji, ne godinama na tom frižideru.
 > **odustala je od adrese na kojoj već živi.**
 >
 > **Ništa od toga se ne izgovara.** Samo prestaje da bude papir.
+
+---
+
+# DESETI KRUG — 06.09.2026 · ⚑ JOVANA DANAS IMA KOLA
+
+> **Pitanje *(Helena)*, uz zahvat 7:** *„Koji detalj — kola (kupila neka mala kola, vozi ko
+> baba) ili terasa (preselila se, šalje slike cveća)?"*
+
+## 52 — KOLA, I ČEKALA IH JE ŠEST MESECI
+
+**Autor, doslovno u sadržaju:** *„mislim da je bolje kola, jer je zapravo u stvarnosti
+kupila Teslu i čekala je šest meseci."*
+
+**Šta se od ovoga piše:**
+
+- **Kola — da.** Detalj za zahvat 7 ide preko Andrijane, u poslednjem bloku `Ćebenceta`.
+- **Šest meseci čekanja — da.** To je materijal, ne ukras: **žena koja čeka šest meseci na
+  nešto je žena koja računa unapred da će je biti.** Tačna suprotnost devojci koja je
+  ulazila u prva kola koja stanu *(`Krv`, semafor)*. **Rečenica to nigde ne izgovara.**
+- **⛔ Marka — ne.** Knjiga **ne imenuje nijednu marku automobila, nigde** *(provereno
+  alatom, svih sedamnaest poglavlja)*. Jedno ime brenda probija registar knjige i zakucava
+  je u tačnu godinu, a knjiga je namerno bez cifara te vrste. **Piše se „neka kola".**
+
+**Uz to stoji `ODGOVORI` 19** *(ne luduje više kolima)* — ali se **stanje ne izgovara.**
+Andrijana se žali da vozi sporo; zaključak pravi čitalac ili ga nema.
