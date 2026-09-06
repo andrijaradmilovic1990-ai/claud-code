@@ -132,8 +132,16 @@
 > s njima**, i **nijedna postojeća rečenica nije promenjena.** Registar **29**,
 > `ODGOVORI` **51**. Knjiga: **31.958 reči.**
 >
-> **Sledeći korak:** **A — Jovanin glas** *(najstroža ograda u planu)*, pa **zahvat 7 —**
-> **Jovana danas u `Ćebencetu`**, pa **proređivanje motiva (8)**, pa **slepi prolaz (9)**.
+> **⚑ POTEZ A ZATVOREN 06.09.2026 — JOVANIN GLAS, JEDNOM, CEO.** U `Beli grad` (XIV), u blok
+> s porukama u dva ujutru, ušla je **jedna njena poruka cela, kurzivom, bez ijedne reči
+> okvira** — o susedu koji hrče, o sestri, o seriji koju gleda sedmi put. **Ništa nije
+> obrisano**; prepričavanje ostaje i poruka stoji posle njega. **Nijedna nova činjenica,
+> nema „ti", nema potpisa.** `Beli grad` **2.167 → 2.212**; knjiga **31.958 → 32.003**.
+> Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 30**. **Njen glas se ne umnožava — jednom u
+> knjizi, i to je bilo ovde.**
+>
+> **Sledeći korak:** **zahvat 7 — Jovana danas u `Ćebencetu`**, pa **proređivanje motiva
+> (8)**, pa **slepi prolaz po Pravilu R (9)**.
 
 ---
 

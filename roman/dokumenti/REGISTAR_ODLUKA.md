@@ -2271,3 +2271,64 @@ tekstu.** Uz to bi bio jedini naslov koji unapred kaže o kome je poglavlje.
 **ODLUKA ČEKA AUTORA.** Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih
 naslova: **`Orman`** *(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
 **Dok autor ne kaže, naslov ostaje `Katarina` i ništa se ne dira.**
+
+---
+
+# 30 — ⚑ POTEZ A IZVEDEN: JOVANIN GLAS, JEDNOM, CEO *(06.09.2026)*
+
+**`PLAN_03_09_2026.md`, Deo 3 tačka A** — potez koji je u Delu 8 nosio **najstrožu ogradu u
+celom planu.** Zatvara jednu od četiri zamerke koje Deo 8 ostavlja da stoje:
+**„Jovana nikad ne progovori sama."** *(sprat: knjiga)*
+
+## 30.1 — Šta je uneto
+
+**`Beli grad` (XIV)**, blok s porukama u dva ujutru. **Ništa nije obrisano** — prepričavanje
+je bilo tačno i ostaje; posle njega, **bez ijedne reči okvira**, stoji jedna njena poruka
+cela, kurzivom:
+
+> *Onaj iz susedne sobe hrče kao da mu neko duguje pare.*
+> *Sestra mi donela grožđe pa ga sama pojela, sedi i jede i gleda me.*
+> *Pustila sam opet onu seriju. Sedmi put.*
+> *Znam svaku rečenicu unapred pa me ništa ne iznenadi.*
+> *Zato je i gledam.*
+
+Odmah zatim tekst nastavlja *„Ja sam odgovarao."* — nedirnuto.
+**`Beli grad` 2.167 → 2.212 reči; knjiga 31.958 → 32.003.**
+
+## 30.2 — Zašto baš tu i baš tako
+
+**Postupak je već dokazan u ovoj knjizi:** Katarinina ceduljica u `Ćebencetu` — tekst o kafi
+i jutru koji nosi sve. **Dva papira, dve žene, jedan džep.** `Beli grad` je jedino mesto
+gde ona govori mesecima a čitalac joj ne vidi nijednu reč.
+
+**Merilo je bilo ceduljica, ne ispovest:** poruka je **o ničemu** — o susedu, o sestri, o
+seriji. **Udara zato što čitalac zna šta je ispod, a ona to ne piše.**
+
+## 30.3 — Ograde, sve ispoštovane
+
+1. **Nije ispovest, objašnjenje ni oproštaj.**
+2. **Nijedna nova činjenica** — ni o udesu, ni o njima, ni o radnji.
+3. **Nema „ti" i nema obraćanja** *(`ODGOVORI`, 17)*. Poruka je poslata njemu, ali ne
+   govori o njemu ni jednom rečju — i baš zato radi.
+4. **Ime se ne pominje i ona se ne potpisuje** *(registar, sekcija 15 — ime pada samo u
+   `Kukavici`)*.
+5. **Nije joj dodata dubina** *(sekcija 2)*. Nema ocene stanja, nema „dobro sam", nema
+   rečenice u kojoj sebe imenuje.
+
+## 30.4 — Jedno mesto koje je izmereno i propušteno, upisujem jer je bilo sporno
+
+**Poslednja dva reda** *(„Znam svaku rečenicu unapred… Zato je i gledam.")* iznesena su
+autoru kao rizik od dodate dubine, uz ponuđenu kraću zamenu *(„Sedmi put. / Sad je pola
+tri.")*. **Autor je izabrao dužu verziju.**
+
+**Zašto prolazi:** izgovoreno je **o seriji**, ravno, u dva ujutru, i **ne imenuje ništa o
+njoj ni o njemu.** Ako čitalac u tome čuje išta više — to je njegov spoj, ne rečenica.
+**Naracija ga nigde ne pravi.**
+
+## 30.5 — Mera *(Deo 6, tačka 5)*
+
+**Čitalac je prvi put čuo ženu zbog koje je sve ovo, bez njegovog filtera — i iz toga nije
+saznao nijednu novu činjenicu.** ✅
+
+**Ne umnožavati.** Njen glas se javlja **tačno jednom u knjizi, ovde.** Drugi put bi od
+postupka napravio manir.
