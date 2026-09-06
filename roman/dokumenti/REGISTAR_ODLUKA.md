@@ -1,13 +1,12 @@
 # REGISTAR ODLUKA — šta je zatvoreno
 
-> ## ⛑ UPOZORENJE NA BROJEVE — SVE OZNAKE REDOVA U OVOM FAJLU SU U STAROJ NUMERACIJI *(upisano 01.09.2026, slepi lektorski prolaz)*
+> ## ⛑ UPOZORENJE NA BROJEVE — OZNAKE POGLAVLJA U OVOM FAJLU SU U STAROJ NUMERACIJI
+
+> **Knjiga danas ima SEDAMNAEST poglavlja, I–XVII** *(od 04.09.2026, kad je napisano
+> `KATARINA` i sve od `Prazne stolice` naniže prenumerisano)*. Ovaj fajl je pisan dok ih je
+> bilo **devet, pa petnaest, pa šesnaest** — pa se oznake u njemu **prevode, ne prepisuju.**
 >
-> **Knjiga danas ima šesnaest poglavlja, I–XVI. Ovaj fajl je pisan dok ih je bilo devet**,
-> i sve oznake tipa `VII 135`, `VIII 65`, `V 89`, `VI 125`, `IX 227`, `II 71` **misle na staru
-> devetku, ne na današnje brojeve.** Ko po njima otvori „VII“, otvoriće `Ivičnjak` umesto
-> `Belog grada`.
->
-> **Prevodna tabela — staro → današnje:**
+> **Prevodna tabela — stara devetka → danas:**
 >
 > | staro | poglavlje | danas |
 > |---|---|---|
@@ -16,17 +15,23 @@
 > | III | Krv | **IV** |
 > | IV | Pariz | **VI** |
 > | V | Nestanak | **IX** |
-> | VI | Prazna stolica | **XII** |
-> | VII | Beli grad | **XIII** |
-> | VIII | Kukavica | **XV** |
-> | IX | Ćebence | **XVI** |
+> | VI | Prazna stolica | **XIII** |
+> | VII | Beli grad | **XIV** |
+> | VIII | Kukavica | **XVI** |
+> | IX | Ćebence | **XVII** |
 >
-> *(Sedam novih — `Ulazak` II, `Italija` V, `Ivičnjak` VII, `Prelom` VIII, `Majka` X,
-> `Fabrika` XI, `Maska` XIV — u staroj numeraciji nemaju broj i nisu ovde upućivana.)*
+> **Prevodna tabela — numeracija od šesnaest *(31.08.–04.09.2026)* → danas:**
+> **I–XI stoje nepromenjeni**; `Prazna stolica` **XII → XIII** · `Beli grad` **XIII → XIV** ·
+> `Maska` **XIV → XV** · `Kukavica` **XV → XVI** · `Ćebence` **XVI → XVII**.
+> **Novo poglavlje `KATARINA` je XII.**
 >
-> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje: Katarinina
-> dva mesta stoje kao `VII 135` i `VII 161`, a u fajlu su danas **redovi 139 i 167**.
-> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ova tabela ih prevodi.
+> **Pun redosled danas:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
+> VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
+> **XII Katarina** · XIII Prazna stolica · XIV Beli grad · XV Maska · XVI Kukavica ·
+> XVII Ćebence. **Zbir: 31.916 reči.**
+>
+> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje.
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ove tabele ih prevode.
 
 
 > **Ovo je pamćenje odluka, ne zabrana.** *(Prepisano 30.08.2026, odluka autora.)*

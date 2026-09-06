@@ -1,5 +1,15 @@
 # POENTA KNJIGE — osa koju sve ostalo služi
 
+> ## ⛑ NUMERACIJA — knjiga danas ima SEDAMNAEST poglavlja *(od 04.09.2026)*
+>
+> Ovaj fajl je pisan pre toga i **oznake poglavlja u njemu su stare.** Prevodne tabele stoje
+> na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
+> **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
+> `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.916 reči.**
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
+
+
 > **Šta je ovo.** Odluka autora od **31.08.2026.** Nastala je kad je autor, posle pročitane
 > prve verzije `Maske`, rekao da mu je knjiga postala pretrpana i da **ne zna šta je poenta
 > od prvog do šesnaestog poglavlja.** Ovo je odgovor koji je on sam dao, zapisan njegovim
@@ -79,8 +89,14 @@ sad prestala da se nada da greši."*
 > progovori.** `Krv` to izgovara unapred: *„Ona do danas misli da zna zašto. Nikad je nisam
 > ispravio."* — **rukopis je ta ispravka.** Čitalac stoji tačno na njenom mestu.
 
-**Otvoreno pitanje autoru:** sme li knjiga da **zna** da je pisana njoj, ili to ostaje
-potpuno van teksta.
+> **⚑ ZATVORENO 03.09.2026, istog dana** *(`ODGOVORI`, stavka 17)*. Pitanje je bilo sme li
+> knjiga da **zna** da je pisana njoj. **Autor: ne.** *„Knjiga nije direktno pisana njoj, ali
+> se u knjizi govori i o tome zašto je zapravo otišao."*
+>
+> **Knjiga se ne obraća nikome.** Nema pisma, nema „ti", nema meta-okvira, i ne dobija ih.
+> To što će Jovana saznati čitajući je **činjenica o životu, ne postupak u tekstu** — ostaje
+> **ključ za čitanje, nikad rečenica u rukopisu.** *(Isto stoji u `PLAN_03_09_2026.md`, Deo 5,
+> tačka 8.)*
 
 ## 3 — Katarina
 
@@ -153,8 +169,15 @@ isključivo ono što je od toga ostalo.
 **Zato knjiga deluje pretrpano.** Nije pretrpana — **nedovršena je na jednom kraju.**
 Čitalac je zatvara s osećajem umesto s poentom.
 
-**`Maska` je jedino mesto na kom se to može popraviti.** Poslednja sadašnjost pre kraja,
-jedino poglavlje sadašnjosti između vrhunca (`Kukavica`) i ogledala (`Ćebence`).
+**`Maska` je bila jedino mesto na kom se to moglo popraviti**, i to je odrađeno *(vidi
+napomenu na kraju fajla)*.
+
+> **⛑ ISPRAVLJENO 06.09.2026.** Ovde je do danas stajalo da je `Maska` *„poslednja
+> sadašnjost pre kraja, jedino poglavlje sadašnjosti između vrhunca (`Kukavica`) i ogledala
+> (`Ćebence`)."* **Netačno od 31.08.2026**, kad je autor odlučio da `Maska` stoji **ispred**
+> `Kukavice`, ne iza nje *(registar, sekcija 19.1)*. Danas je **XV**, a `Kukavica` **XVI** i
+> `Ćebence` **XVII** — dakle poslednja sadašnjost pre vrhunca, ne posle njega. **Zadatak
+> poglavlja se time ne menja**; menja se samo gde stoji.
 
 ---
 
@@ -162,15 +185,21 @@ jedino poglavlje sadašnjosti između vrhunca (`Kukavica`) i ogledala (`Ćebence
 
 **Puni zadatak je u `PLAN_RADA.md`, POSAO E.** Ovde stoji samo ono što je osa:
 
-> **`Maska` je dan u sadašnjosti u kom je račun i dalje otvoren prema njoj, on i dalje ne
-> zna šta mu je, i sidro i dalje drži.**
+> **`Maska` je dan u sadašnjosti u kom je račun i dalje otvoren prema njoj, zabrana i dalje
+> stoji, i sidro i dalje drži.**
+
+> **⛑ ISPRAVLJENO 06.09.2026.** Ovde je stajalo *„on i dalje ne zna šta mu je"* — **ostatak
+> stare ose, koju je autor oborio 03.09.2026.** *(vidi vrh ovog fajla i `ODGOVORI`, stavka 2)*.
+> **On zna, i sam sebi je zabranio.** Formulacija je ispravljena; **zadatak poglavlja se ne
+> menja, jer se u oba čitanja piše isto: nema scene u kojoj shvata.**
 
 I taj dan ga **jednom stvarno zamalo ne pogura** da uradi ono što je uradio u `Praznoj
 stolici` (12) — **da digne telefon.** Ne digne ga.
 
 - **Bez pucnja, bez trilerske ivice, niko ne strada.**
 - **Katarina ne sumnja.**
-- **David ne saznaje šta mu je ona.** Nema rečenice u kojoj shvata.
+- **David nigde ništa ne saznaje o tome šta mu je ona** — zna od početka. **Nema scene
+  prosvetljenja i nema rečenice u kojoj to izgovara.**
 
 ---
 
@@ -212,3 +241,19 @@ strana ranije.**
 
 **Pouka, i vredi za svaki naredni prolaz:** kad scena ima pravila upisana u samo poglavlje,
 **scena se meri tim pravilima**, ne opštim utiskom.
+
+---
+
+# ⚑ STANJE OVOG FAJLA NA 06.09.2026 — šta je od njega odrađeno
+
+**Osa nije promenjena i ne menja se osim autorovom rečju.** Ovo je samo evidencija, da
+sledeći prolaz ne otvori posao koji je zatvoren.
+
+| šta je fajl tražio | stanje |
+|---|---|
+| **`Maska` da nosi dan u kom je račun otvoren, sidro drži, i on zamalo digne telefon** | **✅ napisana 31.08.2026** *(1.707 reči, danas **XV**)*. **Čovek u kaputu je izbačen 03.09** — nije autorov lik i **spoljne pretnje u knjizi nema** *(`ODGOVORI`, 21)*. Okidač je sad to što je **ona prestala da mu piše**, ne što ga neko traži. Registar **24** i **26** |
+| **potez 8 — majka u sadašnjosti** | **⛔ pao 31.08.2026, i ostaje pao.** Majka je naplaćena u `Fabrici`; u `Maski` stoji samo kroz teglicu |
+| **„sme li knjiga da zna da je pisana njoj"** | **zatvoreno: ne** *(gore, `ODGOVORI` 17)* |
+| **nalaz „poenta postoji samo u prošlosti"** | **stoji, i delom je plaćen:** `KATARINA` **XII** *(04.09.2026)* je prvo poglavlje koje **sadašnjosti daje sopstveni ulog**, i dvorište u `Parizu` *(zahvat 6)* prvi put pokazuje gde David spava. **Odnos prošlost/sadašnjost se time nije preokrenuo** — nalaz nije zatvoren, samo mu je oduzet jedan argument |
+
+**Sve ostalo u ovom fajlu važi nepromenjeno.**

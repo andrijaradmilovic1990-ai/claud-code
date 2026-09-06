@@ -189,20 +189,133 @@
 > **Knjiga: 31.922 → 31.916.**
 >
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
+> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — osam ih čeka autorovu reč.
+> Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
 >
 > **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
 > a `BRAT` je pao s upisanim razlogom. **Ne praviti nov plan bez autorove reči.**
-> **Sledeće što knjizi treba nije zahvat nego čitalac** — vidi prompt ispod.
+> **Sledeće što knjizi treba nije zahvat nego čitalac** — i **to je 06.09.2026. odrađeno.**
+> Vidi sekciju ispod.
 
 ---
 
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU — ČITANJE, NE REVIZIJA *(upisan 06.09.2026, na zahtev autora)*
+# ⚑ 06.09.2026 — ČITANJE JE ODRAĐENO. ŠTA JE ČITALAC VIDEO
 
-> Nalepiti na početak novog razgovora. **Ovo nije zahvat i nije prolaz.** Plan je iscrpljen;
-> autor traži **mišljenje čitaoca**, ne popravku. Zato prompt namerno **ne daje nijedan
-> dokument** — ni registar, ni plan, ni spisak zaštićenog. Čitalac koji zna šta je zaštićeno
-> više ne čita, nego proverava.
+> **Prompt ispod je iskorišćen i sesija je zatvorena.** Knjiga je pročitana cela i gola,
+> I–XVII, **bez ijednog dokumenta**, i tek posle toga je otvorena dokumentacija. Ovo je
+> zapis šta je čitalac video — **nalaz, ne posao.** Ništa iz njega ne ulazi u tekst dok
+> autor ne kaže.
+
+## Šta je potvrđeno — dijagnoza je preživela sve zahvate
+
+Slep čitalac je **nezavisno reprodukovao tri nalaza** iz `LEKTORSKA_OCENA_31_08_2026.md`,
+skoro istim rečima: **sredina se spušta** *(IX `Nestanak` → X `Majka` → XI `Fabrika`)* ·
+**sadašnjost nema ulog** · **Katarina uvek ulazi u tuđi kadar.** Nijedan od zahvata
+03–06.09. ih nije uklonio.
+
+## Šta je uhvatilo, doslovno
+
+- **`Ulazak` — potez B.** *„Heroin, ako neko pita. Niko nije pitao."*, trener s flasterom,
+  i *„Posle treninga nije mi stavio ruku na potiljak."* **Najopasniji potez u planu je
+  jedini koji je pogodio pun pogodak** — i to bez ijedne dokumentacije.
+- **`Katarina` — kraj.** Raspoređivanje četiri stvari po praznoj polici, dva koraka unazad,
+  teglica pomerena za dva prsta. *„Izgledalo je kao da tu neko živi."*
+- **`Ćebence` — ćebe.** Od ramena do stopala, ivica uz vrat. **Naslov sleće tu.**
+
+## ⚑ MERE IZ `PLAN_03_09_2026.md`, DEO 6 — IZMERENE NA SLEPOM ČITAOCU
+
+**Ovo dokumenti ne mogu da izmere, i zato je zapisano.**
+
+| potez | stiglo do čitaoca? |
+|---|---|
+| **B** — zatečenost kod brata | **✅** prvi nalaz, bez ičije pomoći |
+| **tetovaža „J"** *(`Katarina`)* | **✅** radi tačno kako `ODGOVORI` 40 predviđa — pomislio na Jovanu i pogrešio u činjenici |
+| **A** — Jovanin glas *(`Beli grad`)* | **prošlo bez udarca.** Poruka pročitana, nije trgla. Ceduljica u `Ćebencetu` jeste |
+| **7** — Jovana danas *(kola, šest meseci)* | **❌** ono „ne" iz `Kukavice` ostalo okrutno. **Plan je sam rekao: bolje da ne uspe nego da se napiše** — nije uspelo |
+| **6** — dvorište *(pometena staza)* | **❌ mera pala.** Čitalac je zatvorio knjigu **ne osećajući gde David spava.** Rečenica nije ni registrovana |
+| **sreda** *(`Katarina` → `Prazna stolica`)* | **❌ nije detoniralo.** *„Ne može sreda"* i *„Srede ne volim"* nisu spojene |
+| **2** — tetka *(`Ulazak`)* | **❌** nije uhvaćeno da žena sahranjuje sina. **Plan je tu cenu upisao unapred** *(Deo 8, tačka 2)* — čitalac je ta cena |
+| **C** — dah puca | radi **lokalno**, ne kao potpis knjige |
+
+**Četiri od osam nisu stigle. Nijedna nije loše napisana** — sve su prošle **ispod praga
+vidljivosti.** To je jedna te ista bolest: **knjiga je toliko istrenirana da ne objašnjava
+da je počela da uskraćuje i ono što je htela da pokaže.**
+
+## Jedino mesto gde se čitalac izgubio u POZICIJI *(Pravilo T, prvi red)*
+
+**`Krv` (IV):** „Mali" je vozač od sedamnaest godina, a „Mali" je kroz celo `II` **David**.
+Čitalac je tri paragrafa čitao *„Drži mu glavu / Mali drži"* kao naratora, dok ga nije
+ispravilo sidro *„Meni je bila dvadeset prva"*. **Eho je namerni** *(registar, sekcije 9 i
+27.2 — David je bio taj Mali, sad ima svog)*, **i sidro radi — samo hvata kasno.**
+**Sprat: knjiga.** Blizak nalaz *(`Fabrika`, „Ona vozi brzo")* autor je 06.09. **oborio**
+rečima *„knjiga treba malo da vozi"* — pa ovo ide autoru kao pitanje, ne kao posao.
+
+## Najslabije mesto — i šta se s njim desilo
+
+Čitalac je kao najslabije izdvojio **zdravicu u `Italiji`**. Posle registra **rez je
+povučen po Pravilu L** — sekcija 23.4 nosi četiri razloga i **tri drže**, a najjači je da
+`Prelom` visi o njoj *(„Reci ti nešto." / „Ne.")*.
+
+**Ostaje uža primedba, i ona je nova:** jedna rečenica — *„Naša priča je o slobodi. O dugu.
+I o porodici."* — i **činjenica da okvir koji je postavlja kao Davidov promašaj** *(baka
+preseca, Anja ne diže čašu)* **do čitaoca nije stigao.** Sprat: **rečenica**, sa štetom na
+spratu poglavlja. **Nije zahtev za rez** — zapis da ograda nije radila.
+
+## ⚑ ŠTA JE 06.09.2026. SREĐENO U DOKUMENTACIJI
+
+Posle čitanja je, na zahtev autora, pročitana **cela dokumentacija** i sređena:
+
+- **`SAHRANA_BEZ_TELA_CELA.md` je bio zastareo za celo poglavlje** — šesnaest poglavlja,
+  bez `Katarine`. **Regenerisan.** Od sada ga sastavlja `roman/alati/build_cela.sh`.
+- **`roman/alati/provera.sh`** — zapečaćena imena, prelomi reda, zbir reči protiv tri
+  fajla, ažurnost sastavljene knjige. **Pušta se pre commita.**
+- **Dnevnik je stajao na 04.09** — potez A i zahvati 7, 8, 9 nisu imali red, iako ih
+  registar ima. **Pravilo C prekršeno tri puta zaredom.** Dopisano.
+- **`SVET_I_LIKOVI_1.md` nije znao za malu Jovanu, tetovažu ni razlog srede** — materijal
+  koji je autor dao 04.09. stajao je samo u izvoru i registru, a fajl s **pravilima sveta**
+  bio je slep. **Upisano, celo pod zabranom pisanja.** Tu je i **osmi krug o Katarini**
+  *(ne beži od porodice · David ne živi kod nje · znala je šta bira)*.
+- **`POENTA_KNJIGE.md` je nosio tri protivrečnosti** — otvoreno pitanje koje je autor
+  zatvorio 03.09, tvrdnju o mestu `Maske` netačnu od 31.08, i ostatak **stare ose**
+  *(„on i dalje ne zna šta mu je")*. Sve tri ispravljene.
+- **`CLAUDE.md`:** „Četiri fajla" a nabrojano pet; „četrnaest poteza" iz starog plana.
+- **Svi istorijski dokumenti** dobili prevodnu tabelu na sedamnaest poglavlja.
+
+**Grane su proverene:** devet starih grana stoji van glavne, sve od 28.08.–03.09, i
+**glavna sadrži sve što je u njima.** Ništa ne visi.
+
+---
+
+## ⚑ ŠTA JE STVARNO OTVORENO U REPOU — spisak, prvi put na jednom mestu
+
+**Repo na više mesta piše „nema otvorenih pitanja". Ima ih, samo nisu bila skupljena.**
+Nijedno nije posao — **svako čeka autorovu reč.**
+
+| # | šta | gde stoji |
+|---|---|---|
+| 1 | **Naslov poglavlja XII je jedino lično ime u sadržaju.** Svi ostali naslovi su mesto, predmet ili radnja; ime bi tu palo **treći put**, pre nego što ga čitalac ijednom sretne u tekstu. Predlozi iz samog poglavlja: **`Orman`** · `Polica` · `Kesa` | registar **29.5** |
+| 2 | **Ime mesta na koje su odlagali put** *(Kraljevo)*. Knjiga ne imenuje **nijedan** domaći grad; imenovanje menja pravilo za celu knjigu | registar **28.4**, `ODGOVORI` **50** |
+| 3 | **Šta je brat govorio kad nešto ne valja** — autor se ne seća i dao je da se smisli. **Nije ponuđeno.** Čeka po Pravilu K | `ODGOVORI` **14**, registar **27.6** |
+| 4 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
+| 5 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
+| 6 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
+| 7 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
+| 8 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
+
+> **⚑ Jedan stari „nerešen" nalaz je u međuvremenu rešen, a nigde nije precrtan:**
+> registar **18** vodi da su `Kukavica` i `Ćebence` **jedna neprekinuta noć koju `Maska`
+> preseca.** **Ne preseca je više** — `Maska` je 31.08.2026. premeštena **ispred**
+> `Kukavice` *(sekcija 19.1)*, pa danas stoji XV, a XVI i XVII su ta noć, jedna za drugom.
+> **Nalaz je zatvoren premeštanjem, ne izmenom teksta.**
+
+---
+
+## Prompt kojim je čitanje odrađeno *(istorija, ne zadatak)*
+
+> **Iskorišćen 06.09.2026.** Stoji kao model za sledeći put kad autor traži čitaoca a ne
+> prolaz: **ne daje nijedan dokument**, jer čitalac koji zna šta je zaštićeno više ne čita
+> nego proverava.
 
 ```
 Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor.
