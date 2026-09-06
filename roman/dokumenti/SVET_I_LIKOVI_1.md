@@ -1,13 +1,12 @@
 # SAHRANA BEZ TELA — SVET, LIKOVI, HRONOLOGIJA
 
-> ## ⛑ UPOZORENJE NA BROJEVE — SVE OZNAKE REDOVA U OVOM FAJLU SU U STAROJ NUMERACIJI *(upisano 01.09.2026, slepi lektorski prolaz)*
+> ## ⛑ UPOZORENJE NA BROJEVE — OZNAKE POGLAVLJA U OVOM FAJLU SU U STAROJ NUMERACIJI
+
+> **Knjiga danas ima SEDAMNAEST poglavlja, I–XVII** *(od 04.09.2026, kad je napisano
+> `KATARINA` i sve od `Prazne stolice` naniže prenumerisano)*. Ovaj fajl je pisan dok ih je
+> bilo **devet, pa petnaest, pa šesnaest** — pa se oznake u njemu **prevode, ne prepisuju.**
 >
-> **Knjiga danas ima šesnaest poglavlja, I–XVI. Ovaj fajl je pisan dok ih je bilo devet**,
-> i sve oznake tipa `VII 135`, `VIII 65`, `V 89`, `VI 125`, `IX 227`, `II 71` **misle na staru
-> devetku, ne na današnje brojeve.** Ko po njima otvori „VII“, otvoriće `Ivičnjak` umesto
-> `Belog grada`.
->
-> **Prevodna tabela — staro → današnje:**
+> **Prevodna tabela — stara devetka → danas:**
 >
 > | staro | poglavlje | danas |
 > |---|---|---|
@@ -16,17 +15,23 @@
 > | III | Krv | **IV** |
 > | IV | Pariz | **VI** |
 > | V | Nestanak | **IX** |
-> | VI | Prazna stolica | **XII** |
-> | VII | Beli grad | **XIII** |
-> | VIII | Kukavica | **XV** |
-> | IX | Ćebence | **XVI** |
+> | VI | Prazna stolica | **XIII** |
+> | VII | Beli grad | **XIV** |
+> | VIII | Kukavica | **XVI** |
+> | IX | Ćebence | **XVII** |
 >
-> *(Sedam novih — `Ulazak` II, `Italija` V, `Ivičnjak` VII, `Prelom` VIII, `Majka` X,
-> `Fabrika` XI, `Maska` XIV — u staroj numeraciji nemaju broj i nisu ovde upućivana.)*
+> **Prevodna tabela — numeracija od šesnaest *(31.08.–04.09.2026)* → danas:**
+> **I–XI stoje nepromenjeni**; `Prazna stolica` **XII → XIII** · `Beli grad` **XIII → XIV** ·
+> `Maska` **XIV → XV** · `Kukavica` **XV → XVI** · `Ćebence` **XVI → XVII**.
+> **Novo poglavlje `KATARINA` je XII.**
 >
-> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje: Katarinina
-> dva mesta stoje kao `VII 135` i `VII 161`, a u fajlu su danas **redovi 139 i 167**.
-> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ova tabela ih prevodi.
+> **Pun redosled danas:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
+> VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
+> **XII Katarina** · XIII Prazna stolica · XIV Beli grad · XV Maska · XVI Kukavica ·
+> XVII Ćebence. **Zbir: 31.898 reči.**
+>
+> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje.
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ove tabele ih prevode.
 
 > Ovaj dokument pokriva ISKLJUČIVO priču: ko je ko, šta se desilo kad, zaključana pravila sveta, struktura poglavlja. Za zanat i stil pisanja — vidi PRAVILA_STILA.md. Za aktivni tok revizije — vidi Analiza_i_pokret_prepravke.
 >
@@ -93,7 +98,81 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 - Dok hoda, ruka blizu džepa, iako je džep prazan godinama.
 - Drugom kaže „sedi ti tu, ja ću ovde" — nikad ne kaže zašto.
 
-**SREDA:** David mrzi srede. Razlog se NE otkriva (možda na kraju, možda nikad) — otvorena petlja. Uvedeno u VI.
+**SREDA:** David mrzi srede. **Razlog se u tekstu NE otkriva** — otvorena petlja. Uvedeno u
+`Prazna stolica` *(danas XIII)*. **Razlog postoji i upisan je niže** *(vidi „DVA GUBITKA")*.
+
+---
+
+## ⚑ DVA GUBITKA — MATERIJAL AUTORA OD 04.09.2026, KOJI SE NE PIŠE
+
+> **⛔ OD SVEGA ISPOD SE NE PIŠE NIJEDNA REČENICA.** Ovo je **ključ za čitanje, ne građa.**
+> Autorova formulacija — *„više nikad ne smem da ne znam šta će biti"* — je **doslovno ona
+> rečenica koju `PLAN_03_09_2026.md`, Deo 1B, zabranjuje.** Ovaj zapis postoji da onaj ko
+> piše **zna šta piše**, ne da to napiše. Izvor: `ODGOVORI_AUTORA_03_09_2026.md`,
+> **stavke 26, 28, 29, 30, 32, 33, 37, 38, 39, 40.**
+>
+> **Zašto je ipak ovde, a ne samo u `ODGOVORI`:** ovo je jedini fajl koji se otvara kad se
+> proverava **činjenica o svetu**, a do 06.09.2026. nije znao ništa od ovoga. Registar je
+> nosio odluke, izvor je nosio materijal, a fajl s pravilima sveta je bio slep.
+
+### Prva Jovana — imala je oko trinaest
+
+**Davidova najbolja drugarica iz detinjstva, takođe po imenu Jovana.** Skočila je sa
+zgrade. **Ubila se u sredu**, i **pre bratove smrti**, ne posle *(ispravka autora,
+stavka 28 — raniji zapis je to okretao naopako)*.
+
+**David je bio skrhan, ali se nije uplašio.** *„Tek kad je video brata, tek onda se
+uplašio."*
+
+### Redosled je uzrok, ne raspored
+
+| | šta se desilo | šta je ostalo |
+|---|---|---|
+| **mala Jovana** *(pre)* | trinaestogodišnjakinja skoči sa zgrade, **sreda** | **slom** — ali bez straha |
+| **brat** *(posle)* | nađe ga sam, s četrnaest | **strah**, i iz njega dve navike |
+
+**Strah, autorovim rečima:** *„ljudi koje volim umiru, ubijaju se."* Iz njega izlaze dve
+stvari koje su danas u knjizi **bez porekla, i tako ostaju:**
+
+1. **Prestaje da se vezuje za ljude.**
+2. **Mora da zna unapred** — poreklo motiva *„leđa ka zidu, da vidim ko ulazi"*.
+   **Veza se nikad ne izgovara** *(potez B, `Ulazak`; registar 27)*.
+
+### ⚑ Obe se zovu Jovana, i naslov je time doslovan
+
+**Odlazak od glavne Jovane je ista logika:** *„bolje da je ostavim nego da joj se nešto
+desi."* **Prvu je sahranio; drugu je sahranio živu, da ne bi morao mrtvu.**
+
+**Isto je zamalo uradio Katarini** *(stavka 33)* — kolebao se, i **okidač nije bila
+opasnost nego sreća.** **Ali nije otišao.** To je jedina pobeda u knjizi, i knjiga je
+danas nema ni kao senku — **svesno** *(stavka 36: pobeda već stoji neizgovorena u `Krvi`,
+„broji viljuške naglas… najveća koju sam u životu izvojevao")*.
+
+### Tetovaža — jedina stvar koju nosi otvoreno
+
+**Slovo „J", pisano, ispod uva, na LEVOJ STRANI VRATA.** Veličine prsta, staro,
+zeleno-crno. **Ne krije se ničim.** *(Autorovo „na vrstu" iz ranijih zapisa je omaška —
+reč je o **vratu**; potvrđeno fotografijom, stavka 39.)* Kasnije i **cela leva ruka** —
+rukav uspomena koje niko osim njega ne ume da rastumači.
+
+- **`Katarina` (XII) ga nosi kao gest i ništa više:** ona stane iza njega, palac joj u
+  prolazu pređe preko slova, **on se ne okrene**, naracija imenuje slovo jednom, ravno,
+  i ide dalje. **⛔ Nema scene u kojoj ona pita za slovo** *(stavka 40)*.
+- **Katarina zna celu priču o tetovaži** — pitala je jednom, davno, i dobila ceo odgovor.
+  **Uskraćen joj je jedan jedini podatak: dan.** *(stavka 38)*
+- **Čovek koji nikom ne okreće leđa dozvoljava samo njoj da mu stane iza njih** — i tačno
+  tamo, pod njenom rukom, stoji znak prve osobe koju je izgubio. **⛔ NIJEDNA REČENICA TO
+  NE SME DA KAŽE.** Čim David registruje da mu je neko za leđima — objašnjeno je.
+- **Dvosmislenost slova se NE razrešava.** Ime „Jovana" pada samo u `Kukavici`, pa će
+  čitalac pomisliti na nju — **pogrešiće u činjenici, a pogoditi u osećaju.** Ne dodavati
+  drugo slovo ni datum.
+
+### Šta je od ovoga otvoreno
+
+**Autor je 04.09.2026. tražio da se mala Jovana i sreda „negde plate"** *(stavka 37)*.
+**Plaćeno je onoliko koliko je odlučeno:** tetovaža kao gest u `Katarini` i pomerena sreda
+u istom poglavlju, koja **detonira unazad** u `Praznoj stolici`. **Strah se i dalje ne
+izgovara nijednom rečju**, i ta zabrana stoji nedirnuta.
 
 ---
 
@@ -157,6 +236,48 @@ UDICA: svet pun smrti svuda, a jedina smrt koja se NIKAD ne imenuje je ona koju 
 - **Porodica:** mlađa sestra, živi kod roditelja s najmlađim bratom, bez posla, traži ga mesecima. Katarina je jedina koja stoji na svojim nogama, ide kod njih svakog meseca i nosi sopstvenu garderobu sestri. Ne priznaje to kao teret — „Njoj trebaju." (V)
 - **Njena želja, izgovorena jednom i tiho:** da izvadi ličnu na njegovu adresu (IV). On ćuti. Pet redova kasnije diže glas da odbrani magnet. Beba i zajednička porodica postoje kao njena želja od početka veze, ali NAMERNO ostaju van teksta — nemaju predmet, a bez predmeta postaju tema.
 - **Ona vidi njegovu tehniku:** „To radiš. Staneš i čekaš da prođe. Kao kiša." (V) — prvo mesto u knjizi gde je neko van starog sveta u pravu o njemu. Priprema „kuče" iz VIII.
+
+> **⚑ DOPUNA 04.09.2026 — OSMI KRUG MATERIJALA** *(`ODGOVORI`, stavke 35–50)*, dat pošto je
+> prva verzija poglavlja `KATARINA` napisana na pogrešnoj pretpostavci. **Ovo su činjenice,
+> ne predlozi.**
+>
+> - **⛔ NIJE POBEGLA OD PORODICE** *(stavka 35 — obara raniji zapis)*. Ima **pune slike
+>   brata, sestre i roditelja** i **vezana je za njih.** Otišla je zato što **to malo mesto
+>   nema šta da ponudi.** *„Nema tamo ništa."* **Njena rupa ne postoji** — razlog je običan
+>   i nije tajna. Ono što se piše je **viđeno stanje** *(njeni ljudi prisutni u stanu)*,
+>   nikad objašnjenje zašto je otišla.
+> - **⛔ DAVID NE ŽIVI KOD NJE** *(stavka 42)*. Ona živi **sama, u iznajmljenom stanu iz
+>   `Fabrike`** *(„Sama. U stanu. Plaćam.")*; **on ponekad prespava, a živi kod majke.**
+>   Fioka je oduvek bila **gostinska** — `Beli grad` *(„još uvek imao jednu fioku")* i
+>   `Maska` *(„onu fioku koja je moja — jedna, u ovom stanu")*. Nijedan dokument to nije
+>   pročitao tako do 04.09.2026.
+> - **Njen stan je pun njenih ljudi — jedanaest slika. David nema nijednu.** *(`Nestanak`:
+>   „Fotografije nisam poneo. O tome neću.")* **Ogledalo nije u tome što su isti nego što
+>   nisu**, i **nijedno od njih to ne primeti.** Ne izgovarati.
+> - **Kako ga zove:** *„Ljubavi." „Srećo."* — jedini način da se čuje obraćanje, a da ime
+>   ne padne.
+> - **Šta ga kod nje nervira:** **tvrdoglavost i lažno samopouzdanje** *(stavka 44)*. To je
+>   **jedina mana koju autor tvrdi za nju i poglavlju je neophodna** — bez nje je karton.
+>   **Piše se kao radnja, nikad kao ocena** *(scena s lestvama, ne „bila je tvrdoglava")*.
+> - **Kad je ljuta — uglavnom ćuti**, i tera ga da se izvini da bi prestala *(stavka 45)*.
+>   **On se izvinjava lako, i za ono što nije njegovo** — jer ga izvinjenje ništa ne košta.
+>   **Sve što košta, izostavlja.** Vidi se tako što u istom poglavlju kaže *izvini* bez
+>   oklevanja, a *ne može* bez razloga. **Ne izgovarati.**
+> - **⚑ ZNALA JE ŠTA BIRA** *(stavka 47)*. Znala je da ima drugarice, **da je švaler i da
+>   je spavao s pola žena u toj fabrici**, da ima prošlost o kojoj ne priča i da je čudan.
+>   **Nije naivna i nije prevarena — birala je s punim spiskom u ruci.** To je jedini način
+>   da se produbi **ona** a da ne postane ravnopravna Jovani. **⛔ Ne piše se rečenica u
+>   kojoj to imenuje kao izbor** *(„znala sam u šta ulazim")* — pominje se usput, kao vic.
+> - **Majku je upoznala posle dve šetnje, pre nego što su se smuvali. Stidljivo.** U tekst
+>   sme samo kao pomen, ne kao scena *(stavka 48)*.
+> - **⛔ Trenutak „ova nije kao ostale" — autor nema tačan odgovor** *(stavka 49)*.
+>   **Scena se ne izmišlja.**
+> - **Jedina veća stvar koju je htela a nije dobila:** da odu na jedno mesto; odlagali su
+>   dve godine *(stavka 50)*. **Treći put da knjiga ima isti oblik — traži, odloži se,
+>   prođe:** lična karta u `Parizu` · mart u `Ćebencetu` · ovaj put. **Ime mesta se ne
+>   izgovara** — knjiga ne imenuje nijedan domaći grad.
+> - **Njeno poglavlje postoji: `KATARINA`, XII** *(04.09.2026)*. Registar, **sekcija 28** —
+>   zašto postoji, šta se u njemu ne dira, šta u njega nije ušlo.
 - **BELEŠKA (autobiografsko, za VIII):** u stvarnom životu Katarina stalno komentariše da David uvek bira mesto kod vrata, gleda u vrata, ne menja mesto — ne zna zašto to radi. Pomenuti u VIII: ona vidi naviku, komentariše, ne zna odakle dolazi; on izvrda; čitalac (posle patrolnih kola u VI) zna ono što ona ne zna. Ista fora kao II („svaka reč tačna, sve zajedno laž"), ali OBRNUTO — ovde Katarina izgovara netačan zaključak, David ćuti.
 
 ---
@@ -237,6 +358,7 @@ računa odavde.
 | **24** | doseljava se kod majke *(NOVO 4)* | 11 |
 | 27 | Jovana se vratila za sto — četiri godine prazne stolice *(V 157)* | 8 |
 | **32** | fabrika — **veza s Katarinom počinje** *(NOVO 5)* · **majka oboli od raka**; ona ga vozi u Beli grad na skener, **Nataša na kafi kod parka** | **3** |
+| **32–33** | **KATARINA** *(XII, napisano 04.09.2026)* — orman, polica koja ostaje prazna, pomerena sreda. Stoji **posle `Fabrike`, pre `Prazne stolice`**; tačna godina se u tekstu ne izgovara i **ne dopisuje se** | 3–2 |
 | **33** | **Pukotina** *(pre nesreće)* · **Prazna stolica** — deset godina posle nestanka · **Jovanina nesreća** | 2 |
 | **34** | **Beli grad** · **Kukavica** · **Katarina se useljava kod njega** | 1 |
 | **35** | **Susret · Ćebence** | danas |
@@ -464,7 +586,7 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 `Krv` prepravljene)*.
 
 > **⚑ OVA TABELA OPISUJE SAMO DEVET STARIH POGLAVLJA — prvu knjigu.** Nova knjiga ima
-> **šesnaest mesta i 27.758 napisanih reči.** Puna tabela svih šesnaest, s imenima fajlova,
+> **sedamnaest mesta i 31.898 napisanih reči.** Puna tabela svih sedamnaest, s imenima fajlova,
 > stoji u **`NASTAVAK.md`** i to je jedino mesto s tačnim brojevima.
 
 ---

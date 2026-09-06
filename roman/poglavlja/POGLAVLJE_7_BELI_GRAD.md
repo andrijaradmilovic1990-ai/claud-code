@@ -120,7 +120,7 @@ Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek 
 
 Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
-Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
+Andrijana je došla odozdo i pogledala me. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
 
 Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli.
 

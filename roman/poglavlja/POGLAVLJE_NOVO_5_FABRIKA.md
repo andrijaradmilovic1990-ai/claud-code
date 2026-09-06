@@ -142,8 +142,6 @@ Slikali su se bez mene.
 
 Ona je stajala sa strane, s parčetom u ruci, i gledala je u mene, ne u njih.
 
-Nije pitala.
-
 ⁂
 
 U šest sam ušao na kapiju kod kuće.

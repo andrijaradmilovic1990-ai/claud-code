@@ -1,5 +1,15 @@
 # PLAN RADA — čista putanja
 
+> ## ⛑ NUMERACIJA — knjiga danas ima SEDAMNAEST poglavlja *(od 04.09.2026)*
+>
+> Ovaj fajl je pisan pre toga i **oznake poglavlja u njemu su stare.** Prevodne tabele stoje
+> na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
+> **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
+> `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.898 reči.**
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
+
+
 > **Šta je ovo.** Jedan jedini spisak posla koji je ostao. Sastavljen 30.08.2026, posle
 > čitanja svih četrnaest napisanih poglavlja u nizu i razvrstavanja svih ideja.
 >
@@ -331,6 +341,10 @@ zatvorena. Gledao sam ih dok smo jeli."*). **Ne dirati kraj.**
 
 ### ŠTA JE `MASKA` — jedna rečenica
 
+> ⛑ *(„on i dalje ne zna šta mu je" je **stara osa, oborena 03.09.2026** — on zna i sam
+> sebi je zabranio; `POENTA_KNJIGE.md` i `ODGOVORI`, stavka 2. Red se ne prepisuje, on je
+> istorija; ovo stoji da ga sledeći prolaz ne uzme kao važeći.)*
+>
 > **Dan u sadašnjosti u kom je račun i dalje otvoren prema njoj, on i dalje ne zna šta mu je,
 > i sidro i dalje drži.**
 

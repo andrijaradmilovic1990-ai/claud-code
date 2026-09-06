@@ -1,7 +1,8 @@
 # SAHRANA BEZ TELA
 
-*Šesnaest poglavlja, redom kojim se čitaju.*
+*17 poglavlja, redom kojim se čitaju. 31.898 reči.*
 
+*Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
 ---
 
@@ -145,6 +146,38 @@ Trener mi je tada stavio ruku na potiljak i držao je tu tri sekunde duže nego 
 
 ⁂
 
+Brat je te nedelje kuvao i dao mi nož i luk.
+
+„Sitnije.“
+
+„Sitno je.“
+
+„Nije sitno.“ Nije se ni okrenuo. „Sitno je kad ne moraš da žvaćeš.“
+
+Sekao sam sitnije. Pričao je o utakmici od sinoć, ko je koga i zašto je to glupo, i pričao je kao da ga je neko gore pitao za mišljenje pa nije poslušao, i ja sam pola razumeo a klimao sam na sve.
+
+„Jedeš kod kuće?“
+
+„Jedem.“
+
+„Šta jedeš?“
+
+„Šta ima.“
+
+„Aha.“ Spustio je poklopac. „Znači ne jedeš.“
+
+Jeli smo na nogama jer je sto bio pun njegovih papira i nije dao da se pomeraju.
+
+Posle je obukao jaknu i uzeo ključeve i stao kod vrata.
+
+„Mali.“
+
+„A?“
+
+Nije rekao ništa. Nagnuo se, poljubio me u čelo i izašao, i zatvorio je vrata za sobom.
+
+⁂
+
 Uveče su spajali stolove.
 
 „Mali, stolice.“
@@ -185,11 +218,23 @@ Vrata su bila odškrinuta.
 
 On je bio čovek koji vrata nikad nije ostavljao odškrinuta, i ja sam to znao dok sam ih još gurao.
 
-Imao sam četrnaest. Nije bilo nikog da me odatle pomeri, pa sam stajao dok neko nije došao.
+Imao sam četrnaest.
+
+Prozor je bio otvoren. Napolju je neko dozivao dete, dvaput, pa prestao. Na stolu je stajala šolja i u njoj je bilo još kafe, malo, na dnu, i ta kafa je bila hladna i ja sam je zbog nečega pipnuo prstom.
+
+Stajao sam.
+
+Nisam prišao. Nisam ga zvao. Nisam izašao na hodnik da vičem, iako je hodnik bio tu i iako su ljudi bili iza svojih vrata.
+
+Stajao sam i gledao ga i čekao da mi neko kaže šta se sad radi.
+
+Nije bilo nikog da mi kaže.
+
+Ne znam koliko je prošlo. U jednom trenutku me je neko trznuo za rame i povukao nazad.
 
 Heroin, ako neko pita. Niko nije pitao.
 
-Na sahrani su teča i tetka stajali sa dve strane rake jer se do tada već bilo razišlo sve što je imalo da se raziđe.
+Na sahrani su teča i tetka stajali sa dve strane rake jer se do tada već bilo razišlo sve što je imalo da se raziđe. Cveće su donosili njoj.
 
 „Treba li ti nešto?“
 
@@ -605,6 +650,8 @@ Prošli put nije pila vodu. Prošli put nije pila ništa što nije gorelo.
 
 Bilo je to pre godinu dana, u ovom istom gradu, kad je dovela Miju kod bake i mi smo izašli „samo na jedno“ i to jedno se pretvorilo u nešto čega se sećam u delovima.
 
+Deset godina dolazi u ovaj grad kod bake, i svaki put izađemo na to jedno.
+
 Ona na stolu. Stvarno na stolu, pleše, ljudi je gledaju, neko aplaudira. Ja sedim dole, ne ustajem, samo se smejem — smejem se onako kako se nisam smejao godinama, do suza, do bola u stomaku. Nisam je zaustavljao. Nisam mislio na vrata, ni na to ko ulazi, ni na ruku ni na džep. Nisam mislio ni na šta.
 
 Bili smo srećni. Na trenutak. Glupo, pijano, matori a ponašamo se kao klinci — srećni.
@@ -627,7 +674,7 @@ Smejali smo se. Preživeli smo i to, kao što smo preživeli i sve ostalo, i ost
 
 ⁂
 
-Pričali smo dugo. O Miji najviše — čita već sama, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam ponovo počeo da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
+Pričali smo dugo. O Miji najviše — zna sva slova a ne ume da ih spoji, pravi se da spava kad Andrijana proveri, ima izmišljenog prijatelja po imenu Bob. Pričala je o poslu, o ludoj komšinici, o tome kako je počela jogu pa odustala posle tri puta. Ja sam pričao o radu, o knjigama, o tome kako sam ponovo počeo da pravim špagete bolonjeze pa ih sad pravim svake nedelje kao manijak — sos koji krčka tri sata, cela kuhinja smrdi na luk i meso i vino, ruke crvene od paradajza.
 
 Telefon joj je zazvonio na stolu, licem nagore. Videla je ko je i javila se.
 
@@ -819,7 +866,7 @@ Mali drži, ali mu se ruke tresu, i čovek na podu klizi, krv ide svuda, po plo�
 
 „Držim ga, jebote, klizi—“
 
-Trebalo je da bude ništa. Utovar, istovar, dva sata posla. Takvih noći sam imao stotinu i sve su bile dosadne, a dosadno je u tom poslu najlepša reč koja postoji. Mali me pokupio u dva — klinac, sedamnaest-osamnaest godina, nečiji sestrić, primljen jer je neko garantovao za njega. Vozio je dobro i ćutao loše: pričao je kad je nervozan, a nervozan je bio uvek. Celim putem mi je pričao o nekom motoru koji će da kupi na leto. Pola grada je prošlo kroz to brbljanje — mrtve ulice, žute lampe, pas koji je pretrčao kod stare pekare. Sećam se psa. Smešno je čega se čovek seća.
+Trebalo je da bude ništa. Utovar, istovar, dva sata posla. Takvih noći sam imao stotinu i sve su bile dosadne, a dosadno je u tom poslu najlepša reč koja postoji. Mali me pokupio u dva — klinac, sedamnaest-osamnaest godina, nečiji sestrić, primljen jer je neko garantovao za njega. Meni je bila dvadeset prva. Vozio je dobro i ćutao loše: pričao je kad je nervozan, a nervozan je bio uvek. Celim putem mi je pričao o nekom motoru koji će da kupi na leto. Pola grada je prošlo kroz to brbljanje — mrtve ulice, žute lampe, pas koji je pretrčao kod stare pekare. Sećam se psa. Smešno je čega se čovek seća.
 
 Na pola puta je stao kod one pumpe što radi celu noć i vratio se s dve kafe u plastičnim čašama.
 
@@ -1075,7 +1122,7 @@ Nataša je vratila naočare u torbu i nije ih više vadila te večeri.
 
 Toni je otvorio bocu i sipao meni prvom, i ja sam to primio kao što se prima sve što se radi svaki put isto.
 
-Sedeo sam gde sedim. Stolica u ćošku, leđa uza zid, i odatle se vidi i ulaz i onaj hodnik prema zadnjem dvorištu. Ta stolica je bila prazna kad sam ušao, i bila je prazna svaki put kad sam ulazio, i nikad se nije razgovaralo o tome. Deca su znala da se na nju ne penju. Niko im to nije rekao — jednostavno se nisu penjala.
+Sedeo sam gde sedim. Stolica u ćošku. Ta stolica je bila prazna kad sam ušao, i bila je prazna svaki put kad sam ulazio, i nikad se nije razgovaralo o tome. Deca su znala da se na nju ne penju. Niko im to nije rekao — jednostavno se nisu penjala.
 
 Anja je te večeri sedela naspram mene, s druge strane stola, sa Sale i Toni između, i pričala je s njima, a ne sa mnom. Tako je uvek bilo kad ima ljudi. Ona sa mnom nije pričala pred svetom. Ako bi mi nešto trebalo, dobio bih to pre nego što bih pitao — čaša napunjena, hleb pomeren, kolena sklonjena s puta kad prolazim — i ne bih ni primetio da se to desilo dok ne bih posle, u kolima, shvatio da mi celo veče ništa nije falilo.
 
@@ -1119,7 +1166,7 @@ Ne znam šta mi je bilo na licu. Znam da je Toni prestao da priča na pola reči
 
 Nataša je pitala gde ćemo.
 
-Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana nije pitala ništa. Uzela je Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
+Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana je uzela Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
 
 Anja je stala između mene i vrata.
 
@@ -1261,7 +1308,7 @@ Anja je gledala u svoju. Nije je bila digla.
 
 „Parla, parla“, rekla je baka u tom trenutku, nikom posebno. „Intanto si fredda tutto.“
 
-Pola stola je palo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
+Pola stola je palo. Sačekao sam da prođe. Anja mi ovog puta nije ni ponudila.
 
 „Naša priča je o slobodi“, rekao sam. „O dugu. I o porodici.“
 
@@ -1461,8 +1508,6 @@ Nataša je digla čašu:
 
 Ona treća je kucnula svojom o moju poslednja, tiho, i pogledala me preko ivice dok je pila.
 
-Sedeo sam tako da vidim vrata. Niko za stolom to nije primetio. Možda jedna. Ona je sve primećivala i ništa nije pitala.
-
 Imala je šešir. Smešan, slamnati, prevelik, kupljen verovatno pet minuta ranije od nekog na ulici, i nosila ga je kao da je oduvek njen. Sela je pored mene na ivičnjak te večeri dok su Andrijana i Nataša otišle po vino — još vina, uvek još vina — i ćutala, i ja sam ćutao, i to ćutanje je bilo najopasnija stvar u celom tom gradu punom stranaca.
 
 Imao sam u džepu te večeri dovoljno da kupim svaki izlog na toj ulici i ljude iza njih. A jedino što sam želeo sedelo je pored mene pod glupim šeširom i nije se moglo kupiti, ni uzeti, ni dotaći, jer sve troje ostalo bi preživelo da ga dotaknem, a ona ne.
@@ -1500,6 +1545,8 @@ Ona. Moja. Iza mene, bosa, raščupana, šolja u ruci. Ne znam koliko stojim tu 
 „Treba“, rekao sam.
 
 „Lažeš. Nikad nećeš da ideš nigde.“ Nasmejala se, nije bilo zlo, bilo je tačno. Pomilovala me po leđima u prolazu, usput, kao što se pomiluje sto ili dobar pas, otišla da sipa još kafe, nastavila da priča o nečemu, o sestri, o vikendu.
+
+Dole je već gorelo svetlo, i staza preko dvorišta bila je pometena, kao svakog jutra.
 
 „Moram da vadim novu ličnu“, rekla je negde usred toga. „Stara mi ističe u martu.“
 
@@ -2103,7 +2150,7 @@ Andrijana je podigla glavu.
 
 „Jeste.“
 
-Nije pitala ništa više. Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
+Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
 
 Prošao sam pored ujaka i on me je uhvatio za ruku i držao je, i nije ništa rekao, i ja sam pustio da drži koliko mu treba.
 
@@ -2245,13 +2292,13 @@ Džabe dobijeno, od čoveka koji me znao tri nedelje. Naučio sam da se odazivam
 
 I pustio sam ih da misle šta hoće — da sam mrtav, da su me sredili, da sam pobegao s parama, šta god je lakše.
 
-Posle godinu dana — telefon. Kupljen za keš, od čoveka koji prodaje takve telefone i takvo ćutanje uz njih. Sedeo sam na klupi pola sata pre nego što sam ukucao broj koji i danas znam napamet. Tri reči. Pisao sam ih i brisao kao klinac pred prvi poziv devojci, jer je sve duže od tri reči bilo pismo, a pismo je trag, a sve kraće nije bilo ništa.
+Posle godinu dana — telefon. Kupljen za keš, od čoveka koji prodaje takve telefone i takvo ćutanje uz njih. Sedeo sam na klupi pola sata pre nego što sam ukucao broj koji i danas znam napamet. Četiri reči. Pisao sam ih i brisao kao klinac pred prvi poziv devojci, jer je sve duže od toga bilo pismo, a pismo je trag, a sve kraće nije bilo ništa.
 
 Bezbedan sam. Ne tražite.
 
 Poslao. Izvadio karticu, prelomio je, bacio s mosta. I stajao na tom mostu još malo — čovek koji je svom starom životu upravo rekao jedinu rečenicu koju će mu ikad reći.
 
-Preko granice je ostala kuhinja u kojoj je stolica u ćošku bila moja i deca se na nju nisu penjala, i žena od osamdeset dve koja je sredom spremala čiste stvari za slučaj da dođem u petak. Njima nisam poslao ni te tri reči.
+Preko granice je ostala kuhinja u kojoj je stolica u ćošku bila moja i deca se na nju nisu penjala, i žena od osamdeset dve koja je sredom spremala čiste stvari za slučaj da dođem u petak. Njima nisam poslao ni te četiri reči.
 
 ⁂
 
@@ -2283,7 +2330,7 @@ Andrijana je dugo ćutala. Predugo.
 
 Dobro.
 
-Nije primila te tri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem. Svi ostali su moju poruku dobili od mene. Ona od Andrijane.
+Nije primila te četiri reči kao olakšanje. Primila ih je kao šamar — ne zato što sam otišao, nego zato što sam i njoj otišao isto kao svima, istim ćutanjem. Svi ostali su moju poruku dobili od mene. Ona od Andrijane.
 
 I to mi nikad nije oprostila. Ne rečima — time što su se Andrijana i Nataša vratile, polako, na kapaljku, dok se nije iskristalisao taj sto i ta kafa i to jednom godišnje, a njena stolica je ostajala prazna.
 
@@ -2299,7 +2346,7 @@ Telefon je zazujao uveče, na stolu, pored knjige koju nisam čitao.
 
 Stigla sam. Volim te.
 
-Tri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju tri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole.
+Četiri reči. Putovale su tri sekunde i koštale ništa. Gledao sam ih duže nego što se gledaju četiri reči, pa otkucao „i ja tebe“, pa spustio telefon ekranom nadole.
 
 A onoj pod šeširom trebalo je četiri godine da se vrati za sto, i ja sam to čitavo vreme zvao milošću.
 
@@ -2697,7 +2744,7 @@ Traka je donela sledeće i ja sam ga uzeo.
 
 Napolju je jedna klupa pod limom i tri kante.
 
-Ja sedim na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
+Ja sedim na kraju klupe, uvek na istom kraju.
 
 Prvog puta je izašla poslednja i stala kod kante i gledala u dvorište kao da je došla da vidi dvorište.
 
@@ -2771,8 +2818,6 @@ Slikali su se bez mene.
 
 Ona je stajala sa strane, s parčetom u ruci, i gledala je u mene, ne u njih.
 
-Nije pitala.
-
 ⁂
 
 U šest sam ušao na kapiju kod kuće.
@@ -2795,7 +2840,7 @@ Autobus u pola šest ide skoro prazan i svako u njemu ima svoje mesto koje niko 
 
 Ona je ulazila dve stanice pre mene i sedela napred, iza vozača.
 
-Ja sam ulazio, pozdravio u prolazu i seo pozadi. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
+Ja sam ulazio, pozdravio u prolazu i seo pozadi.
 
 Tako je išlo mesec i po.
 
@@ -3089,7 +3134,333 @@ Unutra je traka krenula i čulo se kroz zid, i ustali smo pre nego što nas neko
 
 ---
 
-# XII — Prazna stolica
+# XII — Katarina
+
+Prespavao sam kod nje te noći i to nije bilo svaki put, nego kad ispadne.
+
+S treće smene sam došao u pola sedam i legao, a probudila me je u deset — ne zato što je htela da me budi, nego zato što je već bila počela i nije mogla sama.
+
+„Ustaj.“
+
+„Koliko je.“
+
+„Nije bitno koliko je.“
+
+Seo sam na ivicu kreveta. Vrata ormana su stajala otvorena, a pola onoga što je u njemu bilo ležalo je iza mene na krevetu, složeno u kule, svaka kula jedna vrsta. Klečala je pred donjom fiokom s kutijom u krilu.
+
+„Šta to radiš.“
+
+„Pravim ti mesto.“ Nije digla pogled. „Ne može čovek da živi iz jedne fioke.“
+
+Nije bilo pitanje, pa nisam ni odgovorio. Obukao sam se i otišao da stavim vodu.
+
+⁂
+
+Stan je bio njen pre nego što sam u njega prvi put ušao i to se videlo na svakom zidu.
+
+Iznad komode stoji ram s tri slike pod istim staklom: dvoje starijih ljudi ispred kuće koju nisam video, devojčica na biciklu prevelikom za nju, i momak sav mršav, s rukama u vazduhu. Na polici pored, u okviru za sebe, ona i sestra, obe s istim čelom. Na frižideru još dve, pod magnetima. U hodniku jedna, mala, nakrivljena, i niko je nikad nije ispravio.
+
+Prebrojao sam ih jednom, davno, dok je bila u smeni a ja nisam. Jedanaest.
+
+Ja u tom stanu nemam nijednu.
+
+To nije nikad pomenula. Ne verujem ni da je primetila — ne primećuje se ono što ne visi.
+
+⁂
+
+Radila je od donje police naviše i sve je moralo kroz njene ruke dvaput: jednom da se izvadi, jednom da se odluči.
+
+Ja sam nosio. To je bio moj deo posla i bio je tačno onoliki koliko treba da čovek ne smeta.
+
+Pored njenih nogu je stajala kesa, ona velika karirana, koju vadi svaki mesec.
+
+„Šta ide unutra.“
+
+„Ovo.“ Digla je džemper, pogledala ga s jedne pa s druge strane, presavila. „I ovo. I one dve majice sa stolice.“
+
+„Nov je.“
+
+„Pa.“
+
+„Ništa. Nov je.“
+
+„Njoj bolje stoji, ima ramena.“ Poravnala ga je dlanom još jednom, kao da ide u radnju a ne u kesu.
+
+Ono što ide u kesu slaže bolje nego ono što ostaje. To sam primetio i ranije i nikad joj nisam rekao.
+
+Kad se okrenula da vadi dalje, uzeo sam jednu od one dve majice i vratio je na kulu na krevetu.
+
+Radila je još minut, pa stala.
+
+„Gde mi je majica.“
+
+„Koja.“
+
+„Bela.“
+
+„Ne znam.“
+
+Uzela ju je s kule, spustila u kesu i nije rekla ništa.
+
+Sačekao sam koliko treba i izvadio je opet.
+
+„Ti si bolestan.“
+
+„Ja sam gladan.“
+
+„Nemoj sad, ozbiljna sam.“
+
+„Vidim.“
+
+Držala je majicu u ruci i gledala me, i onda joj je krenulo u lice pre nego što je stigla da ga zaustavi, pa je bacila majicu na mene i promašila.
+
+Vratio sam joj je sam. Otišla je u kesu.
+
+⁂
+
+„Pitala me jedna iz pripreme jesmo li mi ozbiljno.“
+
+„Šta si rekla.“
+
+„Rekla sam joj da nije njena briga.“ Presavijala je dalje. „Posle sam rekla da jesmo.“
+
+„Što posle.“
+
+„Zato što sam prvo bila ljuta pa sam se setila da mi je svejedno.“
+
+Onda je stala, s nečim u rukama, i pogledala me.
+
+„Znaš ti šta su mi pričali o tebi kad sam došla?“
+
+„Znam otprilike.“
+
+„Znaš ti tačno.“ Vratila se poslu. „Pola njih je pričalo. Druga polovina nije smela.“
+
+„I?“
+
+„I ništa. Daj mi onu kesu.“
+
+⁂
+
+Lestve su bile komšijine i nisu se sklapale kako treba.
+
+„Drži.“
+
+„Držim.“
+
+„Ne držiš, gledaš.“
+
+Popela se do vrha, na onaj poslednji prečag na kom ne piše da se ne staje, i s vrha ormana krenula da vuče kutiju koja je bila veća od njenih ruku.
+
+„Silazi, daj meni.“
+
+„Mogu.“
+
+„Vidim da možeš. Silazi.“
+
+„Mogu, kažem.“
+
+Kutija je krenula, pa se prevrnula, pa je iz nje ispalo pola na pod — papiri, jedan album, presavijena vrećica u kojoj je nešto zveckalo. Lestve su se pomerile za pedalj i uhvatio sam ih obema rukama, a ona se uhvatila za vrh ormana i ostala tako, gore, ni gore ni dole.
+
+„Rekao sam ti.“
+
+Sišla je sama. Nije me pogledala.
+
+Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda, i ćutala.
+
+Ćutala je i dok je brisala policu i dok je otvarala prozor i dok je vraćala lestve uza zid.
+
+Ja sam čekao koliko se čeka.
+
+„Izvini.“
+
+„Za šta izvini.“
+
+„Ne znam. Izvini.“
+
+Stajala je s krpom u ruci još tri sekunde, koliko joj treba, pa je slegla ramenima.
+
+„Dobro, ljubavi“, rekla je. „Uzmi tu vrećicu, ne diraj unutra.“
+
+Nisam dirao.
+
+⁂
+
+Nije nastavila odmah. Spustila se na pod, leđima uz krevet, i otvorila album na kolenima.
+
+„Vidi ovo.“
+
+Seo sam pored nje na pod, jer je tako moralo.
+
+Album je bio od onih starih, s prozirnom folijom koja se diže i više ne lepi, pa su slike pod njom stajale nakrivo, po dve gde je nekad stalo tri.
+
+„Ovo je on.“ Pokazala je noktom. „Tu ima šesnaest. Vidi ruke.“
+
+Momak s rama iznad komode. Iste ruke u vazduhu.
+
+„Šta radi.“
+
+„Pravi se važan.“ Okrenula je list i kucnula noktom po drugoj slici. „A ovo je isti taj.“
+
+Ruke nisu bile iste. Ni vrat.
+
+„Šalje mi slike koje niko nije tražio.“ Nasmejala se u koleno. „Na svakoj je veći.“
+
+Okrenula je list.
+
+„Ovo je tata pred kućom. Ovo je isto tata, samo posle, kad je pustio brkove pa smo ga zezali dok ih nije skinuo. Ovo je sestra s biciklom — taj bicikl je bio moj i nikad mi ga nije vratila.“
+
+„Koliko ti je tu.“
+
+„Devet. Ili deset.“ Približila je album licu. „Devet.“
+
+Gledao sam u ta lica i nisu mi značila ništa, i ona je to znala i svejedno je pričala, jer njoj se o njima priča.
+
+„Nedostaju ti.“
+
+„Naravno da mi nedostaju.“ Rekla je to kao što bi rekla da je četvrtak. „Ali nema tamo ništa. Otišla sam zato što nema šta da se radi, ne zato što mi je bilo loše.“
+
+Okrenula je još jedan list, pa još jedan, i na svakom se zaustavila tačno onoliko koliko treba da se nešto ispriča.
+
+Onda je stala i podigla glavu.
+
+„Ti nemaš nijednu?“
+
+„Nemam.“
+
+„Nijednu jednu?“
+
+„Nemam.“
+
+„Pa dobro“, rekla je, i nastavila da okreće.
+
+⁂
+
+Kafu je popila stojeći, iz moje šolje, i vratila je na sto s dva prsta manje nego što je bilo.
+
+Onda je došla iza stolice, kao što dolazi, podlaktice na naslon, brada negde kod mog uva.
+
+„Smrdiš na fabriku.“
+
+„Ne smrdim.“
+
+„Smrdiš.“
+
+Ruka joj je skliznula s naslona na moje rame i palac joj je u prolazu prešao preko slova pod uvom — *J*, pisano, veliko koliko prst, staro toliko da je pozelenelo po ivicama.
+
+Nisam se okrenuo.
+
+„Volim“, rekla je odozgo, i otišla po krpu.
+
+⁂
+
+„Kad ćeš kod nje?“
+
+„Mislila sam u sredu.“
+
+„Ne može sreda.“
+
+Stala je s krpom u ruci.
+
+„Što ne može sreda?“
+
+„Ne može.“
+
+Čekala je onoliko koliko čeka.
+
+„Može i četvrtak“, rekla je, i vratila se polici. „Četvrtak mi je čak i bolje, ionako sam slobodna.“
+
+Nije pitala drugi put.
+
+⁂
+
+„Zvala je sinoć“, rekla je s leđima okrenutim. „Pitala kad ćemo mi.“
+
+„Šta si rekla.“
+
+„Rekla sam joj da nas ne požuruje.“ Prešla je krpom po istom mestu drugi put. „Ona se udala s dvadeset dve, pa misli da je to raspored.“
+
+„Pa nije.“
+
+„Nije.“ Cedila je krpu u lavor. „Kaže mi, dovedi bar čoveka da ga vidimo. Kažem joj, videćete čoveka.“
+
+Kesa je stajala kod vrata, puna, vezana.
+
+„A i ono što smo pričali“, rekla je. „Dva dana. Rekao si prošle godine da idemo.“
+
+„Idemo.“
+
+„To si rekao i prošle godine.“
+
+„Idemo, srećo.“
+
+„Dobro.“ Nije se okrenula. „Ima vremena.“
+
+⁂
+
+Radila je do četiri.
+
+Kad je bilo gotovo, orman je stajao otvoren i cela leva strana je bila prazna. Tri police i dve fioke, oprane, obložene onim papirom koji ona stavlja i koji miriše na nešto što bi trebalo da bude lavanda.
+
+„Eto“, rekla je, i obrisala ruke o pantalone. „Sad imaš gde.“
+
+Stajala je tu sekund duže nego što je trebalo, gledajući u to, zadovoljna.
+
+„Šta ti fali da preneseš stvari.“
+
+„Ništa mi ne fali.“
+
+„Pa eto.“
+
+Uzela je čistu garderobu i otišla pod tuš, i kroz vrata je počela da peva onu istu pesmu koju peva pod tušem, uvek samo drugu polovinu, jer prvu ne zna.
+
+⁂
+
+Otvorio sam svoju fioku.
+
+Dva džempera. Veš. Futrola s papirima. Teglica. Kutija cipela u kojoj su dve stvari o kojima nema šta da se priča.
+
+To je bilo sve, i još je ostajalo mesta, i ostajalo je oduvek.
+
+Preneo sam to gore.
+
+Džempere na gornju policu, razmaknute, jedan levo jedan desno, ne jedan na drugi. Veš u levu fioku, ne u desnu, jer prazna fioka zvuči prazno kad se otvori a puna do pola ne zvuči nikako. Teglicu na srednju policu, uz sam kraj. Futrolu na drugi kraj iste police, tako da između njih ostane rupa koja izgleda kao da je tu nešto stajalo pa je maločas uzeto.
+
+Kutiju cipela sam ostavio dole, u fioku, i preko nje stavio veš.
+
+Odmakao sam se dva koraka i pogledao. Pa sam se vratio i pomerio teglicu za dva prsta ulevo, i džemper na gornjoj polici okrenuo tako da mu se vidi rukav.
+
+Odmakao sam se opet.
+
+Izgledalo je kao da tu neko živi.
+
+⁂
+
+Obukao sam jaknu u hodniku. Voda je još išla.
+
+„Ideš?“
+
+„Idem. Majka je sama.“
+
+Kratko ništa, pa kroz vrata i kroz vodu:
+
+„Uzmi onu manju kesu, na stolici. To je za nju.“
+
+Uzeo sam manju kesu.
+
+Kod majke je gorelo svetlo u kuhinji iako je spavala. Ostavio sam kesu na sto i legao.
+
+Ujutru me je pitala od koga je.
+
+„Od nje.“
+
+„Reci joj hvala.“
+
+„Reći ću.“
+
+---
+
+# XIII — Prazna stolica
 
 Bila je sreda. Srede ne volim — toliko, i ni reč više.
 
@@ -3219,15 +3590,13 @@ Stao je pred jednom kapijom koja se otvorila pre nego što smo stigli, jer su na
 
 Izašao sam. Ali leđa su mi i tamo, dok sam izlazio, tražila zid — okrenuo sam se tako da kola ostanu sa strane, ne iza mene, a da to nisam ni odlučio. Čovek za volanom mi je nešto dobacio za pozdrav i ja sam ga čuo postrance, nikad sasvim okrenut.
 
-Mislili su da se ničega ne plašim, a ja se ni tada nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja.
-
 Ruke sam pravio da rade to što sam sad tražio od tuđih. Znao sam tačno gde ide prvi udarac jer sam ga sam brojao, u mrak, dovoljno puta.
 
 ⁂
 
 Telefon je i dalje bio u mojoj ruci. Kafa hladna, ljuske semenki nigde — nije ih ni bilo, dvanaest godina ih nije bilo, ali jezik mi je tražio gorčinu pod zubom kao da sam tek ispljunuo poslednju.
 
-Tri prazne stolice preko puta.
+Tri prazne stolice.
 
 Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala.
 
@@ -3255,7 +3624,7 @@ Samo što ovaj put nešto u tom džepu opet imam da branim.
 
 ---
 
-# XIII — Beli grad
+# XIV — Beli grad
 
 Na vidikovac sam dolazio sam, oduvek, otkad znam ovaj grad. Bilo je to moje mesto, jedno od onih na koja čovek ide da bude sam a da to ne mora nikom da objasni. Nikad nikog nisam doveo. Tog jutra sam je doveo, jer mi je trebalo da budem gore a nisam imao snage da budem sam.
 
@@ -3377,7 +3746,7 @@ Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek 
 
 Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
-Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
+Andrijana je došla odozdo i pogledala me. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
 
 Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli.
 
@@ -3389,7 +3758,19 @@ Prvih nekoliko nedelja pisala je retko, kratko, kao čovek koji još broji kolik
 
 Pa je počela da piše duže. Pa sam i ja.
 
-U dva ujutru, kad ne može da spi od bolova u kuku koji ne prolazi a doktori kažu da je normalno, da treba vremena — pisala je. Ne javi se, ne nedostaješ mi. Pisala je glupost, jednu rečenicu o sestri, o seriji koju gleda po sedmi put jer ne može da se skoncentriše na ništa novo, o čoveku iz susedne sobe koji hrče tako da se čuje kroz zid. Ja sam odgovarao. Nisam morao. Niko me nije terao. Telefon je svetlio na stočici pored kreveta, u dva, u tri, i ruka mi je išla po njega pre nego što sam stigao da odlučim da li treba.
+U dva ujutru, kad ne može da spi od bolova u kuku koji ne prolazi a doktori kažu da je normalno, da treba vremena — pisala je. Ne javi se, ne nedostaješ mi. Pisala je glupost, jednu rečenicu o sestri, o seriji koju gleda po sedmi put jer ne može da se skoncentriše na ništa novo, o čoveku iz susedne sobe koji hrče tako da se čuje kroz zid.
+
+*Onaj iz susedne sobe hrče kao da mu neko duguje pare.*
+
+*Sestra mi donela grožđe pa ga sama pojela, sedi i jede i gleda me.*
+
+*Pustila sam opet onu seriju. Sedmi put.*
+
+*Znam svaku rečenicu unapred pa me ništa ne iznenadi.*
+
+*Zato je i gledam.*
+
+Ja sam odgovarao. Nisam morao. Niko me nije terao. Telefon je svetlio na stočici pored kreveta, u dva, u tri, i ruka mi je išla po njega pre nego što sam stigao da odlučim da li treba.
 
 Brinem za drugaricu. Prati joj se oporavak. Normalno je da se čujem. Svaka rečenica je stajala sama, uredna, spremna za odbranu, a niko nije tražio odbranu. Samo je telefon svetlio u dva ujutru i to niko nije morao da mi kaže dvaput.
 
@@ -3425,7 +3806,7 @@ Spustio sam telefon i sedeo malo u tišini koju Katarina nije čula, jer je bila
 
 ---
 
-# XIV — Maska
+# XV — Maska
 
 Kod garderobe visi spisak za dojavu smene i pored njega kalendar koji niko ne skida.
 
@@ -3445,75 +3826,23 @@ Za devet dana se i ne sprema ništa. Nemam šta da spakujem osim onoga što staj
 
 Osmog dana sam otišao na kafu.
 
-Konobar je doneo crnu i čašu mlake vode pre nego što sam seo. Spusti, klimne, ode. Ugao, leđa ka zidu, vrata koso s leva. Isto kao svaki put, isto kao u svakom gradu u kom sam ostao dovoljno dugo da me konobar nauči.
+Konobar je doneo crnu i čašu mlake vode pre nego što sam seo. Spusti, klimne, ode. Isto kao svaki put, isto kao u svakom gradu u kom sam ostao dovoljno dugo da me konobar nauči.
 
 Bilo je prazno. Dvojica za šankom gledala su neku utakmicu bez tona i povremeno rekla nešto jedan drugom, ne okrećući glave.
 
-Onda se oglasilo zvonce.
+Izmerio sam koliko ima do zadnjeg izlaza kroz kuhinju, i setio se da su ona vrata zaključana od šest, i preračunao kroz šta bi se izlazilo umesto njih. Nije bilo nikog zbog koga bih to radio. Radim to svejedno, u praznom kafiću, kao što se pere ruka koja nije prljava.
 
-To zvonce visi iznad vrata i oglašava se i kad se ulazi i kad se izlazi, i ja sam ga u ovom kafiću čuo mnogo puta. Ali sam ga do tog dana čuo samo za nekim ko izlazi. Tako ide sa zvukom koji ti ništa ne znači — čuješ ga tek kad zakasni.
-
-Ovaj put se oglasio na ulazu.
-
-Čovek je ušao i zastao onaj deo sekunde koji ljudi zastanu kad iz svetla uđu u polumrak. Kaput teži nego što je napolju tražilo. Ni star ni mlad, od onih godina koje se ne pogode. Nije me pogledao.
-
-Nisam se pomerio.
-
-Otišao je do šanka i naslonio se laktom i rekao nešto konobaru. Konobar je odmahnuo glavom. Čovek je rekao još nešto, kraće. Konobar je opet odmahnuo, pa slegnuo ramenima, pa se okrenuo ka mašini i pustio vodu preko dve šolje koje su već bile čiste.
-
-Za to vreme sam ja uradio sve.
-
-Video sam gde su mu ruke — obe napolju, jedna na šanku, druga uz telo, i to je dobro, jer čovek koji je došao zbog nečeg drži jednu ruku tamo gde je ne vidiš. Video sam kako je obuven, jer se po cipelama vidi je li čovek došao pešice ili je izašao iz kola. Izmerio sam koliko ima do zadnjeg izlaza kroz kuhinju, i setio se da su ona vrata zaključana od šest, i preračunao kroz šta bi se izlazilo umesto njih. Prebrojao sam koliko koraka ima od mog stola do njegovih leđa i s koje strane bi mi bio šank ako krenem.
-
-Sve to za ono vreme koliko čoveku treba da dvaput odmahne glavom.
-
-Onda se čovek okrenuo od šanka i pogledao po lokalu. Preko dvojice za šankom, preko praznih stolova, preko mene, pa dalje, pa na vrata.
-
-Ostao je na meni sekund duže nego na stolovima.
-
-Možda. Sekund se ne meri, sekund se oseti, a moje merenje sekundi je jedanaest godina van upotrebe i niko mi ga nije baždario.
-
-Krenuo je ka izlazu. Prošao je pored mog stola, blizu, jer je između stola i saksije uzak prolaz i svi tuda prolaze blizu. Nije usporio. Otvorio je vrata, zvonce se oglasilo drugi put, i izašao je na ulicu i skrenuo levo i to je bilo sve.
+Moje merenje je jedanaest godina van upotrebe i niko mi ga nije baždario.
 
 Voda u mojoj čaši stajala je ravna. Nijedan krug po površini.
 
 Konobar je došao po pepeljaru koja nije bila prljava.
 
-„Tražio nekog“, rekao je sam od sebe, jer konobari uvek kažu.
-
-„Koga.“
-
-„Ma nekog. Nisam ni čuo ime dobro. Kaže radio je ovde neko.“ Obrisao je sto koji je bio suv. „Ovde niko nije radio osim mene, i to devet godina.“
-
-Klimnuo sam glavom.
-
-To nije značilo ništa. To je bila jedna od dvadeset stvari koje čovek pita u praznom kafiću u pola pet po podne, i devetnaest od tih dvadeset ne znače ništa, a onu dvadesetu ne razlikuješ od ostalih dok ne bude kasno.
-
-Ranije sam znao koja je koja. To se znalo tako što si bio unutra, pa si čuo ko se raspituje i za koga i preko koga, i onda ti čovek u kaputu nije bio pitanje nego odgovor.
-
-Sad sam bio čovek koji sedi i gleda ga kako odlazi i nema koga da pita.
-
-Popio sam kafu do kraja. Nije bila hladna. To sam primetio i to sam upamtio, jer čovek koji je stvarno uplašen ne pije kafu do kraja.
-
 ⁂
 
-Kući sam išao dužim putem.
+Kod kioska sam stao da zapalim. Palio sam duže nego što treba, s obe ruke oko plamena iako nije bilo vetra.
 
-Nisam tako odlučio. Skrenuo sam kod pijace umesto kod pošte, i tek posle dva bloka mi je došlo da to nije put kojim idem, nego put koji ima tri raskrsnice i dva prelaza i nijedan slep ugao.
-
-Kod kioska sam stao da zapalim. Palio sam duže nego što treba, s obe ruke oko plamena iako nije bilo vetra, i za to vreme sam pogledao niz ulicu odakle sam došao.
-
-Ulica je bila puna ljudi koji se vraćaju s posla. Nijedan kaput.
-
-Nastavio sam.
-
-U hodniku sam okačio kaput na čiviluk i onda sam stao.
-
-Kaput je mirisao na duvan.
-
-Ne na moj. Moj ima svoj miris i taj nosim po sebi i ne osećam ga. Ovaj je bio tuđi, star, uvučen u tkaninu odnekud, onakav kakav ostaje na kaputu koji je visio pored drugog kaputa, ili prošao pored njega uz saksiju u uskom prolazu.
-
-Stajao sam u hodniku i mirisao tuđi kaput na svom, i to je trajalo koliko je trajalo.
+U hodniku sam okačio kaput na čiviluk.
 
 Onda sam iz kuhinje čuo kako neko lupa poklopcem, preglasno, kao što se lupa kad je nešto zagorelo a nije mnogo.
 
@@ -3627,7 +3956,7 @@ To je bilo dobro. To sam sebi rekao tim rečima: to je dobro.
 
 Broj koji sam tražio nije bio u imeniku. Taj broj nigde nije zapisan, taj broj se ne zapisuje. Ali prsti su ga znali.
 
-Znao sam i šta bih rekao. To sam sastavio još u kafiću, dok mi je voda u čaši stajala ravna. Dve rečenice, ne više. Neka se raspita ko je pitao za koga u jednom kafiću u jednom malom gradu na jugu, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu.
+Znao sam i šta bih rekao. To sam sastavio još u kafiću, dok mi je voda u čaši stajala ravna. Dve rečenice, ne više. Neka proveri je l' iko pitao odakle joj onaj doktor, i neka neko bude blizu nje dok ja ne dođem. Ne kod nje. Blizu.
 
 Čovek s druge strane ne bi pitao zašto. Rekao bi „smatraj gotovim“, kao i prošli put, i spustio bi, i do jutra bi bilo urađeno.
 
@@ -3671,7 +4000,7 @@ Do puta je ostao jedan dan.
 
 ---
 
-# XV — Kukavica
+# XVI — Kukavica
 
 Otvorila je pre nego što sam stigao do vrata. Čula me na stepenicama, rekla je posle, čuje korake otkad zna da hodaju ka njoj a ne pored nje.
 
@@ -4223,7 +4552,7 @@ Nisam gledao na sat. Znao sam da je vreme.
 
 ---
 
-# XVI — Ćebence
+# XVII — Ćebence
 
 Na naslonu sofe stajalo je ćebence — tanko, nečija stara stvar prebačena tu da se ima pri ruci u sobi u kojoj se sedi do zore. Uzeo sam ga.
 
@@ -4419,7 +4748,7 @@ Pa sam ga uzeo i otvorio Andrijanu.
 
 *Kako je.*
 
-Tri reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati odgovor. Spustio sam telefon.
+Dve reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati odgovor. Spustio sam telefon.
 
 Kafa se hladila. Nisam žurio.
 
@@ -4432,6 +4761,10 @@ Telefon je zazujao. Andrijanin odgovor.
 *Dobro je. Pita za tebe nekad.*
 
 Gledao sam tu rečenicu. Dugo.
+
+Telefon je zazujao opet.
+
+*Kupila neka kola, čekala ih šest meseci. Vozi ko baba, kunem ti se.*
 
 Spustio sam telefon.
 

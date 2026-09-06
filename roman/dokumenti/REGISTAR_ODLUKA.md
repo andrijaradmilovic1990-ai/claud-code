@@ -1,13 +1,12 @@
 # REGISTAR ODLUKA — šta je zatvoreno
 
-> ## ⛑ UPOZORENJE NA BROJEVE — SVE OZNAKE REDOVA U OVOM FAJLU SU U STAROJ NUMERACIJI *(upisano 01.09.2026, slepi lektorski prolaz)*
+> ## ⛑ UPOZORENJE NA BROJEVE — OZNAKE POGLAVLJA U OVOM FAJLU SU U STAROJ NUMERACIJI
+
+> **Knjiga danas ima SEDAMNAEST poglavlja, I–XVII** *(od 04.09.2026, kad je napisano
+> `KATARINA` i sve od `Prazne stolice` naniže prenumerisano)*. Ovaj fajl je pisan dok ih je
+> bilo **devet, pa petnaest, pa šesnaest** — pa se oznake u njemu **prevode, ne prepisuju.**
 >
-> **Knjiga danas ima šesnaest poglavlja, I–XVI. Ovaj fajl je pisan dok ih je bilo devet**,
-> i sve oznake tipa `VII 135`, `VIII 65`, `V 89`, `VI 125`, `IX 227`, `II 71` **misle na staru
-> devetku, ne na današnje brojeve.** Ko po njima otvori „VII“, otvoriće `Ivičnjak` umesto
-> `Belog grada`.
->
-> **Prevodna tabela — staro → današnje:**
+> **Prevodna tabela — stara devetka → danas:**
 >
 > | staro | poglavlje | danas |
 > |---|---|---|
@@ -16,17 +15,23 @@
 > | III | Krv | **IV** |
 > | IV | Pariz | **VI** |
 > | V | Nestanak | **IX** |
-> | VI | Prazna stolica | **XII** |
-> | VII | Beli grad | **XIII** |
-> | VIII | Kukavica | **XV** |
-> | IX | Ćebence | **XVI** |
+> | VI | Prazna stolica | **XIII** |
+> | VII | Beli grad | **XIV** |
+> | VIII | Kukavica | **XVI** |
+> | IX | Ćebence | **XVII** |
 >
-> *(Sedam novih — `Ulazak` II, `Italija` V, `Ivičnjak` VII, `Prelom` VIII, `Majka` X,
-> `Fabrika` XI, `Maska` XIV — u staroj numeraciji nemaju broj i nisu ovde upućivana.)*
+> **Prevodna tabela — numeracija od šesnaest *(31.08.–04.09.2026)* → danas:**
+> **I–XI stoje nepromenjeni**; `Prazna stolica` **XII → XIII** · `Beli grad` **XIII → XIV** ·
+> `Maska` **XIV → XV** · `Kukavica` **XV → XVI** · `Ćebence` **XVI → XVII**.
+> **Novo poglavlje `KATARINA` je XII.**
 >
-> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje: Katarinina
-> dva mesta stoje kao `VII 135` i `VII 161`, a u fajlu su danas **redovi 139 i 167**.
-> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ova tabela ih prevodi.
+> **Pun redosled danas:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
+> VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
+> **XII Katarina** · XIII Prazna stolica · XIV Beli grad · XV Maska · XVI Kukavica ·
+> XVII Ćebence. **Zbir: 31.898 reči.**
+>
+> **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje.
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ove tabele ih prevode.
 
 
 > **Ovo je pamćenje odluka, ne zabrana.** *(Prepisano 30.08.2026, odluka autora.)*
@@ -2559,3 +2564,73 @@ neodgovorenog **više, ne manje.**
 izričito „da" autora.
 
 **Knjiga: 31.922 → 31.916.**
+
+---
+
+# 34 — ⚑ PROREĐEN MOTIV „NE PITA" *(06.09.2026)*
+
+**Nalaz nije iz plana** — plan je iscrpljen. Došao je iz čitanja knjige i **prebrojan je
+dvaput iz teksta.** **Sprat: KNJIGA.**
+
+## 34.1 — ⛑ CIFRA: 28 MESTA U PETNAEST OD SEDAMNAEST POGLAVLJA
+
+**Motiv „ne pita / nije pitala" pada 28 puta.** Od toga je **oko četrnaest ravna naracija
+koja samo imenuje odsustvo** — *„Nisam pitao." · „Nije pitala." · „Nije pitala drugi put." ·
+„Nisam pitao šta."* `Italija` sama nosi šest.
+
+**Zašto je to teže od „leđa ka zidu"** *(sekcija 32, prebrojano 20)*: ono je **navika lika**,
+ovo je **postupak knjige.** Najjači emotivni potez rukopisa — ono što se ne pita — izveden je
+četrnaest puta kao **ravna izjava**, a to je jedini oblik koji se ne može odigrati.
+
+> **⛑ Da se ne pomeša:** cifra 20 iz sekcije 32 je **nalaz pre reza**; posle njega je ostalo
+> **14**. Poređenje 28 : 20 je nađeno prema nađenom, i tako se i čita.
+
+## 34.2 — METOD: ISTI KAO U SEKCIJI 32
+
+Svako od 28 mesta ocenjeno je kao **RADNJA** *(scena se pomeri, ili je izgovoreno naglas u
+dijalogu)* ili **KOMENTAR** *(naracija imenuje ono što je scena već pokazala)*.
+**Obrisano je pet komentara. Nijedna reč nije dopisana.** Svih pet su **duplikati unutar
+istog poglavlja** — nijedno mesto nije jedino te vrste u svom poglavlju.
+
+| poglavlje | šta je palo | zašto |
+|---|---|---|
+| **V `Italija`** | *„Andrijana nije pitala ništa."* | ruka na Natašinoj podlaktici **pre** nje i tuđa čaša popijena do pola **posle** nje već to rade. *(Referent zadržan: „Uzela je" → „Andrijana je uzela".)* |
+| **V `Italija`** | *„Nisam pitao šta je rekla, a"* | **treći put istog gega** o neprevođenju u istom poglavlju; obrt nosi *„nije ni ponudila"* sam |
+| **VIII `Prelom`** | *„Nije pitala ništa više."* | salveta presavijena **na osminu** to već kaže, i to je jedina stvar koju Andrijana tog dana radi rukama |
+| **XI `Fabrika`** | *„Nije pitala."* | red iznad je *„gledala je u mene, ne u njih"* — **scena se sad završava tim pogledom** |
+| **XIV `Beli grad`** | *„i nije pitala ništa"* | grozna kafa iz automata, pružena bez reči, to već kaže |
+
+**Reči:** `Italija` 3.390 → 3.381 · `Prelom` 1.795 → 1.791 · `Fabrika` 1.915 → 1.913 ·
+`Beli grad` 2.212 → 2.209. **Motiv 28 → 23, ravnih komentara 14 → 9.**
+
+## 34.3 — ŠTA SE NE DIRA, I ZAŠTO
+
+- **`Susret` *„da me niko ne pita ništa"*** — prsten knjige, prva strana.
+- **`Ulazak` *„Heroin, ako neko pita. Niko nije pitao."*** — jedini heroin u knjizi.
+- **`Ulazak` *„Nisam pitao ništa i on nije rekao ništa više…"*** — jedino mesto gde knjiga
+  kaže **račun** iza ćutanja; razmatrano kao objašnjenje po Pravilu T i **zadržano**, jer je
+  to karakter u prvom licu, ne tumačenje spolja.
+- **`Italija` *„ja te ne pitam gde si bio"*** — **dijalog**, Anjina replika, i nosi ceo kraj.
+- **`Italija` *„Nisam pitao šta znači. Nisam ni morao."*** — isplata *„Non tornare più così"*.
+- **`Ivičnjak` *„Ni tad ni posle."*** — **koren** za `Kukavicu`.
+- **`Majka` *„Ona ne pita ništa." / „Ne pita."*** — dijalog, i majka time imenuje razlog.
+- **`Prazna stolica` *„Nisam pitao koja ona."*** — rez odbijen 23.08.2026, odluka autora ·
+  ***„Za nju nikad nisam pitao smem li."*** — rezervisano mesto #2.
+- **`Beli grad` *„Nije pitala gde, a ja nisam rekao."*** — zaštićena dopuna, 28.08.2026.
+- **`Kukavica` *„Ne znam da li je još živa. Andrijana bi znala. Nisam je pitao."***
+- **`Ćebence` *„Nisam pitao na koju adresu. Znao sam."*** — sat knjige.
+- **`Katarina` *„Nije pitala drugi put."*** — to je ono što od *„Ne može sreda"* pravi beat.
+- **`Pariz`, sva tri** — *„Niko nije pitao zašto"* nosi poređenje s vremenskim prilikama,
+  *„nije pitala koliko košta"* je **namerno udvojeno**, a *„Ona nikad nije pitala ono što je
+  videla"* je Jovanina definicija.
+
+## 34.4 — PRAVILO J I PRAVILO T
+
+**Pravilo J:** ovo je, kao i sekcija 32, **zahvat čiste prirode brisanja.** Nijedna reč nije
+dopisana da bi se rez „platio", i nijedan rez ne ostavlja rupu — svih pet mesta imalo je
+scenu koja isto nosi telom.
+
+**Pravilo T:** neodgovorenog je posle ovoga **isto toliko**; nijedna činjenica nije ni dodata
+ni oduzeta. Pala je samo naracija koja je **imenovala** ono što scena pokazuje.
+
+**Knjiga: 31.916 → 31.898.**

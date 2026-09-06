@@ -6,22 +6,25 @@ svi predlozi i sve izmene idu na srpskom.
 
 ## PRVO — pre bilo čega
 
-**Četiri fajla, tim redom:**
+**Pet fajlova, tim redom:**
 
 1. **`roman/NASTAVAK.md`** — handoff: gde je revizija stala, šta je sledeće.
 2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
    **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
    **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
 3. **`roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md`** — **⚑ IZVOR.** Autorovo znanje o
-   svojim ljudima, dato u razgovoru 03.09.2026. Kad se dokument s njim sukobi — **važi on.**
-4. **`roman/dokumenti/PLAN_03_09_2026.md`** — **⚑ JEDINI PLAN, usvojen autorovom rečju.**
+   svojim ljudima — **54 stavke u jedanaest krugova, 03–06.09.2026** *(ime fajla nosi samo
+   prvi dan)*. Kad se dokument s njim sukobi — **važi on.** Ono što o likovima **ne piše
+   nigde — pita se, ne popunjava.**
+4. **`roman/dokumenti/PLAN_03_09_2026.md`** — poslednji plan, usvojen autorovom rečju.
    Devet zahvata *(higijena)* + potezi **A, B i C** *(ono što menja kategoriju)*.
-   **Radi se odozgo.** *(`PLAN_RASTA.md` je obrisan — nije bio autorov. `PLAN_RADA.md` je
-   iscrpljen 31.08.2026. Ne raditi ni po jednom.)*
+   **⚑ ISCRPLJEN 06.09.2026 — u njemu nema posla.** Otvara se **zbog zabrana i razloga**
+   *(Deo 1B — Pravilo T; Deo 5; Deo 8)*, ne zbog spiska. *(`PLAN_RASTA.md` je obrisan — nije
+   bio autorov. `PLAN_RADA.md` je iscrpljen 31.08.2026. Ne raditi ni po jednom.)*
 5. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
    predloga izmene, ne samo na početku sesije.
 
-Bez ta četiri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
+Bez tih pet ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
 
 > **⚑ IZUZETAK — LEKTORSKI PROLAZ IDE OBRNUTO** *(Pravilo R, 31.08.2026)*.
 > **Kad je posao „pročitaj knjigu i nađi šta ne valja", tekst se čita PRVI, go, bez
@@ -91,7 +94,7 @@ XIII Beli grad · **XIV Maska** · XV Kukavica · XVI Ćebence.
 > **Redosled od sada:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
 > VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
 > **XII KATARINA** · XIII Prazna stolica · XIV Beli grad · **XV Maska** · XVI Kukavica ·
-> XVII Ćebence. **Zbir: 31.916 reči** *(stanje 06.09.2026, posle zahvata 7, 8 i 9;
+> XVII Ćebence. **Zbir: 31.898 reči** *(stanje 06.09.2026, posle zahvata 7, 8 i 9;
 > starije cifre — 31.943, 32.020 i 31.922 — više ne važe)*.
 >
 > **Stariji zapisi koji kažu „Prazna stolica XII" misle na XIII, „Maska XIV" na XV,
@@ -126,9 +129,11 @@ tačna u svemu osim u numeraciji i broju poglavlja.
 > **sekcija 33**. Sledeće što knjizi treba nije zahvat nego **čitalac** — prompt stoji u
 > `roman/NASTAVAK.md`.
 
-**Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_03_09_2026.md`** *(do 03.09.2026. je to bio `PLAN_RADA.md`, koji je iscrpljen)* —
-**četrnaest poteza — svi zatvoreni, plan iscrpljen**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
-se odozgo. **Ne planirati mimo njega.**
+**⚑ PLANA VIŠE NEMA — i to je odluka, ne rupa.** `roman/dokumenti/PLAN_03_09_2026.md` je
+nosio **devet zahvata i tri poteza (A, B, C)**; svih dvanaest je zatvoreno do 06.09.2026, a
+poglavlje `BRAT` je palo s upisanim razlogom. *(Raniji `PLAN_RADA.md` je nosio četrnaest
+poteza i iscrpljen je 31.08.2026 — te dve cifre se lako pomešaju.)*
+**Ne pravi se nov plan bez autorove reči.**
 
 > **⚑ 01.09.2026 — KNJIGA JE PONOVO OTVORENA, ODLUKA AUTORA.** Šesnaest poglavlja je
 > **kostur**, ne gotova knjiga. **Nema više zaključanih poglavlja.** **Rupa ostaje
@@ -282,6 +287,15 @@ karakter, ne cenzura.
   čitanih parcijalno i tri greške su ušle u tekst.
 - **Tekst poglavlja se šalje kao `.md` fajl, ne u razgovor** *(odluka autora,
   30.08.2026)*.
+- **⚑ Pre commita koji dira poglavlja ili brojeve — `bash roman/alati/provera.sh`.**
+  Meri iz teksta: zapečaćena imena *(Jovana i David samo u `Kukavici`, Katarina samo u
+  `Belom gradu`, „Beograd" nigde, heroin i „čudovište" po jednom)* · da nijedan fajl ne
+  završava prelomom reda · zbir reči protiv `README`, `NASTAVAK` i ovog fajla · je li
+  `roman/SAHRANA_BEZ_TELA_CELA.md` ažuran.
+- **`roman/SAHRANA_BEZ_TELA_CELA.md` se ne prepravlja rukom** — sastavlja ga
+  `roman/alati/build_cela.sh` iz `roman/poglavlja/`, redom iz naslova unutar fajla.
+  *(06.09.2026. je zatečen zastareo za celo jedno poglavlje: nosio je šesnaest i bio bez
+  `Katarine`. Ko ga otvori kao knjigu, čita staru verziju.)*
 
 ## Git
 

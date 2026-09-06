@@ -1,5 +1,15 @@
 # GRAĐA — FABRIKA (NOVO 5)
 
+> ## ⛑ NUMERACIJA — knjiga danas ima SEDAMNAEST poglavlja *(od 04.09.2026)*
+>
+> Ovaj fajl je pisan pre toga i **oznake poglavlja u njemu su stare.** Prevodne tabele stoje
+> na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
+> **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
+> `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.898 reči.**
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
+
+
 > **Radni fajl, ne registar.** Ovde stoji ono što je autor ispričao o stvarnim
 > okolnostima, pre pisanja. Kad se poglavlje zatvori, ono što je odluka seli se u
 > `REGISTAR_ODLUKA.md`. Otvoreno 30.08.2026.
