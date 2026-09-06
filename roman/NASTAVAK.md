@@ -164,139 +164,136 @@
 > **brisanja radnji**, a plan sam kaže: **broj nije cilj, stepenovanje jeste.** Pun zapis,
 > spisak svih dvadeset mesta i šta se ne dira: `REGISTAR_ODLUKA.md`, **sekcija 32**.
 >
-> **Sledeći korak, i poslednji u planu:** **slepi prolaz po Pravilu R (zahvat 9)** — cela
-> knjiga, **tekst prvi, go, bez ijednog dokumenta.** Time se plan iscrpljuje.
+> **⚑ ZAHVAT 9 ZATVOREN 06.09.2026 — SLEPI PROLAZ PO PRAVILU R. PLAN JE ISCRPLJEN.**
+> Knjiga je pročitana cela i gola, od I do XVII, pre otvaranja ijednog dokumenta; registar
+> je otvoren tek posle toga. **Četiri nalaza — tri uneta, jedan oboren od autora:**
+>
+> - **`Prazna stolica` XIII, red 137** — *„Tri prazne stolice preko puta."* → *„Tri prazne
+>   stolice."* Red 7 i red 155 kažu da je jedna **do njega**, i baš nju gura nogom pod sto.
+>   **1.388 → 1.386.**
+> - **`Nestanak` IX i `Ćebence` XVII** — knjiga je tri puta merila poruku na *„tri reči"*, a
+>   poruke su od **četiri, četiri i dve**. **Poruke nisu dirane** *(obe su zaštićene)*,
+>   promenjeno je samo brojanje: *Četiri reči* na četiri mesta u `Nestanku`, *Dve reči* u
+>   `Ćebencetu`. **1.367 → 1.366**; `Ćebence` bez promene.
+> - **`Katarina` XII** — nalaz je bio da ista **ključna kost** pada i tu i u `Kukavici`.
+>   Autor je odgovorio da **anegdota nije tačna: brat je živ i zdrav**, a *„momak s betona"*
+>   čita kao geto. Beton i ključna kost izlaze **i iz albuma i iz opisa rama na komodi**
+>   *(ista slika)*, a umesto njih **isti čovek na dve slike — mršav pa dvaput širi.**
+>   **1.628 → 1.625.** `Kukavica` nije dirana nijednom rečju.
+> - **⛔ `Fabrika` XI, „Ona vozi brzo" — oboreno od autora.** *„Ne mora sve da se odmah tog
+>   trenutka shvati, knjiga treba malo da vozi."* Čitalac nije izgubljen nego korak iza
+>   teksta, i to knjiga sme. **Ne vraćati.**
+>
+> Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 33**; autorov materijal o bratu:
+> `ODGOVORI_AUTORA_03_09_2026.md`, **jedanaesti krug, stavke 53 i 54**.
+> **Knjiga: 31.922 → 31.916.**
+>
+> ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
+>
+> **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
+> a `BRAT` je pao s upisanim razlogom. **Ne praviti nov plan bez autorove reči.**
+> **Sledeće što knjizi treba nije zahvat nego čitalac** — vidi prompt ispod.
 
 ---
 
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU — ZAHVAT 9: SLEPI PROLAZ PO PRAVILU R *(upisan 06.09.2026)*
+## ⚑ PROMPT ZA SLEDEĆU SESIJU — ČITANJE, NE REVIZIJA *(upisan 06.09.2026, na zahtev autora)*
 
-> Nalepiti na početak novog razgovora. **Ovaj prompt namerno NE liči na prethodne** — zahvat
-> 9 je jedini posao u repou koji se radi **bez dokumenata**, pa mu prompt ne sme dati ništa
-> što bi prolaz popunio pre nego što vidi.
+> Nalepiti na početak novog razgovora. **Ovo nije zahvat i nije prolaz.** Plan je iscrpljen;
+> autor traži **mišljenje čitaoca**, ne popravku. Zato prompt namerno **ne daje nijedan
+> dokument** — ni registar, ni plan, ni spisak zaštićenog. Čitalac koji zna šta je zaštićeno
+> više ne čita, nego proverava.
 
 ```
-Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor i sve izmene.
-Autor je Andrija (Duffy). Ovo nije softverski projekat nego rukopis u reviziji.
+Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor.
+Autor je Andrija (Duffy). Rukopis je zavrsen — ovo NIJE revizija.
 
 ==================================================================
-STOP. OVAJ POSAO IDE OBRNUTO OD SVIH OSTALIH.
+OVAJ POSAO JE CITANJE. NE POPRAVKA.
 ==================================================================
 
-ZAHVAT 9 — SLEPI LEKTORSKI PROLAZ PO PRAVILU R. Poslednji u planu.
-Kad je gotov, plan je iscrpljen.
+Plan rada je iscrpljen. Nema vise zahvata, nema vise poteza.
+Autor trazi jednu jedinu stvar: MISLJENJE CITAOCA.
 
-⛔ NE OTVARAJ NIJEDAN DOKUMENT DOK NE PROCITAS CELU KNJIGU.
+⛔ NE OTVARAJ NIJEDAN DOKUMENT. NIJEDAN.
 Ni NASTAVAK.md, ni POENTA_KNJIGE.md, ni PLAN, ni REGISTAR, ni
-ODGOVORI, ni dnevnik. CLAUDE.md smes — to su pravila zanata, ne
-sadrzaj knjige.
+ODGOVORI, ni dnevnik, ni arhivu. CLAUDE.md smes — to su pravila
+zanata, ne sadrzaj knjige.
 
-ZASTO: redosled „prvo dokumenti pa tekst" stiti knjigu od ponovnog
-otvaranja zatvorenog, ali OSLEPLJUJE ZA NESUGLASICE. Ko procita
-registar pre teksta, taj rupu popuni pre nego sto je vidi. Tako je
-31.08.2026. promaseno da `Ulazak` imenuje Jovanu tri poglavlja pre
-zaveta da je nece imenovati. DVA POSLA SE NIKAD NE RADE U ISTOM
-PROLAZU.
+ZASTO: ko procita dokumentaciju pre knjige, taj vise ne cita nego
+proverava. Zna sta je zasticeno, zna sta je namerno, zna gde je rupa
+zapecacena — i onda ne moze da kaze da li knjiga radi, jer mu je vec
+receno da radi. Autor hoce da zna kako knjiga stoji ČOVEKU koji je
+uzme i procita. Nista drugo od tebe ne treba.
 
 ==================================================================
-PRVI PROLAZ — TEKST, GO
+STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 31.922 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 31.916 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
-redu, od I do XVII, cele fajlove, red po red.
+redu, od I do XVII, cele fajlove, red po red, od prve reci do
+poslednje.
 
-MERI SE: LC_ALL=C.UTF-8 wc -w po fajlu, pa zbir. Golo `wc -w`
-potcenjuje za oko 1%. `cat` preko svih fajlova LAZE — nijedan fajl ne
-zavrsava prelomom reda pa se reci slepe na spojevima.
+Citaj je kao knjigu koju si kupio. Ne kao zadatak.
 
-DOK CITAS, PRAVI SPISAK IZ SAMOG TEKSTA — ne iz secanja, ne iz
-zakljucka:
- · KO JE KO. Svaki lik, i kako ga tekst zove na kom mestu.
- · GDE SE KO PRVI PUT IMENUJE, i gde se posle toga ne imenuje.
- · SVAKI DATUM, GODINA I UZRAST, i sta iz njih ispada.
- · SVAKI MOTIV KOJI SE PONAVLJA — koliko puta i gde.
- · SVAKO MESTO GDE SE IZGUBIS U POZICIJI (koje je vreme, cija je
-   kuhinja, ko govori). Gubljenje u UZROKU nije nalaz — to je knjiga.
+Onda mi reci sta mislis. Iskreno, bez ublazavanja, bez uvoda i bez
+izvestaja o citanju. Malo kao lektor, malo kao citalac — ali citalac
+prvi.
 
 ==================================================================
-DRUGI PROLAZ — TEK SADA SE OTVARA REGISTAR
+STA AUTOR ZAPRAVO PITA
 ==================================================================
 
-Kad je spisak gotov i tek onda: roman/dokumenti/REGISTAR_ODLUKA.md
-(32 je poslednja sekcija), pa NASTAVAK.md, pa ostalo po potrebi.
-Poredi svoj spisak s registrom. SVAKA RAZLIKA JE NALAZ.
+Namera je bila da se knjiga CITA, da te ODUSEVI i da je NE ZABORAVIS.
+Pitanje je da li je to uspelo.
 
-Nalaz nije poziv da se pise. Nalaz se iznosi autoru, s citatom i sa
-spratom (RECENICA, POGLAVLJE ili KNJIGA), pa autor kaze sta se radi.
+Zato mi reci, tim redom:
 
-==================================================================
-STA SE NE DIRA, NI U JEDNOM PROLAZU
-==================================================================
+1. DA LI SE CITA. Gde si stao, gde si preskocio, gde ti je pala
+   paznja. Ako nigde — reci i to.
+2. DA LI TE JE NEGDE UHVATILA. Koje mesto, doslovno, i sta je s tobom
+   uradilo. Ako te nije uhvatila nigde, to je najvazniji odgovor u
+   celom razgovoru i mora da bude prva recenica.
+3. STA CE OSTATI ZA NEDELJU DANA. Ne sta je najbolje napisano — sta
+   pamtis.
+4. OCENA, NAGLAS. Dobra je / odlicna je / ne valja / valja ali. Jedna
+   recenica, bez ograda, pa onda obrazlozenje.
+5. STA JE NAJSLABIJE. Jedno mesto, ne spisak. Ono koje bi ti kao
+   citalac izbacio ili prepisao.
 
-Ovo ne citas da bi popunio — citas da ne bi razvalio. Ako nesto od
-ovoga izgleda kao greska u tekstu, TO JE NALAZ ZA AUTORA, ne popravka.
-
-1. JOVANINO „DOBRO" — Nestanak, Kukavica, Ulazak.
-2. DAVID NE SAZNAJE STA MU JE JOVANA. Zna od pocetka i sam sebi je
-   zabranio. Nema scene u kojoj shvata.
-3. ODRAZ pada tacno tri puta: Pukotina, Ivicnjak, Cebence.
-4. Rec „porodica" jednom (Italija). „Cudoviste" jednom (kraj Susreta).
-5. IME JOVANA samo u Kukavici. Katarinino dvaput, oba u Belom gradu,
-   plus naslov XII. Davidovo i ime grada su zapecaceni. HEROIN pada
-   jednom, u Ulasku.
-6. Kraj Cebenceta: razmena „Kako je." / „Dobro je. Pita za tebe
-   nekad.", drugo zujanje o kolima, i SVE od „Spustio sam telefon."
-   nanize — prazna stolica, zena s kisobranom, Sahrana bez tela,
-   prazan dzep.
-7. JOVANINA PORUKA u Belom gradu (registar 30) i ANDRIJANINO DRUGO
-   ZUJANJE u Cebencetu (registar 31).
-8. MOTIV „ledja ka zidu" je 06.09. vec prorede — 20 na 14, registar
-   32. NE PRORIDIVATI GA DALJE. Ako ti negde smeta, to je nalaz.
-9. Fajlovi poglavlja NE zavrsavaju prelomom reda. tail -c 1 | od -An -c
-10. OBLIK IZ POTEZA C — dah koji puca do jednorecnih recenica — SAMO
-    u Ulasku.
-11. DVORISTE U SADASNJOSTI pada tacno jednom, u okviru Pariza.
-
-CEKA AUTORA, ne dirati bez njegove reci — REGISTAR 29.5: naslov
-„XII — Katarina" je jedini naslov u knjizi koji je licno ime.
-Ponudjene zamene iz samog poglavlja: Orman, Polica, Kesa.
+Sprat obavezno uz svaku ocenu: RECENICA, POGLAVLJE ili KNJIGA.
+„Ovo nije na nivou" bez sprata je bezvredna recenica.
 
 ==================================================================
-PRAVILO T — VAZI ZA SVAKI POTEZ
+STA SE NE RADI
 ==================================================================
 
-Knjiga sme da POKAZE. Ne sme da PROTUMACI. Citalac se NIKAD ne sme
-izgubiti u POZICIJI, UVEK se mora gubiti u UZROKU. Pravilo T BRANI
-ZATECENU TAJNU, NE TRAZI NOVU. Posle svih izmena u knjizi mora ostati
-NAJMANJE ISTO TOLIKO neodgovorenog.
+⛔ NE PREDLAZI IZMENE dok autor ne pita. Ovo nije prolaz.
+⛔ NE DIRAJ NIJEDAN FAJL u roman/poglavlja/ bez izricitog „da".
+⛔ NE PREPRICAVAJ RADNJU. Autor ju je napisao, zna je.
+⛔ NE HVALI IZ PRISTOJNOSTI. Autor to prepozna i to je gore od lose
+   ocene. Ako nesto ne valja, reci da ne valja i reci zasto.
+⛔ NE PRAVI NOV PLAN. Plan je iscrpljen i to je odluka.
+
+Ako te knjiga negde izgubi — gde si, koje je vreme, cija je kuhinja,
+ko govori — to prijavi, jer to je jedina vrsta gubljenja koju knjiga
+ne sme sebi da dozvoli. Gubljenje u UZROKU (zasto je otisao, sta je
+radio, sta mu je ona) NIJE greska nego namera. Ne popunjavaj je i ne
+trazi odgovor.
 
 ==================================================================
-KAKO SE RADI
+KAKO SE PISE
 ==================================================================
 
-K: mehanika bez pitanja, prijavi posle. Svaka napisana recenica ceka
-   izricito „da", jedna po jedna. Blanko „da" se ne prima.
-M: svaka ocena kaze sprat — RECENICA, POGLAVLJE ili KNJIGA.
-E: tekst je autoritet nad dokumentima. Kad se sukobe, ISPRAVLJA SE
-   DOKUMENT. Ali proveri da nije samo neuploadovana verzija.
-G: ako se dvoumis, ne diraj. Prag je „merljivo bolje".
-P: dug se placa tamo gde je nadjen, nikad unazad.
-J: rez nije prolaz.
+Kratko i direktno. Bez kilometarskih poruka. Bez uvodnog pasusa.
+Prva poruka nosi ocenu, ne pripremu za ocenu.
+Jedna tema po poruci. Jedno pitanje po poruci.
 
-NE SKAKATI S TEME NA TEMU. Jedan nalaz, jedan predlog. Bez
-kilometarskih poruka i bez izvestaja o citanju — autor to izricito ne
-trazi. Prva poruka kratka, sa poentom i resenjem.
-
-KAD AUTOR DA NOV MATERIJAL: upisi ga u ODGOVORI_AUTORA odmah, kao nov
-krug, s datumom, s pitanjem uz odgovor, i uz oznaku PISE SE / NE PISE
-SE.
-
-GIT: nema nadgledanja PR-ova, nema samoprovera. Commit kako ide. PR i
-MERGE na kraju razgovora — draft PR ne vazi kao sacuvano. Posao nije
-zatvoren dok razlika prema glavnoj grani nije prazna.
+GIT: nema nadgledanja PR-ova, nema samoprovera. Ako iz razgovora
+ipak izadje izmena — commit kako ide, PR i MERGE na kraju razgovora.
+Posao nije zatvoren dok razlika prema glavnoj grani nije prazna.
 Glavna grana: claude/nesto-zanimljivo-z4j3s0.
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce
@@ -307,7 +304,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 31.922 reči.** Izmereno **06.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 31.916 reči.** Izmereno **06.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -324,24 +321,28 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.019** |
 | **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.127 |
 | **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | 1.795 |
-| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | 1.367 |
+| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
 | **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.915** |
-| **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | 1.628 |
-| **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.388** |
+| **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | **1.625** |
+| **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
 | **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.212 |
 | **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.707** |
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 31.922 reči.**
+**ZBIR: 31.916 reči.**
 
-> **Pet podebljanih je dirano zahvatom 8** *(06.09.2026, proređivanje motiva — samo rez)*:
+> **Tri podebljana su dirana zahvatom 9** *(06.09.2026, slepi prolaz — dva reza i tri
+> napisane rečenice)*: `Nestanak` 1.367 → 1.366 · `Katarina` 1.628 → 1.625 ·
+> `Prazna stolica` 1.388 → 1.386. `Ćebence` je dirano bez promene broja reči.
+>
+> **Ranije istog dana, zahvatom 8** *(06.09.2026, proređivanje motiva — samo rez)*:
 > `Italija` 3.405 → 3.390 · `Pariz` 2.041 → 2.019 · `Fabrika` 1.936 → 1.915 ·
 > `Prazna stolica` 1.420 → 1.388 · `Maska` 1.715 → 1.707.
 > **Istog dana su ranije dirani** `Beli grad` **2.167 → 2.212** *(potez A)* i `Ćebence`
 > **1.627 → 1.644** *(zahvat 7)*.
-> **Stariji zbirovi — 30.315, 31.958 i 32.020 — više ne važe nigde.**
+> **Stariji zbirovi — 30.315, 31.958, 32.020 i 31.922 — više ne važe nigde.**
 
 > **⛑ Tabela u ovom fajlu je 06.09.2026. zatečena zastarela za ceo jedan dan rada** —
 > vodila je šesnaest poglavlja i 30.315 reči, bez `Katarine`, s pogrešnom numeracijom od

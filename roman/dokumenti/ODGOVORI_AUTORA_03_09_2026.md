@@ -869,3 +869,45 @@ kupila Teslu i čekala je šest meseci."*
 
 **Uz to stoji `ODGOVORI` 19** *(ne luduje više kolima)* — ali se **stanje ne izgovara.**
 Andrijana se žali da vozi sporo; zaključak pravi čitalac ili ga nema.
+
+---
+
+# JEDANAESTI KRUG — 06.09.2026 · ⚑ KATARININ BRAT JE ŽIV I ZDRAV
+
+> **Pitanje *(Helena)*, iz slepog lektorskog prolaza (zahvat 9):** nalaz je bio da ista
+> povreda pada dvaput — *„Slomio je ključnu kost"* o Katarininom bratu u `Katarini` i
+> *„Slomio ključnu kost"* o Natašinom čoveku u `Kukavici`. Pitanje autoru je bilo šta je
+> zapravo bilo s njim i ko je na toj slici.
+
+## 53 — ⛔ ANEGDOTA O BETONU I KLJUČNOJ KOSTI NIJE TAČNA — BRIŠE SE
+
+**Autor, doslovno:** *„njen brat je živ i zdrav aman, i to momak sa betona malo mi čudno
+ko da je u nekom getou, može da bude mršav na prvoj slici a na drugoj nabildovan jer je to
+istina. ili tako nešto."*
+
+**Dve stvari, obe autorove:**
+
+1. **⛔ Beton izlazi.** *„Momak s betona"* i skakanje s betona u vodu do pojasa čitaju se kao
+   geto, a to nije ta kuća ni taj čovek. **Ne zamenjivati drugim mestom radnje** — slika
+   ostaje slika, bez lokacije.
+2. **⛔ Ključna kost izlazi.** Nije se desilo. **Time pada i eho s `Kukavicom`** — nalaz iz
+   prolaza se rešava sam, bez diranja Natašine replike.
+
+## 54 — ŠTO SE PIŠE UMESTO TOGA: DVE SLIKE, MRŠAV PA NABILDOVAN
+
+**PIŠE SE.** Isti čovek na dve slike u istom albumu — na prvoj mršav dečak s rukama u
+vazduhu, na drugoj isti taj, godinama kasnije, dvaput širi. **To je istina i to je materijal.**
+
+**Šta nosi, a nigde ne izgovara:**
+
+- **Brat je živ.** Album u `Katarini` je do sada čitan elegično — tri lica pod istim
+  staklom i žena koja priča o njima jer joj se priča. Dve slike istog živog čoveka
+  **menjaju vreme albuma**: to nije spomenik nego porodica koja i dalje traje negde.
+- **Kontrast s Davidom se pojačava sam.** On u tom stanu nema nijednu sliku; ona ima
+  jedanaest i još jednu istog čoveka dvaput. **Ne komentarisati.**
+- **⛔ Ne dodavati bratu repliku, poziv, dolazak ni scenu.** Ostaje u albumu.
+- **⛔ Ne objašnjavati zašto se promenio** (teretana, vojska, godine) više od jedne
+  usputne rečenice iz njenih usta. Pravilo T: pokazati, ne protumačiti.
+
+**Posledica u tekstu:** menja se i **red 25** (opis rama na komodi), jer je to ista slika —
+*„momak na nekom betonu"* ne sme da ostane kad beton izlazi iz albuma.

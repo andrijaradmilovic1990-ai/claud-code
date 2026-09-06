@@ -22,7 +22,7 @@ Nije bilo pitanje, pa nisam ni odgovorio. Obukao sam se i otišao da stavim vodu
 
 Stan je bio njen pre nego što sam u njega prvi put ušao i to se videlo na svakom zidu.
 
-Iznad komode stoji ram s tri slike pod istim staklom: dvoje starijih ljudi ispred kuće koju nisam video, devojčica na biciklu prevelikom za nju, i momak na nekom betonu, sav mršav, s rukama u vazduhu. Na polici pored, u okviru za sebe, ona i sestra, obe s istim čelom. Na frižideru još dve, pod magnetima. U hodniku jedna, mala, nakrivljena, i niko je nikad nije ispravio.
+Iznad komode stoji ram s tri slike pod istim staklom: dvoje starijih ljudi ispred kuće koju nisam video, devojčica na biciklu prevelikom za nju, i momak sav mršav, s rukama u vazduhu. Na polici pored, u okviru za sebe, ona i sestra, obe s istim čelom. Na frižideru još dve, pod magnetima. U hodniku jedna, mala, nakrivljena, i niko je nikad nije ispravio.
 
 Prebrojao sam ih jednom, davno, dok je bila u smeni a ja nisam. Jedanaest.
 
@@ -160,11 +160,15 @@ Album je bio od onih starih, s prozirnom folijom koja se diže i više ne lepi, 
 
 „Ovo je on.“ Pokazala je noktom. „Tu ima šesnaest. Vidi ruke.“
 
-Momak s betona. Iste ruke u vazduhu.
+Momak s rama iznad komode. Iste ruke u vazduhu.
 
 „Šta radi.“
 
-„Pravi se važan. Skakao je s tog betona ceo dan, a voda mu je bila do pojasa.“ Nasmejala se u koleno. „Slomio je ključnu kost i nije rekao nikom tri dana. Mama je saznala kad nije mogao da obuče jaknu.“
+„Pravi se važan.“ Okrenula je list i kucnula noktom po drugoj slici. „A ovo je isti taj.“
+
+Ruke nisu bile iste. Ni vrat.
+
+„Šalje mi slike koje niko nije tražio.“ Nasmejala se u koleno. „Na svakoj je veći.“
 
 Okrenula je list.
 

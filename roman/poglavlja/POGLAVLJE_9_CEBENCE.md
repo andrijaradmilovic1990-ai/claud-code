@@ -194,7 +194,7 @@ Pa sam ga uzeo i otvorio Andrijanu.
 
 *Kako je.*
 
-Tri reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati odgovor. Spustio sam telefon.
+Dve reči, i tačka na kraju jer tako šaljem kad nisam siguran hoću li čekati odgovor. Spustio sam telefon.
 
 Kafa se hladila. Nisam žurio.
 

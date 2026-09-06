@@ -2456,3 +2456,106 @@ nosilo činjenicu koju knjiga nema drugde.
 
 **Pravilo T:** **neodgovorenog je posle ovoga više, ne manje.** Rez u `Fabrici` i u
 `Maski` sklanja objašnjenje **pre** pitanja, pa pitanje ostaje otvoreno duže.
+
+---
+
+# 33 — ⚑ ZAHVAT 9 IZVEDEN: SLEPI LEKTORSKI PROLAZ PO PRAVILU R *(06.09.2026)*
+
+**`PLAN_03_09_2026.md`, poslednji zahvat u planu. Time je plan iscrpljen.**
+**Sprat nalaza: mešano — dva REČENICA, jedan KNJIGA, jedan izvor.**
+
+## 33.1 — KAKO JE RAĐEN
+
+**Knjiga je pročitana cela i gola, od I do XVII, pre otvaranja ijednog dokumenta.**
+Redosled čitanja uzet iz naslova unutar fajlova, ne iz imena fajlova. Spisak *(ko je ko,
+gde se ko prvi put imenuje, svaka godina i uzrast, svaki motiv, svako mesto gde se gubi
+pozicija)* napravljen **iz teksta**, pa je tek onda otvoren registar i spiskovi upoređeni.
+
+**Prolaz je isporučio četiri nalaza. Tri su unesena, jedan je autor oborio.**
+
+## 33.2 — NALAZ 1 — UNET: TRI STOLICE NISU BILE PREKO PUTA
+
+**`Prazna stolica` XIII, red 137:** *„Tri prazne stolice preko puta."* → ***„Tri prazne
+stolice."***
+
+Red 7 kaže *„dve prazne stolice preko puta, pa treću do mene"*, red 155 *„Onu stolicu do
+mene, treću, gurnuo sam nogom pod sto"*, a `Ćebence` na kraju drži verziju iz reda 7
+*(„praznu stolicu preko puta — jednu od tri")*. **Red 137 je sve tri stavljao preko puta**,
+pa je stolica do njega — baš ona koju gura nogom, njena — ostajala bez mesta.
+
+**Motiv, brojka i poslednja slika knjige ostaju netaknuti** *(sekcija 20: „Poslednja slika
+knjige su tri prazne stolice")*. Pala je samo pogrešna odredba mesta. **1.388 → 1.386.**
+
+## 33.3 — NALAZ 2 — UNET: KNJIGA JE BROJALA REČI POGREŠNO, TRI PUTA
+
+Knjiga je tri puta merila poruku na *„tri reči"*, a nijednom ih nije bilo tri:
+
+| gde | poruka | koliko ih je |
+|---|---|---|
+| `Nestanak` IX, 103 i 109 | *Bezbedan sam. Ne tražite.* | **četiri** |
+| `Nestanak` IX, 141 i 157 | *Stigla sam. Volim te.* | **četiri** |
+| `Ćebence` XVII, 197 | *Kako je.* | **dve** |
+
+**Poruke nisu dirane — obe su zaštićene** *(sekcija „V — Nestanak"; spisak zaštićenog za
+kraj `Ćebenceta`)*. **Promenjeno je samo brojanje:** *Četiri reči* na četiri mesta u
+`Nestanku` *(uz „sve duže od tri reči" → „sve duže od toga")*, i *Dve reči* u `Ćebencetu`.
+
+**Zašto je to nalaz a ne sitnica:** David je čovek koji broji — kamione dok majka spava nad
+volanom, noći prespavane u majčinoj sobi, cifre broja koji dvanaest godina nije okrenuo.
+**Kad takav pripovedač promaši brojanje od tri, gubi se poverenje**, i to baš na tri mesta
+koja nose ceo život. **`Nestanak` 1.367 → 1.366; `Ćebence` bez promene.**
+
+> **⛑ Ostalo je stajati, svesno:** u `Nestanku` sad *„Četiri reči. Putovale su tri sekunde"*
+> stoji dva reda iznad *„trebalo joj je četiri godine"*. **Prijavljeno autoru, on je pustio.**
+
+## 33.4 — NALAZ 3 — OBOREN OD AUTORA: „ONA VOZI BRZO"
+
+**`Fabrika` XI, red 333.** Prolaz je prijavio da *„Ona vozi brzo"* prebacuje referenta sa
+žene s trake na majku bez najave, i predložio *„Majka vozi brzo"*.
+
+**Autor je oborio, doslovno:** *„pa pazi ako čitalac shvati pola strane naniže okej je, ne
+mora sve da se odmah tog trenutka shvati, knjiga treba malo da vozi."*
+
+**Stoji kao pravilo šire od ovog mesta:** blok iznad je ionako o majci i o petnaestom, pa
+čitalac nije **izgubljen** nego **za korak iza teksta** — a to knjiga sme. **Ne vraćati.**
+
+## 33.5 — NALAZ 4 — OTIŠAO U IZVOR, NE U TEKST: KLJUČNA KOST DVAPUT
+
+Prolaz je našao **istu povredu u istoj vrsti šale, četiri poglavlja razmaka:** *„Slomio je
+ključnu kost"* o Katarininom bratu *(`Katarina` XII)* i *„Slomio ključnu kost"* o Natašinom
+čoveku *(`Kukavica` XVI)*.
+
+**Autor je na to odgovorio da anegdota nije tačna** — brat je živ i zdrav, a *„momak s
+betona"* čita kao geto. **Puni zapis: `ODGOVORI_AUTORA_03_09_2026.md`, jedanaesti krug,
+stavke 53 i 54.** U tekst je ušlo: **beton i ključna kost izlaze** *(i iz albuma i iz opisa
+rama na komodi, jer je to ista slika)*, a umesto njih **isti čovek na dve slike — mršav pa
+dvaput širi.** **`Katarina` 1.628 → 1.625.**
+
+**Time je eho rešen sam:** `Kukavica` nije dirana nijednom rečju.
+
+## 33.6 — ŠTA JE PROVERENO I POTVRĐENO KAO TAČNO
+
+Sve ispod je prebrojano **iz teksta**, posle svih izmena:
+
+- **Zapečaćeno stoji:** ime *Jovana* samo u `Kukavici` · *Katarina* dvaput, oba u
+  `Belom gradu`, plus naslov XII · *David* dvaput, oba iz tuđih usta u `Kukavici`
+  *(sekcija „Nova scena na početku IV")* · *heroin* jednom *(`Ulazak`)* · *porodica*
+  jednom *(`Italija`)* · *čudovište* jednom *(kraj `Susreta`)*.
+- **Odraz pada tačno tri puta:** `Pukotina` *(tuđe ogledalo)* · `Ivičnjak` *(izlog, iznad
+  ramena ništa)* · `Ćebence` *(„Isti čovek.")*.
+- **Nijedan fajl poglavlja ne završava prelomom reda.**
+- **Hronologija godina slaže se s registrom i posle slepog računa iz teksta:** nestanak na
+  23 · `Prazna stolica` na 33 *(„deset godina", četiri puta)* · patrola dvanaest godina
+  ranije, s 21 · `Maska` na 34 *(„jedanaest godina van upotrebe")* · sadašnjost 35
+  *(„dvanaest godina" u `Susretu` i `Ćebencetu`)*. **Nijedna cifra ne ispada.**
+
+## 33.7 — PRAVILO T I PRAVILO J
+
+**Pravilo T:** nijedna izmena nije dodala činjenicu ni objašnjenje. Ono što je izašlo iz
+`Katarine` bila je **jedina scena u kojoj se o bratu nešto tumači**, pa je posle zahvata
+neodgovorenog **više, ne manje.**
+
+**Pravilo J:** zahvat nije rez — u `Katarinu` su ušle **tri napisane rečenice**, svaka uz
+izričito „da" autora.
+
+**Knjiga: 31.922 → 31.916.**

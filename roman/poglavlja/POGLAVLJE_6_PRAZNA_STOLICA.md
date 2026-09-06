@@ -134,7 +134,7 @@ Ruke sam pravio da rade to što sam sad tražio od tuđih. Znao sam tačno gde i
 
 Telefon je i dalje bio u mojoj ruci. Kafa hladna, ljuske semenki nigde — nije ih ni bilo, dvanaest godina ih nije bilo, ali jezik mi je tražio gorčinu pod zubom kao da sam tek ispljunuo poslednju.
 
-Tri prazne stolice preko puta.
+Tri prazne stolice.
 
 Znao sam sad zašto sam došao baš danas, baš za ovaj sto. Sela je ta životinja u meni za sto i čekala vest koju glava još nije imala.
 

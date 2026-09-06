@@ -91,7 +91,8 @@ XIII Beli grad · **XIV Maska** · XV Kukavica · XVI Ćebence.
 > **Redosled od sada:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
 > VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
 > **XII KATARINA** · XIII Prazna stolica · XIV Beli grad · **XV Maska** · XVI Kukavica ·
-> XVII Ćebence. **Zbir: 31.943 reči.**
+> XVII Ćebence. **Zbir: 31.916 reči** *(stanje 06.09.2026, posle zahvata 7, 8 i 9;
+> starije cifre — 31.943, 32.020 i 31.922 — više ne važe)*.
 >
 > **Stariji zapisi koji kažu „Prazna stolica XII" misle na XIII, „Maska XIV" na XV,
 > „Ćebence XVI" na XVII.** Stari zapisi se ne prepisuju — oni su istorija rada.
@@ -117,6 +118,13 @@ preostali posao i u knjigu je umetnuto novo poglavlje — **`IVIČNJAK`, mesto 7
 **Sve od `Preloma` nadalje ima broj veći za jedan** nego u `NOVA_KNJIGA_MAPA.md`.
 Stariji zapisi koji kažu „Maska, mesto 14" misle na **mesto 15**. Mapa je i dalje
 tačna u svemu osim u numeraciji i broju poglavlja.
+
+> **⚑ 06.09.2026 — `PLAN_03_09_2026.md` JE ISCRPLJEN.** Zahvatom 9 *(slepi lektorski
+> prolaz po Pravilu R)* zatvoren je poslednji posao u planu; devet zahvata i sva tri poteza
+> A/B/C su odrađeni, a poglavlje `BRAT` je palo s upisanim razlogom. **Nema otvorenih
+> zahvata i ne pravi se nov plan bez autorove reči.** Pun zapis: `REGISTAR_ODLUKA.md`,
+> **sekcija 33**. Sledeće što knjizi treba nije zahvat nego **čitalac** — prompt stoji u
+> `roman/NASTAVAK.md`.
 
 **Ceo preostali posao stoji na jednom mestu: `roman/dokumenti/PLAN_03_09_2026.md`** *(do 03.09.2026. je to bio `PLAN_RADA.md`, koji je iscrpljen)* —
 **četrnaest poteza — svi zatvoreni, plan iscrpljen**, svaki s tačnim mestom. Otvara se odmah posle `NASTAVAK.md` i radi
