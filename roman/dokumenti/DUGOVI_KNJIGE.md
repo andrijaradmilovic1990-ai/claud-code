@@ -1,5 +1,15 @@
 # DUGOVI KNJIGE — sprat iznad Dela 2
 
+> ## ⛑ NUMERACIJA — knjiga danas ima SEDAMNAEST poglavlja *(od 04.09.2026)*
+>
+> Ovaj fajl je pisan pre toga i **oznake poglavlja u njemu su stare.** Prevodne tabele stoje
+> na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
+> **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
+> `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.916 reči.**
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
+
+
 > **Zašto ovaj dokument postoji.** Deo 2 meri poglavlje protiv samog sebe: ima li
 > greške, sramote, tuđe volje, pritiska, pitanja na kraju. Poglavlje može da prođe
 > sve to i da knjizi ne da ništa. Zato se posle zatvaranja ispostavi da je nešto

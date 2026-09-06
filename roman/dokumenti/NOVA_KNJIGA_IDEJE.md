@@ -1,5 +1,15 @@
 # NOVA KNJIGA — zbornik ideja i praznih mesta
 
+> ## ⛑ NUMERACIJA — knjiga danas ima SEDAMNAEST poglavlja *(od 04.09.2026)*
+>
+> Ovaj fajl je pisan pre toga i **oznake poglavlja u njemu su stare.** Prevodne tabele stoje
+> na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
+> **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
+> `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.916 reči.**
+> **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
+
+
 > # ⚑ OVAJ FAJL JE OD 30.08.2026. ISTORIJA
 >
 > Tog dana su **sve ideje razvrstane, imenovane i dobile mesto**, i to stoji u
