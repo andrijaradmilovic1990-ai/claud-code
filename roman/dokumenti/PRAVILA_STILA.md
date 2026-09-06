@@ -6,7 +6,7 @@
 > na vrhu `REGISTAR_ODLUKA.md` i `SVET_I_LIKOVI_1.md`. **Ukratko:** novo poglavlje
 > **`KATARINA` je XII**, i sve od `Prazne stolice` naniže je za jedan više —
 > `Prazna stolica` **XIII** · `Beli grad` **XIV** · `Maska` **XV** · `Kukavica` **XVI** ·
-> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.916 reči.**
+> `Ćebence` **XVII**. **I–XI stoje nepromenjeni. Zbir: 31.898 reči.**
 > **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno.
 
 > Ovaj dokument pokriva ISKLJUČIVO zanat: kako se piše, ne o čemu se piše. Za priču, likove, hronologiju i svet — vidi SVET_I_LIKOVI.md. Za aktivni tok revizije, dnevnik rada i status po poglavlju — vidi Analiza_i_pokret_prepravke (poseban radni dokument, ažuran).

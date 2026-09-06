@@ -28,7 +28,7 @@
 > **Pun redosled danas:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
 > VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
 > **XII Katarina** · XIII Prazna stolica · XIV Beli grad · XV Maska · XVI Kukavica ·
-> XVII Ćebence. **Zbir: 31.916 reči.**
+> XVII Ćebence. **Zbir: 31.898 reči.**
 >
 > **Brojevi redova su uz to odlutali** tamo gde je posle upisa dirano poglavlje.
 > **Oznake se ne prepisuju** — one su zapis onoga što je tada odlučeno; ove tabele ih prevode.
@@ -586,7 +586,7 @@ kraj. Da padnu ranije, čitalac bi znao kraj i ostatak bi bio epilog.
 `Krv` prepravljene)*.
 
 > **⚑ OVA TABELA OPISUJE SAMO DEVET STARIH POGLAVLJA — prvu knjigu.** Nova knjiga ima
-> **sedamnaest mesta i 31.916 napisanih reči.** Puna tabela svih sedamnaest, s imenima fajlova,
+> **sedamnaest mesta i 31.898 napisanih reči.** Puna tabela svih sedamnaest, s imenima fajlova,
 > stoji u **`NASTAVAK.md`** i to je jedino mesto s tačnim brojevima.
 
 ---

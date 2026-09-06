@@ -27,7 +27,7 @@ netaknuto i u istom redosledu; nova se umeću između njih.
 
 ## ⚑ Knjiga ima SEDAMNAEST poglavlja *(od 04.09.2026)*
 
-**Sva su napisana. Stanje na 06.09.2026: 31.916 reči.**
+**Sva su napisana. Stanje na 06.09.2026: 31.898 reči.**
 
 Rasla je u tri koraka: **30.08.2026** je autor otvorio sva poglavlja i umetnut je
 **`IVIČNJAK`, mesto 7** *(devet → šesnaest)*; **04.09.2026** je zahvatom 4 napisano
@@ -74,21 +74,21 @@ fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 | II | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.498 |
 | III | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.786 |
 | IV | `POGLAVLJE_3_KRV.md` | Krv | 1.324 |
-| V | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | 3.390 |
+| V | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | **3.381** |
 | VI | `POGLAVLJE_4_PARIZ.md` | Pariz | 2.019 |
 | VII | `POGLAVLJE_NOVO_IVICNJAK.md` | Ivičnjak | 1.127 |
-| VIII | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | 1.795 |
+| VIII | `POGLAVLJE_NOVO_3_PRELOM.md` | Prelom | **1.791** |
 | IX | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.366 |
 | X | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.580 |
-| XI | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | 1.915 |
+| XI | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | **1.913** |
 | **XII** | `POGLAVLJE_NOVO_KATARINA.md` | **Katarina** | **1.625** |
 | XIII | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.386 |
-| XIV | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | 2.212 |
+| XIV | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | **2.209** |
 | XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | 1.707 |
 | XVI | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
 | XVII | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.644 |
 
-**ZBIR: 31.916 reči.**
+**ZBIR: 31.898 reči.**
 
 > **Ne prepisuj ovu tabelu rukom.** `roman/alati/provera.sh` meri zbir iz teksta i javlja
 > ako `README.md`, `NASTAVAK.md` ili `CLAUDE.md` nose staru cifru.
@@ -125,7 +125,7 @@ Git prati preimenovanja — istorija nije prekinuta.
 
 ## Stanje
 
-**Knjiga ima sedamnaest poglavlja, sva su napisana, 31.916 reči.** Od **01.09.2026**
+**Knjiga ima sedamnaest poglavlja, sva su napisana, 31.898 reči.** Od **01.09.2026**
 nijedno nije zaključano. **Plan je iscrpljen 06.09.2026** i nov se ne pravi bez
 autorove reči.
 

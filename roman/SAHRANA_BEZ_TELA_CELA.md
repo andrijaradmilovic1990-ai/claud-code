@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 31.916 reči.*
+*17 poglavlja, redom kojim se čitaju. 31.898 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -1166,7 +1166,7 @@ Ne znam šta mi je bilo na licu. Znam da je Toni prestao da priča na pola reči
 
 Nataša je pitala gde ćemo.
 
-Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana nije pitala ništa. Uzela je Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
+Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana je uzela Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
 
 Anja je stala između mene i vrata.
 
@@ -1308,7 +1308,7 @@ Anja je gledala u svoju. Nije je bila digla.
 
 „Parla, parla“, rekla je baka u tom trenutku, nikom posebno. „Intanto si fredda tutto.“
 
-Pola stola je palo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
+Pola stola je palo. Sačekao sam da prođe. Anja mi ovog puta nije ni ponudila.
 
 „Naša priča je o slobodi“, rekao sam. „O dugu. I o porodici.“
 
@@ -2150,7 +2150,7 @@ Andrijana je podigla glavu.
 
 „Jeste.“
 
-Nije pitala ništa više. Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
+Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
 
 Prošao sam pored ujaka i on me je uhvatio za ruku i držao je, i nije ništa rekao, i ja sam pustio da drži koliko mu treba.
 
@@ -2817,8 +2817,6 @@ Skupili su se i doviknuli mi da dođem.
 Slikali su se bez mene.
 
 Ona je stajala sa strane, s parčetom u ruci, i gledala je u mene, ne u njih.
-
-Nije pitala.
 
 ⁂
 
@@ -3748,7 +3746,7 @@ Uzeo sam tu njenu zdravu ruku, onu bez gipsa, prste hladne kao što su joj uvek 
 
 Kad je zaspala — a zaspala je naglo, kako se spava na tim lekovima — izašao sam u hodnik, naslonio se na zid, i stajao tako malo. Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata sobe. Njena vrata.
 
-Andrijana je došla odozdo, pogledala me, i nije pitala ništa. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
+Andrijana je došla odozdo i pogledala me. Samo mi je pružila plastičnu čašu kafe iz automata, grozne, i ja sam je popio do dna.
 
 Nazad smo vozili po mraku. Tri sata, isti put, i nijedno od nas nije reklo šta smo videli.
 

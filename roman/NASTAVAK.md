@@ -188,6 +188,15 @@
 > `ODGOVORI_AUTORA_03_09_2026.md`, **jedanaesti krug, stavke 53 i 54**.
 > **Knjiga: 31.922 → 31.916.**
 >
+> **⚑ 06.09.2026, POSLE PLANA — PROREĐEN MOTIV „NE PITA".** Nalaz nije iz plana nego iz
+> čitanja knjige, i **prebrojan je dvaput iz teksta: 28 mesta u petnaest od sedamnaest
+> poglavlja**, od toga oko četrnaest ravna naracija koja samo imenuje odsustvo. Teže od
+> „leđa ka zidu" *(20 pre reza, 14 posle)* — **ono je navika lika, ovo je postupak knjige.**
+> Metodom iz sekcije 32 obrisano je **pet komentara, svih pet duplikati unutar istog
+> poglavlja, nijedna nova reč:** `Italija` dvaput · `Prelom` · `Fabrika` · `Beli grad`.
+> **Motiv 28 → 23; knjiga 31.916 → 31.898.** Pun zapis i spisak zaštićenog:
+> `REGISTAR_ODLUKA.md`, **sekcija 34**.
+
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
 > *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — osam ih čeka autorovu reč.
 > Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
@@ -343,7 +352,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 31.916 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 31.898 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -417,7 +426,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 31.916 reči.** Izmereno **06.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 31.898 reči.** Izmereno **06.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -430,21 +439,21 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | 2.498 |
 | **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.786 |
 | **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
-| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.390** |
+| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.381** |
 | **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.019** |
 | **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.127 |
-| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | 1.795 |
+| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.791** |
 | **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
-| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.915** |
+| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
 | **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | **1.625** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
-| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | 2.212 |
+| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
 | **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.707** |
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 31.916 reči.**
+**ZBIR: 31.898 reči.**
 
 > **Tri podebljana su dirana zahvatom 9** *(06.09.2026, slepi prolaz — dva reza i tri
 > napisane rečenice)*: `Nestanak` 1.367 → 1.366 · `Katarina` 1.628 → 1.625 ·
