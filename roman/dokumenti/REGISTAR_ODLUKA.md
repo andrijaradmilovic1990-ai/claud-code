@@ -2385,3 +2385,74 @@ ime brenda bi je zakucalo u tačnu godinu. **Stoji „neka kola".**
 **Sve od *„Spustio sam telefon."* naniže do kraja knjige.** Prazna stolica, žena s
 kišobranom, *Sahrana bez tela*, prazan džep — **prsten se ne pomera.** Zahvat 7 je smeo da
 doda milimetar **pre** kraja, ne u njemu.
+
+
+---
+
+# 32 — ⚑ ZAHVAT 8 IZVEDEN: PROREĐIVANJE MOTIVA *(06.09.2026)*
+
+**`PLAN_03_09_2026.md`, Deo 2 zahvat 8.** Radi se posle poteza B, jer B motivu daje poreklo.
+**Sprat nalaza: KNJIGA.**
+
+## 32.1 — ⛑ PREBROJANO IZ TEKSTA: NIJE 18 NEGO 20
+
+Plan je vodio **18 pojavljivanja u 12 poglavlja** — cifra iz 03.09.2026. **Prebrojano
+06.09.2026. iz samog teksta, po svih sedamnaest poglavlja: dvadeset.** `Katarina` i potez B
+nisu dodali nijedno; stara cifra je promašila **`Prelom`**, **`Praznu stolicu`** i **drugo
+mesto u `Maski`** *(merenje izlaza kroz kuhinju)*.
+
+**Ocena svakog mesta:** je li **RADNJA** *(telo nešto uradi, scena se pomeri)* ili
+**USPUTNI KOMENTAR** *(naracija podseća čitaoca na naviku)*. **Radnja 14, komentar 6.**
+**Brisano je samo šest komentara**, i **svih šest su duplikati unutar istog poglavlja.**
+
+## 32.2 — Šta je obrisano *(šest mesta, 98 reči, nijedna nova reč)*
+
+| poglavlje | šta je palo | zašto |
+|---|---|---|
+| **V `Italija`** | klauza *„leđa uza zid, i odatle se vidi i ulaz i onaj hodnik prema zadnjem dvorištu"* | ostatak pasusa je o tome da je ta stolica njegova i da se deca na nju ne penju — **pripadanje, ne straža.** Klauza je pasus vukla na pogrešnu stranu |
+| **VI `Pariz`** | ceo pasus *„Sedeo sam tako da vidim vrata. Niko za stolom to nije primetio. Možda jedna. Ona je sve primećivala i ništa nije pitala."* | isto poglavlje to radi dvadeset redova niže, **leđima uz kamen**, i tamo radi najjače. Ovde je bila najava onoga što dole udara |
+| **XI `Fabrika`** *(autobus)* | rečenica *„Odatle se vidi ceo autobus i oba vrata i ko ulazi."* | odgovor stoji dve strane niže, **u dijalogu** — *„Da vidim ko ulazi."* Ovako je bio izgovoren pre nego što ga je ona pitala |
+| **XI `Fabrika`** *(klupa)* | klauza *„jer se odatle vidi kapija i ko ulazi u krug"* | `Fabrika` motiv nosi četiri puta; ovo je bio najslabiji od četiri |
+| **XIII `Prazna stolica`** | rečenica *„Mislili su da se ničega ne plašim, a ja se ni tada nisam okretao leđima nikom — ni kelneru, ni vratima, ni čoveku za volanom kome sam upravo dao ključeve nečijeg razbijanja."* | pasus iznad je to već pokazao telom *(„leđa su mi i tamo tražila zid")*. Ovo je bilo isto, drugi put, **i protumačeno** |
+| **XV `Maska`** | klauza *„Ugao, leđa ka zidu, vrata koso s leva."* | četiri reda niže meri izlaz kroz kuhinju — **to ostaje i jače je** |
+
+**Reči:** `Italija` 3.405 → 3.390 · `Pariz` 2.041 → 2.019 · `Fabrika` 1.936 → 1.915 ·
+`Prazna stolica` 1.420 → 1.388 · `Maska` 1.715 → 1.707.
+**Knjiga 32.020 → 31.922.**
+
+## 32.3 — Šta se NE dira, i zašto
+
+- **`Susret` (oba mesta) i `Ćebence`** — **prsten knjige.**
+- **`Krv`** — *„Seo sam za sto sa kog se… vide vrata. Ona je sela naspram, leđima ka njima."*
+  **Radnja i kontrast s njom u istoj rečenici.**
+- **Anjino *„nijednom nije pogledao ka vratima"* (`Italija`)** — zaštićeno planom.
+- **`Pariz`, leđa uz kamen u najlepšoj noći** — tu motiv radi najjače u knjizi.
+- **Obrtanja:** `Pukotina` *(„Nisam mislio na vrata, ni na to ko ulazi")* i `Fabrika`
+  *(„nisam se okrenuo da vidim ko iza nas ulazi")* — **preokret motiva, ne motiv.**
+- **`Fabrika`, dijalog *„Da vidim ko ulazi." / „Ko ulazi?"*** — jedino mesto gde je motiv
+  izgovoren naglas.
+- **`Prelom`** — *„Sedeo sam i gledao ko ulazi"*, pa ga svi redom prepoznaju. Scena se pomera.
+- **`Beli grad`** — *„Leđa su mi bila pokrivena. Svejedno sam stajao tako da vidim vrata
+  sobe. Njena vrata."* **Jedino mesto gde motiv čuva nju, ne njega.**
+- **`Maska`, merenje izlaza kroz kuhinju** — vodi u zaštićenu rečenicu *„moje merenje je
+  jedanaest godina van upotrebe"*.
+- **`Kukavica`** — *„Vrata koso s leva, ne iza leđa. Jovanin stan, znam gde se sedne."*
+
+## 32.4 — ⛑ META 9–10 NIJE POSTIGNUTA, I TO JE ODLUKA
+
+**Ostalo je 14, ne 9–10.** Meta se nije mogla stići bez **brisanja radnji**, a to bi bio
+gubitak, ne dobitak *(Pravilo G: prag je „merljivo bolje")*. **Plan i sam kaže: broj nije
+cilj, stepenovanje jeste.** Stepenovanje je time postignuto — motiv sad **raste** ka
+`Fabrikinom` dijalogu i ka `Belom gradu`, umesto da se usput ponavlja.
+
+**Ako se meta ikad bude terala do 9–10, znaj šta pada s tim:** sledeći na redu su radnje, i
+svaka od njih nosi nešto što motiv ne nosi.
+
+## 32.5 — Pravilo J i Pravilo T
+
+**Pravilo J:** ovo je jedini zahvat u planu čiste prirode brisanja. **Nijedna reč nije
+dopisana da bi se rez „platio".** Nijedan rez ne ostavlja rupu — nijedno od šest mesta nije
+nosilo činjenicu koju knjiga nema drugde.
+
+**Pravilo T:** **neodgovorenog je posle ovoga više, ne manje.** Rez u `Fabrici` i u
+`Maski` sklanja objašnjenje **pre** pitanja, pa pitanje ostaje otvoreno duže.

@@ -112,8 +112,6 @@ Nataša je digla čašu:
 
 Ona treća je kucnula svojom o moju poslednja, tiho, i pogledala me preko ivice dok je pila.
 
-Sedeo sam tako da vidim vrata. Niko za stolom to nije primetio. Možda jedna. Ona je sve primećivala i ništa nije pitala.
-
 Imala je šešir. Smešan, slamnati, prevelik, kupljen verovatno pet minuta ranije od nekog na ulici, i nosila ga je kao da je oduvek njen. Sela je pored mene na ivičnjak te večeri dok su Andrijana i Nataša otišle po vino — još vina, uvek još vina — i ćutala, i ja sam ćutao, i to ćutanje je bilo najopasnija stvar u celom tom gradu punom stranaca.
 
 Imao sam u džepu te večeri dovoljno da kupim svaki izlog na toj ulici i ljude iza njih. A jedino što sam želeo sedelo je pored mene pod glupim šeširom i nije se moglo kupiti, ni uzeti, ni dotaći, jer sve troje ostalo bi preživelo da ga dotaknem, a ona ne.

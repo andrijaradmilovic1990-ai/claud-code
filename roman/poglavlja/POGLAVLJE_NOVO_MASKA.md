@@ -18,7 +18,7 @@ Za devet dana se i ne sprema ništa. Nemam šta da spakujem osim onoga što staj
 
 Osmog dana sam otišao na kafu.
 
-Konobar je doneo crnu i čašu mlake vode pre nego što sam seo. Spusti, klimne, ode. Ugao, leđa ka zidu, vrata koso s leva. Isto kao svaki put, isto kao u svakom gradu u kom sam ostao dovoljno dugo da me konobar nauči.
+Konobar je doneo crnu i čašu mlake vode pre nego što sam seo. Spusti, klimne, ode. Isto kao svaki put, isto kao u svakom gradu u kom sam ostao dovoljno dugo da me konobar nauči.
 
 Bilo je prazno. Dvojica za šankom gledala su neku utakmicu bez tona i povremeno rekla nešto jedan drugom, ne okrećući glave.
 

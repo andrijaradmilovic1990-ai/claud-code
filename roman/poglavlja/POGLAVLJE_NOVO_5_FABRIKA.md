@@ -68,7 +68,7 @@ Traka je donela sledeće i ja sam ga uzeo.
 
 Napolju je jedna klupa pod limom i tri kante.
 
-Ja sedim na kraju klupe, uvek na istom kraju, jer se odatle vidi kapija i ko ulazi u krug.
+Ja sedim na kraju klupe, uvek na istom kraju.
 
 Prvog puta je izašla poslednja i stala kod kante i gledala u dvorište kao da je došla da vidi dvorište.
 
@@ -166,7 +166,7 @@ Autobus u pola šest ide skoro prazan i svako u njemu ima svoje mesto koje niko 
 
 Ona je ulazila dve stanice pre mene i sedela napred, iza vozača.
 
-Ja sam ulazio, pozdravio u prolazu i seo pozadi. Odatle se vidi ceo autobus i oba vrata i ko ulazi.
+Ja sam ulazio, pozdravio u prolazu i seo pozadi.
 
 Tako je išlo mesec i po.
 
