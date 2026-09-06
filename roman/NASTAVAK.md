@@ -140,8 +140,17 @@
 > Pun zapis: `REGISTAR_ODLUKA.md`, **sekcija 30**. **Njen glas se ne umnožava — jednom u
 > knjizi, i to je bilo ovde.**
 >
-> **Sledeći korak:** **zahvat 7 — Jovana danas u `Ćebencetu`**, pa **proređivanje motiva
-> (8)**, pa **slepi prolaz po Pravilu R (9)**.
+> **⚡ ZAHVAT 7 ZATVOREN 06.09.2026 — JOVANA DANAS.** U poslednji blok `Ćebenceta` (XVII),
+> **posle zaštićene razmene i bez ijedne izmene u njoj**, ušlo je drugo, nepitano zujanje —
+> Andrijana javlja da je kupila neka kola, da ih je čekala šest meseci i da vozi ko baba.
+> **David ne reaguje** *(sledeći red je već „Spustio sam telefon.")*, **Andrijana ne
+> objašnjava**, i **nigde ne stoji da je dobro.** Šest meseci čekanja je autorov podatak
+> *(`ODGOVORI`, 52)*; **marka automobila ne ulazi** — knjiga ne imenuje nijednu.
+> `Ćebence` **1.627 → 1.644**; knjiga **32.003 → 32.020**. Registar **31**.
+>
+> **Sledeći korak:** **proređivanje motiva (8)** — „leđa ka zidu / vide se vrata" pada 18
+> puta u 12 poglavlja, meta 9–10, i **sad sme** jer motiv posle poteza B ima poreklo. Pa
+> **slepi prolaz po Pravilu R (9)**, kojim se knjiga zatvara.
 
 ---
 
