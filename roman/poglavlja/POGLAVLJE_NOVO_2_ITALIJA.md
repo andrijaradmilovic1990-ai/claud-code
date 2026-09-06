@@ -128,7 +128,7 @@ Nataša je vratila naočare u torbu i nije ih više vadila te večeri.
 
 Toni je otvorio bocu i sipao meni prvom, i ja sam to primio kao što se prima sve što se radi svaki put isto.
 
-Sedeo sam gde sedim. Stolica u ćošku, leđa uza zid, i odatle se vidi i ulaz i onaj hodnik prema zadnjem dvorištu. Ta stolica je bila prazna kad sam ušao, i bila je prazna svaki put kad sam ulazio, i nikad se nije razgovaralo o tome. Deca su znala da se na nju ne penju. Niko im to nije rekao — jednostavno se nisu penjala.
+Sedeo sam gde sedim. Stolica u ćošku. Ta stolica je bila prazna kad sam ušao, i bila je prazna svaki put kad sam ulazio, i nikad se nije razgovaralo o tome. Deca su znala da se na nju ne penju. Niko im to nije rekao — jednostavno se nisu penjala.
 
 Anja je te večeri sedela naspram mene, s druge strane stola, sa Sale i Toni između, i pričala je s njima, a ne sa mnom. Tako je uvek bilo kad ima ljudi. Ona sa mnom nije pričala pred svetom. Ako bi mi nešto trebalo, dobio bih to pre nego što bih pitao — čaša napunjena, hleb pomeren, kolena sklonjena s puta kad prolazim — i ne bih ni primetio da se to desilo dok ne bih posle, u kolima, shvatio da mi celo veče ništa nije falilo.
 
