@@ -3678,3 +3678,80 @@ okviri `Krvi` i `Pariza` su posle preseljenja, sve ostalo pre njega, magnet se s
 
 **Pouka za sledeći prolaz:** kad potez „nema gde da stane", **pitanje ide autoru pre nego
 što se potez proglasi neplativim.** Repo je imao sve delove; falio je jedan njegov podatak.
+
+
+---
+
+# 06.09.2026 — POTEZ A, ZAHVATI 7, 8 I 9. PLAN ISCRPLJEN
+
+> **⛑ UPISANO NAKNADNO, 06.09.2026 uveče**, pošto je nađeno da dnevnik staje na 04.09,
+> a tri zatvorena posla u njemu nemaju red. `REGISTAR_ODLUKA.md` ih je imao *(sekcije
+> 30–33)*, dnevnik nije. **Pravilo C traži upis po zatvaranju, i ovde je prekršeno tri
+> puta zaredom.** Zapisi ispod su rekonstrukcija iz registra i iz `NASTAVAK.md`, ne iz
+> sećanja — i to je razlog zbog kog rekonstrukcija uopšte i može da se napiše.
+
+## POTEZ A — Jovanin glas, jednom, ceo *(registar 30)*
+
+**Zatvorena je jedna od četiri zamerke koje `PLAN_03_09_2026.md`, Deo 8, ostavlja da
+stoje:** *„Jovana nikad ne progovori sama."* **Sprat: knjiga.**
+
+U `Beli grad` (XIV), u blok s porukama u dva ujutru, ušla je **jedna njena poruka cela,
+kurzivom, bez ijedne reči okvira** — o susedu koji hrče, o sestri i grožđu, o seriji koju
+gleda sedmi put. **Ništa nije obrisano**; prepričavanje je bilo tačno i ostaje, poruka
+stoji posle njega. `Beli grad` **2.167 → 2.212**.
+
+**Merilo nije bila ispovest nego Katarinina ceduljica** — tekst o ničemu koji nosi sve.
+**Dva papira, dve žene, jedan džep.** Nijedna nova činjenica, nema „ti", nema potpisa,
+ime ne pada *(sekcija 15)*.
+
+**Sporno mesto, prijavljeno pre unosa:** poslednja dva reda *(„Znam svaku rečenicu
+unapred… Zato je i gledam.")* iznesena su autoru kao rizik od dodate dubine, uz ponuđenu
+kraću zamenu. **Autor je izabrao dužu verziju.**
+
+## ZAHVAT 7 — Jovana danas, jedan detalj *(registar 31)*
+
+**Prva verzija plana je tražila da Andrijana kaže da je Jovana dobro. To je izveštaj i
+ubija kraj**, i sama revizija plana po Pravilu T ga je oborila. Uneto je umesto toga
+**drugo, nepitano zujanje** u poslednji blok `Ćebenceta`, posle zaštićene razmene:
+*„Kupila neka kola, čekala ih šest meseci. Vozi ko baba, kunem ti se."*
+
+**David ne reaguje** *(sledeći red je već „Spustio sam telefon.")*, **Andrijana ne
+objašnjava**, **nigde ne stoji da je dobro.** Marka automobila ne ulazi — knjiga ne
+imenuje nijednu. `Ćebence` **1.627 → 1.644**.
+
+**Šest meseci čekanja je jedini teret u rečenici:** žena koja čeka šest meseci računa
+unapred da će je biti. **Suprotnost devojci iz `Krvi` koja je ulazila u prva kola koja
+stanu.** Knjiga tu vezu ne pravi nigde.
+
+## ZAHVAT 8 — proređivanje motiva *(registar 32)*
+
+**Prebrojano iz teksta: nije 18 nego 20.** Plan je promašio `Prelom`, `Praznu stolicu` i
+drugo mesto u `Maski`. Od dvadeset je **radnja 14, usputni komentar 6** — i **obrisano je
+tačno tih šest**, svih šest duplikati unutar istog poglavlja. **98 reči napolje, nijedna
+nova reč unutra.** Knjiga **32.020 → 31.922**.
+
+**Meta 9–10 nije postignuta i to je odluka:** dalje se nije moglo bez brisanja radnji, a
+plan sam kaže da **broj nije cilj, stepenovanje jeste.**
+
+## ZAHVAT 9 — slepi lektorski prolaz po Pravilu R *(registar 33)*
+
+**Prvi put je pravilo ispoštovano do kraja:** knjiga pročitana cela i gola, I–XVII, pre
+otvaranja ijednog dokumenta; registar otvoren tek posle. **Četiri nalaza — tri uneta,
+jedan oboren od autora.**
+
+- `Prazna stolica` — *„Tri prazne stolice preko puta."* → *„Tri prazne stolice."*
+- `Nestanak` i `Ćebence` — knjiga je tri puta merila poruku na *„tri reči"*, a poruka nije
+  imala tri ni jednom. **Poruke nisu dirane, promenjeno je samo brojanje.**
+- `Katarina` — beton i ključna kost izlaze *(autor: anegdota nije tačna, brat je živ i
+  zdrav)*; umesto njih **isti čovek na dve slike, mršav pa dvaput širi.**
+- **⛔ `Fabrika`, „Ona vozi brzo" — oboreno od autora:** *„ne mora sve da se odmah tog
+  trenutka shvati, knjiga treba malo da vozi."* **Čitalac nije izgubljen nego korak iza
+  teksta, i to knjiga sme.**
+
+**Knjiga: 31.922 → 31.916.**
+
+## ⚑ PLAN JE ISCRPLJEN
+
+**Devet zahvata i sva tri poteza A/B/C zatvoreni; `BRAT` pao s upisanim razlogom.**
+Nema otvorenih zahvata i **ne pravi se nov plan bez autorove reči.** U `NASTAVAK.md` je
+upisan prompt za sledeću sesiju: **čitanje, ne revizija.**
