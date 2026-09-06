@@ -172,7 +172,7 @@ Ne znam šta mi je bilo na licu. Znam da je Toni prestao da priča na pola reči
 
 Nataša je pitala gde ćemo.
 
-Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana nije pitala ništa. Uzela je Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
+Andrijana joj je stavila ruku na podlakticu i Nataša je ućutala. Andrijana je uzela Ninovu čašu, koju je on ostavio punu, i popila je do pola gledajući u mene.
 
 Anja je stala između mene i vrata.
 
@@ -314,7 +314,7 @@ Anja je gledala u svoju. Nije je bila digla.
 
 „Parla, parla“, rekla je baka u tom trenutku, nikom posebno. „Intanto si fredda tutto.“
 
-Pola stola je palo. Sačekao sam da prođe. Nisam pitao šta je rekla, a Anja mi ovog puta nije ni ponudila.
+Pola stola je palo. Sačekao sam da prođe. Anja mi ovog puta nije ni ponudila.
 
 „Naša priča je o slobodi“, rekao sam. „O dugu. I o porodici.“
 

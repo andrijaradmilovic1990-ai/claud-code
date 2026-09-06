@@ -290,7 +290,7 @@ Andrijana je podigla glavu.
 
 „Jeste.“
 
-Nije pitala ništa više. Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
+Presavila je salvetu još jednom, na osminu, i spustila je pored tanjira.
 
 Prošao sam pored ujaka i on me je uhvatio za ruku i držao je, i nije ništa rekao, i ja sam pustio da drži koliko mu treba.
 
