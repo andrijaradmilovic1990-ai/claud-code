@@ -208,6 +208,10 @@ Telefon je zazujao. Andrijanin odgovor.
 
 Gledao sam tu rečenicu. Dugo.
 
+Telefon je zazujao opet.
+
+*Kupila neka kola, čekala ih šest meseci. Vozi ko baba, kunem ti se.*
+
 Spustio sam telefon.
 
 Otpio sam kafu. Hladna, ali nisam hteo drugu. Gledao sam u praznu stolicu preko puta — jednu od tri, sve prazne danas, sve podgurnute pod sto uredno kao da niko nije ni sedeo.
