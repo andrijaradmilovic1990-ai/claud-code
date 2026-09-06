@@ -132,7 +132,19 @@ Prvih nekoliko nedelja pisala je retko, kratko, kao čovek koji još broji kolik
 
 Pa je počela da piše duže. Pa sam i ja.
 
-U dva ujutru, kad ne može da spi od bolova u kuku koji ne prolazi a doktori kažu da je normalno, da treba vremena — pisala je. Ne javi se, ne nedostaješ mi. Pisala je glupost, jednu rečenicu o sestri, o seriji koju gleda po sedmi put jer ne može da se skoncentriše na ništa novo, o čoveku iz susedne sobe koji hrče tako da se čuje kroz zid. Ja sam odgovarao. Nisam morao. Niko me nije terao. Telefon je svetlio na stočici pored kreveta, u dva, u tri, i ruka mi je išla po njega pre nego što sam stigao da odlučim da li treba.
+U dva ujutru, kad ne može da spi od bolova u kuku koji ne prolazi a doktori kažu da je normalno, da treba vremena — pisala je. Ne javi se, ne nedostaješ mi. Pisala je glupost, jednu rečenicu o sestri, o seriji koju gleda po sedmi put jer ne može da se skoncentriše na ništa novo, o čoveku iz susedne sobe koji hrče tako da se čuje kroz zid.
+
+*Onaj iz susedne sobe hrče kao da mu neko duguje pare.*
+
+*Sestra mi donela grožđe pa ga sama pojela, sedi i jede i gleda me.*
+
+*Pustila sam opet onu seriju. Sedmi put.*
+
+*Znam svaku rečenicu unapred pa me ništa ne iznenadi.*
+
+*Zato je i gledam.*
+
+Ja sam odgovarao. Nisam morao. Niko me nije terao. Telefon je svetlio na stočici pored kreveta, u dva, u tri, i ruka mi je išla po njega pre nego što sam stigao da odlučim da li treba.
 
 Brinem za drugaricu. Prati joj se oporavak. Normalno je da se čujem. Svaka rečenica je stajala sama, uredna, spremna za odbranu, a niko nije tražio odbranu. Samo je telefon svetlio u dva ujutru i to niko nije morao da mi kaže dvaput.
 
