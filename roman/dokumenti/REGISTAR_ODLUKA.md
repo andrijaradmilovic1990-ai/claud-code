@@ -2257,7 +2257,7 @@ rečenica nije promenjena.**
 *Kad zatvori knjigu, čitalac **oseća gde David spava**, a knjiga to nije rekla rečenicom.*
 *(`PLAN_03_09_2026.md`, Deo 6, tačka 4.)*
 
-## 29.5 — ⚑ OTVORENO: NASLOV POGLAVLJA XII JE JEDINO LIČNO IME U SADRŽAJU
+## 29.5 — ⚑ ZATVORENO 07.09.2026: NASLOV XII JE `ORMAN`
 
 **Nađeno u proveri 04.09.2026, posle zatvaranja poglavlja. Sprat: knjiga.**
 
@@ -2273,9 +2273,38 @@ tekstu.** Uz to bi bio jedini naslov koji unapred kaže o kome je poglavlje.
 
 **Ime je u planu bilo radna oznaka zahvata, ne naslov.** *(`PLAN_03_09_2026.md`, zahvat 4.)*
 
-**ODLUKA ČEKA AUTORA.** Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih
-naslova: **`Orman`** *(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
-**Dok autor ne kaže, naslov ostaje `Katarina` i ništa se ne dira.**
+**Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih naslova:** **`Orman`**
+*(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
+
+### ⚑ ODLUKA AUTORA, 07.09.2026: **`XII — Orman`**
+
+**Uneto:** prvi red fajla `POGLAVLJE_NOVO_KATARINA.md`, *„# XII — Katarina"* → *„# XII —
+Orman"*. **Nijedna druga reč u poglavlju nije dirana; broj reči se ne menja** *(1.683)*.
+
+**Zašto `Orman`, a ne druga dva — upisano da se ne prelama ponovo:**
+
+1. **Naslov sleće na radnju poglavlja.** Poglavlje se otvara na otvorenim vratima ormana
+   *(„Vrata ormana su stajala otvorena")* i zatvara na *„orman je stajao otvoren i cela leva
+   strana je bila prazna."* Prvi i poslednji potez su isti predmet — kao `Ćebence` i
+   `Prazna stolica`.
+2. **⛔ `Polica` je odbijena baš zato što je preciznija.** Šav se naplaćuje u `Maski` XV
+   *(sekcija 35.4 — polica uzeta nazad)*; naslov `Polica` bi tu naplatu **najavio tri
+   poglavlja unapred.** `Orman` ne najavljuje ništa, a čitalac ga nosi sa sobom.
+3. **⛔ `Kesa` je odbijena** jer imenuje ono što **izlazi** — sestrin sloj. Jeste poslednja
+   slika poglavlja, nije njegova osa.
+
+**Šta je time plaćeno:** ime je sad opet **tačno dvaput u celoj knjizi, oba puta u `Belom
+gradu`, nikad u naraciji** *(sekcija 2)*. Naslov u sadržaju ga je vadio treći put, na
+najvidljivijem mestu, **pre nego što ga čitalac ijednom sretne u tekstu.** `provera.sh` to
+sad meri: *„Katarina: 2 instanci."*
+
+**⛔ IME FAJLA SE NE MENJA.** `POGLAVLJE_NOVO_KATARINA.md` ostaje — **imena fajlova u ovom
+repou nikad nisu pratila naslove ni mesta** *(`Ulazak` je `POGLAVLJE_NOVO_1`, `Maska` je
+`POGLAVLJE_NOVO_MASKA` na XV)*, a `provera.sh` po tom imenu propušta zapečaćeno ime u
+`Belom gradu` i tom fajlu. Preimenovanje bi platilo nulu i pokvarilo proveru.
+
+**Ovim je pala poslednja stavka sa zaključanog spiska** *(sekcija 35.6)*. **Merenje je
+zatvoreno.**
 
 ---
 

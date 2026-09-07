@@ -85,6 +85,25 @@
 > **Ostaje osam starih pitanja**, i od njih samo **naslov XII** dodiruje cilj.
 > **Kad i to padne — knjiga ide ljudima.**
 >
+> ## ⚑ 07.09.2026, KASNIJE — NASLOV XII JE PAO. MERENJE JE ZATVORENO.
+>
+> **`XII — Katarina` → `XII — Orman`**, odlukom autora. Promenjen je **prvi red fajla i
+> ništa drugo**; poglavlje je i dalje **1.683 reči**, knjiga **32.137**.
+>
+> **Time je ime opet tačno dvaput u celoj knjizi, oba puta u `Belom gradu`, nikad u
+> naraciji.** Sadržaj ga je vadio treći put, na najvidljivijem mestu, pre nego što ga
+> čitalac ijednom sretne u tekstu.
+>
+> **⛔ `Polica` je odbijena zato što je preciznija** — najavila bi naplatu iz `Maske` XV tri
+> poglavlja unapred. **⛔ `Kesa` imenuje ono što izlazi**, sestrin sloj, ne osu poglavlja.
+> **⛔ Ime fajla se ne menja** *(`POGLAVLJE_NOVO_KATARINA.md`)* — imena fajlova nikad nisu
+> pratila naslove, a `provera.sh` po tom imenu propušta zapečaćeno ime. Pun zapis:
+> `REGISTAR_ODLUKA.md`, **sekcija 29.5.**
+>
+> **⚑ OVIM JE ZAKLJUČAN SPISAK PRAZAN I MERENJE JE ZATVORENO.** Nema više slepih čitalaca i
+> nema opšte ocene knjige. **Ostaje sedam starih pitanja, sve higijena, nijedno ne dira
+> cilj — i knjiga ide ljudima.**
+>
 > ## ⚑ I JEDNO PRAVILO KOJE JE PLAĆENO GREŠKOM *(04.09.2026)*
 >
 > **Znati *da* se nešto radi, a ne znati *zašto* taj potez postoji, je najskuplja greška u
@@ -264,7 +283,7 @@
 > `REGISTAR_ODLUKA.md`, **sekcija 34**.
 
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
-> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — osam ih čeka autorovu reč.
+> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — sedam ih čeka autorovu reč.
 > Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
 >
 > **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
@@ -367,16 +386,18 @@ Posle čitanja je, na zahtev autora, pročitana **cela dokumentacija** i sređen
 **Repo na više mesta piše „nema otvorenih pitanja". Ima ih, samo nisu bila skupljena.**
 Nijedno nije posao — **svako čeka autorovu reč.**
 
+> **⚑ 07.09.2026 — stavka 1 je pala.** Naslov XII je **`Orman`** *(registar 29.5)*. **Ostaje
+> sedam, i nijedno ne dira cilj.** Numeracija ispod je pomerena za jedan.
+
 | # | šta | gde stoji |
 |---|---|---|
-| 1 | **Naslov poglavlja XII je jedino lično ime u sadržaju.** Svi ostali naslovi su mesto, predmet ili radnja; ime bi tu palo **treći put**, pre nego što ga čitalac ijednom sretne u tekstu. Predlozi iz samog poglavlja: **`Orman`** · `Polica` · `Kesa` | registar **29.5** |
-| 2 | **Ime mesta na koje su odlagali put** *(Kraljevo)*. Knjiga ne imenuje **nijedan** domaći grad; imenovanje menja pravilo za celu knjigu | registar **28.4**, `ODGOVORI` **50** |
-| 3 | **Šta je brat govorio kad nešto ne valja** — autor se ne seća i dao je da se smisli. **Nije ponuđeno.** Čeka po Pravilu K | `ODGOVORI` **14**, registar **27.6** |
-| 4 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
-| 5 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
-| 6 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
-| 7 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
-| 8 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
+| 1 | **Ime mesta na koje su odlagali put** *(Kraljevo)*. Knjiga ne imenuje **nijedan** domaći grad; imenovanje menja pravilo za celu knjigu | registar **28.4**, `ODGOVORI` **50** |
+| 2 | **Šta je brat govorio kad nešto ne valja** — autor se ne seća i dao je da se smisli. **Nije ponuđeno.** Čeka po Pravilu K | `ODGOVORI` **14**, registar **27.6** |
+| 3 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
+| 4 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
+| 5 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
+| 6 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
+| 7 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
 
 > **⚑ Jedan stari „nerešen" nalaz je u međuvremenu rešen, a nigde nije precrtan:**
 > registar **18** vodi da su `Kukavica` i `Ćebence` **jedna neprekinuta noć koju `Maska`
@@ -386,17 +407,17 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ---
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026, popodne — ovaj je aktuelan)*
+## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026, kasno — ovaj je aktuelan)*
 
-> **Spisak je zaključan i skoro prazan.** Tri karike su unete; ostaje osam starih pitanja i
-> od njih samo jedno dodiruje cilj. **Nalepi kodni blok na početak novog razgovora.**
+> **Spisak je prazan i merenje je zatvoreno.** Ostaje sedam starih pitanja, sve higijena.
+> **Nalepi kodni blok na početak novog razgovora.**
 
 ```
 Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
 Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.137 reci.
 
 ==================================================================
-SPISAK JE ZAKLJUCAN. NE DODAJE SE PETA STAVKA.
+MERENJE JE ZATVORENO. SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
 ==================================================================
 
 Cilj knjige, autorovim recima: "da mu bude tesko i da ne moze da
@@ -405,8 +426,9 @@ zaspi". To je jedini test. Sve se meri prema njemu.
 ⛔ NE PRAVI NOV PLAN.
 ⛔ NE PUSTAJ NOVO CITANJE knjige "da proveris kako stoji".
    Merenje je zatvoreno. Instrument pet puta pokazuje isto.
-⛔ NE DODAJI NISTA NA SPISAK. Ako nesto nadjes — upisi u registar
-   kao nalaz, NE na spisak.
+   Nema vise slepih citalaca i nema opste ocene knjige.
+⛔ NE OTVARAJ NOV SPISAK. Ako nesto nadjes — upisi u registar
+   kao nalaz, i reci autoru jednom recenicom. NE kao posao.
 ⛔ NE DIRAJ NIJEDAN FAJL u roman/poglavlja/ bez izricitog "da",
    jedno po jedno (Pravilo K).
 
@@ -414,21 +436,19 @@ CITAS TRI FAJLA, CELA, TIM REDOM:
   1. CLAUDE.md
   2. roman/NASTAVAK.md
   3. roman/dokumenti/POENTA_KNJIGE.md
-Pa REGISTAR_ODLUKA.md, sekciju 35 — tu je sve od 07.09.2026:
-tri karike, sve zabrane, i zasto se rad pet sesija vrteo u krug.
+Pa REGISTAR_ODLUKA.md, sekciju 35 (tri karike, sve zabrane, i zasto
+se rad pet sesija vrteo u krug) i sekciju 29.5 (naslov XII).
 
 ==================================================================
-STA JE OSTALO — jedno po jedno, bez argumentovanja
+STA JE OSTALO
 ==================================================================
 
-1. NASLOV POGLAVLJA XII. Jedino licno ime u sadrzaju, i imenuje
-   zenu koju citalac jos nije sreo. Predlozi iz samog poglavlja:
-   Orman · Polica · Kesa. (Registar 29.5.)  ← jedino sto dodiruje cilj
+SEDAM STARIH PITANJA iz sekcije "STA JE STVARNO OTVORENO U REPOU"
+nize u NASTAVAK.md. Sve higijena, nijedno ne dira cilj, i svako
+ceka autorovu rec. Ne otvaraj ih sam.
 
-2. SEDAM PREOSTALIH STARIH PITANJA iz sekcije "STA JE STVARNO
-   OTVORENO U REPOU" nize u ovom fajlu. Higijena, ne diraju cilj.
-
-KAD I TO PADNE — KNJIGA IDE LJUDIMA. Bez novog citanja.
+Najveci od njih je NOIR PROLAZ (registar 12) — jedini put kad se
+zakljucano otvara u celini, i otvara ga autor recju "otvaram".
 
 ==================================================================
 KAKO SE PISE
@@ -449,6 +469,7 @@ registar pamti zasto, NASTAVAK pamti stanje. Dnevnik se ne vodi.
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce
 knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 ```
+
 
 ---
 
@@ -578,7 +599,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
 | **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
-| **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
+| **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
 | **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
 | **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.736** |
