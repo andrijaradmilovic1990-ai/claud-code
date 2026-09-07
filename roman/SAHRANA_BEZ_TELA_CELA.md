@@ -3162,7 +3162,7 @@ Unutra je traka krenula i čulo se kroz zid, i ustali smo pre nego što nas neko
 
 ---
 
-# XII — Katarina
+# XII — Orman
 
 Prespavao sam kod nje te noći i to nije bilo svaki put, nego kad ispadne.
 

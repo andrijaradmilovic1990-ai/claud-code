@@ -71,7 +71,7 @@ fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 | # | Fajl | Naslov | reči |
 |---|------|--------|------|
 | I | `POGLAVLJE_1_SUSRET.md` | Susret | 793 |
-| II | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | 2.498 |
+| II | `POGLAVLJE_NOVO_1_ULAZAK.md` | Ulazak | **2.634** |
 | III | `POGLAVLJE_2_PUKOTINA.md` | Pukotina | 1.786 |
 | IV | `POGLAVLJE_3_KRV.md` | Krv | 1.324 |
 | V | `POGLAVLJE_NOVO_2_ITALIJA.md` | Italija | **3.381** |
@@ -81,10 +81,10 @@ fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 | IX | `POGLAVLJE_5_NESTANAK.md` | Nestanak | 1.366 |
 | X | `POGLAVLJE_NOVO_4_MAJKA.md` | Majka | 1.580 |
 | XI | `POGLAVLJE_NOVO_5_FABRIKA.md` | Fabrika | **1.913** |
-| **XII** | `POGLAVLJE_NOVO_KATARINA.md` | **Katarina** | **1.625** |
+| **XII** | `POGLAVLJE_NOVO_KATARINA.md` | **Orman** | **1.683** |
 | XIII | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.386 |
 | XIV | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | **2.209** |
-| XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | 1.707 |
+| XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | **1.736** |
 | XVI | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
 | XVII | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.644 |
 

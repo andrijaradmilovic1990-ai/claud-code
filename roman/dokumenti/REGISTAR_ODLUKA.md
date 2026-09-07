@@ -2257,7 +2257,7 @@ rečenica nije promenjena.**
 *Kad zatvori knjigu, čitalac **oseća gde David spava**, a knjiga to nije rekla rečenicom.*
 *(`PLAN_03_09_2026.md`, Deo 6, tačka 4.)*
 
-## 29.5 — ⚑ OTVORENO: NASLOV POGLAVLJA XII JE JEDINO LIČNO IME U SADRŽAJU
+## 29.5 — ⚑ ZATVORENO 07.09.2026: NASLOV XII JE `ORMAN`
 
 **Nađeno u proveri 04.09.2026, posle zatvaranja poglavlja. Sprat: knjiga.**
 
@@ -2273,9 +2273,38 @@ tekstu.** Uz to bi bio jedini naslov koji unapred kaže o kome je poglavlje.
 
 **Ime je u planu bilo radna oznaka zahvata, ne naslov.** *(`PLAN_03_09_2026.md`, zahvat 4.)*
 
-**ODLUKA ČEKA AUTORA.** Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih
-naslova: **`Orman`** *(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
-**Dok autor ne kaže, naslov ostaje `Katarina` i ništa se ne dira.**
+**Predložene zamene, sve iz samog poglavlja i sve u maniru ostalih naslova:** **`Orman`**
+*(nosi ceo potez — mesto koje mu pravi)* · **`Polica`** · **`Kesa`**.
+
+### ⚑ ODLUKA AUTORA, 07.09.2026: **`XII — Orman`**
+
+**Uneto:** prvi red fajla `POGLAVLJE_NOVO_KATARINA.md`, *„# XII — Katarina"* → *„# XII —
+Orman"*. **Nijedna druga reč u poglavlju nije dirana; broj reči se ne menja** *(1.683)*.
+
+**Zašto `Orman`, a ne druga dva — upisano da se ne prelama ponovo:**
+
+1. **Naslov sleće na radnju poglavlja.** Poglavlje se otvara na otvorenim vratima ormana
+   *(„Vrata ormana su stajala otvorena")* i zatvara na *„orman je stajao otvoren i cela leva
+   strana je bila prazna."* Prvi i poslednji potez su isti predmet — kao `Ćebence` i
+   `Prazna stolica`.
+2. **⛔ `Polica` je odbijena baš zato što je preciznija.** Šav se naplaćuje u `Maski` XV
+   *(sekcija 35.4 — polica uzeta nazad)*; naslov `Polica` bi tu naplatu **najavio tri
+   poglavlja unapred.** `Orman` ne najavljuje ništa, a čitalac ga nosi sa sobom.
+3. **⛔ `Kesa` je odbijena** jer imenuje ono što **izlazi** — sestrin sloj. Jeste poslednja
+   slika poglavlja, nije njegova osa.
+
+**Šta je time plaćeno:** ime je sad opet **tačno dvaput u celoj knjizi, oba puta u `Belom
+gradu`, nikad u naraciji** *(sekcija 2)*. Naslov u sadržaju ga je vadio treći put, na
+najvidljivijem mestu, **pre nego što ga čitalac ijednom sretne u tekstu.** `provera.sh` to
+sad meri: *„Katarina: 2 instanci."*
+
+**⛔ IME FAJLA SE NE MENJA.** `POGLAVLJE_NOVO_KATARINA.md` ostaje — **imena fajlova u ovom
+repou nikad nisu pratila naslove ni mesta** *(`Ulazak` je `POGLAVLJE_NOVO_1`, `Maska` je
+`POGLAVLJE_NOVO_MASKA` na XV)*, a `provera.sh` po tom imenu propušta zapečaćeno ime u
+`Belom gradu` i tom fajlu. Preimenovanje bi platilo nulu i pokvarilo proveru.
+
+**Ovim je pala poslednja stavka sa zaključanog spiska** *(sekcija 35.6)*. **Merenje je
+zatvoreno.**
 
 ---
 
@@ -2783,3 +2812,207 @@ kod zida")*; druga je dodala **venac** i **„Lažem"**, i primljena je.
 
 **⚑ I ostaje dogovor zbog kog je sve ovo počelo:** kad padne i ta poslednja stavka, **merenje
 se zatvara.** Nema više slepih čitalaca i nema opšte ocene knjige. **Knjiga ide ljudima.**
+
+---
+
+# 36 — ⚑ SEDAM STARIH PITANJA — ZATVARANJE *(07.09.2026, odluka autora)*
+
+> **Šta je ovo.** Posle naslova XII *(sekcija 29.5)* zaključan spisak je bio prazan, pa je
+> autor otvorio **svih sedam preostalih starih pitanja odjednom**, u istom razgovoru.
+> Rade se **jedno po jedno**, i svako se zatvara njegovom rečju.
+>
+> **Nalaz koji se ponavlja i vredi za ceo spisak:** spisak je pravljen **iz dokumenata**, a
+> ne iz teksta. Zato na njemu stoje stavke koje su **u knjizi odavno rešene** — samo nije
+> bilo ko da ih precrta. **Pravilo E: tekst je autoritet nad dokumentima.** Pre nego što se
+> bilo šta ponudi kao posao, **prvo se proveri je li već napisano.**
+
+## 36.0 — ⛔ RANIJE ISTOG DANA: CITAT KOJI NIJE UŠAO
+
+**Autorov predlog:** *„najveći đavolov trik je bio da ubedi čovečanstvo da ne postoji"*
+*(Bodler, popularizovano „Osumnjičenima")*, negde u knjizi. Zatim, druga varijanta:
+**umesto** Jovanine reči *„Kukavica"* u XVI, pa da ona odgovori *„ne slažem se — to rade
+kukavice, a ti si to."*
+
+**Oborio autor, posle iznetih razloga.** Upisano jer je predlog bio ozbiljan i vratiće se:
+
+1. **Nije autorova rečenica**, a u autobiografskoj knjizi u kojoj je svaka rečenica njegova
+   to je jedino mesto na kom bi se čuo tuđi glas. Ista zabrana kao za pastiš Bukovskog
+   *(`CLAUDE.md`)*.
+2. **Tumači.** Teza o celoj knjizi — čitalac posle nje zna više činjenica a oseća isto.
+   **Pravilo T.**
+3. **Knjiga ima tačno jedan aforizam i već ga je potrošila** — *„Postoje računi koji se ne
+   naplaćuju od dužnika"* *(`Nestanak` IX)*. Druga takva rečenica je ne prati nego je
+   **prepolovi.**
+4. **⛔ Na mestu iz druge varijante citat ni ne važi činjenično.** Rečenica tvrdi da je
+   ubedio svet da **ne postoji**; David u toj sceni **sedi za stolom, pred njom, uhvaćen.**
+   Trik s nepostojanjem se desio dvanaest godina ranije.
+5. **`Kukavica` XVI je trostepena i sagrađena:** Nataša postavlja reč kao pravilo igre
+   *(red 173)* · Jovana je vraća u šali *(red 369)* · pada gola, *„Samo to."* *(red 437)*.
+   **Citat u sredini tog niza menja pesmu u trećem taktu**, a objašnjenje *„to rade
+   kukavice"* oduzima čitaocu jedini posao koji u sceni ima.
+
+**⚑ I ono što od predloga OSTAJE, kao ključ za čitanje a nikad kao rečenica:** đavo u ovoj
+knjizi nije đavo nego **David** — najveći trik koji je izveo bio je da ubedi ljude koji ga
+vole da ga nema. **Knjiga to već izgovara, u jednoj reči, kroz jedinu osobu koja sme.**
+
+## 36.1 — ⛔ ZATVORENO: IME MESTA NA KOJE SU ODLAGALI PUT *(bivša stavka 2)*
+
+**Autor: ne imenuje se.** Knjiga i dalje ne izgovara **nijedan domaći grad** *(sekcija 11)*.
+
+**⚑ I provereno u tekstu: već je uneto, i već je neimenovano.** `Katarina` XII, pred kraj —
+*„Dva dana. Rekao si prošle godine da idemo." / „Idemo." / „To si rekao i prošle godine." /
+„Idemo, srećo." / „Dobro." Nije se okrenula. „Ima vremena."* Reč **Kraljevo** ne postoji u
+rukopisu. **Nula izmena.**
+
+Mesto time radi ono zbog čega je i zapisano *(`ODGOVORI`, 50)*: **treći put da knjiga ima
+isti oblik — traži se, odloži se, prođe** *(lična karta u `Parizu` · mart u `Ćebencetu` ·
+ovaj put)*, s tim što ovde još niko ne zna da je prošlo.
+
+## 36.2 — ⛔ ZATVORENO: BRATOVA FRAZA ZA KAD NEŠTO NE VALJA *(bivša stavka 3)*
+
+**Bila je jedina stavka u `ODGOVORI_AUTORA_03_09_2026.md` koju autor nije dao nego dozvolio
+da se smisli** *(stavka 14)*. **Ništa nije smišljeno — jer je već napisano.**
+
+`Ulazak` II, u bloku u kom je brat živ:
+
+> *„Šta jedeš?" / „Šta ima." / „Aha." Spustio je poklopac. „Znači ne jedeš."*
+
+**To je fraza.** Ne drži prodiku, ne pita drugi put, ne diže glas — **ponovi čoveku njegovu
+stvar naglas, tačno, tako da ne može da je zaobiđe.** Otvori šerpu, vidi da je prazna, kaže
+šta vidi.
+
+**Prebrojano iz teksta:** *„Znači"* tako pada **samo tu**; jedino drugo mesto u knjizi je
+Jovanino u `Ivičnjaku` *(red 41)*, u sasvim drugom smislu. **Gest nije razblažen.**
+
+**⚑ I zašto se nova nije izmišljala:** ista logika koja je 04.09.2026. srušila poglavlje
+`BRAT` *(sekcija 27)* — čovek je stvaran i mrtav, i **ne stavlja mu se u usta rečenica koju
+nikad nije rekao.** Ono čega se autor ne seća **se ne popunjava.**
+
+**⚑ NALAZ O SPISKU, ne o tekstu:** rečenica je ušla commitom **`cd0502f`, 04.09.2026**,
+istim kojim je izveden **potez B** — dakle **tri dana pre nego što je pitanje uopšte
+postavljeno.** Nikad nije prekrižena sa spiska jer je spisak čitao dokumente, ne knjigu.
+**Nula izmena.**
+
+## 36.3 — ⛔ ZATVORENO: DVA MESTA NA IVICI PRAVILA T U `KATARINI` *(bivša stavka 4)*
+
+**Autor: ostaju.** *„Ne primećuje se ono što ne visi."* i *„Ono što ide u kesu slaže bolje
+nego ono što ostaje."* **Padaju i dalje samo zajedno, i nijedno se ne dira samo.**
+
+**Razlika koja je pri tom povučena, i vredi šire — aforizam nije zapažanje:**
+*„Postoje računi koji se ne naplaćuju od dužnika"* *(`Nestanak` IX)* je **zakon o svetu** i
+objašnjava premisu knjige; **zato je jedan i zato drugi ne sme.** Ove dve su **zapažanja o
+sitnim fizičkim činjenicama** — šta visi na zidu, kako se slaže veš. **Ne tumače nikakav
+uzrok**, nego pokazuju naviku čoveka koji ceo život meri prostor. Isti postupak kao
+*„Pozdrav je trag."*
+
+**⚑ I okolnost se u međuvremenu promenila u njihovu korist.** Kad je stavka otvorena
+*(04.09.)*, prva rečenica je bila lepa sitnica. Posle sekcije **35.4** *(polica uzeta nazad
+u `Maski` XV)* ona **unapred opisuje ono što će oboje uraditi**: ona uzme mesto ćutke, on
+primeti i ne kaže ništa. **Nula izmena.**
+
+## 36.4 — ⛔ ZATVORENO ZA TEKST: STIHOVI U `KUKAVICI` *(bivša stavka 5)*
+
+**Autor: tekst se ne dira ni za slovo.** Ostaje kako je: `Kukavica` XVI, redovi **113–119**,
+tri fragmenta iz *„Sve još miriše na nju"*.
+
+**Stavka nije književna nego pravna, i seli se izdavaču.** Praktično stanje, bez glume
+pravnika: stihovi su najstroža kategorija citiranja — kod pesme je i par redova znatan deo
+celog dela, pa se pravo citiranja obično ne prima jer citat ovde služi sceni, ne kritici.
+**Naslov pesme se sme pominjati slobodno; dozvola se traži za stihove, i traži se od
+izdavača teksta.** Kad postoji izdavač, čišćenje prava je njihova rutina.
+
+**⚑ REZERVNA VARIJANTA, upisana da se ne odlučuje pod pritiskom** *(ne izvodi se bez
+autorove reči)*: pesma se **imenuje** umesto da se citira, Jovana peva a ne vide se reči
+nego sto koji utihne, i svađa ide oko *„sledećeg stiha"* bez navođenja. **Košta jednu
+rečenicu.**
+
+**Zašto se ne radi preventivno:** scena ne stoji na stihovima nego na tome što Jovana ima
+bolji glas i što svi zaćute. **To je jedini put u knjizi da neko za tim stolom pokaže nešto
+lepo bez ironije**, i priprema čitaoca da joj poveruje kad kasnije izgovori jednu reč.
+
+## 36.5 — ⛔ ZATVORENO: PRELOMI PASUSA U `PARIZU` *(bivša stavka 6)*
+
+**Autor: dovoljno, skida se sa spiska.** Poglavlje je skenirano strukturno i **nema nijednog
+traga OCR štete** — nijedan pasus ne počinje malim slovom slučajno, nijedan ne prekida
+rečenicu, dijalog nigde nije razbijen. Tri mesta koja mašina prijavi su namerna:
+*„— / ona."* u zasebnom redu, dvotačka pred Natašinu zdravicu, crta na prekinutoj rečenici
+o magnetu.
+
+**⚑ Pravi test — gustina pasusa protiv cele knjige.** Da je OCR lepio pasuse, `Pariz` bi bio
+najgušći. Nije: `Beli grad` **33** · `Krv` **31** · **`Pariz` 29** · `Italija` i `Susret`
+**24** · novija poglavlja *(pisana direktno)* **11–22**. **Treći je, iza dva poglavlja iz
+iste stare partije — da je šteta sistemska, stajao bi sam.**
+
+**Ako autor ikad uzme original u ruke, posao je četiri adrese**, jedini pasusi tri do četiri
+puta duži od proseka poglavlja: **red 79** *(127 reči — tri pokreta u jednom pasusu,
+najsumnjiviji)* · **red 41** *(110)* · **red 131** *(101)* · **red 135** *(100)*.
+**Nula izmena.**
+
+## 36.6 — ⛔ ZATVORENO: GODINE MALE JOVANE *(bivša stavka 7)*
+
+**I ovo je tekst već rešio — istog dana, ne znajući da odgovara.** `Ulazak` II, prva
+rečenica njenog bloka: *„Bila je iz zgrade preko puta i **išla je godinu ispod mene**."*
+Ušla commitom **`1f92f33`, 07.09.2026** *(sekcija 35.2)*, dok je pitanje na spisku stajalo
+od 04.09.
+
+**To je tačno ono što je `ODGOVORI` 34.1 tražio: odnos, ne broj.** Drugu polovinu zakucava
+raspored — njen blok stoji **pre** scene s odškrinutim vratima, u kojoj piše *„Imao sam
+četrnaest."* **Ona umire prva, njemu je oko trinaest-četrnaest, njoj godinu manje. Nijedna
+cifra nije izgovorena, a čitalac zna gde stoji.**
+
+**⛔ A ono što ostaje nepotvrđeno — koliko je tačno prošlo između dve smrti — SE NE
+POTVRĐUJE.** To nije rupa nego Pravilo T u čistom obliku: **pozicija je data, mera i uzrok
+se uskraćuju.** *„Četiri meseca kasnije"* bi dalo činjenicu i uzelo ono što ta dva bloka
+rade jedan drugom. **Nula izmena.**
+
+## 36.7 — STANJE SPISKA POSLE 07.09.2026
+
+**Od sedam starih pitanja palo je šest, i nijedno nije koštalo ijednu izmenu u
+`roman/poglavlja/`.** Tri su pala zato što ih je **knjiga već rešila** *(36.1, 36.2, 36.6)*,
+jedno je potvrđeno kao namerno *(36.3)*, jedno je preseljeno izdavaču *(36.4)*, jedno je
+oboreno merenjem *(36.5)*.
+
+**⚑ OSTAJE JEDNO: NOIR PROLAZ** *(sekcija 12)* — i on se ne otvara osim autorovom rečju
+**„otvaram"**.
+
+## 36.8 — ⛔ NOIR PROLAZ SE NE OTVARA *(odluka autora, 07.09.2026)*
+
+**Poslednja stavka spiska. Zakazana 30.08.2026** *(sekcija 12)* kao **najveći posao u
+knjizi** i jedini put kad se zaključano otvara u celini. **Formalno je red na nju** — šest
+novih poglavlja i prolaz kroz šavove su odrađeni. **Autor je odlučio da se ne otvara.**
+
+**Četiri razloga, upisana po Pravilu L da se pre vraćanja pročitaju:**
+
+1. **⚑ Dijagnoza knjige je suprotna od recepta.** Noir traži **više senke, hladnoće i
+   uskraćivanja.** Slepi čitalac je 06.09.2026. zaključio doslovno: *„knjiga je toliko
+   istrenirana da ne objašnjava da je počela da uskraćuje i ono što je htela da pokaže"* —
+   **četiri od osam merenih poteza nisu stigla, nijedan zato što je loše napisan, svi zato
+   što su prošli ispod praga vidljivosti** *(`NASTAVAK.md`, tabela mera)*. **Noir prolaz bi
+   jedinu potvrđenu bolest ove knjige lečio njenim uzrokom.**
+2. **Noir je već unet tamo gde pripada, i to unapred.** G10 *(lice na svetlu s Katarinom, u
+   senci s Jovanom i Andrijanom)*, G4, G5 i G9 stoje, i u sekciji 12 **već piše da se
+   retroaktivno ne rade.** Ostao bi samo prolaz kroz zaključano.
+3. **To je onaj krug, ozakonjen na dužini cele knjige.** Autorova tvrdnja od 07.09. —
+   *„zadnjih pet sesija se vrtimo u krug"* — i **Pravilo P**: zahtev *„pročitaj sve i
+   uskladi"* **garantuje nalaz, uvek, beskonačno.** Krug je istog dana prekinut zaključanim
+   spiskom *(sekcija 35)*; noir prolaz ga vraća.
+4. **Noir je žanr, a knjiga ima svoj glas.** Ono što je čitaoca stvarno udarilo — trener s
+   flasterom, teglica pomerena za dva prsta, ćebe do ivice vrata — **nije noir nego toplo.**
+   Prolaz koji bi tekst „usklađivao" prema žanru odneo bi **baš ta mesta.**
+
+**Vraća se autorovom rečju „otvaram", kad god poželi. Razlog se čita pre vraćanja.**
+
+## 36.9 — ⚑ SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
+
+**07.09.2026, kraj dana.** Zaključan spisak od četiri stavke je odrađen *(sekcija 35 +
+naslov XII, sekcija 29.5)*, a zatim je **palo i svih sedam starih pitanja** *(36.1–36.8)*.
+
+**U celom danu je u `roman/poglavlja/` dirano samo ono što je odobreno rečju:** tri karike
+*(35.2–35.4)* i **jedan naslov** *(29.5)*. **Sedam starih pitanja nije koštalo nijednu
+izmenu u tekstu** — tri je knjiga već bila rešila, jedno je potvrđeno kao namerno, jedno je
+preseljeno izdavaču, jedno oboreno merenjem, jedno zatvoreno odlukom.
+
+**Knjiga: 17 poglavlja, 32.137 reči. Nema otvorenih pitanja u repou.**
+
+**⛔ Šta se od sada NE radi bez autorove reči:** nov plan · nov prolaz · nova opšta ocena
+knjige · slepi čitalac. **Merenje je zatvoreno.**
