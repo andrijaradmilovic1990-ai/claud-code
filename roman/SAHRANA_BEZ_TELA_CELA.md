@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 32.034 reči.*
+*17 poglavlja, redom kojim se čitaju. 32.092 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -3450,7 +3450,17 @@ Dva džempera. Veš. Futrola s papirima. Teglica. Kutija cipela u kojoj su dve s
 
 To je bilo sve, i još je ostajalo mesta, i ostajalo je oduvek.
 
-Preneo sam to gore.
+Izvadio sam sve i spustio na krevet, i stalo je u jedno naručje.
+
+Iz kupatila je došla druga polovina pesme.
+
+Stajao sam s tim u rukama i gledao u hodnik.
+
+U hodniku je bila jakna, i vrata iza nje, i od vode se ne bi čulo ništa.
+
+Prebrojao sam koliko mi treba. Izašlo je manje od minuta.
+
+Onda sam odneo stvari gore.
 
 Džempere na gornju policu, razmaknute, jedan levo jedan desno, ne jedan na drugi. Veš u levu fioku, ne u desnu, jer prazna fioka zvuči prazno kad se otvori a puna do pola ne zvuči nikako. Teglicu na srednju policu, uz sam kraj. Futrolu na drugi kraj iste police, tako da između njih ostane rupa koja izgleda kao da je tu nešto stajalo pa je maločas uzeto.
 
