@@ -74,6 +74,34 @@ Trener mi je tada stavio ruku na potiljak i držao je tu tri sekunde duže nego 
 
 ⁂
 
+Bila je iz zgrade preko puta i išla je godinu ispod mene.
+
+Sedela je na zidiću kod kontejnera kad se vraćamo s treninga, sa školskom torbom u krilu, i svaki put je pitala isto.
+
+„Ko je platio?“
+
+„Ja.“
+
+„Lažeš.“
+
+„Lažem.“
+
+Onda bi ustala i išla uz mene do haustora, i tu bi stala, jer je njen ulaz bio pre mog.
+
+U sredu je nije bilo na zidiću.
+
+U četvrtak je pred njihovim ulazom stajao venac naslonjen na zid, i neko je preko noći isključio svetlo u haustoru.
+
+Nisam prešao ulicu. Stajao sam s ove strane i gledao ko ulazi, i brojao sam ih, i ne znam zašto sam ih brojao.
+
+U sedam te srede nisam otišao na trening.
+
+Trener me sledeći put nije pitao ništa.
+
+Posle toga sam se s treninga vraćao drugom stranom ulice.
+
+⁂
+
 Brat je te nedelje kuvao i dao mi nož i luk.
 
 „Sitnije.“

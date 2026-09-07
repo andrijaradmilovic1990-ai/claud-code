@@ -2634,3 +2634,152 @@ scenu koja isto nosi telom.
 ni oduzeta. Pala je samo naracija koja je **imenovala** ono što scena pokazuje.
 
 **Knjiga: 31.916 → 31.898.**
+
+---
+
+# 35 — ŠAV PROŠLOST–SADAŠNJOST: TRI KARIKE *(07.09.2026, odluka autora)*
+
+> **Šta je ovo.** Prvi zahvat posle iscrpljenog `PLAN_03_09_2026.md`. **Nije plan i nije
+> prolaz.** Nastao je iz jedne autorove tvrdnje — *„zadnjih pet sesija se vrtimo u krug:
+> pročitaš knjigu, kažeš šta ne valja, popravimo, pa opet"* — i iz odluke da se **spisak
+> zaključa**: četiri stavke, ništa se posle ne dodaje, pa se merenje zatvara.
+>
+> **Cilj koji je autor postavio, i koji je od tada test:** *„da mu bude teško i da ne može
+> da zaspi."*
+
+## 35.1 — ZAŠTO SE RAD VRTEO U KRUGU — I ŠTA JE BIO PRAVI UZROK
+
+**Dijagnoza iz `ANALIZA_KRUGA_07_09_2026.md` je bila tačna ali nepotpuna:** nalaz na spratu
+knjige, lek sa sprata rečenice. **Nepotpuna zato što je pretpostavljala da knjizi nešto
+fali.**
+
+**Ne fali. Knjiga je sve tri stvari već imala — razdvojene.** Sreda je postojala u
+`Praznoj stolici`, tetovaža „J" u `Katarini`, prazna polica u `Belom gradu` i `Maski`.
+**Nijedna nije imala kariku u prošlosti, pa je čitalac svaku pročitao kao sitnicu.**
+
+**Pouka, i vredi za svaki naredni prolaz:** kad merenje pet puta pokaže isto, ne traži šta
+da dodaš — **traži šta nije spojeno.**
+
+## 35.2 — `ULAZAK` II: MALA JOVANA ULAZI KAO NEIMENOVAN DAN
+
+**Nalaz koji je otvorio potez — autorov.** Sreda se u knjizi pojavljivala **jedanaest puta**,
+a **šest** ih je vodilo ka baki *(`Italija`, pet u jednoj sceni; `Nestanak`, jednom)* — i sve
+pre Davidove rečenice. Kad u XIII kaže *„Srede ne volim"*, čitalac je do tada imao **samo
+bakinu sredu**, pa je to čitao kao krivicu prema njoj.
+
+**To nije Pravilo T.** T brani da se uzrok **ne kaže**; ovde je čitalac dobijao **pogrešan**
+uzrok i odlazio siguran da je razumeo.
+
+**Uneto:** nov blok od ~136 reči posle trening-scene — devojčica sa zidića, sreda u kojoj je
+nema, venac pred ulazom, trening na koji nije otišao. **Ime, uzrok i okolnosti se ne
+izgovaraju.** Materijal: `ODGOVORI`, stavke 28–34.
+
+**⛔ BAKINE I ANJINE SREDE SE NE DIRAJU.** Predlog da se prorede je **pao.** Problem nikad
+nije bio što baka ima sredu nego što ju je imala **prva i sama**. Kad je `Ulazak` uzme prvi,
+ista rečenica prestaje da objašnjava i počinje da boli: čoveku kome je sreda crna jedna
+starica **baš sredom** vadi čiste stvari. **Rez bi ubio najbolju rečenicu `Italije` i dao
+ništa.**
+
+**Nusproizvod koji nije planiran:** *„Lažeš." / „Lažem."* čini da Andrijanina replika u
+`Pukotini` — *„Ja bih se zaklela da nisi slagao nijednom u životu."* / *„Nisam."* — bude
+**tačno jednom bila drugačija**, i to pred njom.
+
+**Rezerva, sprat: poglavlje.** Trener u `Ulasku` sad **dvaput** prestane da pita. Ako ikad
+zasmeta, prvo se skida *„Trener me sledeći put nije pitao ništa."*
+
+**⛔ Ne spajati devojčicu sa slovom „J" eksplicitno.** Čitalac J i dalje čita kao odraslu
+Jovanu i **pogreši** — ista greška koju izvor predviđa *(stavka 40)* i koju je slepi čitalac
+napravio. **Otkad postoje dve, J sme da bude obe**, i naslov knjige je doslovan tek dok se
+to ne razreši.
+
+**`Ulazak` 2.498 → 2.634.**
+
+## 35.3 — `KATARINA` XII: KOLEBANJE KAO GEST
+
+**Autorov nalaz:** ako u tekstu nigde ne stoji da je hteo da ode i od nje, ceo koncept pada.
+**Provereno — nije stajalo nigde.** Najbliže je `Maska` *(„broj koji ne smem da okrenem")*,
+ali to je odmeravanje prema telefonu, ne prema njoj.
+
+**Uneto:** pet redova pred kraj — drži ceo svoj život u jednom naručju, **gleda u hodnik
+umesto u orman**, prebroji koliko mu treba da izađe, pa odnese stvari gore. **Okidač je
+sreća, ne opasnost:** pesma iz kupatila dolazi **pre** merenja. Materijal: `ODGOVORI`,
+stavka 33.
+
+**Reč „otići" ne pada. Nema kajanja i nema scene u kojoj shvata.** Kolebanje je fizičko:
+jedina njegova veština — merenje izlaza — prvi put okrenuta protiv sopstvene sreće.
+
+**Sve što sledi u poglavlju menja boju bez ijedne dalje izmene** — džemper okrenut da mu se
+vidi rukav, teglica pomerena za dva prsta, i *„Izgledalo je kao da tu neko živi."*
+
+**⛔ Sreda u `Katarini` se ne dira — nula izmena.** Scena već sadrži **oba znaka**, tridesetak
+redova jedan od drugog: njen palac preko slova „J" pod uvom, pa *„Ne može sreda."* Posle
+35.2 to radi samo od sebe: ona zna **celu priču** i ne zna **samo dan** *(`ODGOVORI` 38)*.
+Dati joj sumnju znači ubiti ono zbog čega scena radi.
+
+**Izmenjena jedna zatečena rečenica:** *„Preneo sam to gore."* → *„Onda sam odneo stvari
+gore."* **`Katarina` 1.625 → 1.683.**
+
+## 35.4 — `MASKA` XV: RAČUN STIŽE — POLICA JE UZETA NAZAD
+
+**Zamerka koju ovo plaća** *(`ANALIZA_KRUGA`, Deo 4)*: Katarina je funkcija, ne žena —
+**nijednom ne poželi nešto što njega košta.** Prazni orman za njega, sprema kesu za sestru,
+daje teglicu, peva mu. Kad nešto želi *(brak, prsten, adresa)*, spusti to čim mu je
+neprijatno.
+
+**Uneto:** tri reda pred blok s teglicom — orman pun **njenih** stvari, njegove spuštene u
+jednu fioku, **ništa nije izbačeno**, i *„Nije mi rekla kad je to uradila. Nisam pitao."*
+
+**Zašto `Maska` a ne `Beli grad`:** `Beli grad` je Jovanino poglavlje i Katarina bi tamo opet
+ušla u **tuđi kadar** — a to je tačno bolest koju potez leči. `Maska` je jedino poglavlje u
+kom su njih dvoje sami celo veče, i **poslednji dan pre puta.**
+
+**Zašto je to račun a ne svađa:** David sve svoje gubitke bira sam i unapred ih potpiše —
+zato ga čitalac poštuje ali ne strepi za njega. **Ovo je jedina važna stvar u knjizi koja se
+desi bez njegovog pristanka**, i zatekne ga gotovu. I ne može ništa da kaže: mesto je stajalo
+prazno i on ga nije popunio.
+
+**⚑ NESKLAD FIOKE JE TIME ZATVOREN — bez ijedne ispravke u zatečenom tekstu.** Niz je sad
+hronološki tačan: tri police i dve fioke *(XII)* → nije popunio → ona uzela nazad → **jedna
+fioka** *(XIV, XV)*. **Nijedna postojeća rečenica nije bila pogrešna.**
+
+**⚑ I tekst je to nosio pre nego što smo znali zašto:** u `Katarini` teglicu stavlja na
+**srednju policu, uz sam kraj**; u `Maski` je vadi **iz fioke.** Napisano četiri dana ranije,
+bez namere.
+
+**Vreme, provereno — i zato je jedna rečenica prepravljena pre unosa:** `Beli grad` XIV već
+kaže *„još uvek imao jednu fioku"*, dakle polica je uzeta **između XII i XIV**. Prvi predlog
+je glasio *„Ne znam kad je to uradila"* i bio bi **netačan** — David to zna već poglavlje
+unazad. **Zamenjeno s „Nije mi rekla kad je to uradila. Nisam pitao."**, što stoji u bilo kom
+trenutku i pritom kaže više: **nije pitao.**
+
+**Lokacije, provereno na autorov zahtev:** `Katarina` XII, `Beli grad` XIV i `Maska` XV su
+**sve tri u NJENOM stanu** i David u njemu **nije useljen** *(„Stan je bio njen pre nego što
+sam u njega prvi put ušao" · „još uvek imao jednu fioku" · „u tuđoj kuhinji")*. **Zajednička
+kuća s dvorištem i majkom dole je sadašnjost** *(okviri `Krvi` i `Pariza`)*, godinama
+kasnije, **i ne dira se.**
+
+**Izmenjena jedna zatečena rečenica:** *„Ustao sam i otvorio"* → *„Otvorio sam"*, jer je sad
+u sobi a ne u kuhinji. **`Maska` 1.691 → 1.736.**
+
+## 35.5 — PRAVILO J, PRAVILO T I ZBIR
+
+**Pravilo J:** sva tri unosa su **napisane rečenice**, nijedan nije rez. Obrnut slučaj od
+sekcija 32 i 34.
+
+**Pravilo T:** nijedan uzrok nije otvoren. Ne kaže se kako je devojčica umrla, ni da je David
+hteo da ode, ni zašto je Katarina uzela policu. **Otvorena je samo pozicija** — dan, gest,
+polica — a to je ono što T izričito traži.
+
+**Pravilo K:** svaka od tri rečenice je odobrena posebno, jedna po jedna. Prva verzija bloka
+za `Ulazak` je **oborena od autora** *(„ništa ne govori — bila je neka devojka i nije je bilo
+kod zida")*; druga je dodala **venac** i **„Lažem"**, i primljena je.
+
+**Knjiga: 31.898 → 32.137.** `provera.sh` prolazi celo.
+
+## 35.6 — ŠTA JE OSTALO OTVORENO POSLE OVOGA
+
+**Zaključan spisak od četiri stavke je odrađen do jedne.** Ostaje **osam starih pitanja**
+*(`NASTAVAK.md`)*, i od njih samo **naslov XII** dodiruje cilj — ostalo je higijena.
+
+**⚑ I ostaje dogovor zbog kog je sve ovo počelo:** kad padne i ta poslednja stavka, **merenje
+se zatvara.** Nema više slepih čitalaca i nema opšte ocene knjige. **Knjiga ide ljudima.**

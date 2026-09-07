@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 31.898 reči.*
+*17 poglavlja, redom kojim se čitaju. 32.137 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -143,6 +143,34 @@ Trener mi je tada stavio ruku na potiljak i držao je tu tri sekunde duže nego 
 „Šta?“
 
 „Nešto.“ Skinuo je ruku. „U sredu u sedam, nemoj da kasniš.“
+
+⁂
+
+Bila je iz zgrade preko puta i išla je godinu ispod mene.
+
+Sedela je na zidiću kod kontejnera kad se vraćamo s treninga, sa školskom torbom u krilu, i svaki put je pitala isto.
+
+„Ko je platio?“
+
+„Ja.“
+
+„Lažeš.“
+
+„Lažem.“
+
+Onda bi ustala i išla uz mene do haustora, i tu bi stala, jer je njen ulaz bio pre mog.
+
+U sredu je nije bilo na zidiću.
+
+U četvrtak je pred njihovim ulazom stajao venac naslonjen na zid, i neko je preko noći isključio svetlo u haustoru.
+
+Nisam prešao ulicu. Stajao sam s ove strane i gledao ko ulazi, i brojao sam ih, i ne znam zašto sam ih brojao.
+
+U sedam te srede nisam otišao na trening.
+
+Trener me sledeći put nije pitao ništa.
+
+Posle toga sam se s treninga vraćao drugom stranom ulice.
 
 ⁂
 
@@ -3422,7 +3450,17 @@ Dva džempera. Veš. Futrola s papirima. Teglica. Kutija cipela u kojoj su dve s
 
 To je bilo sve, i još je ostajalo mesta, i ostajalo je oduvek.
 
-Preneo sam to gore.
+Izvadio sam sve i spustio na krevet, i stalo je u jedno naručje.
+
+Iz kupatila je došla druga polovina pesme.
+
+Stajao sam s tim u rukama i gledao u hodnik.
+
+U hodniku je bila jakna, i vrata iza nje, i od vode se ne bi čulo ništa.
+
+Prebrojao sam koliko mi treba. Izašlo je manje od minuta.
+
+Onda sam odneo stvari gore.
 
 Džempere na gornju policu, razmaknute, jedan levo jedan desno, ne jedan na drugi. Veš u levu fioku, ne u desnu, jer prazna fioka zvuči prazno kad se otvori a puna do pola ne zvuči nikako. Teglicu na srednju policu, uz sam kraj. Futrolu na drugi kraj iste police, tako da između njih ostane rupa koja izgleda kao da je tu nešto stajalo pa je maločas uzeto.
 
@@ -3926,7 +3964,13 @@ Skupila je pare u jednu gomilu i odustala od brojanja i gurnula sve u kesicu.
 
 Legla je oko jedanaest. Ja sam ostao u kuhinji.
 
-Ustao sam i otvorio onu fioku koja je moja — jedna, u ovom stanu, i u njoj staje sve što je moje i još ostane mesta. Tu je bila teglica.
+Posle sam ušao u sobu po stvari za torbu. Nisam palio svetlo.
+
+Orman je bio pun. Njeni džemperi na gornjoj polici, peškiri na srednjoj, kutije na donjoj, i onaj papir koji miriše na lavandu i dalje ispod svega.
+
+Nije mi rekla kad je to uradila. Nisam pitao.
+
+Otvorio sam onu fioku koja je moja — jedna, u ovom stanu, i u njoj staje sve što je moje i još ostane mesta. Tu je bila teglica.
 
 Nosim je pola godine. Nije kupovna, nema nalepnicu, poklopac se otvara teško jer se maslo ispod uhvati za navoj. Mirisala je na nešto biljno i na loj, i na kuhinju u kojoj sam poslednji put jeo pod sijalicom bez abažura.
 

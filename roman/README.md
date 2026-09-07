@@ -27,7 +27,7 @@ netaknuto i u istom redosledu; nova se umeću između njih.
 
 ## ⚑ Knjiga ima SEDAMNAEST poglavlja *(od 04.09.2026)*
 
-**Sva su napisana. Stanje na 06.09.2026: 31.898 reči.**
+**Sva su napisana. Stanje na 07.09.2026: 32.137 reči.**
 
 Rasla je u tri koraka: **30.08.2026** je autor otvorio sva poglavlja i umetnut je
 **`IVIČNJAK`, mesto 7** *(devet → šesnaest)*; **04.09.2026** je zahvatom 4 napisano
@@ -88,7 +88,7 @@ fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 | XVI | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
 | XVII | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.644 |
 
-**ZBIR: 31.898 reči.**
+**ZBIR: 32.137 reči.**
 
 > **Ne prepisuj ovu tabelu rukom.** `roman/alati/provera.sh` meri zbir iz teksta i javlja
 > ako `README.md`, `NASTAVAK.md` ili `CLAUDE.md` nose staru cifru.
@@ -125,7 +125,7 @@ Git prati preimenovanja — istorija nije prekinuta.
 
 ## Stanje
 
-**Knjiga ima sedamnaest poglavlja, sva su napisana, 31.898 reči.** Od **01.09.2026**
+**Knjiga ima sedamnaest poglavlja, sva su napisana, 32.137 reči.** Od **01.09.2026**
 nijedno nije zaključano. **Plan je iscrpljen 06.09.2026** i nov se ne pravi bez
 autorove reči.
 
@@ -155,7 +155,7 @@ je 06.09.2026. zatečen s šesnaest poglavlja i bez `Katarine`.
 
 ## Dokumenti
 
-> **⚑ 07.09.2026 — TRI POLICE.** Dokumentacija je bila **129.281 reč** na **31.898** reči
+> **⚑ 07.09.2026 — TRI POLICE.** Dokumentacija je bila **129.281 reč** na **32.137** reči
 > knjige, sva u jednom folderu. **Devet fajlova (64.858 reči, pola svega) preseljeno je u
 > `dokumenti/arhiva/` — ništa nije obrisano.** Svaki red u tabeli ispod čiji put sadrži
 > `arhiva/` **ne otvara se u radu.**

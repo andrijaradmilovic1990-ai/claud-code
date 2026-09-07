@@ -49,6 +49,42 @@
 > **Nalaz koji stoji nezavisno od svega:** `Beli grad` i `Maska` kažu da David ima **jednu
 > fioku** u tom stanu; `Katarina` mu daje **tri police i dve fioke.**
 >
+> ## ⚑ 07.09.2026, POPODNE — TRI KARIKE UNETE. SPISAK JE ZAKLJUČAN I SKORO PRAZAN.
+>
+> **Krug je prekinut, i nije prekinut novim planom nego dogovorom:** autor je pristao da se
+> spisak **zaključa na četiri stavke** i da se posle njih **merenje zatvori zauvek** — nema
+> više slepih čitalaca i nema opšte ocene knjige. **Cilj koji je autor postavio, i koji je od
+> sada jedini test:** *„da mu bude teško i da ne može da zaspi."*
+>
+> **Knjiga je pročitana cela i gola po Pravilu R**, s tim ciljem u ruci i sa **zabranom da se
+> doda peta stavka.** Zamerka o Davidovom nasilju je u tom čitanju **sužena i delom povučena**
+> — knjiga već ima dva prava računa, `Italija` *(Anja: „ona ima osamdeset dve")* i `Kukavica`
+> *(„Kukavica")*, oba u prošlosti. **Bez računa je ostala jedino Katarina, jedina u
+> sadašnjosti.**
+>
+> **Uneto tri, sve tri napisane rečenice, nijedna rez:**
+>
+> - **`Ulazak` II** — mala Jovana kao **neimenovan dan**; sreda time dobija prvog vlasnika
+>   **pre** bakinih sreda u `Italiji`. **2.498 → 2.634.**
+> - **`Katarina` XII** — **kolebanje kao gest**, okidač je sreća a ne opasnost; reč „otići"
+>   ne pada. **1.625 → 1.683.**
+> - **`Maska` XV** — **račun stiže**: Katarina je uzela policu nazad. **1.691 → 1.736.**
+>
+> **⚑ NESKLAD FIOKE JE ZATVOREN — bez ijedne ispravke u zatečenom tekstu.** Nijedna postojeća
+> rečenica nije bila pogrešna; falila je karika.
+>
+> **⛔ Bakine i Anjine srede se NE diraju** *(predlog pao)*. **⛔ Sreda u `Katarini` — nula
+> izmena.** **⛔ Devojčica se ne spaja sa slovom „J" eksplicitno.**
+>
+> **Nalaz koji je platio pet sesija, i vredi za svaki naredni prolaz:** knjizi nije falilo
+> ništa novo. Sve tri stvari su već postojale — **razdvojene.** Kad merenje pet puta pokaže
+> isto, **ne traži šta da dodaš nego šta nije spojeno.**
+>
+> Pun zapis, sva tri poteza i sve zabrane: `REGISTAR_ODLUKA.md`, **sekcija 35.**
+>
+> **Ostaje osam starih pitanja**, i od njih samo **naslov XII** dodiruje cilj.
+> **Kad i to padne — knjiga ide ljudima.**
+>
 > ## ⚑ I JEDNO PRAVILO KOJE JE PLAĆENO GREŠKOM *(04.09.2026)*
 >
 > **Znati *da* se nešto radi, a ne znati *zašto* taj potez postoji, je najskuplja greška u
@@ -350,63 +386,49 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ---
 
-## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026 — ovaj je aktuelan)*
+## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026, popodne — ovaj je aktuelan)*
 
-> **Sledeća sesija nije prolaz i nije čitanje. To su odluke.** Pet stvari čeka autorovu reč
-> i nijedna se ne radi bez nje. **Nalepi kodni blok na početak novog razgovora.**
+> **Spisak je zaključan i skoro prazan.** Tri karike su unete; ostaje osam starih pitanja i
+> od njih samo jedno dodiruje cilj. **Nalepi kodni blok na početak novog razgovora.**
 
 ```
-Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 31.898 reci, gotova
-kao rukopis.
+Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.137 reci.
 
 ==================================================================
-OVA SESIJA JE ODLUKA. NIJE PROLAZ I NIJE CITANJE.
+SPISAK JE ZAKLJUCAN. NE DODAJE SE PETA STAVKA.
 ==================================================================
 
-⛔ NE PRAVI NOV PLAN. Nijedan plan se ne pravi bez autorove reci.
-⛔ NE PUSTAJ NOVO CITANJE knjige da bi „proverio kako stoji".
-   Instrument vec tri puta pokazuje isto; cetvrti put nece drugacije.
-⛔ NE DIRAJ NIJEDAN FAJL u roman/poglavlja/ bez izricitog „da",
+Cilj knjige, autorovim recima: "da mu bude tesko i da ne moze da
+zaspi". To je jedini test. Sve se meri prema njemu.
+
+⛔ NE PRAVI NOV PLAN.
+⛔ NE PUSTAJ NOVO CITANJE knjige "da proveris kako stoji".
+   Merenje je zatvoreno. Instrument pet puta pokazuje isto.
+⛔ NE DODAJI NISTA NA SPISAK. Ako nesto nadjes — upisi u registar
+   kao nalaz, NE na spisak.
+⛔ NE DIRAJ NIJEDAN FAJL u roman/poglavlja/ bez izricitog "da",
    jedno po jedno (Pravilo K).
 
-CITAS TRI FAJLA, CELA, TIM REDOM — i nista vise dok ne zatreba:
+CITAS TRI FAJLA, CELA, TIM REDOM:
   1. CLAUDE.md
   2. roman/NASTAVAK.md
   3. roman/dokumenti/POENTA_KNJIGE.md
-Pa onda roman/dokumenti/ANALIZA_KRUGA_07_09_2026.md — u njemu je
-ceo prethodni razgovor: zasto se rad vrteo u krugu, tri poteza, i
-misljenje citaoca o svih sedamnaest poglavlja.
-
-Registar, izvor (ODGOVORI_AUTORA) i plan otvaraju se SAMO kad posao
-dotakne ono cega se ticu. roman/dokumenti/arhiva/ se ne otvara.
+Pa REGISTAR_ODLUKA.md, sekciju 35 — tu je sve od 07.09.2026:
+tri karike, sve zabrane, i zasto se rad pet sesija vrteo u krug.
 
 ==================================================================
-STA CEKA MOJU REC — pitaj me jedno po jedno, bez argumentovanja
+STA JE OSTALO — jedno po jedno, bez argumentovanja
 ==================================================================
 
-1. RASPORED SREDINE. Sredina se spusta (IX Nestanak, X Majka,
-   XI Fabrika, XII Katarina — cetiri tiha poglavlja zaredom).
-   Tri opcije, nijedna ne trazi novu recenicu:
-     A — spojiti Majku i Fabriku u jedno (knjiga na 16 poglavlja)
-     B — pomeriti Katarinu iza Prazne stolice  ← preporuceno
-     C — ne dirati nista i zatvoriti merenje zauvek
+1. NASLOV POGLAVLJA XII. Jedino licno ime u sadrzaju, i imenuje
+   zenu koju citalac jos nije sreo. Predlozi iz samog poglavlja:
+   Orman · Polica · Kesa. (Registar 29.5.)  ← jedino sto dodiruje cilj
 
-2. RACUN. Najveca zamerka na spratu knjige: Davidovo nasilje u
-   Ivicnjaku, Praznoj stolici i Belom gradu nikad ne stigne racun.
-   Ako kazem da se to placa — gde tacno, i cime. Bez kajanja i bez
-   scene u kojoj shvata; jedan racun koji stigne i koji primi cutke.
+2. SEDAM PREOSTALIH STARIH PITANJA iz sekcije "STA JE STVARNO
+   OTVORENO U REPOU" nize u ovom fajlu. Higijena, ne diraju cilj.
 
-3. KATARINA. Ona je funkcija, ne zena — i u sopstvenom poglavlju
-   sluzi njegovom portretu, nijednom ne pozeli nesto sto njega kosta.
-   Da li dobija volju, i po kojoj ceni.
-
-4. FIOKA. Beli grad i Maska kazu da David ima JEDNU fioku u tom
-   stanu; Katarina mu daje tri police i dve fioke. To se ne slaze i
-   stoji nezavisno od svega ostalog.
-
-5. OSAM STARIH PITANJA iz sekcije „STA JE STVARNO OTVORENO U REPOU"
-   nize u ovom fajlu. Nepromenjena.
+KAD I TO PADNE — KNJIGA IDE LJUDIMA. Bez novog citanja.
 
 ==================================================================
 KAKO SE PISE
@@ -416,15 +438,13 @@ Kratko i direktno. Bez uvodnog pasusa. Jedno pitanje po poruci.
 Sprat obavezno uz svaku ocenu: RECENICA, POGLAVLJE ili KNJIGA.
 Ako se ne slazes sa mnom — reci, nemoj da ublazavas.
 
-GIT: nema nadgledanja PR-ova, nema samoprovera, nema check-inova.
-Izmena se upise, commituje i pushuje kako ide; PR i MERGE na kraju
-razgovora. Posao nije zatvoren dok razlika prema glavnoj grani nije
-prazna. Glavna grana: claude/nesto-zanimljivo-z4j3s0.
+GIT: nema nadgledanja PR-ova, nema samoprovera. Izmena se upise,
+commituje i pushuje kako ide; PR i MERGE na kraju razgovora.
+Glavna grana: claude/nesto-zanimljivo-z4j3s0.
 Pre commita koji dira poglavlja ili brojeve: bash roman/alati/provera.sh
 
 DOKUMENTACIJA SE NE GOMILA. Jedan zatvoren potez ide na DVA mesta:
 registar pamti zasto, NASTAVAK pamti stanje. Dnevnik se ne vodi.
-CLAUDE.md se ne dopunjuje po potezu.
 
 Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce
 knjigu jednog dana procitati. Ponasaj se u skladu s tim.
@@ -464,7 +484,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 31.898 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.137 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -538,7 +558,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 31.898 reči.** Izmereno **06.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.137 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -548,7 +568,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | # | poglavlje | fajl | reči |
 |---|---|---|---|
 | **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 793 |
-| **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | 2.498 |
+| **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.634** |
 | **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.786 |
 | **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
 | **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.381** |
@@ -558,14 +578,18 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
 | **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
-| **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | **1.625** |
+| **XII** | **Katarina** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
 | **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
-| **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.707** |
+| **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.736** |
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 31.898 reči.**
+**ZBIR: 32.137 reči.**
+
+> **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
+> **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·
+> `Maska` 1.691 → 1.736. **Knjiga 31.898 → 32.137.**
 
 > **Tri podebljana su dirana zahvatom 9** *(06.09.2026, slepi prolaz — dva reza i tri
 > napisane rečenice)*: `Nestanak` 1.367 → 1.366 · `Katarina` 1.628 → 1.625 ·
