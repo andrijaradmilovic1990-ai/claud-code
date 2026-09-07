@@ -122,10 +122,25 @@
 > potrebe)* — dvoje ljudi radi beskorisne stvari umesto razgovora.
 > **`Nestanak` 1.366 → 1.372; knjiga 32.146 → 32.152.**
 >
-> **⚑ TIME SU SVA TRI MESTA KOJA TRAŽE NAPISAN GEST ZATVORENA.** Ostaje **deset čistih
-> skidanja** iz presude, i **nalaz po Pravilu J i dalje stoji**: tri napisane rečenice na
-> trinaest izmena nije trećina. **Pre nego što se skida išta, biraju se još najmanje dva
-> mesta gde se piše — bira ih autor.**
+> **⚑ TAČKA 1 JE ZATVORENA — SVIH TRINAEST MESTA JE UNETO.** Tri napisane rečenice
+> *(`Prelom`, `Ivičnjak`, `Nestanak`)* i **deset skidanja**, u jednom prolazu:
+> `Susret` 21 · `Pukotina` 107 · `Italija` 29 · `Pariz` 135 · `Fabrika` 159 i 325 ·
+> `Orman` 67 i 133 · `Beli grad` 73 · `Kukavica` 391. **Nijedno nije tražilo novu rečenicu**
+> — svako je imalo gest ili bolju rečenicu odmah pored sebe, koja preuzima posao čim ovo
+> padne; zato su i završili u koloni „skidam". **Knjiga 32.152 → 32.112.**
+>
+> **⛔ AUTOR JE ODBIO JOŠ GESTOVA** *(„nema potrebe više za gestovima")* — predložena su bila
+> `Fabrika` 159 i `Orman` 133 kao mesta koja mogu da nose rečenicu umesto reza.
+> **Nalaz po Pravilu J ostaje upisan, ne rešen:** tri napisane rečenice na trinaest izmena je
+> **23%**, ispod tražene trećine, a osam poglavlja *(`Susret`, `Pukotina`, `Italija`,
+> `Pariz`, `Fabrika`, `Orman`, `Beli grad`, `Kukavica`)* dobilo je **samo rez**. To nije
+> zatvaranje tih poglavlja nego uzan zahvat kroz knjigu — ali ako se neko od njih bude
+> zatvaralo, **Pravilo J tu još nije plaćeno.**
+>
+> **⚑ NALAZ IZ SVA TRI NAPISANA GESTA:** sva tri su **nogama** — cigla, rešetka, sklanjanje
+> s vrata. Nije planirano, izašlo je iz tri različite scene. **Čovek koji ne odgovara ustima
+> odgovara time gde stoji i kuda staje**, i telo mu je već doslednije nego što je tekst
+> priznavao.
 >
 > **⚑ NALAZ KOJI STOJI NAD CELOM TAČKOM 1 — Pravilo J.** Od trinaest skidanja, samo **tri**
 > mesta traže napisanu rečenicu *(`Ivičnjak` 43, `Prelom` 37, `Nestanak` 27)*. **To je manje
@@ -496,7 +511,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ```
 Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.152 reci.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.112 reci.
 
 ==================================================================
 MERENJE JE ZATVORENO. SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
@@ -608,7 +623,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 32.152 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.112 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -682,7 +697,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 32.152 reči.** Izmereno **07.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.112 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -691,25 +706,25 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 | # | poglavlje | fajl | reči |
 |---|---|---|---|
-| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 793 |
+| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 790 |
 | **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.634** |
-| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.786 |
+| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.780 |
 | **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
-| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.381** |
-| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.019** |
+| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.377** |
+| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.015** |
 | **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.131 |
 | **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.796** |
 | **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.372** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
-| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
-| **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
+| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.902** |
+| **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.678** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
-| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
+| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.206** |
 | **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.752** |
-| **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
+| **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.745 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 32.152 reči.**
+**ZBIR: 32.112 reči.**
 
 > **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
 > **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·

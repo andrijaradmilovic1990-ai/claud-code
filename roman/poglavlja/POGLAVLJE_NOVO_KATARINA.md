@@ -64,7 +64,7 @@ Radila je još minut, pa stala.
 
 „Ne znam.“
 
-Uzela ju je s kule, spustila u kesu i nije rekla ništa.
+Uzela ju je s kule i spustila u kesu.
 
 Sačekao sam koliko treba i izvadio je opet.
 
@@ -130,7 +130,7 @@ Kutija je krenula, pa se prevrnula, pa je iz nje ispalo pola na pod — papiri, 
 
 Sišla je sama. Nije me pogledala.
 
-Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda, i ćutala.
+Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda.
 
 Ćutala je i dok je brisala policu i dok je otvarala prozor i dok je vraćala lestve uza zid.
 

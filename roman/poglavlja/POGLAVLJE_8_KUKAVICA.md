@@ -388,7 +388,7 @@ Kratka tišina.
 
 „Igra je.“
 
-Jovana nije rekla ništa. Uhvatila je ivicu majice i povukla je preko glave, jednim pokretom, bez pauze.
+Uhvatila je ivicu majice i povukla je preko glave, jednim pokretom, bez pauze.
 
 Ispod nije bilo ničeg osim nje i onoga što joj je telo zapamtilo. Ožiljak je išao od ispod grudi nadole, kroz rebra, tamo gde su je otvarali da je sklope. Zacelio, ali nov, još rozikast. Stajala je sekund — ruke malo raširene, kao onaj prvi pokret na njenim vratima kad me je dočekala stojeću. Samo što ovo nije bilo *vidiš, hodam*. Ovo je bilo *vidiš šta je ostalo*.
 

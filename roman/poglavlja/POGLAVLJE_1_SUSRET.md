@@ -18,7 +18,7 @@ Spustio sam knjigu. Nisam je ionako čitao. Ista strana od jutros.
 
 „Mislio sam da vas više nikad neću videti“, rekao je. Glas mu je bio tih, skoro neveran. „Nestali ste tada, onako, preko noći. Pitao sam za vas, raspitivao se — niko ništa. Kao da vas je zemlja progutala.“ Zavrteo je glavom, gledajući me kao da nije siguran da sedim tu stvarno. „A sad uđem na kafu i — vi. Ovde. Od svih ljudi na svetu, vi.“
 
-Ništa nisam rekao. Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio.
+Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio.
 
 „Moj sin.“ Glas mu je pukao na toj reči, samo malo, pa se sabrao. „Vi ste mu spasli život. Onda, u ono vreme. Znam šta ste uradili. I znam šta vas je to koštalo.“
 

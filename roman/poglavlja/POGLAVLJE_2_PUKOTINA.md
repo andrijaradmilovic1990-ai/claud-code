@@ -104,7 +104,7 @@ Slušala je. Prevrnula je očima meni, pa se okrenula od stola, ka izlogu.
 
 „Ne pravim ja od nje ništa… Mama. Mama. Pusti je da gleda crtaće i gotovo.“
 
-Spustila je telefon licem nadole i par sekundi nije rekla ništa.
+Spustila je telefon licem nadole.
 
 „Izvini.“
 

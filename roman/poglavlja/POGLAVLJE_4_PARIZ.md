@@ -132,7 +132,7 @@ Vratile su se s vinom i lošim sirom i Nataša je htela da pravimo piknik u dva 
 
 Sedeo sam leđima ka kamenu.
 
-Čak i tamo. Čak i te noći, najlepše koje se sećam, leđa su mi tražila zid sama od sebe, i našla ga, i naslonio sam se i nisam ni primetio da sam to uradio dok mi Nataša nije dobacila „što si se zavukao tu kao slepi miš, dođi“, i ja sam se nasmejao i nisam se pomerio. Ona pod šeširom me je pogledala kad je Nataša to rekla. Samo me pogledala. Ona jedina je videla da to nije šala, da se čovek ne zavlači uza zid iz obesti. Ali nije rekla ništa. Ona nikad nije pitala ono što je videla.
+Čak i tamo. Čak i te noći, najlepše koje se sećam, leđa su mi tražila zid sama od sebe, i našla ga, i naslonio sam se i nisam ni primetio da sam to uradio dok mi Nataša nije dobacila „što si se zavukao tu kao slepi miš, dođi“, i ja sam se nasmejao i nisam se pomerio. Ona pod šeširom me je pogledala kad je Nataša to rekla. Samo me pogledala. Ona jedina je videla da to nije šala, da se čovek ne zavlači uza zid iz obesti. Ona nikad nije pitala ono što je videla.
 
 Telo je već tada znalo nešto što glava nije htela.
 
