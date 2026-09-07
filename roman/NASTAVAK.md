@@ -112,6 +112,21 @@
 > ćoškovima — taj je potreban trideset redova niže, kad ugleda čoveka ispred mesare.
 > **`Ivičnjak` 1.127 → 1.131; knjiga 32.142 → 32.146.**
 >
+> **⚑ UNETO I TREĆE MESTO** *(Pravilo K, autorovo „da")*: **`Nestanak` IX** —
+> *„Nisam rekao ništa"* → **„Sklonio sam se s vrata iako još nije krenula."** Ovo je bilo
+> najgušće pokriveno mesto u knjizi: **ćutanje se imenuje tri puta** — ona *(„To radiš.
+> Staneš i čekaš da prođe")*, narator dva reda niže *(„Stajao sam u hodniku i čekao da
+> prođe")*, i „Nisam rekao ništa" između. Gest zato ne dodaje ništa nego postaje ono na šta
+> njeno **„Eto. Vidiš."** pokazuje; bez ijednog reda između, dve njene replike bi se
+> sudarile. **Pokret je suvišan kao njen dva reda ranije** *(rajsferšlus gore-dole, bez
+> potrebe)* — dvoje ljudi radi beskorisne stvari umesto razgovora.
+> **`Nestanak` 1.366 → 1.372; knjiga 32.146 → 32.152.**
+>
+> **⚑ TIME SU SVA TRI MESTA KOJA TRAŽE NAPISAN GEST ZATVORENA.** Ostaje **deset čistih
+> skidanja** iz presude, i **nalaz po Pravilu J i dalje stoji**: tri napisane rečenice na
+> trinaest izmena nije trećina. **Pre nego što se skida išta, biraju se još najmanje dva
+> mesta gde se piše — bira ih autor.**
+>
 > **⚑ NALAZ KOJI STOJI NAD CELOM TAČKOM 1 — Pravilo J.** Od trinaest skidanja, samo **tri**
 > mesta traže napisanu rečenicu *(`Ivičnjak` 43, `Prelom` 37, `Nestanak` 27)*. **To je manje
 > od četvrtine, a Pravilo J traži trećinu** — ovako tačka 1 nije prolaz nego rez. **Trebaju
@@ -481,7 +496,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ```
 Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.146 reci.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.152 reci.
 
 ==================================================================
 MERENJE JE ZATVORENO. SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
@@ -593,7 +608,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 32.146 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.152 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -667,7 +682,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 32.146 reči.** Izmereno **07.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.152 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -684,7 +699,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.019** |
 | **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.131 |
 | **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.796** |
-| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
+| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.372** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
 | **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
 | **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
@@ -694,7 +709,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 32.146 reči.**
+**ZBIR: 32.152 reči.**
 
 > **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
 > **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·
