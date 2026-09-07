@@ -3132,3 +3132,102 @@ pada pod zabranu koja i dalje ima živ razlog. **Nema poteza koji ne razrešava.
 **⚑ Jedini scenario u kom se ovo vraća:** ako autor odluči da čitalac **mora** da može da
 stigne do druge Jovane. **To nije zakrpa nego izmena ose knjige** *(`POENTA_KNJIGE.md`)*, i
 donosi se njegovom rečju, na miru — **nikad kao odgovor na jednu recenziju.**
+
+---
+
+# 38 — ⚑ KORICA: MAGNET *(odluka autora, 07.09.2026)*
+
+> **Šta je ovo.** Prva odluka van rukopisa. **Ne dira nijedno slovo u `roman/poglavlja/`**
+> i ne podleže Pravilu K, ali podleže istoj meri: **korica ne sme da radi ono što tekst
+> odbija.**
+
+## 38.1 — SLIKA: MAGNET, NE PRAZNA STOLICA
+
+**Izabrano:** vrata frižidera, jeftin magnet u obliku Ajfelove kule, zlatna boja oljuštena
+po vrhu, **nakrivljen**, i uz njega iscepana cedulja s rukopisom: **`mleko` · `kafa` · treći
+red koji se ne vidi.** Hladno sivo svetlo, izgreban lim, gornja polovina prazna za naslov.
+
+**Zašto magnet:** *„Ne liči na knjigu o smrti — a jeste."* Čovek u knjižari vidi banalni
+suvenir iznad naslova `Sahrana bez tela`, ne razume, i uzme knjigu. **I to je jedini predmet
+u knjizi koji posle čitanja znači nešto sasvim drugo** — jedini grob koji David ima u kući,
+a na njemu stoji spisak za pijacu. **Korica ga sačeka na izlazu.**
+
+**⚑ Treći red se ne čita, i to je poenta.** U `Parizu` VI piše: *„njen rukopis, mleko, kafa,
+**nešto treće što nisam stigao da pročitam**"*. **Dve stavke vidljive, treća nikad** —
+knjiga na jednoj cedulji.
+
+**⚑ I nakrivljena kula je nalaz, ne greška generatora.** U `Parizu` ona zalepi cedulju i
+**namesti magnet da stoji pravo, „onako kako ona namešta stvari da stoje pravo."** Na korici
+ga niko više ne namešta.
+
+**⛔ `Prazna stolica` je odbijena** iako je doslovnija i lakše se čita: **objašnjava naslov
+umesto da ga otvori**, a knjiga ceo život provodi ne objašnjavajući. Uz to je istrošena
+slika na koricama.
+
+## 38.2 — ⛔ ŠTA NA KORICU NE SME
+
+- **Nijedno lice.** Ljudi u knjizi su stvarni.
+- **Nijedan grad, panorama ni natpis s imenom mesta** — knjiga ne imenuje nijedan domaći
+  grad *(sekcija 11)*; korica ne sme da uradi ono što tekst odbija.
+- **Ništa noar** — pištolj, kiša, senka pod lampom, čovek u kaputu s leđa. **To je žanrovski
+  refleks koji je spoljno čitanje samo od sebe popunilo** *(sekcija 37.3)*, i noar prolaz je
+  istog dana odbijen *(36.8)*.
+
+## 38.3 — ⛔⛔ IZMIŠLJENI PODNASLOV — NE SME NA KNJIGU
+
+**Generator uporno štampa ispod naslova:**
+
+> *The Weight of a Debt neglected*
+
+**To nije autorovo i nije iz rukopisa.** Halucinirala ga je ista mašina u svojoj recenziji
+*(sekcija 37.3)*, pa ga je zatim sama odštampala na koricu kao da je naslov knjige.
+
+**Da je prošlo, na knjizi bi stajala jedina rečenica u celom projektu koju nije napisao
+nijedan čovek.**
+
+**⛔ PRAVILO: nijedan engleski red ispod naslova. Nikakav podnaslov, prevod, tagline ni
+citat.** Naslov stoji sam — **radi baš zato što ne objašnjava.** Ako se u bilo kom krugu
+vrati, **briše se bez čitanja.**
+
+## 38.4 — POTPIS: `Mr. Nobody`, BEZ PREVODA
+
+**Autorov pseudonim, koji nosi godinama** — nije smišljen za ovu koricu.
+
+> **⛑ Ovde je jedna moja ocena pala.** Prigovorila sam da ime *„objašnjava knjigu pre prve
+> strane"* — čovek koji je sebe ukinuo pa se potpiše kao Niko. **Netačno kad je ime
+> zatečeno, a ne smišljeno:** pseudonim koji pisac nosi kroz sve što piše nije komentar na
+> jednu knjigu.
+
+**⛔ NE PREVODI SE.** *„Gospodin Niko"* je providan — srpskom čitaocu to ne zvuči kao ime
+nego kao izjava, pa pročita značenje pre naslova. **Strano ime prvo bude ime, pa tek onda
+reč. Prevod pretvara potpis u tezu.**
+
+**⚑ Ono što je stvarno smetalo nije ime nego slog:** bilo je složeno **razmaknutim velikim
+slovima, centrirano, odmah ispod naslova, istim rezom** — dakle **kao podnaslov.** Ide malim
+slovom, običnim razmakom, oko trećine visine naslova, **nisko i po strani, daleko od
+naslova i daleko od magneta.** Ista dva slova, drugi posao.
+
+## 38.5 — ZANAT: SLOVA SE NE PREPUŠTAJU GENERATORU
+
+**Pet krugova je potrošeno na tipografiju.** Redom: engleski spisak *(`Milk, Bread`)* ·
+izmišljeni podnaslov · ime zabijeno pod noge kule · **spisak ispisan flomasterom po vratima
+frižidera, dvadeset centimetara visokim slovima, dok je cedulja ostala prazna.**
+
+**Pouka:** generator daje **fotografiju**, čovek stavlja **slova.** Traži sliku **bez ijednog
+slova**, pa naslov i potpis složi u editoru — tako se pomeraju za dva milimetra bez novog
+kruga i bez nove greške.
+
+**Zabrana koja je konačno proradila, i vredi je sačuvati:**
+
+```
+IMPORTANT: there is no writing on the refrigerator itself. The fridge
+surface is bare painted metal — scratched and slightly grubby, but with
+no letters, no marker, no handwriting, no graffiti on it anywhere.
+All handwriting is ON THE SMALL PAPER NOTE ONLY: two short words in blue
+ballpoint, written small, partly covered by the magnet.
+No title, no author name, no watermark, no logo.
+```
+
+**Sitnica koja je ostala nedovršena i nije bila vredna još jednog kruga:** magnet i cedulja
+stoje **jedno pored drugog**, a u knjizi je cedulja **pritisnuta pod magnet.** Oko ih svejedno
+povezuje.
