@@ -350,6 +350,88 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ---
 
+## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026 — ovaj je aktuelan)*
+
+> **Sledeća sesija nije prolaz i nije čitanje. To su odluke.** Pet stvari čeka autorovu reč
+> i nijedna se ne radi bez nje. **Nalepi kodni blok na početak novog razgovora.**
+
+```
+Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 31.898 reci, gotova
+kao rukopis.
+
+==================================================================
+OVA SESIJA JE ODLUKA. NIJE PROLAZ I NIJE CITANJE.
+==================================================================
+
+⛔ NE PRAVI NOV PLAN. Nijedan plan se ne pravi bez autorove reci.
+⛔ NE PUSTAJ NOVO CITANJE knjige da bi „proverio kako stoji".
+   Instrument vec tri puta pokazuje isto; cetvrti put nece drugacije.
+⛔ NE DIRAJ NIJEDAN FAJL u roman/poglavlja/ bez izricitog „da",
+   jedno po jedno (Pravilo K).
+
+CITAS TRI FAJLA, CELA, TIM REDOM — i nista vise dok ne zatreba:
+  1. CLAUDE.md
+  2. roman/NASTAVAK.md
+  3. roman/dokumenti/POENTA_KNJIGE.md
+Pa onda roman/dokumenti/ANALIZA_KRUGA_07_09_2026.md — u njemu je
+ceo prethodni razgovor: zasto se rad vrteo u krugu, tri poteza, i
+misljenje citaoca o svih sedamnaest poglavlja.
+
+Registar, izvor (ODGOVORI_AUTORA) i plan otvaraju se SAMO kad posao
+dotakne ono cega se ticu. roman/dokumenti/arhiva/ se ne otvara.
+
+==================================================================
+STA CEKA MOJU REC — pitaj me jedno po jedno, bez argumentovanja
+==================================================================
+
+1. RASPORED SREDINE. Sredina se spusta (IX Nestanak, X Majka,
+   XI Fabrika, XII Katarina — cetiri tiha poglavlja zaredom).
+   Tri opcije, nijedna ne trazi novu recenicu:
+     A — spojiti Majku i Fabriku u jedno (knjiga na 16 poglavlja)
+     B — pomeriti Katarinu iza Prazne stolice  ← preporuceno
+     C — ne dirati nista i zatvoriti merenje zauvek
+
+2. RACUN. Najveca zamerka na spratu knjige: Davidovo nasilje u
+   Ivicnjaku, Praznoj stolici i Belom gradu nikad ne stigne racun.
+   Ako kazem da se to placa — gde tacno, i cime. Bez kajanja i bez
+   scene u kojoj shvata; jedan racun koji stigne i koji primi cutke.
+
+3. KATARINA. Ona je funkcija, ne zena — i u sopstvenom poglavlju
+   sluzi njegovom portretu, nijednom ne pozeli nesto sto njega kosta.
+   Da li dobija volju, i po kojoj ceni.
+
+4. FIOKA. Beli grad i Maska kazu da David ima JEDNU fioku u tom
+   stanu; Katarina mu daje tri police i dve fioke. To se ne slaze i
+   stoji nezavisno od svega ostalog.
+
+5. OSAM STARIH PITANJA iz sekcije „STA JE STVARNO OTVORENO U REPOU"
+   nize u ovom fajlu. Nepromenjena.
+
+==================================================================
+KAKO SE PISE
+==================================================================
+
+Kratko i direktno. Bez uvodnog pasusa. Jedno pitanje po poruci.
+Sprat obavezno uz svaku ocenu: RECENICA, POGLAVLJE ili KNJIGA.
+Ako se ne slazes sa mnom — reci, nemoj da ublazavas.
+
+GIT: nema nadgledanja PR-ova, nema samoprovera, nema check-inova.
+Izmena se upise, commituje i pushuje kako ide; PR i MERGE na kraju
+razgovora. Posao nije zatvoren dok razlika prema glavnoj grani nije
+prazna. Glavna grana: claude/nesto-zanimljivo-z4j3s0.
+Pre commita koji dira poglavlja ili brojeve: bash roman/alati/provera.sh
+
+DOKUMENTACIJA SE NE GOMILA. Jedan zatvoren potez ide na DVA mesta:
+registar pamti zasto, NASTAVAK pamti stanje. Dnevnik se ne vodi.
+CLAUDE.md se ne dopunjuje po potezu.
+
+Roman je autobiografski. Likovi su stvarni ljudi i autor racuna da ce
+knjigu jednog dana procitati. Ponasaj se u skladu s tim.
+```
+
+---
+
 ## Prompt kojim je čitanje odrađeno *(istorija, ne zadatak)*
 
 > **Iskorišćen 06.09.2026.** Stoji kao model za sledeći put kad autor traži čitaoca a ne
