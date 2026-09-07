@@ -357,7 +357,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ```
 Radimo na romanu „Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 31.898 reci, gotova
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.137 reci, gotova
 kao rukopis.
 
 ==================================================================
@@ -464,7 +464,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 31.898 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.137 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -538,7 +538,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 31.898 reči.** Izmereno **06.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.137 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -565,7 +565,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 31.898 reči.**
+**ZBIR: 32.137 reči.**
 
 > **Tri podebljana su dirana zahvatom 9** *(06.09.2026, slepi prolaz — dva reza i tri
 > napisane rečenice)*: `Nestanak` 1.367 → 1.366 · `Katarina` 1.628 → 1.625 ·

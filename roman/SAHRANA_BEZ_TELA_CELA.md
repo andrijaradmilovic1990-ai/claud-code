@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 32.092 reči.*
+*17 poglavlja, redom kojim se čitaju. 32.137 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -3964,7 +3964,13 @@ Skupila je pare u jednu gomilu i odustala od brojanja i gurnula sve u kesicu.
 
 Legla je oko jedanaest. Ja sam ostao u kuhinji.
 
-Ustao sam i otvorio onu fioku koja je moja — jedna, u ovom stanu, i u njoj staje sve što je moje i još ostane mesta. Tu je bila teglica.
+Posle sam ušao u sobu po stvari za torbu. Nisam palio svetlo.
+
+Orman je bio pun. Njeni džemperi na gornjoj polici, peškiri na srednjoj, kutije na donjoj, i onaj papir koji miriše na lavandu i dalje ispod svega.
+
+Nije mi rekla kad je to uradila. Nisam pitao.
+
+Otvorio sam onu fioku koja je moja — jedna, u ovom stanu, i u njoj staje sve što je moje i još ostane mesta. Tu je bila teglica.
 
 Nosim je pola godine. Nije kupovna, nema nalepnicu, poklopac se otvara teško jer se maslo ispod uhvati za navoj. Mirisala je na nešto biljno i na loj, i na kuhinju u kojoj sam poslednji put jeo pod sijalicom bez abažura.
 
