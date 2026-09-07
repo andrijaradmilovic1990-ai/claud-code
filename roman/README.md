@@ -84,7 +84,7 @@ fajla. Brojevi izmereni `LC_ALL=C.UTF-8 wc -w`, **06.09.2026**.
 | **XII** | `POGLAVLJE_NOVO_KATARINA.md` | **Orman** | **1.683** |
 | XIII | `POGLAVLJE_6_PRAZNA_STOLICA.md` | Prazna stolica | 1.386 |
 | XIV | `POGLAVLJE_7_BELI_GRAD.md` | Beli grad | **2.209** |
-| XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | **1.736** |
+| XV | `POGLAVLJE_NOVO_MASKA.md` | Maska | **1.752** |
 | XVI | `POGLAVLJE_8_KUKAVICA.md` | Kukavica | 3.749 |
 | XVII | `POGLAVLJE_9_CEBENCE.md` | Ćebence | 1.644 |
 

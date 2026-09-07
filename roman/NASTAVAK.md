@@ -68,7 +68,7 @@
 >   **pre** bakinih sreda u `Italiji`. **2.498 → 2.634.**
 > - **`Katarina` XII** — **kolebanje kao gest**, okidač je sreća a ne opasnost; reč „otići"
 >   ne pada. **1.625 → 1.683.**
-> - **`Maska` XV** — **račun stiže**: Katarina je uzela policu nazad. **1.691 → 1.736.**
+> - **`Maska` XV** — **račun stiže**: Katarina je uzela policu nazad. **1.707 → 1.752.**
 >
 > **⚑ NESKLAD FIOKE JE ZATVOREN — bez ijedne ispravke u zatečenom tekstu.** Nijedna postojeća
 > rečenica nije bila pogrešna; falila je karika.
@@ -625,7 +625,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
 | **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
-| **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.736** |
+| **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.752** |
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
@@ -633,7 +633,13 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 > **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
 > **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·
-> `Maska` 1.691 → 1.736. **Knjiga 31.898 → 32.137.**
+> `Maska` 1.707 → 1.752. **Knjiga 31.898 → 32.137.**
+>
+> **⛑ ISPRAVLJENO 07.09.2026, uveče.** Ovaj red i tabela su za `Masku` nosili **1.691 →
+> 1.736** — jedini brojevi u repou izmereni **golim `wc -w`**, koje ovde potcenjuje za oko
+> procenat. **Zbir knjige je oduvek bio tačan** *(32.137, meren kako treba)*, pa je tabela
+> davala 32.121 i **falilo je šesnaest reči.** `provera.sh` to nije uhvatila jer meri zbir,
+> ne poglavlja pojedinačno.
 
 > **Tri podebljana su dirana zahvatom 9** *(06.09.2026, slepi prolaz — dva reza i tri
 > napisane rečenice)*: `Nestanak` 1.367 → 1.366 · `Katarina` 1.628 → 1.625 ·

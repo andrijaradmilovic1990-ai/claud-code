@@ -43,6 +43,18 @@ for f in NASTAVAK.md README.md ../CLAUDE.md; do
   grep -q "$WD" "$f" && ok "$f nosi tacan zbir" || no "$f ne nosi zbir $WD"
 done
 
+echo "== BROJEVI PO POGLAVLJU (protiv tabele u NASTAVAK.md) =="
+BAD=0
+while IFS='|' read -r _ _ _ file words _; do
+  f=$(printf '%s' "$file" | tr -d ' `')
+  w=$(printf '%s' "$words" | tr -cd '0-9')
+  [ -z "$f" ] || [ -z "$w" ] && continue
+  [ -f "poglavlja/$f" ] || continue
+  real=$(LC_ALL=C.UTF-8 wc -w < "poglavlja/$f")
+  if [ "$real" -ne "$w" ]; then no "$f: tabela kaze $w, izmereno $real"; BAD=1; fi
+done < <(grep -E '^\| \*{0,2}[IVX]+\*{0,2} \|' NASTAVAK.md)
+[ "$BAD" -eq 0 ] && ok "svih 17 poglavlja nosi tacan broj u tabeli"
+
 echo "== SASTAVLJENA KNJIGA =="
 cp SAHRANA_BEZ_TELA_CELA.md /tmp/_cela_pre.md 2>/dev/null
 bash alati/build_cela.sh >/dev/null
