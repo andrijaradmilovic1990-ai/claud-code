@@ -6,25 +6,31 @@ svi predlozi i sve izmene idu na srpskom.
 
 ## PRVO — pre bilo čega
 
-**Pet fajlova, tim redom:**
+**Tri fajla, cela, tim redom** *(prepisano 07.09.2026, odlukom autora — ranije ih je bilo pet)*:
 
 1. **`roman/NASTAVAK.md`** — handoff: gde je revizija stala, šta je sledeće.
 2. **`roman/dokumenti/POENTA_KNJIGE.md`** — **⚑ OSA KNJIGE.** Odluka autora od 31.08.2026.
    **Najviši sprat u repou** — iznad plana, mape i zbornika. Kad se bilo šta s njim sukobi,
    **važi on**, i menja ga samo autor. **Bez njega se ne piše ni jedna rečenica.**
-3. **`roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md`** — **⚑ IZVOR.** Autorovo znanje o
-   svojim ljudima — **54 stavke u jedanaest krugova, 03–06.09.2026** *(ime fajla nosi samo
-   prvi dan)*. Kad se dokument s njim sukobi — **važi on.** Ono što o likovima **ne piše
-   nigde — pita se, ne popunjava.**
-4. **`roman/dokumenti/PLAN_03_09_2026.md`** — poslednji plan, usvojen autorovom rečju.
-   Devet zahvata *(higijena)* + potezi **A, B i C** *(ono što menja kategoriju)*.
-   **⚑ ISCRPLJEN 06.09.2026 — u njemu nema posla.** Otvara se **zbog zabrana i razloga**
-   *(Deo 1B — Pravilo T; Deo 5; Deo 8)*, ne zbog spiska. *(`PLAN_RASTA.md` je obrisan — nije
-   bio autorov. `PLAN_RADA.md` je iscrpljen 31.08.2026. Ne raditi ni po jednom.)*
-5. **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira.** Čita se pre svakog
-   predloga izmene, ne samo na početku sesije.
+3. **ovaj fajl** — pravila zanata.
 
-Bez tih pet ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.
+**Bez ta tri ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatvoreno.**
+Ukupno **oko 11.000 reči**, deset minuta čitanja.
+
+**Tri fajla su skinuta s obaveznog čitanja, ali NISU izgubila težinu** — sela su na policu 2
+i **otvaraju se čim posao dotakne ono čega se tiču:**
+
+- **`roman/dokumenti/REGISTAR_ODLUKA.md`** — **šta se ne dira i zbog čega je palo.**
+  **Čita se pre svakog predloga izmene.** *(23.620 reči — zato se ne guta na početku sesije
+  nego se traži sekcija koja se tiče onoga što diraš.)*
+- **`roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md`** — **⚑ IZVOR.** Autorovo znanje o
+  svojim ljudima — **54 stavke u jedanaest krugova, 03–06.09.2026** *(ime fajla nosi samo
+  prvi dan)*. Kad se dokument s njim sukobi — **važi on.** Ono što o likovima **ne piše
+  nigde — pita se, ne popunjava.** **Otvara se pre svakog dodira u lik.**
+- **`roman/dokumenti/PLAN_03_09_2026.md`** — **⚑ ISCRPLJEN 06.09.2026, u njemu nema posla.**
+  Otvara se **zbog zabrana i razloga** *(Deo 1B — Pravilo T; Deo 5; Deo 8)*, ne zbog spiska.
+  *(`PLAN_RASTA.md` je obrisan — nije bio autorov. `PLAN_RADA.md` je iscrpljen 31.08.2026.
+  Ne raditi ni po jednom.)*
 
 > **⚑ IZUZETAK — LEKTORSKI PROLAZ IDE OBRNUTO** *(Pravilo R, 31.08.2026)*.
 > **Kad je posao „pročitaj knjigu i nađi šta ne valja", tekst se čita PRVI, go, bez
@@ -38,21 +44,48 @@ Bez tih pet ne znaš gde si, šta radiš, i otvorićeš nešto što je već zatv
 > zaveta da je neće imenovati. **Dva posla se nikad ne rade u istom prolazu.**
 > Puni zapis: `FINALNI_PROLAZ_PRAVILA.md`, Pravilo R.
 
-Zatim, po potrebi:
+## ⚑ TRI POLICE *(odluka autora, 07.09.2026)*
+
+**Dokumentacija je bila 129.281 reč prema 31.898 u knjizi, sve u jednom folderu i sve istog
+izgleda — pa je svako čitanje moralo sve.** Problem nije bio obim nego što nije bilo polica.
+**Ništa nije obrisano; devet fajlova (64.858 reči, polovina svega) preseljeno je u
+`roman/dokumenti/arhiva/`.**
+
+**Polica 1 — UVEK.** Pre svake sesije, tim redom: **`CLAUDE.md` · `roman/NASTAVAK.md` ·
+`POENTA_KNJIGE.md`.** Ukupno **oko 11.000 reči.** Posle toga znaš gde si.
+
+**Polica 2 — PO POTREBI.** Otvara se **samo kad diraš ono čega se tiče**, nikad ceo folder:
 
 | Fajl | Kad ga otvaraš |
 |------|----------------|
-| `roman/dokumenti/POENTA_KNJIGE.md` | **uvek, pre svega osim `NASTAVAK.md`** — osa knjige |
-| `roman/dokumenti/DUGOVI_KNJIGE.md` | pre otvaranja poglavlja — koji dug knjige pada baš tu |
-| `roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog |
-| `roman/dokumenti/PRAVILA_STILA.md` | zanat — kako se piše |
+| `roman/dokumenti/REGISTAR_ODLUKA.md` | **pre svakog predloga izmene** — šta je palo i zbog čega |
+| `roman/dokumenti/ODGOVORI_AUTORA_03_09_2026.md` | ⚑ izvor — autorovo znanje o svojim ljudima |
 | `roman/dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta |
-| `roman/dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — **istorija, ne registar** |
-| `roman/dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji.** Vodi petnaest poglavlja; knjiga ih ima šesnaest |
-| `roman/dokumenti/NOVA_KNJIGA_IDEJE.md` | zbornik ideja — **istorija.** Šta je od njih živo i gde ide, kaže `PLAN_03_09_2026.md` |
+| `roman/dokumenti/PRAVILA_STILA.md` | zanat — kako se piše |
+| `roman/dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, **spisak zaštićenog**, Pravilo R |
+| `roman/dokumenti/PLAN_03_09_2026.md` | **⚑ iscrpljen — u njemu nema posla.** Otvara se zbog **Pravila T** *(Deo 1B)* i zabrana *(Deo 5, Deo 8)* |
+| `roman/dokumenti/DUGOVI_KNJIGE.md` | pre otvaranja poglavlja — koji dug knjige pada baš tu |
+| `roman/dokumenti/ANALIZA_KRUGA_07_09_2026.md` | zašto se rad vrteo u krugu · tri ponuđena poteza *(A/B/C, nijedan odobren)* · mišljenje čitaoca o svih sedamnaest poglavlja |
+
+**Polica 3 — ARHIVA.** `roman/dokumenti/arhiva/` — **ne otvara se u radu.** Ništa odatle se
+ne uzima kao stanje, plan ni odluka. Spisak i razlozi: `roman/dokumenti/arhiva/README.md`.
+*(Tu je i **dnevnik rada**, 39.784 reči — bio je veći od cele knjige.)*
 
 **Razlika koja se stalno meša:** dnevnik pamti *šta se radilo i zašto*; registar
 pamti *šta se ne dira*. **Kad se sukobe — važi registar.**
+
+## ⚑ ZAŠTO JE DOKUMENTACIJA RASLA BRŽE OD KNJIGE *(07.09.2026)*
+
+**Jedan zatvoren potez upisivao se na četiri mesta** — u registar, u `NASTAVAK`, u dnevnik i
+u ovaj fajl. Zato je na 31.898 reči knjige naraslo 129.281 reč papira oko nje.
+
+**Od sada:**
+
+- **`REGISTAR_ODLUKA` pamti *zašto*.**
+- **`NASTAVAK.md` pamti *stanje*** — ono što prestane da važi seli se u arhivu, ne ostaje
+  da stoji ispod.
+- **Dnevnik se ne vodi više.**
+- **`CLAUDE.md` se ne dopunjuje po potezu** — ovde su pravila zanata, ne hronika.
 
 ## Kako je knjiga rasla — devet, pa petnaest, pa šesnaest
 

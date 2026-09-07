@@ -2,7 +2,7 @@
 
 > **Ovo je handoff. Otvara se prvi, pre svega ostalog.**
 >
-> Poslednje ažuriranje: **06.09.2026.**
+> Poslednje ažuriranje: **07.09.2026.**
 >
 > ## ⛑ ŠTA JE U OVOM FAJLU
 >
@@ -12,12 +12,42 @@
 >
 > **⚑ Fajl je 06.09.2026. prepolovljen, na zahtev autora.** Bio je 1.151 red, a važila mu
 > je samo prva trećina — istorija rada od 31.08.2026. i ranije, sa dva odrađena prompta,
-> izmeštena je u **`roman/dokumenti/ARHIVA_NASTAVAK.md`**. Ništa nije obrisano i ništa
+> izmeštena je u **`roman/dokumenti/arhiva/ARHIVA_NASTAVAK.md`**. Ništa nije obrisano i ništa
 > odatle se ne uzima kao stanje.
 >
 > **Pravilo koje iz toga izlazi:** kad se zatvori potez, u istom commitu se ažuriraju
 > **stanje, tabela i prompt** — a ono što je prestalo da važi ide u arhivu, ne ostaje da
 > stoji ispod.
+>
+> ## ⚑ 07.09.2026 — DOKUMENTACIJA JE SVEDENA NA TRI POLICE
+>
+> **Bilo je 129.281 reč papira na 31.898 reči knjige.** Devet fajlova *(64.858 reči, polovina
+> svega, s dnevnikom rada od 39.784 koji je bio veći od cele knjige)* preseljeno je u
+> **`roman/dokumenti/arhiva/`**. **Ništa nije obrisano.**
+>
+> **Pre sesije se čitaju tri fajla, ne pet:** `CLAUDE.md` · ovaj fajl · `POENTA_KNJIGE.md`.
+> **oko 11.000 reči.** Registar, izvor i plan nisu izgubili težinu — otvaraju se **kad posao
+> dotakne ono čega se tiču.** Police i razlozi: `CLAUDE.md` i `roman/dokumenti/arhiva/README.md`.
+>
+> **I upisano je zašto je papir rastao brže od knjige:** jedan zatvoren potez pisao se na
+> četiri mesta. **Od sada registar pamti *zašto*, ovaj fajl pamti *stanje*, dnevnik se ne
+> vodi, `CLAUDE.md` se ne dopunjuje po potezu.**
+>
+> ## ⚑ 07.09.2026 — NOV DOKUMENT: `ANALIZA_KRUGA_07_09_2026.md`
+>
+> **Nijedno poglavlje nije dirano; knjiga je i dalje 31.898 reči.** U fajlu stoji: zašto se
+> rad vrteo u krugu *(nalaz na spratu knjige, lek sa sprata rečenice)*, **tri ponuđena poteza
+> — A spajanje `Majke` i `Fabrike` · B pomeranje `Katarine` iza `Prazne stolice` · C ne
+> dirati ništa — od kojih NIJEDAN nije odobren**, i **mišljenje čitaoca o svih sedamnaest
+> poglavlja.**
+>
+> **Dve nove zamerke, obe na spratu knjige:** *narator nikad ne pogreši* — Davidovo nasilje
+> u `Ivičnjaku`, `Praznoj stolici` i `Belom gradu` **nikad ne stigne račun**; i *Katarina je
+> funkcija, ne žena* — **i u sopstvenom poglavlju služi njegovom portretu**, nijednom ne
+> poželi nešto što njega košta. **Ni jedna ni druga se ne diraju bez autorove reči.**
+>
+> **Nalaz koji stoji nezavisno od svega:** `Beli grad` i `Maska` kažu da David ima **jednu
+> fioku** u tom stanu; `Katarina` mu daje **tri police i dve fioke.**
 >
 > ## ⚑ I JEDNO PRAVILO KOJE JE PLAĆENO GREŠKOM *(04.09.2026)*
 >
@@ -481,7 +511,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 # ⛔⛔ KRAJ AKTUELNOG DELA ⛔⛔
 
 **Istorija rada od 31.08.2026. i ranije, zajedno sa starim promptovima, izmeštena je
-06.09.2026. u `roman/dokumenti/ARHIVA_NASTAVAK.md`.** Ništa nije obrisano.
+06.09.2026. u `roman/dokumenti/arhiva/ARHIVA_NASTAVAK.md`.** Ništa nije obrisano.
 
 **Ne otvara se u radu.** Aktuelno stanje je sve iznad ovog reda; *zašto* je nešto
 odlučeno stoji u `REGISTAR_ODLUKA.md`, a arhiva je poslednje mesto, ne prvo.
