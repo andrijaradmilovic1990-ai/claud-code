@@ -174,6 +174,20 @@
 > oba čitanja koja su bila na stolu *(ni nenaplaćena cena, ni namerno prazno mesto)*.
 > **Ne piše se dok autor ne da dan i mesto** — isti razlog zbog kog je palo poglavlje `BRAT`.
 >
+> **⚑ ISPRAVKA ISTOG DANA — NIJEDNA OD ČETIRI NIJE POSLUŠNA** *(`ODGOVORI` 58)*.
+> Suprotstavljanje nije osobina Katarine i majke nego **sve četiri**. **Jovana je
+> najneposlušnija i jedina koja ga fizički zaustavi** *(`Krv` „A ja sam rekla ne idem bez
+> tebe" · `Ivičnjak` „Stani. Dosta je." uz vučenje za okovratnik · `Kukavica` „Zatvori
+> oči.")*; **Andrijana pita ono što ne sme pa stane na ivici** *(„Otkud ti doktor u—")* i
+> **skine sat umesto odgovora**. **⛔ Nijednoj se ne piše nova neposlušnost — sve je već
+> napisano.**
+>
+> **⚑ MIJA JE VIĐENA KAO BEBA, U ANDRIJANINIM RUKAMA — PRVA BEBA KOJU JE DRŽAO**
+> *(`ODGOVORI` 59)*. **Hronologija proverena i uklapa se:** beba pre šest godina, dakle u
+> periodu `Fabrike`, na prvoj-drugoj godini na traci — **i to je pre Katarine**, koja dolazi
+> tek u sedmoj. **Prva beba koju je u životu držao došla mu je u najpraznijem delu života.**
+> **⛔ Mesto se ne zna i ne popunjava; scena se ne piše dok autor ne kaže gde.**
+>
 > **⚑ KATARINA I MAJKA MU SE SUPROTSTAVLJAJU.** Katarina **malo, i iz neznanja njegovog
 > sveta** — gura tamo gde ne zna da je zid, pogura jednom i stane *(„Ne može sreda." → „Nije
 > pitala drugi put.")*. **Majka zna, pa ne gura nego ne posluša** — *„Gasim je", rekla je. /

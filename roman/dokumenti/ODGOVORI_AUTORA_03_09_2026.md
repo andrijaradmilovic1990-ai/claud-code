@@ -983,3 +983,51 @@ od Katarine**, koja pogura naglas pa stane.
 
 **⛔ Ne izjednačavati ih.** Katarina gura jer ne zna; **majka zna, pa ne gura nego ne
 posluša.**
+
+## 58 — ⛔ NIJEDNA OD ČETIRI NIJE POSLUŠNA *(ispravka autora, isti dan)*
+
+**Autor, doslovno:** *„pazi i Jovana je takva i Andrijana, nisu one samo kao sve poslušne."*
+
+**Ispravka ide na formulaciju iz popisa**, ne na tekst — tekst je oduvek bio na autorovoj
+strani. **Suprotstavljanje nije Katarinina i majčina osobina nego osobina sve četiri**, samo
+svaka ima svoj način.
+
+- **Jovana — najneposlušnija u knjizi, i jedina koja ga fizički zaustavi.** `Krv` IV —
+  *„Izlazi." / „Ne idem bez tebe." / „Rekao sam izlazi—" / „A ja sam rekla ne idem bez
+  tebe."* · `Ivičnjak` VII — *„Stani. Stani. Dosta je."* **i vuče ga za okovratnik obema
+  rukama** · `Kukavica` XVI — *„Sedi ti. Noge su mi dobro." · „Mogu ja tebi istinu i bez
+  igre." · „Ti. Zatvori oči."* **(jedina koja mu naređuje)**.
+- **Andrijana — pita ono što ne sme, pa stane tačno na ivici.** `Prazna stolica` XIII —
+  *„Otkud ti doktor u—"* · `Beli grad` XIV — *„Pa zato i vozim tri sata po tebe umesto da si
+  ti seo na autobus."* · `Prelom` VIII — *„Nije prošle godine."* *(ispravlja usred tuđe
+  priče, ne dižući pogled)* · `Kukavica` XVI — **skine sat umesto odgovora**: *„To je sat i
+  moja odluka."*
+
+**⛔ Ne pisati nijednoj od njih novu neposlušnost.** Sve četiri je već imaju; posao je bio
+da se to zna, ne da se dodaje.
+
+## 59 — ⚑ MIJA KAO BEBA: PRVA BEBA KOJU JE DRŽAO
+
+**Autor, doslovno, kroz smeh:** *„video je Miju kada je bila beba, u Andrijaninim rukama, to
+je prva beba koju je ikada držao i koju je zavoleo da nije hteo da je baci."*
+
+**⚑ HRONOLOGIJA PROVERENA — UKLAPA SE BEZ IJEDNE PUKOTINE.** Mija danas ima šest *(treći
+krug)*, David je otišao pre dvanaest godina i u ovom gradu je oko osam *(`Majka` X —
+„Godinu dana si u ovom gradu"; `Fabrika` XI — „Sedmu godinu")*. **Beba je bila beba pre šest
+godina — dakle davno posle povratka, u periodu `Fabrike`, na prvoj-drugoj godini na traci.**
+
+**⚑ ŠTA IZ TOGA IZLAZI, A NIJE SE TRAŽILO: TO JE PRE KATARINE.** Ona dolazi u fabriku tek u
+njegovoj sedmoj godini *(„Nova je došla tog meseca")*. **Prva beba koju je čovek u životu
+držao došla mu je u ruke u najpraznijem delu njegovog života** — traka, majčina kuća, soba u
+kojoj ne stoji ništa na stolu, nijedna slika na zidu. **Ne izgovarati to u tekstu.**
+
+**⛔ Šta se ne zna i ne popunjava:** **gde** se to desilo. Dok autor ne kaže, scena se ne
+piše.
+
+**⛔ Pravilo T:** scena sme da pokaže ruke i dete u njima. **Ne sme da protumači** šta mu je
+to otvorilo, čega ga je podsetilo, ni da poveže s bratom, s malom Jovanom, ili s tim što
+sam nema decu. **Ništa od toga se ne piše ni u naznaci.**
+
+**⚠ RIZIK KOJI SE PAMTI ZA TU SCENU:** u knjizi već postoje **dve različite bake** — Mijina
+*(Andrijanina majka, `Pukotina`)* i ona preko granice *(`Italija`, osamdeset dve)*. Ako
+scena ide kod Mijine bake, **mora biti nedvosmisleno koja je čija.**
