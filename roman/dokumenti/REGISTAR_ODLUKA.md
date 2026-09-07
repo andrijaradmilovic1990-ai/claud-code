@@ -2788,7 +2788,13 @@ kuća s dvorištem i majkom dole je sadašnjost** *(okviri `Krvi` i `Pariza`)*, 
 kasnije, **i ne dira se.**
 
 **Izmenjena jedna zatečena rečenica:** *„Ustao sam i otvorio"* → *„Otvorio sam"*, jer je sad
-u sobi a ne u kuhinji. **`Maska` 1.691 → 1.736.**
+u sobi a ne u kuhinji. **`Maska` 1.707 → 1.752.**
+
+> **⛑ ISPRAVLJENO 07.09.2026, uveče.** Ovde je stajalo **1.691 → 1.736.** To su **jedini
+> brojevi u repou izmereni golim `wc -w`**, koje u ovom okruženju potcenjuje za oko procenat
+> *(`NASTAVAK.md` na to upozorava, i svi raniji zapisi su merili s `LC_ALL=C.UTF-8`)*.
+> **Zbir knjige je bio tačan** — greška je bila samo u tom jednom poglavlju, pa je tabela
+> davala 32.121 umesto 32.137. **Nađeno pri proveri pred slanje poglavlja autoru.**
 
 ## 35.5 — PRAVILO J, PRAVILO T I ZBIR
 
