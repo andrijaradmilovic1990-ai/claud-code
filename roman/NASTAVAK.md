@@ -412,6 +412,24 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 > njenim uzrokom.** Vraća se autorovom rečju „otvaram".
 >
 > **⚑ SPISAK JE PRAZAN. NEMA OTVORENIH PITANJA U REPOU. KNJIGA IDE LJUDIMA.**
+>
+> ## ⚑ 07.09.2026, UVEČE — KNJIGA IMA OBLIK, I ALAT KOJI GA PRAVI
+>
+> **`roman/alati/build_pdf.py`** sklapa celu knjigu jednom komandom: **korica → sadržaj →
+> sedamnaest poglavlja**, **A5 148×210 mm, 156 strana**, ogledalne margine, numeracija koja
+> se poklapa sa sadržajem do strane. **Brojevi u sadržaju se ne kucaju** — alat prelama
+> dvaput i upiše stvarne. Korica je **`roman/korica/korica.jpg`** *(sekcija 38)*.
+>
+> ```
+> python3 roman/alati/build_pdf.py roman/korica/korica.jpg
+> ```
+>
+> **Pun opis preloma i zašto je baš takav: `REGISTAR_ODLUKA.md`, sekcija 39.**
+>
+> **⚑ DOGOVOR ZA SLEDEĆI RAZGOVOR:** autor donosi **sitne ideje za tekst**. Rade se **jedna
+> po jedna, po Pravilu K.** **To nije nov plan i ne otvara merenje** — autorove ideje su
+> autorove. **Kad padnu, knjiga se sklapa** *(`provera.sh` → `build_cela.sh` →
+> `build_pdf.py`)*, i to je to.
 
 | # | šta | gde stoji |
 |---|---|---|
@@ -457,7 +475,22 @@ Pa REGISTAR_ODLUKA.md, sekciju 35 (tri karike, sve zabrane, i zasto
 se rad pet sesija vrteo u krug) i sekciju 29.5 (naslov XII).
 
 ==================================================================
-STA JE OSTALO: NISTA. KNJIGA IDE LJUDIMA.
+STA SE RADI: AUTOROVE SITNE IDEJE, PA SKLAPANJE.
+==================================================================
+
+Autor donosi sitne ideje za tekst. Rade se JEDNA PO JEDNA, po
+Pravilu K — svaka napisana recenica ceka izricito "da".
+To NIJE nov plan i NE otvara merenje. Ne predlazi svoje.
+
+Kad ideje padnu, knjiga se sklapa, tim redom:
+  bash roman/alati/provera.sh
+  bash roman/alati/build_cela.sh
+  python3 roman/alati/build_pdf.py roman/korica/korica.jpg
+Prelom se ne dira rukom — A5, 156 strana, sadrzaj i numeracija se
+preracunaju sami. Opis: REGISTAR_ODLUKA.md, sekcija 39.
+
+==================================================================
+STARI SPISAK: PRAZAN
 ==================================================================
 
 Svih osam starih pitanja je palo 07.09.2026 (registar 29.5 i
