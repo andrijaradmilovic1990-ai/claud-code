@@ -2812,3 +2812,83 @@ kod zida")*; druga je dodala **venac** i **„Lažem"**, i primljena je.
 
 **⚑ I ostaje dogovor zbog kog je sve ovo počelo:** kad padne i ta poslednja stavka, **merenje
 se zatvara.** Nema više slepih čitalaca i nema opšte ocene knjige. **Knjiga ide ljudima.**
+
+---
+
+# 36 — ⚑ SEDAM STARIH PITANJA — ZATVARANJE *(07.09.2026, odluka autora)*
+
+> **Šta je ovo.** Posle naslova XII *(sekcija 29.5)* zaključan spisak je bio prazan, pa je
+> autor otvorio **svih sedam preostalih starih pitanja odjednom**, u istom razgovoru.
+> Rade se **jedno po jedno**, i svako se zatvara njegovom rečju.
+>
+> **Nalaz koji se ponavlja i vredi za ceo spisak:** spisak je pravljen **iz dokumenata**, a
+> ne iz teksta. Zato na njemu stoje stavke koje su **u knjizi odavno rešene** — samo nije
+> bilo ko da ih precrta. **Pravilo E: tekst je autoritet nad dokumentima.** Pre nego što se
+> bilo šta ponudi kao posao, **prvo se proveri je li već napisano.**
+
+## 36.0 — ⛔ RANIJE ISTOG DANA: CITAT KOJI NIJE UŠAO
+
+**Autorov predlog:** *„najveći đavolov trik je bio da ubedi čovečanstvo da ne postoji"*
+*(Bodler, popularizovano „Osumnjičenima")*, negde u knjizi. Zatim, druga varijanta:
+**umesto** Jovanine reči *„Kukavica"* u XVI, pa da ona odgovori *„ne slažem se — to rade
+kukavice, a ti si to."*
+
+**Oborio autor, posle iznetih razloga.** Upisano jer je predlog bio ozbiljan i vratiće se:
+
+1. **Nije autorova rečenica**, a u autobiografskoj knjizi u kojoj je svaka rečenica njegova
+   to je jedino mesto na kom bi se čuo tuđi glas. Ista zabrana kao za pastiš Bukovskog
+   *(`CLAUDE.md`)*.
+2. **Tumači.** Teza o celoj knjizi — čitalac posle nje zna više činjenica a oseća isto.
+   **Pravilo T.**
+3. **Knjiga ima tačno jedan aforizam i već ga je potrošila** — *„Postoje računi koji se ne
+   naplaćuju od dužnika"* *(`Nestanak` IX)*. Druga takva rečenica je ne prati nego je
+   **prepolovi.**
+4. **⛔ Na mestu iz druge varijante citat ni ne važi činjenično.** Rečenica tvrdi da je
+   ubedio svet da **ne postoji**; David u toj sceni **sedi za stolom, pred njom, uhvaćen.**
+   Trik s nepostojanjem se desio dvanaest godina ranije.
+5. **`Kukavica` XVI je trostepena i sagrađena:** Nataša postavlja reč kao pravilo igre
+   *(red 173)* · Jovana je vraća u šali *(red 369)* · pada gola, *„Samo to."* *(red 437)*.
+   **Citat u sredini tog niza menja pesmu u trećem taktu**, a objašnjenje *„to rade
+   kukavice"* oduzima čitaocu jedini posao koji u sceni ima.
+
+**⚑ I ono što od predloga OSTAJE, kao ključ za čitanje a nikad kao rečenica:** đavo u ovoj
+knjizi nije đavo nego **David** — najveći trik koji je izveo bio je da ubedi ljude koji ga
+vole da ga nema. **Knjiga to već izgovara, u jednoj reči, kroz jedinu osobu koja sme.**
+
+## 36.1 — ⛔ ZATVORENO: IME MESTA NA KOJE SU ODLAGALI PUT *(bivša stavka 2)*
+
+**Autor: ne imenuje se.** Knjiga i dalje ne izgovara **nijedan domaći grad** *(sekcija 11)*.
+
+**⚑ I provereno u tekstu: već je uneto, i već je neimenovano.** `Katarina` XII, pred kraj —
+*„Dva dana. Rekao si prošle godine da idemo." / „Idemo." / „To si rekao i prošle godine." /
+„Idemo, srećo." / „Dobro." Nije se okrenula. „Ima vremena."* Reč **Kraljevo** ne postoji u
+rukopisu. **Nula izmena.**
+
+Mesto time radi ono zbog čega je i zapisano *(`ODGOVORI`, 50)*: **treći put da knjiga ima
+isti oblik — traži se, odloži se, prođe** *(lična karta u `Parizu` · mart u `Ćebencetu` ·
+ovaj put)*, s tim što ovde još niko ne zna da je prošlo.
+
+## 36.2 — ⛔ ZATVORENO: BRATOVA FRAZA ZA KAD NEŠTO NE VALJA *(bivša stavka 3)*
+
+**Bila je jedina stavka u `ODGOVORI_AUTORA_03_09_2026.md` koju autor nije dao nego dozvolio
+da se smisli** *(stavka 14)*. **Ništa nije smišljeno — jer je već napisano.**
+
+`Ulazak` II, u bloku u kom je brat živ:
+
+> *„Šta jedeš?" / „Šta ima." / „Aha." Spustio je poklopac. „Znači ne jedeš."*
+
+**To je fraza.** Ne drži prodiku, ne pita drugi put, ne diže glas — **ponovi čoveku njegovu
+stvar naglas, tačno, tako da ne može da je zaobiđe.** Otvori šerpu, vidi da je prazna, kaže
+šta vidi.
+
+**Prebrojano iz teksta:** *„Znači"* tako pada **samo tu**; jedino drugo mesto u knjizi je
+Jovanino u `Ivičnjaku` *(red 41)*, u sasvim drugom smislu. **Gest nije razblažen.**
+
+**⚑ I zašto se nova nije izmišljala:** ista logika koja je 04.09.2026. srušila poglavlje
+`BRAT` *(sekcija 27)* — čovek je stvaran i mrtav, i **ne stavlja mu se u usta rečenica koju
+nikad nije rekao.** Ono čega se autor ne seća **se ne popunjava.**
+
+**⚑ NALAZ O SPISKU, ne o tekstu:** rečenica je ušla commitom **`cd0502f`, 04.09.2026**,
+istim kojim je izveden **potez B** — dakle **tri dana pre nego što je pitanje uopšte
+postavljeno.** Nikad nije prekrižena sa spiska jer je spisak čitao dokumente, ne knjigu.
+**Nula izmena.**

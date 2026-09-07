@@ -101,8 +101,13 @@
 > `REGISTAR_ODLUKA.md`, **sekcija 29.5.**
 >
 > **⚑ OVIM JE ZAKLJUČAN SPISAK PRAZAN I MERENJE JE ZATVORENO.** Nema više slepih čitalaca i
-> nema opšte ocene knjige. **Ostaje sedam starih pitanja, sve higijena, nijedno ne dira
-> cilj — i knjiga ide ljudima.**
+> nema opšte ocene knjige.
+>
+> **⚑ ISTOG DANA autor je otvorio svih sedam starih pitanja odjednom.** Rade se jedno po
+> jedno; zatvaranja idu u **registar, sekcija 36.** **Pale su dve bez ijedne izmene u
+> tekstu** — ime mesta *(već neimenovano u `Katarini` XII)* i bratova fraza *(već napisana u
+> `Ulasku` II, commitom `cd0502f` od 04.09, tri dana pre nego što je pitanje postavljeno)*.
+> **I odbijen je citat** *(„najveći đavolov trik…")* — puni razlozi u **36.0**.
 >
 > ## ⚑ I JEDNO PRAVILO KOJE JE PLAĆENO GREŠKOM *(04.09.2026)*
 >
@@ -283,7 +288,7 @@
 > `REGISTAR_ODLUKA.md`, **sekcija 34**.
 
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
-> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — sedam ih čeka autorovu reč.
+> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — pet ih čeka autorovu reč.
 > Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
 >
 > **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
@@ -386,18 +391,24 @@ Posle čitanja je, na zahtev autora, pročitana **cela dokumentacija** i sređen
 **Repo na više mesta piše „nema otvorenih pitanja". Ima ih, samo nisu bila skupljena.**
 Nijedno nije posao — **svako čeka autorovu reč.**
 
-> **⚑ 07.09.2026 — stavka 1 je pala.** Naslov XII je **`Orman`** *(registar 29.5)*. **Ostaje
-> sedam, i nijedno ne dira cilj.** Numeracija ispod je pomerena za jedan.
+> **⚑ 07.09.2026 — spisak se prazni.** Naslov XII je **`Orman`** *(registar 29.5)*. Zatim je
+> autor otvorio **svih sedam preostalih odjednom**; padaju jedno po jedno, i svako zatvaranje
+> ide u **registar, sekcija 36.** **Pale su još dve — ime mesta *(36.1)* i bratova fraza
+> *(36.2)* — obe bez ijedne izmene u tekstu, jer su u knjizi već bile rešene.**
+>
+> **⚑ Nalaz o samom spisku:** pravljen je **iz dokumenata, ne iz teksta**, pa nosi stavke
+> koje su odavno zatvorene a niko ih nije prekrižio. **Pravilo E.** Pre nego što se bilo šta
+> ponudi kao posao — **prvo se proveri je li već napisano.**
+>
+> **Ostaje pet. Numeracija ispod je pomerena.**
 
 | # | šta | gde stoji |
 |---|---|---|
-| 1 | **Ime mesta na koje su odlagali put** *(Kraljevo)*. Knjiga ne imenuje **nijedan** domaći grad; imenovanje menja pravilo za celu knjigu | registar **28.4**, `ODGOVORI` **50** |
-| 2 | **Šta je brat govorio kad nešto ne valja** — autor se ne seća i dao je da se smisli. **Nije ponuđeno.** Čeka po Pravilu K | `ODGOVORI` **14**, registar **27.6** |
-| 3 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
-| 4 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
-| 5 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
-| 6 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
-| 7 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
+| 1 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
+| 2 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
+| 3 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
+| 4 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
+| 5 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
 
 > **⚑ Jedan stari „nerešen" nalaz je u međuvremenu rešen, a nigde nije precrtan:**
 > registar **18** vodi da su `Kukavica` i `Ćebence` **jedna neprekinuta noć koju `Maska`
