@@ -185,6 +185,37 @@
 > **⚑ ZARADA KOJA NIJE PLANIRANA:** njeno *„Izvini."* posle bloka više nije za svađu s majkom
 > preko telefona.
 
+> ## ⚑ 07.09.2026, NOĆU — PROLOG I SINOPSIS: ODLUKA, I NOV FAJL `roman/ZA_IZDAVACA.md`
+>
+> **Autor je pitao treba li knjizi prolog i sinopsis na kraju. Oba su odbijena, i to iz
+> teksta:**
+>
+> **⛔ PROLOG — NE, JER GA KNJIGA VEĆ IMA.** `Susret` I je prolog koji se pretvara da je
+> poglavlje: 790 reči, starac uđe, kaže hvala, ode. Posle njih čitalac zna sve što sme —
+> da je nešto radio, da je nestao, da ga je koštalo, i da mu ruka ide ka praznom džepu.
+> **Pravi prolog bi to isto rekao, samo lošije, jer bi rekao.** I gurnuo bi prvu rečenicu
+> knjige na drugo mesto; **prva rečenica se ne premešta.**
+>
+> **⛔ SINOPSIS U KNJIZI — NE, I TO JAČE.** Knjiga se završava istom rečenicom kojom je
+> počela, sto pedeset strana kasnije i tek tad teškom. **Posle nje sme samo prazna strana.**
+> Sinopsis bi rekao čitaocu šta je pročitao — tumačenje na najgorem mogućem mestu, protiv
+> Pravila T i protiv cilja *(„da mu bude teško i da ne može da zaspi")*.
+>
+> **⚑ ALI SINOPSIS POSTOJI — VAN RUKOPISA.** Nov fajl **`roman/ZA_IZDAVACA.md`** *(1.044
+> reči)* nosi ono što ide **uz** knjigu kad se nekome šalje: **podatke o rukopisu**,
+> **tekst za zadnju koricu** *(120 reči, mami i ne otkriva — nijedno ime, nijedna reč o
+> uzroku)*, i **sinopsis za urednika** *(otkriva sve što se sme, uključujući kraj)*, sa
+> spiskom likova, tonom i napomenom o građi.
+>
+> **⚑ FAJL GOVORI SUPROTNIM GLASOVIMA OD KNJIGE, I TO JE NAMERNO.** Knjiga ne tumači i ne
+> otkriva; **sinopsis mora i jedno i drugo**, jer ga čita urednik a ne čitalac. U samom
+> sinopsisu stoji i sekcija **šta knjiga namerno nikad ne kaže** *(čime se bavio, šta je
+> prelilo čašu, ime grada)* i rečenica koja to brani: **urednik koji traži da se ta rupa
+> popuni traži drugu knjigu.**
+>
+> **⛔ NE ULAZI U `roman/poglavlja/`, ne ulazi u prelom, ne broji se u zbir reči.**
+> **⛔ Ne koristi nijedno zapečaćeno ime** — provereno, nula pojava.
+
 > ## ⛔ 07.09.2026, UVEČE — TAČKA 3 JE PALA · ⚑ I STIGAO JE NOV MATERIJAL
 >
 > **Tačka 3 je tražila verbalni tik za svaki ženski lik.** Pala je iz teksta, ne iz otpora:
