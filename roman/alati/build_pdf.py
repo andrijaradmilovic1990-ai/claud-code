@@ -55,6 +55,42 @@ def telo(redovi):
     return "\n".join(out)
 
 
+ODNOS_A5 = 148 / 210
+
+
+def pripremi_koricu(putanja):
+    """Vraca koricu u tacnom A5 odnosu, bez opsecanja.
+
+    Slika iz generatora skoro nikad nije 148:210. Umesto da se secu ivice
+    (a na njima stoji naslov), doda se traka razvucena iz same ivice slike —
+    na ravnom limu frizidera se ne vidi.
+    """
+    from PIL import Image
+
+    im = Image.open(putanja).convert("RGB")
+    w, h = im.size
+    if abs(w / h - ODNOS_A5) < 0.002:
+        return putanja, None
+
+    if w / h > ODNOS_A5:                      # preseroka: produzi nadole
+        novo = round(w / ODNOS_A5)
+        traka = im.crop((0, h - 1, w, h)).resize((w, novo - h), Image.NEAREST)
+        nova = Image.new("RGB", (w, novo))
+        nova.paste(im, (0, 0)); nova.paste(traka, (0, h))
+        opis = f"dodato {novo - h} px na dnu"
+    else:                                     # preuska: produzi udesno
+        novo = round(h * ODNOS_A5)
+        traka = im.crop((w - 1, 0, w, h)).resize((novo - w, h), Image.NEAREST)
+        nova = Image.new("RGB", (novo, h))
+        nova.paste(im, (0, 0)); nova.paste(traka, (w, 0))
+        opis = f"dodato {novo - w} px desno"
+
+    import tempfile
+    izlaz = Path(tempfile.gettempdir()) / (Path(putanja).stem + "_a5.png")
+    nova.save(izlaz)
+    return str(izlaz), f"korica {w}x{h} nije bila u A5 odnosu — {opis}"
+
+
 def sastavi(glave, korica, rasponi=None):
     if korica and Path(korica).exists():
         naslovna = f'<section class="korica"><img src="{Path(korica).resolve().as_uri()}"></section>'
@@ -158,6 +194,9 @@ def strane_poglavlja(dokument, glave):
 
 def main():
     korica = sys.argv[1] if len(sys.argv) > 1 else None
+    napomena = None
+    if korica and Path(korica).exists():
+        korica, napomena = pripremi_koricu(korica)
     izlaz = Path(sys.argv[2]) if len(sys.argv) > 2 else KOREN / "SAHRANA_BEZ_TELA_A5.pdf"
     glave = ucitaj()
 
@@ -167,6 +206,8 @@ def main():
     drugi = HTML(string=sastavi(glave, korica, rasponi), base_url=str(KOREN)).render()
     drugi.write_pdf(izlaz)
 
+    if napomena:
+        print(f"  ! {napomena}")
     print(f"{izlaz}  —  {len(drugi.pages)} strana "
           f"({len(prvi.pages)} + {rasponi['__dopuna__']} prazne za povez), A5 148x210mm")
     for br, rim, naslov, _ in glave:
