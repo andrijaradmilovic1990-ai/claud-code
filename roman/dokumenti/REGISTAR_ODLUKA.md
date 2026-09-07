@@ -3022,3 +3022,113 @@ preseljeno izdavaču, jedno oboreno merenjem, jedno zatvoreno odlukom.
 
 **⛔ Šta se od sada NE radi bez autorove reči:** nov plan · nov prolaz · nova opšta ocena
 knjige · slepi čitalac. **Merenje je zatvoreno.**
+
+---
+
+# 37 — ⚑ SPOLJNO ČITANJE: GEMINI NOTEBOOK *(07.09.2026, nalaz — ne posao)*
+
+> **Šta je ovo.** Autor je celu knjigu ubacio u Gemini notebook i doneo njenu ocenu.
+> **Prvo spoljno čitanje van ovog repoa.** Upisuje se kao **nalaz**, jer merenje je
+> zatvoreno *(sekcija 36.9)* i **ništa se zbog ovoga ne otvara.**
+>
+> **Ocena recenzije, sprat: knjiga.** Topla, tečna i uglavnom **ogledalo** — nije donela
+> nijedan nov nalaz. Nezavisan čitalac bez ijednog dokumenta izdvojio je **isto** što i
+> slepi čitalac 06.09: leđa ka zidu, dve žene, hladan kraj. **Šesto merenje, isti rezultat.**
+
+## 37.1 — ⚑ NAJVAŽNIJE: TETOVAŽA „J" JE OPET PROČITANA POGREŠNO
+
+**Recenzija u prvom pasusu o likovima piše, bez ijedne ograde:** *„Jovana (čije ime nosi
+istetovirano kao izbledelo, pozelenelo slovo `J` ispod uva)."* **Kao rešenu stvar.**
+
+**Tekst to nikad ne kaže.** `Katarina` XII imenuje slovo jednom, ravno, i ide dalje;
+Katarina pređe palcem i ne pita ništa, on se ne okrene, **nijedno o tome ne progovori ni
+reč** *(`ODGOVORI` 40)*.
+
+**Greška je predviđena u pisanoj formi 03.09.2026, pre nego što je poglavlje napisano:**
+*„čitalac koji vidi „J" na vratu pomisliće na nju — i pogrešiće u činjenici, a pogodiće u
+osećaju."*
+
+**⚑ DVA NEZAVISNA ČITAOCA SU SAD NAPRAVILA ISTU GREŠKU:** slepi čitalac **06.09.2026**
+*(`NASTAVAK.md`, tabela mera)* i ovo spoljno čitanje **07.09.2026**. **To je jedini potez u
+knjizi za koji postoji dokaz da radi na svakom čitaocu, i predviđen je unapred.**
+
+**Zašto radi — i zašto se ne dira.** Obe se zovu Jovana; **prvu je sahranio, drugu je
+sahranio živu da ne bi morao mrtvu** *(`ODGOVORI` 32)*. Slovo je **tačno za obe i odbija da
+kaže koja.** Čitalac onda **sam odabere odraslu** — jer je nju knjiga dala, s krvlju i
+Parizom i onom jednom rečju — i **devojčicu sa zidića time zakopa po drugi put, ne znajući
+da je zakopava.**
+
+**Knjiga to ne opisuje nego to radi, čitaocu, dok čita.** Naslov je uputstvo, i svaki
+čitalac ga izvede svojim rukama.
+
+**⛔ NE RAZREŠAVATI, NE POJAŠNJAVATI, NE DODAVATI DRUGO SLOVO NI DATUM** *(`ODGOVORI` 40)*.
+**⛔ I ne spajati devojčicu sa slovom eksplicitno** *(sekcija 35.2)*.
+
+**Cena, upisana da se zna da je plaćena svesno:** čitalac tu sigurnost odnese kući i nikad
+ne sazna da je pogrešio. **To je ista bolest o kojoj govori dijagnoza od 06.09** —
+uskraćivanje ispod praga vidljivosti. **Prihvaćeno 03.09. i ostaje, dok autor ne kaže
+drugačije.**
+
+## 37.2 — ⛔ NJENA DVA UREDNIČKA PREDLOGA SE NE IZVODE
+
+1. **„Dodaj suptilan fizički marker da se `ona` ne pomeša."** — **Odbija se.** Predlaže da
+   se popravi **mehanizam koji je na njoj samoj upravo proradio** *(37.1)*. Izvođenje bi
+   ubilo jedini potez s dvaput potvrđenim pogotkom.
+2. **„Uvedi senzorne okidače kao mostove između vremenskih ravni."** — **Već postoji:**
+   magnet, hladna voda, miris. **Preporučuje ono što je pročitala.**
+
+## 37.3 — ŠTA JE POGODILA, A ŠTA IZMISLILA *(provereno u tekstu, ne po sećanju)*
+
+**Tačno, sve provereno:** *„čudovište koje je naučilo da pije kafu kao čovek"* *(`Susret`
+I)* · Katarinina poruka *„Svako jutro s tobom je posebno"* *(`Ćebence` XVII)* ·
+*„Mera za meru"* *(`Prazna stolica` XIII)* · magnet s Ajfelovom kulom *(`Pariz` VI)* ·
+**majka na telefonu** — *„Nema ga tu." / „Ja sam stara žena."* *(`Majka` X)*.
+
+> **⛑ I JEDNA ZAMKA ZA SLEDEĆI PROLAZ, upala i ovaj put.** Scena s majkom na telefonu je
+> **umalo prijavljena kao halucinacija**, jer registar piše da je potez *„majka u
+> sadašnjosti"* **pao** *(`POENTA_KNJIGE.md`)*. **Pao je u `Maski`.** Scena u `Majci`, u
+> prošlosti, **postoji i jaka je.** **Pravilo E, treći put u dva dana: proveri u tekstu pre
+> nego što tvrdiš išta iz dokumenta.**
+
+**Izmišljeno, provereno da ne postoji:**
+
+- **Naslov.** *„The Weight of a Debt neglected"* — nema ga nigde. Knjiga je `Sahrana bez
+  tela`, **i ta rečenica stoji u tekstu, četiri reda pred kraj.**
+- **Beograd** *(„Beograd (prošlost)")* — **reč se ne pojavljuje nijednom**; zapečaćeno i
+  mereno pri svakom commitu.
+- **Policijski automobil** — reč „policij" ne postoji u rukopisu.
+- **Kraj** — tvrdi da Andrijana javlja *da Jovana pita za njega.* **Javlja da je kupila kola
+  i da vozi ko baba** *(zahvat 7)*. Da javi ono prvo, poslednja strana bi bila druga knjiga.
+
+**Obrazac:** sve četiri izmišljotine su **popune očekivanjem žanra** — noar traži grad,
+policiju i naslov o dugu. **Tamo gde knjiga uskraćuje, spoljni čitalac popuni sam.** To
+istovremeno potvrđuje da uskraćivanje radi i podseća zašto se pozicija nikad ne uskraćuje.
+
+**⛔ NIŠTA IZ OVE SEKCIJE NIJE POSAO. Merenje ostaje zatvoreno.**
+
+## 37.4 — ⚑ ČIJA JE TO GREŠKA, I ZAŠTO SE NIŠTA NE RADI *(pitanje autora, isti dan)*
+
+**Podeljeno, jer nije jedno.**
+
+**Njeno je — ali ne ono što izgleda.** Da je *osetila* da J znači Jovanu, bila bi u pravu:
+**slovo jeste za Jovanu.** Greška je **sigurnost** — napisala je to u zagradi, kao utvrđenu
+činjenicu, o odrasloj ženi. **Čitalac sme da pretpostavi; recenzent koji tvrdi prestao je da
+čita i počeo da izveštava.**
+
+**Naše je ovo, i upisuje se bez ulepšavanja:** knjiga čitaocu **nigde ne daje ni nagoveštaj
+da postoje dve Jovane.** Devojčica se ne imenuje *(35.2)*, a spajanje sa slovom je zabranjeno
+*(`ODGOVORI` 40)*. **Čitalac ne bira između dve — vidi samo jednu.** Kolebanje ne postoji
+zato što nije ni ostavljeno.
+
+**⛔ ODLUKA: NE RADI SE NIŠTA.** Ne zbog zabrane nego zato što bi to bio **pogrešan lek.**
+Namera nikad nije bila da čitalac reši zagonetku — izvor traži da **pogreši u činjenici i
+pogodi u osećaju**, i to se desilo dvaput. **Potez radi kako je projektovan.** „Popravka" bi
+čitaocu dala tačan podatak umesto pogrešne sigurnosti — **a pogrešna sigurnost je ono što
+knjiga hoće da mu uradi.**
+
+**I praktično:** svaki mogući most *(drugo slovo, datum, reč koja spaja devojčicu i vrat)*
+pada pod zabranu koja i dalje ima živ razlog. **Nema poteza koji ne razrešava.**
+
+**⚑ Jedini scenario u kom se ovo vraća:** ako autor odluči da čitalac **mora** da može da
+stigne do druge Jovane. **To nije zakrpa nego izmena ose knjige** *(`POENTA_KNJIGE.md`)*, i
+donosi se njegovom rečju, na miru — **nikad kao odgovor na jednu recenziju.**
