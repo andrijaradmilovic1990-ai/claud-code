@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 32.137 reči.*
+*17 poglavlja, redom kojim se čitaju. 32.295 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -26,7 +26,7 @@ Spustio sam knjigu. Nisam je ionako čitao. Ista strana od jutros.
 
 „Mislio sam da vas više nikad neću videti“, rekao je. Glas mu je bio tih, skoro neveran. „Nestali ste tada, onako, preko noći. Pitao sam za vas, raspitivao se — niko ništa. Kao da vas je zemlja progutala.“ Zavrteo je glavom, gledajući me kao da nije siguran da sedim tu stvarno. „A sad uđem na kafu i — vi. Ovde. Od svih ljudi na svetu, vi.“
 
-Ništa nisam rekao. Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio.
+Ćutanje je jedina veština u kojoj sam bolji od svega ostalog što sam radio.
 
 „Moj sin.“ Glas mu je pukao na toj reči, samo malo, pa se sabrao. „Vi ste mu spasli život. Onda, u ono vreme. Znam šta ste uradili. I znam šta vas je to koštalo.“
 
@@ -712,7 +712,43 @@ Slušala je. Prevrnula je očima meni, pa se okrenula od stola, ka izlogu.
 
 „Ne pravim ja od nje ništa… Mama. Mama. Pusti je da gleda crtaće i gotovo.“
 
-Spustila je telefon licem nadole i par sekundi nije rekla ništa.
+Nijednom je nije nazvala imenom. Njoj je ona „je“.
+
+Prvi put ju je dovezla kad je imala mesec i po.
+
+Izašla je iz kola s njom i nije pitala hoću li da je vidim.
+
+„Drži.“
+
+„Ne umem.“
+
+„Niko ne ume.“
+
+Gurnula mi ju je u ruke pre nego što sam ih sklopio, pa mi je namestila lakat, pa mi spustila drugu šaku pod ono gde je glava.
+
+Bila je lakša nego što sam mislio. To je jedino što sam tada pomislio — da sam čekao teže.
+
+Nije se probudila. Usta su joj se pomerila jednom, kao da nešto proba, pa su stala.
+
+Stajao sam tako. Ruke sam držao u istom položaju duže nego što je trebalo.
+
+„Možeš da sedneš s njom.“
+
+Nisam seo.
+
+Andrijana je zapalila i gledala nas s dva koraka, i pustila da traje.
+
+Kad je pošla da je uzme, dao sam je. Ali sam prvo pomerio dlan iza njene glave da je pridržim, pa tek onda pustio, iako je Andrijana već imala obe ruke pod njom.
+
+„Vidi ti njega.“
+
+„Šta.“
+
+„Ništa.“
+
+Konobar je prošao i uzeo čašu sa susednog stola.
+
+Spustila je telefon licem nadole.
 
 „Izvini.“
 
@@ -1048,7 +1084,7 @@ Govorila je brzo i nije stajala između rečenica, i to nije bio jezik koji uče
 
 Pogledao sam u Anju.
 
-Anja je stajala kod šporeta s rukama prekrštenim i gledala me kako čekam, i nije rekla ništa.
+Anja je stajala kod šporeta s rukama prekrštenim i gledala me kako čekam.
 
 „Anja.“
 
@@ -1556,7 +1592,7 @@ Vratile su se s vinom i lošim sirom i Nataša je htela da pravimo piknik u dva 
 
 Sedeo sam leđima ka kamenu.
 
-Čak i tamo. Čak i te noći, najlepše koje se sećam, leđa su mi tražila zid sama od sebe, i našla ga, i naslonio sam se i nisam ni primetio da sam to uradio dok mi Nataša nije dobacila „što si se zavukao tu kao slepi miš, dođi“, i ja sam se nasmejao i nisam se pomerio. Ona pod šeširom me je pogledala kad je Nataša to rekla. Samo me pogledala. Ona jedina je videla da to nije šala, da se čovek ne zavlači uza zid iz obesti. Ali nije rekla ništa. Ona nikad nije pitala ono što je videla.
+Čak i tamo. Čak i te noći, najlepše koje se sećam, leđa su mi tražila zid sama od sebe, i našla ga, i naslonio sam se i nisam ni primetio da sam to uradio dok mi Nataša nije dobacila „što si se zavukao tu kao slepi miš, dođi“, i ja sam se nasmejao i nisam se pomerio. Ona pod šeširom me je pogledala kad je Nataša to rekla. Samo me pogledala. Ona jedina je videla da to nije šala, da se čovek ne zavlači uza zid iz obesti. Ona nikad nije pitala ono što je videla.
 
 Telo je već tada znalo nešto što glava nije htela.
 
@@ -1648,7 +1684,7 @@ Išla je po ivici trotoara, jednom nogom gore, jednom dole.
 
 „Od tebe neće ni ubuduće.“ Nasmejala se u kragnu. „Od mene je uzeo. Znači ja sam gost, a ti si nešto drugo.“
 
-Nisam rekao ništa na to.
+Zakoračio sam preko rešetke od slivnika, ne na nju.
 
 „Na leto idemo na more. Ti, ja, one dve. Deset dana.“
 
@@ -1922,7 +1958,7 @@ Nisam pitao ništa o tome.
 
 „Dvadeset mu je bilo u aprilu“, rekao je. „Dvadeset.“
 
-Nisam rekao ništa.
+Gledao sam u ciglu koja je držala kapiju.
 
 „Kupio ga je pre deset dana. Motor. Pre deset dana.“
 
@@ -2244,7 +2280,7 @@ Podigla je torbu s poda, spustila je opet. Bila je teška, a i htela je nešto d
 
 „Ništa. To i kažem.“ Rajsferšlus gore-dole, bez potrebe. „Šest meseci traži posao. Ti nijednom nisi pitao je l' našla. Kako sam ja, to pitaš. Nju nikad.“
 
-Nisam rekao ništa.
+Sklonio sam se s vrata iako još nije krenula.
 
 „Eto. Vidiš.“ Pustila je torbu. „To radiš. Staneš i čekaš da prođe. Kao kiša.“
 
@@ -2860,7 +2896,7 @@ Majka je bila kod šporeta.
 
 „Ništa.“
 
-Sipala je i sela preko puta i nije sipala sebi, i ja sam jeo i ćutao, i u toj kuhinji nisam progovorio deset reči do podneva.
+Sipala je i sela preko puta i nije sipala sebi, i u toj kuhinji nisam progovorio deset reči do podneva.
 
 ⁂
 
@@ -3026,7 +3062,7 @@ Na cigari sam je pitao.
 
 „Plaćam stan sama“, rekla je.
 
-Odsedela je cigaru do kraja i nije rekla ništa više, i vratili smo se unutra, i do jutra sam je video dvaput kroz onaj razmak između mašina.
+Odsedela je cigaru do kraja, i vratili smo se unutra, i do jutra sam je video dvaput kroz onaj razmak između mašina.
 
 ⁂
 
@@ -3228,7 +3264,7 @@ Radila je još minut, pa stala.
 
 „Ne znam.“
 
-Uzela ju je s kule, spustila u kesu i nije rekla ništa.
+Uzela ju je s kule i spustila u kesu.
 
 Sačekao sam koliko treba i izvadio je opet.
 
@@ -3294,7 +3330,7 @@ Kutija je krenula, pa se prevrnula, pa je iz nje ispalo pola na pod — papiri, 
 
 Sišla je sama. Nije me pogledala.
 
-Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda, i ćutala.
+Kupila je papire s poda, jedan po jedan, i slagala ih u kutiju bez reda.
 
 Ćutala je i dok je brisala policu i dok je otvarala prozor i dok je vraćala lestve uza zid.
 
@@ -3734,7 +3770,7 @@ Beli grad se vukao ka nama, prvo polja, pa periferija, pa onaj sivi obruč zgrad
 
 „Skinuli su je s intenzivne pre deset dana“, rekla je negde na pola puta, gledajući u put. „Soba joj je dobra. Jednokrevetna. Niko ne zna kako je dobila jednokrevetnu, otac se krsti, kaže imali smo sreće.“ Pogledala me na sekund, pa nazad na put. „Sreća. Da.“
 
-Nisam rekao ništa. Ona nije ni čekala da kažem.
+Ona nije ni čekala da kažem.
 
 „Pitala je za tebe“, rekla je posle. „Jednom. Onako, usput, dok je još bila bunovna od lekova. Posle nije više. Znaš kakva je.“
 
@@ -4434,7 +4470,7 @@ Kratka tišina.
 
 „Igra je.“
 
-Jovana nije rekla ništa. Uhvatila je ivicu majice i povukla je preko glave, jednim pokretom, bez pauze.
+Uhvatila je ivicu majice i povukla je preko glave, jednim pokretom, bez pauze.
 
 Ispod nije bilo ničeg osim nje i onoga što joj je telo zapamtilo. Ožiljak je išao od ispod grudi nadole, kroz rebra, tamo gde su je otvarali da je sklope. Zacelio, ali nov, još rozikast. Stajala je sekund — ruke malo raširene, kao onaj prvi pokret na njenim vratima kad me je dočekala stojeću. Samo što ovo nije bilo *vidiš, hodam*. Ovo je bilo *vidiš šta je ostalo*.
 

@@ -40,7 +40,7 @@ Išla je po ivici trotoara, jednom nogom gore, jednom dole.
 
 „Od tebe neće ni ubuduće.“ Nasmejala se u kragnu. „Od mene je uzeo. Znači ja sam gost, a ti si nešto drugo.“
 
-Nisam rekao ništa na to.
+Zakoračio sam preko rešetke od slivnika, ne na nju.
 
 „Na leto idemo na more. Ti, ja, one dve. Deset dana.“
 

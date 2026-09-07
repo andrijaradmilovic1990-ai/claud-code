@@ -24,7 +24,7 @@ Podigla je torbu s poda, spustila je opet. Bila je teška, a i htela je nešto d
 
 „Ništa. To i kažem.“ Rajsferšlus gore-dole, bez potrebe. „Šest meseci traži posao. Ti nijednom nisi pitao je l' našla. Kako sam ja, to pitaš. Nju nikad.“
 
-Nisam rekao ništa.
+Sklonio sam se s vrata iako još nije krenula.
 
 „Eto. Vidiš.“ Pustila je torbu. „To radiš. Staneš i čekaš da prođe. Kao kiša.“
 

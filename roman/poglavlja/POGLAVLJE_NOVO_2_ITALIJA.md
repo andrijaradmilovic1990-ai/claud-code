@@ -26,7 +26,7 @@ Govorila je brzo i nije stajala između rečenica, i to nije bio jezik koji uče
 
 Pogledao sam u Anju.
 
-Anja je stajala kod šporeta s rukama prekrštenim i gledala me kako čekam, i nije rekla ništa.
+Anja je stajala kod šporeta s rukama prekrštenim i gledala me kako čekam.
 
 „Anja.“
 

@@ -70,7 +70,7 @@ Beli grad se vukao ka nama, prvo polja, pa periferija, pa onaj sivi obruč zgrad
 
 „Skinuli su je s intenzivne pre deset dana“, rekla je negde na pola puta, gledajući u put. „Soba joj je dobra. Jednokrevetna. Niko ne zna kako je dobila jednokrevetnu, otac se krsti, kaže imali smo sreće.“ Pogledala me na sekund, pa nazad na put. „Sreća. Da.“
 
-Nisam rekao ništa. Ona nije ni čekala da kažem.
+Ona nije ni čekala da kažem.
 
 „Pitala je za tebe“, rekla je posle. „Jednom. Onako, usput, dok je još bila bunovna od lekova. Posle nije više. Znaš kakva je.“
 

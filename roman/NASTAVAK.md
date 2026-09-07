@@ -85,6 +85,174 @@
 > **Ostaje osam starih pitanja**, i od njih samo **naslov XII** dodiruje cilj.
 > **Kad i to padne — knjiga ide ljudima.**
 >
+> ## ⚑ 07.09.2026, UVEČE — AUTOR JE OTVORIO NOV POSAO: PONAVLJANJA OKO ĆUTANJA
+>
+> **Merenje je bilo zatvoreno istog dana; autor ga je svojom rečju ponovo otvorio**, uskim
+> zadatkom od tri tačke *(ponavljanja oko ćutanja · tempo `Italije` pred poziv · verbalni tik
+> za svaki ženski lik)*. **Radi se tačka po tačku, ništa se ne prelazi bez autorove reči.**
+>
+> **Tačka 1 je izmerena iz teksta:** **47 mesta** kroz šesnaest poglavlja, **`Ćebence` nema
+> nijedno** — a celo je o ćutanju, i zato je ono mera za sve ostalo. **Presuda: 13 skinuti,
+> 34 ostaviti.** Ostaje ono što je čin *(`Ulazak` 133, `Italija` 371, `Pariz` 115,
+> `Beli grad` 95, `Kukavica` 533)*, ono što je tuđe a ne njegovo *(baka, majka, Andrijana,
+> Jovana i patike)*, i sve u dijalogu.
+>
+> **⚑ UNETO PRVO OD TROJE MESTA KOJA TRAŽE NAPISAN GEST** *(Pravilo K, autorovo „da")*:
+> **`Prelom` VIII** — *„Nisam rekao ništa"* → **„Gledao sam u ciglu koja je držala kapiju."**
+> Cigla je postavljena u petom redu istog poglavlja i do sada nije radila ništa. Gest ne ide
+> u Davidove ruke jer ujakove deset redova ranije već ne znaju gde da stanu.
+> **`Prelom` 1.791 → 1.796; knjiga 32.137 → 32.142.**
+>
+> **⚑ UNETO I DRUGO MESTO** *(Pravilo K, autorovo „da")*: **`Ivičnjak` VII** —
+> *„Nisam rekao ništa na to"* → **„Zakoračio sam preko rešetke od slivnika, ne na nju."**
+> Ide posle njenog *„Znači ja sam gost, a ti si nešto drugo"*, rečenice u kojoj ona imenuje
+> šta je on; gest je pušta da visi neodgovorena. **Gest namerno ne počinje sa „Gledao sam"**
+> — to je uneto u `Prelom`, susedno poglavlje, i isti početak bi se čuo. **⛔ Ne troši
+> zapečaćene motive:** ni ruku ka džepu, ni leđa uza zid *(zasićen motiv)*, ni pogled ka
+> ćoškovima — taj je potreban trideset redova niže, kad ugleda čoveka ispred mesare.
+> **`Ivičnjak` 1.127 → 1.131; knjiga 32.142 → 32.146.**
+>
+> **⚑ UNETO I TREĆE MESTO** *(Pravilo K, autorovo „da")*: **`Nestanak` IX** —
+> *„Nisam rekao ništa"* → **„Sklonio sam se s vrata iako još nije krenula."** Ovo je bilo
+> najgušće pokriveno mesto u knjizi: **ćutanje se imenuje tri puta** — ona *(„To radiš.
+> Staneš i čekaš da prođe")*, narator dva reda niže *(„Stajao sam u hodniku i čekao da
+> prođe")*, i „Nisam rekao ništa" između. Gest zato ne dodaje ništa nego postaje ono na šta
+> njeno **„Eto. Vidiš."** pokazuje; bez ijednog reda između, dve njene replike bi se
+> sudarile. **Pokret je suvišan kao njen dva reda ranije** *(rajsferšlus gore-dole, bez
+> potrebe)* — dvoje ljudi radi beskorisne stvari umesto razgovora.
+> **`Nestanak` 1.366 → 1.372; knjiga 32.146 → 32.152.**
+>
+> **⚑ TAČKA 1 JE ZATVORENA — SVIH TRINAEST MESTA JE UNETO.** Tri napisane rečenice
+> *(`Prelom`, `Ivičnjak`, `Nestanak`)* i **deset skidanja**, u jednom prolazu:
+> `Susret` 21 · `Pukotina` 107 · `Italija` 29 · `Pariz` 135 · `Fabrika` 159 i 325 ·
+> `Orman` 67 i 133 · `Beli grad` 73 · `Kukavica` 391. **Nijedno nije tražilo novu rečenicu**
+> — svako je imalo gest ili bolju rečenicu odmah pored sebe, koja preuzima posao čim ovo
+> padne; zato su i završili u koloni „skidam". **Knjiga 32.152 → 32.112.**
+>
+> **⛔ AUTOR JE ODBIO JOŠ GESTOVA** *(„nema potrebe više za gestovima")* — predložena su bila
+> `Fabrika` 159 i `Orman` 133 kao mesta koja mogu da nose rečenicu umesto reza.
+> **Nalaz po Pravilu J ostaje upisan, ne rešen:** tri napisane rečenice na trinaest izmena je
+> **23%**, ispod tražene trećine, a osam poglavlja *(`Susret`, `Pukotina`, `Italija`,
+> `Pariz`, `Fabrika`, `Orman`, `Beli grad`, `Kukavica`)* dobilo je **samo rez**. To nije
+> zatvaranje tih poglavlja nego uzan zahvat kroz knjigu — ali ako se neko od njih bude
+> zatvaralo, **Pravilo J tu još nije plaćeno.**
+>
+> **⚑ NALAZ IZ SVA TRI NAPISANA GESTA:** sva tri su **nogama** — cigla, rešetka, sklanjanje
+> s vrata. Nije planirano, izašlo je iz tri različite scene. **Čovek koji ne odgovara ustima
+> odgovara time gde stoji i kuda staje**, i telo mu je već doslednije nego što je tekst
+> priznavao.
+>
+> **⚑ NALAZ KOJI STOJI NAD CELOM TAČKOM 1 — Pravilo J.** Od trinaest skidanja, samo **tri**
+> mesta traže napisanu rečenicu *(`Ivičnjak` 43, `Prelom` 37, `Nestanak` 27)*. **To je manje
+> od četvrtine, a Pravilo J traži trećinu** — ovako tačka 1 nije prolaz nego rez. **Trebaju
+> još najmanje dva mesta gde se piše, i bira ih autor.**
+>
+> ## ⚑ 07.09.2026, NOĆU — MIJA JE UŠLA U KNJIGU. `PUKOTINA` III, +183 REČI.
+>
+> **Prva nova scena posle 04.09.** Napisana je iz materijala 59 *(David je Miju držao kao
+> bebu, u Andrijaninim rukama)*, na autorovo „da", i **unet je blok od 183 reči u `Pukotinu`
+> III** — ne novo poglavlje. **`Pukotina` 1.780 → 1.963; knjiga 32.112 → 32.295.**
+>
+> **⚑ ZAŠTO BAŠ `PUKOTINA`, I ZAŠTO NIJE KOŠTALO NIŠTA STRUKTURNO.** Poglavlje **već radi na
+> dva vremena** *(sadašnjost za stolom + upad u prošlogodišnju noć na stolu)*, pa je mašina
+> bila izgrađena i prazna hoda. **I mesto je već stajalo u tekstu:** *„Deset godina dolazi u
+> ovaj grad kod bake, i svaki put izađemo na to jedno"* — Andrijana dolazi deset godina, Mija
+> je rođena pre šest, **znači jednom je došla s bebom.** Ta poseta je bila u knjizi, samo
+> neispisana.
+>
+> **⚑ UPAD I ISPAD SU RAĐENI PO OBRASCU KOJI KNJIGA VEĆ DRŽI TRI PUTA** *(`Pukotina` „Voda." ·
+> `Krv` „I nisam više tu." → „Je l' ima još luka?" · `Pariz` magnet → „Šta gledaš?")*.
+> **Autor je to tražio izričito** — prva verzija bloka je upadala bez vrata.
+> **Upad:** *„Nijednom je nije nazvala imenom. Njoj je ona „je"."* — okidač je njena
+> sopstvena rečenica, jer čovek kome je dete blizu ne treba mu ime, **a Davidu treba.**
+> **Ispad:** konobar uzima čašu sa susednog stola — nju ne može da ga vrati, okrenuta je i na
+> telefonu.
+>
+> **⚑ VREME SEĆANJA JE NAMERNO DRUGO.** Ples po stolu ide u **prezentu** *(sećanje „u
+> delovima", pijano)*; ovo ostaje u **perfektu**, jer je celo i oštro. **Dva sećanja u istom
+> poglavlju u istom vremenu postala bi manir.**
+>
+> **⚑ ŠTA BLOK NOSI A NIGDE NE IZGOVARA:** iste ruke koje u `Krvi` rade *„prsti u nečem mekom
+> i toplom, pa pritisak, pa razdvajanje"* ovde ne pritiskaju ništa · *„Bila je lakša nego što
+> sam mislio"* je jedina misao koju dobija, i ona odbija da bude osećanje — **čovek koji sve
+> meri dobio je u ruke jedino što nije umeo da proceni** · **„Nisam seo"** nosi blok, jer je
+> to isti čovek koji u svakoj prostoriji nađe stolicu s koje se vide vrata.
+>
+> **⛔ ŠTA JE DRŽANO NAPOLJU, PO PRAVILU T:** nijedna veza s bratom, s malom Jovanom, ni s tim
+> što David sam nema decu; nijedna reč o tome šta mu se u tom trenutku desilo. **Dete se ne
+> imenuje** — beba je, i on je tad još ne zove imenom. **Ne dopisivati ništa od toga.**
+>
+> **⚑ ZARADA KOJA NIJE PLANIRANA:** njeno *„Izvini."* posle bloka više nije za svađu s majkom
+> preko telefona.
+
+> ## ⛔ 07.09.2026, UVEČE — TAČKA 3 JE PALA · ⚑ I STIGAO JE NOV MATERIJAL
+>
+> **Tačka 3 je tražila verbalni tik za svaki ženski lik.** Pala je iz teksta, ne iz otpora:
+> **zadatak imenuje tri žene, a dve su ista osoba** *(majka Mije JE Andrijana, potvrdio
+> autor)*. I sedam žena u knjizi **već ima sedam različitih mehanizama**, svi izvedeni iz
+> radnje a ne iz sintakse — Andrijana *staje na ivici pitanja i ne zakorači* · Jovana *pita
+> ono što niko ne sme, i pita lagano* · Nataša *kaže naglas pa se sama izuzme* · baka *ne
+> prevodi se, sve rukama* · majka *ista reč u drugom vremenu* · Anja *uskraćuje prevod* ·
+> Katarina *uradi umesto da traži*.
+>
+> **⚑ NALAZ IZ PROVERE SCENE ZA STOLOM** *(`Kukavica`, na traženje autora)*: tri žene tu
+> zaista isporuče rečenicu **istog oblika** *(Andrijana „Njemu nikad nisam morala ništa" ·
+> Jovana „Kukavica" · Nataša „Ja sam druga. Oduvek.")* — **ali do nje dolaze na tri različita
+> načina: iz Andrijane se vadi, Jovana sebi namešta scenu, Nataša dobacuje nepitana.** Oblik
+> je isti zato što **ga igra propisuje** *(Nataša je pročitala pravila: jedna rečenica po
+> redu)*. **Uniformnost je motivisana, nije mana.**
+>
+> **⚑ I JEDINI PRAVI TIK U KNJIZI VEĆ POSTOJI:** Natašino *„Iskrena sam. To ljudi pomešaju."*
+> — **dvaput, reč u reč**, oba puta posle Jovaninog *„Ti si bolesna."* **Da ga imaju sve tri,
+> prestao bi da bude njen.**
+>
+> ## ⚑ 07.09.2026, UVEČE — DVANAESTI KRUG MATERIJALA *(`ODGOVORI`, stavke 55–57)*
+>
+> **⚑ DAVID JE VIDEO MIJU I VOLI JE — NOVA SCENA JE OTVORENA, NIJE NAPISANA.** Oborila su se
+> oba čitanja koja su bila na stolu *(ni nenaplaćena cena, ni namerno prazno mesto)*.
+> **Ne piše se dok autor ne da dan i mesto** — isti razlog zbog kog je palo poglavlje `BRAT`.
+>
+> **⚑ ISPRAVKA ISTOG DANA — NIJEDNA OD ČETIRI NIJE POSLUŠNA** *(`ODGOVORI` 58)*.
+> Suprotstavljanje nije osobina Katarine i majke nego **sve četiri**. **Jovana je
+> najneposlušnija i jedina koja ga fizički zaustavi** *(`Krv` „A ja sam rekla ne idem bez
+> tebe" · `Ivičnjak` „Stani. Dosta je." uz vučenje za okovratnik · `Kukavica` „Zatvori
+> oči.")*; **Andrijana pita ono što ne sme pa stane na ivici** *(„Otkud ti doktor u—")* i
+> **skine sat umesto odgovora**. **⛔ Nijednoj se ne piše nova neposlušnost — sve je već
+> napisano.**
+>
+> **⚑ MIJA JE VIĐENA KAO BEBA, U ANDRIJANINIM RUKAMA — PRVA BEBA KOJU JE DRŽAO**
+> *(`ODGOVORI` 59)*. **Hronologija proverena i uklapa se:** beba pre šest godina, dakle u
+> periodu `Fabrike`, na prvoj-drugoj godini na traci — **i to je pre Katarine**, koja dolazi
+> tek u sedmoj. **Prva beba koju je u životu držao došla mu je u najpraznijem delu života.**
+> **⛔ Mesto se ne zna i ne popunjava; scena se ne piše dok autor ne kaže gde.**
+>
+> **⚑ KATARINA I MAJKA MU SE SUPROTSTAVLJAJU.** Katarina **malo, i iz neznanja njegovog
+> sveta** — gura tamo gde ne zna da je zid, pogura jednom i stane *(„Ne može sreda." → „Nije
+> pitala drugi put.")*. **Majka zna, pa ne gura nego ne posluša** — *„Gasim je", rekla je. /
+> Nije je gasila.* **⛔ Ne izjednačavati ih i ne pretvarati ni jedno ni drugo u svađu.**
+> Sve što obe već rade popisano je u `ODGOVORI`, 56 i 57 — **piše se samo preko toga, nikad
+> ponovo.**
+
+> ## ⛔ 07.09.2026, UVEČE — TAČKA 2 JE PALA, ODLUKOM AUTORA. NIJEDNA IZMENA.
+>
+> **Zadatak je tražio rez u `Italiji` V pred telefonski poziv, „da udarac dođe brže".**
+> **Merenje je oborilo premisu:** poglavlje ima **3.354 reči**, a do *„Onda mi je zazvonio
+> telefon"* stoji **1.483 — poziv dolazi na 44%, pre polovine.** Posle njega ima **1.870
+> reči**, više nego pre. **Udarac ne kasni.**
+>
+> **Predložena su bila tri sitna reza** *(red 109 — smeh posle poente s naočarima; red 137 —
+> poređenje o Andrijaninom italijanskom; red 81 — dete koje padne preko praga)*, ukupno oko
+> **osamdeset reči, 5% puta do telefona.** **Autor je odbio sve, i zdravicu uz njih:**
+> *„ja iskreno tu ništa ne bih dirao, ne znam, pa ni samu zdravicu."*
+>
+> **⛔ ZDRAVICA SE NE SKRAĆUJE** *(redovi 291–335)*. Jeste jedino mesto gde se posle udarca
+> vuče, ali je i **jedini put u celoj knjizi da David ustane i govori pred ljudima.**
+> Skraćivanje bi mu uzelo jedini monolog.
+>
+> **⛔ RED 81 SE NE DIRA NI AKO SE TAČKA 2 IKAD VRATI** — kuća mora da bude puna pre nego
+> što je on napusti nasred večere, jer na tome stoji Anjin račun *(„ona ima osamdeset dve")*,
+> jedan od dva prava računa u knjizi.
+
 > ## ⚑ 07.09.2026, KASNIJE — NASLOV XII JE PAO. MERENJE JE ZATVORENO.
 >
 > **`XII — Katarina` → `XII — Orman`**, odlukom autora. Promenjen je **prvi red fajla i
@@ -449,7 +617,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ```
 Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.137 reci.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.295 reci.
 
 ==================================================================
 MERENJE JE ZATVORENO. SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
@@ -561,7 +729,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 32.137 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.295 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -635,7 +803,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 32.137 reči.** Izmereno **07.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.295 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -644,25 +812,25 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 | # | poglavlje | fajl | reči |
 |---|---|---|---|
-| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 793 |
+| **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 790 |
 | **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.634** |
-| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.786 |
+| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.963 |
 | **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
-| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.381** |
-| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.019** |
-| **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.127 |
-| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.791** |
-| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.366** |
+| **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.377** |
+| **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.015** |
+| **VII** | **Ivičnjak** | `POGLAVLJE_NOVO_IVICNJAK.md` | 1.131 |
+| **VIII** | **Prelom** | `POGLAVLJE_NOVO_3_PRELOM.md` | **1.796** |
+| **IX** | **Nestanak** | `POGLAVLJE_5_NESTANAK.md` | **1.372** |
 | **X** | **Majka** | `POGLAVLJE_NOVO_4_MAJKA.md` | 1.580 |
-| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.913** |
-| **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.683** |
+| **XI** | **Fabrika** | `POGLAVLJE_NOVO_5_FABRIKA.md` | **1.902** |
+| **XII** | **Orman** | `POGLAVLJE_NOVO_KATARINA.md` | **1.678** |
 | **XIII** | **Prazna stolica** | `POGLAVLJE_6_PRAZNA_STOLICA.md` | **1.386** |
-| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.209** |
+| **XIV** | **Beli grad** | `POGLAVLJE_7_BELI_GRAD.md` | **2.206** |
 | **XV** | **Maska** | `POGLAVLJE_NOVO_MASKA.md` | **1.752** |
-| **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.749 |
+| **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.745 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 32.137 reči.**
+**ZBIR: 32.295 reči.**
 
 > **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
 > **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·

@@ -156,7 +156,7 @@ Majka je bila kod šporeta.
 
 „Ništa.“
 
-Sipala je i sela preko puta i nije sipala sebi, i ja sam jeo i ćutao, i u toj kuhinji nisam progovorio deset reči do podneva.
+Sipala je i sela preko puta i nije sipala sebi, i u toj kuhinji nisam progovorio deset reči do podneva.
 
 ⁂
 
@@ -322,7 +322,7 @@ Na cigari sam je pitao.
 
 „Plaćam stan sama“, rekla je.
 
-Odsedela je cigaru do kraja i nije rekla ništa više, i vratili smo se unutra, i do jutra sam je video dvaput kroz onaj razmak između mašina.
+Odsedela je cigaru do kraja, i vratili smo se unutra, i do jutra sam je video dvaput kroz onaj razmak između mašina.
 
 ⁂
 

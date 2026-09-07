@@ -911,3 +911,123 @@ vazduhu, na drugoj isti taj, godinama kasnije, dvaput širi. **To je istina i to
 
 **Posledica u tekstu:** menja se i **red 25** (opis rama na komodi), jer je to ista slika —
 *„momak na nekom betonu"* ne sme da ostane kad beton izlazi iz albuma.
+
+---
+
+# DVANAESTI KRUG — 07.09.2026 · ⚑ MIJA, I DVE ŽENE KOJE MU SE SUPROTSTAVLJAJU
+
+> **Kako je nastao.** Posle zatvorene tačke 1 *(ponavljanja oko ćutanja)* i pale tačke 2
+> *(`Italija`)*, u popisu ženskih likova je izneto da **Mija postoji u knjizi samo u dve
+> rečenice** i da je David nikad nije video u kadru — uz pitanje je li to nenaplaćena cena
+> ili namerno prazno mesto. **Autor je oborio i jedno i drugo**, i uz to dao ispravku o
+> Katarini i majci koju nije tražio niko.
+
+## 55 — ⚑ DAVID JE VIDEO MIJU I VOLI JE. NOVA SCENA JE OTVORENA.
+
+**Autor, doslovno:** *„pazi on je video to dete i voli ga, i slično, može nova scena."*
+
+**Šta ovo obara:** čitanje da je Mija za Davida nepostojeća, i da je njeno odsustvo cena
+odlaska. **Nije cena — knjiga to prosto nije pokazala.**
+
+**Šta o njoj u tekstu stoji danas — sve, i to je malo:**
+
+- `Pukotina` III — Andrijana je dovozi kod bake za vikend; **zna sva slova a ne ume da ih
+  spoji**, pravi se da spava kad Andrijana proveri, ima **izmišljenog prijatelja po imenu
+  Bob**. Telefon: baka je uzela popodne pa dete neće da spava.
+- `Kukavica` XVI — jedna rečenica, Andrijanina, u igri: *„Jedino dobro što je izašlo iz tog
+  čoveka zove se Mija."*
+- **Mija danas ima šest** *(ODGOVORI, treći krug — u `Pukotini` četiri)*.
+
+**⚑ Scena je otvorena, ali nije napisana i ne piše se dok autor ne da dan i mesto.** Po
+pravilu **TEŠKO** nova scena je skupa; po pravilu o autobiografiji, **dan koji autor nema
+se ne izmišlja** — to je razlog zbog kog je poglavlje `BRAT` palo *(sekcija 27)*, i isti
+razlog važi ovde dok autor ne kaže drugačije.
+
+**⛔ Pravilo T i dalje važi:** scena sme da pokaže da je voli. **Ne sme da protumači** šta mu
+dete znači, ni šta u njemu otvara, ni čega ga podseća.
+
+## 56 — ⚑ KATARINA MU SE SUPROTSTAVLJA — MALO, I ZATO ŠTO NE ZNA NJEGOV SVET
+
+**Autor, doslovno:** *„Katarina je osoba koja se suprotstavlja Davidu, ne mnogo ali pomalo
+jer ne zna sve tačno njegov svet."*
+
+**⚑ Ovo menja čitanje, ne raspored.** Ona nije strpljiva žena koja čeka — **ona gura tamo
+gde ne zna da je zid.** Suprotstavljanje joj dolazi **iz neznanja, ne iz sumnje**, i zato
+nikad ne izgleda kao sukob.
+
+**Već je napisano, i ne dodaje se preko toga:** `Orman` XII — *„Ustaj." · „Nije bitno koliko
+je." · „Ne držiš, gledaš." · „Mogu, kažem."* **(penje se na lestve protiv njegove reči i
+kutija pada)** · *„Ti si bolestan." · „Nemoj sad, ozbiljna sam."* · `Maska` XV —
+*„Smrdiš na fabriku." · „Nećeš."* *(pa ipak: „Ali javi.")* · `Beli grad` XIV —
+**najjače mesto:** *„Zovi je danju. Noću si mi potreban ovde."* · `Ćebence` XVII —
+*„Ja nisam bivša." · „Pa ne mora da ide. Samo da ih vidim."*
+
+**Gde je granica, i ona je njena a ne njegova:** `Orman` — *„Ne može sreda." · „Što ne može
+sreda?" · „Ne može."* → **„Nije pitala drugi put."** Ona pogura jednom i stane; ne zna da je
+udarila u zid, pa nema u šta da se upire.
+
+**⛔ Ne pretvarati ovo u svađu ni u sumnju.** Ona ne dovodi u pitanje ono što on ne govori.
+
+## 57 — ⚑ MAJKA ISTO
+
+**Autor, doslovno:** *„takođe Majka isto."*
+
+**Već je napisano:** `Majka` X — *„Idi sedi."* **(dvaput, i on sedne)** · *„Ne otvaraj." /
+„Ne mogu da dišem." / „Dišeš ti."* · *„Nemoj da diraš tu fioku."* · *„Ima još"* — pa mu
+sipa iako je rekao ne · *„Znaš", rekla je* · `Fabrika` XI — *„Nisam te čekala. Gledam ovo."*
+· *„Znam šta ti ne možeš."*
+
+**⚑ Njeno suprotstavljanje ima svoj oblik: kaže da radi ono što ne radi.** *„Gasim je",
+rekla je. / Nije je gasila.* To je odbijanje bez ijedne reči odbijanja — i **razlikuje je
+od Katarine**, koja pogura naglas pa stane.
+
+**⛔ Ne izjednačavati ih.** Katarina gura jer ne zna; **majka zna, pa ne gura nego ne
+posluša.**
+
+## 58 — ⛔ NIJEDNA OD ČETIRI NIJE POSLUŠNA *(ispravka autora, isti dan)*
+
+**Autor, doslovno:** *„pazi i Jovana je takva i Andrijana, nisu one samo kao sve poslušne."*
+
+**Ispravka ide na formulaciju iz popisa**, ne na tekst — tekst je oduvek bio na autorovoj
+strani. **Suprotstavljanje nije Katarinina i majčina osobina nego osobina sve četiri**, samo
+svaka ima svoj način.
+
+- **Jovana — najneposlušnija u knjizi, i jedina koja ga fizički zaustavi.** `Krv` IV —
+  *„Izlazi." / „Ne idem bez tebe." / „Rekao sam izlazi—" / „A ja sam rekla ne idem bez
+  tebe."* · `Ivičnjak` VII — *„Stani. Stani. Dosta je."* **i vuče ga za okovratnik obema
+  rukama** · `Kukavica` XVI — *„Sedi ti. Noge su mi dobro." · „Mogu ja tebi istinu i bez
+  igre." · „Ti. Zatvori oči."* **(jedina koja mu naređuje)**.
+- **Andrijana — pita ono što ne sme, pa stane tačno na ivici.** `Prazna stolica` XIII —
+  *„Otkud ti doktor u—"* · `Beli grad` XIV — *„Pa zato i vozim tri sata po tebe umesto da si
+  ti seo na autobus."* · `Prelom` VIII — *„Nije prošle godine."* *(ispravlja usred tuđe
+  priče, ne dižući pogled)* · `Kukavica` XVI — **skine sat umesto odgovora**: *„To je sat i
+  moja odluka."*
+
+**⛔ Ne pisati nijednoj od njih novu neposlušnost.** Sve četiri je već imaju; posao je bio
+da se to zna, ne da se dodaje.
+
+## 59 — ⚑ MIJA KAO BEBA: PRVA BEBA KOJU JE DRŽAO
+
+**Autor, doslovno, kroz smeh:** *„video je Miju kada je bila beba, u Andrijaninim rukama, to
+je prva beba koju je ikada držao i koju je zavoleo da nije hteo da je baci."*
+
+**⚑ HRONOLOGIJA PROVERENA — UKLAPA SE BEZ IJEDNE PUKOTINE.** Mija danas ima šest *(treći
+krug)*, David je otišao pre dvanaest godina i u ovom gradu je oko osam *(`Majka` X —
+„Godinu dana si u ovom gradu"; `Fabrika` XI — „Sedmu godinu")*. **Beba je bila beba pre šest
+godina — dakle davno posle povratka, u periodu `Fabrike`, na prvoj-drugoj godini na traci.**
+
+**⚑ ŠTA IZ TOGA IZLAZI, A NIJE SE TRAŽILO: TO JE PRE KATARINE.** Ona dolazi u fabriku tek u
+njegovoj sedmoj godini *(„Nova je došla tog meseca")*. **Prva beba koju je čovek u životu
+držao došla mu je u ruke u najpraznijem delu njegovog života** — traka, majčina kuća, soba u
+kojoj ne stoji ništa na stolu, nijedna slika na zidu. **Ne izgovarati to u tekstu.**
+
+**⛔ Šta se ne zna i ne popunjava:** **gde** se to desilo. Dok autor ne kaže, scena se ne
+piše.
+
+**⛔ Pravilo T:** scena sme da pokaže ruke i dete u njima. **Ne sme da protumači** šta mu je
+to otvorilo, čega ga je podsetilo, ni da poveže s bratom, s malom Jovanom, ili s tim što
+sam nema decu. **Ništa od toga se ne piše ni u naznaci.**
+
+**⚠ RIZIK KOJI SE PAMTI ZA TU SCENU:** u knjizi već postoje **dve različite bake** — Mijina
+*(Andrijanina majka, `Pukotina`)* i ona preko granice *(`Italija`, osamdeset dve)*. Ako
+scena ide kod Mijine bake, **mora biti nedvosmisleno koja je čija.**
