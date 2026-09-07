@@ -155,11 +155,21 @@ je 06.09.2026. zatečen s šesnaest poglavlja i bez `Katarine`.
 
 ## Dokumenti
 
+> **⚑ 07.09.2026 — TRI POLICE.** Dokumentacija je bila **129.281 reč** na **31.898** reči
+> knjige, sva u jednom folderu. **Devet fajlova (64.858 reči, pola svega) preseljeno je u
+> `dokumenti/arhiva/` — ništa nije obrisano.** Svaki red u tabeli ispod čiji put sadrži
+> `arhiva/` **ne otvara se u radu.**
+>
+> **Pre sesije se čitaju tri fajla:** `../CLAUDE.md` · `NASTAVAK.md` · `dokumenti/POENTA_KNJIGE.md`.
+> Ostalo se otvara **kad posao dotakne ono čega se tiče.** Police i razlozi: `../CLAUDE.md`
+> i [`dokumenti/arhiva/README.md`](dokumenti/arhiva/README.md).
+
 | Fajl | Šta pokriva | Kad ga otvaraš |
 |------|-------------|----------------|
 | **[`NASTAVAK.md`](NASTAVAK.md)** | **handoff — stanje, dugovi, šta je sledeće** | **prvo, uvek** |
 | **[`dokumenti/POENTA_KNJIGE.md`](dokumenti/POENTA_KNJIGE.md)** | **⚑ OSA KNJIGE — najviši sprat u repou** | **odmah posle `NASTAVAK.md`, pre plana** |
-| **[`dokumenti/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/PRESUDA_I_NOVA_KNJIGA.md)** | presuda o gotovoj knjizi i ideja o novoj — **istorija** | kad zatreba |
+| **[`dokumenti/ANALIZA_KRUGA_07_09_2026.md`](dokumenti/ANALIZA_KRUGA_07_09_2026.md)** | zašto se rad vrteo u krugu · tri poteza **A/B/C** *(nijedan odobren)* · **mišljenje čitaoca o svih sedamnaest poglavlja** | pre nego što se otvori bilo kakav nov posao |
+| **[`dokumenti/arhiva/PRESUDA_I_NOVA_KNJIGA.md`](dokumenti/arhiva/PRESUDA_I_NOVA_KNJIGA.md)** | presuda o gotovoj knjizi i ideja o novoj — **istorija** | kad zatreba |
 | `dokumenti/REGISTAR_ODLUKA.md` | šta je zatvoreno i **ne otvara se** | pre svakog predloga izmene |
 | `dokumenti/FINALNI_PROLAZ_PRAVILA.md` | Deo 0, radna pravila, spisak zaštićenog | pre otvaranja poglavlja |
 | `dokumenti/DUGOVI_KNJIGE.md` | pet dugova knjige, sprat iznad poglavlja | pre otvaranja poglavlja |
@@ -167,14 +177,14 @@ je 06.09.2026. zatečen s šesnaest poglavlja i bez `Katarine`.
 | `dokumenti/SVET_I_LIKOVI_1.md` | ko je ko, hronologija, zaključana pravila sveta | kad se proverava činjenica |
 | **[`dokumenti/PLAN_03_09_2026.md`](dokumenti/PLAN_03_09_2026.md)** | **poslednji plan — devet zahvata i potezi A/B/C. ISCRPLJEN 06.09.2026** | zbog razloga i zabrana; posla u njemu nema |
 | **[`dokumenti/ODGOVORI_AUTORA_03_09_2026.md`](dokumenti/ODGOVORI_AUTORA_03_09_2026.md)** | **⚑ IZVOR — autorovo znanje o svojim ljudima, 54 stavke u jedanaest krugova** | **pre svake napisane rečenice; sve mora da stoji na njemu** |
-| `dokumenti/PLAN_RADA.md` | stari plan — **iscrpljen 31.08.2026** | istorija, ne posao |
-| `dokumenti/LEKTORSKA_OCENA_31_08_2026.md` | ocena petnaest poglavlja po spratovima — **istorija** | kad se pita da li je knjiga dobra |
-| `dokumenti/ARHIVA_NASTAVAK.md` | istorijski deo `NASTAVAK.md`, izmešten 06.09.2026 | poslednje mesto, ne prvo |
-| `dokumenti/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji** (vodi petnaest); razlozi i zabrane i dalje važe | zbog razloga, ne zbog plana |
-| `dokumenti/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
-| `dokumenti/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
-| `dokumenti/IDEJE_ZA_KORAK_3.md` | odložene ideje autora — **nisu odluke** | kad autor kaže „otvaram" |
-| `dokumenti/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — istorija, ne registar | kad treba znati *zašto* je nešto tako |
+| `dokumenti/arhiva/PLAN_RADA.md` | stari plan — **iscrpljen 31.08.2026** | istorija, ne posao |
+| `dokumenti/arhiva/LEKTORSKA_OCENA_31_08_2026.md` | ocena petnaest poglavlja po spratovima — **istorija** | kad se pita da li je knjiga dobra |
+| `dokumenti/arhiva/ARHIVA_NASTAVAK.md` | istorijski deo `NASTAVAK.md`, izmešten 06.09.2026 | poslednje mesto, ne prvo |
+| `dokumenti/arhiva/NOVA_KNJIGA_MAPA.md` | mapa — **zastarela u numeraciji** (vodi petnaest); razlozi i zabrane i dalje važe | zbog razloga, ne zbog plana |
+| `dokumenti/arhiva/NOVA_KNJIGA_IDEJE.md` | građa nove knjige, prazna mesta, Godfather odluke | kad se traži šta poglavlje plaća |
+| `dokumenti/arhiva/GRADJA_FABRIKA.md` | autorova građa za `Fabriku` — radni fajl | istorija tog poglavlja |
+| `dokumenti/arhiva/IDEJE_ZA_KORAK_3.md` | odložene ideje autora — **nisu odluke** | kad autor kaže „otvaram" |
+| `dokumenti/arhiva/Analiza_i_pokret_prepravke_3_1_1.md` | dnevnik rada — istorija, ne registar | kad treba znati *zašto* je nešto tako |
 
 **Razlika koja se stalno meša:** dnevnik je **istorija** (šta se radilo i zašto),
 `REGISTAR_ODLUKA.md` je **zakon** (šta se ne dira). Kad se sukobe — važi registar.
