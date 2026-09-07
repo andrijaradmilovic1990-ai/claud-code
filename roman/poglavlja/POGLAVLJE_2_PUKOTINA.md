@@ -104,6 +104,42 @@ Slušala je. Prevrnula je očima meni, pa se okrenula od stola, ka izlogu.
 
 „Ne pravim ja od nje ništa… Mama. Mama. Pusti je da gleda crtaće i gotovo.“
 
+Nijednom je nije nazvala imenom. Njoj je ona „je“.
+
+Prvi put ju je dovezla kad je imala mesec i po.
+
+Izašla je iz kola s njom i nije pitala hoću li da je vidim.
+
+„Drži.“
+
+„Ne umem.“
+
+„Niko ne ume.“
+
+Gurnula mi ju je u ruke pre nego što sam ih sklopio, pa mi je namestila lakat, pa mi spustila drugu šaku pod ono gde je glava.
+
+Bila je lakša nego što sam mislio. To je jedino što sam tada pomislio — da sam čekao teže.
+
+Nije se probudila. Usta su joj se pomerila jednom, kao da nešto proba, pa su stala.
+
+Stajao sam tako. Ruke sam držao u istom položaju duže nego što je trebalo.
+
+„Možeš da sedneš s njom.“
+
+Nisam seo.
+
+Andrijana je zapalila i gledala nas s dva koraka, i pustila da traje.
+
+Kad je pošla da je uzme, dao sam je. Ali sam prvo pomerio dlan iza njene glave da je pridržim, pa tek onda pustio, iako je Andrijana već imala obe ruke pod njom.
+
+„Vidi ti njega.“
+
+„Šta.“
+
+„Ništa.“
+
+Konobar je prošao i uzeo čašu sa susednog stola.
+
 Spustila je telefon licem nadole.
 
 „Izvini.“

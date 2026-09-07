@@ -147,6 +147,44 @@
 > od četvrtine, a Pravilo J traži trećinu** — ovako tačka 1 nije prolaz nego rez. **Trebaju
 > još najmanje dva mesta gde se piše, i bira ih autor.**
 >
+> ## ⚑ 07.09.2026, NOĆU — MIJA JE UŠLA U KNJIGU. `PUKOTINA` III, +183 REČI.
+>
+> **Prva nova scena posle 04.09.** Napisana je iz materijala 59 *(David je Miju držao kao
+> bebu, u Andrijaninim rukama)*, na autorovo „da", i **unet je blok od 183 reči u `Pukotinu`
+> III** — ne novo poglavlje. **`Pukotina` 1.780 → 1.963; knjiga 32.112 → 32.295.**
+>
+> **⚑ ZAŠTO BAŠ `PUKOTINA`, I ZAŠTO NIJE KOŠTALO NIŠTA STRUKTURNO.** Poglavlje **već radi na
+> dva vremena** *(sadašnjost za stolom + upad u prošlogodišnju noć na stolu)*, pa je mašina
+> bila izgrađena i prazna hoda. **I mesto je već stajalo u tekstu:** *„Deset godina dolazi u
+> ovaj grad kod bake, i svaki put izađemo na to jedno"* — Andrijana dolazi deset godina, Mija
+> je rođena pre šest, **znači jednom je došla s bebom.** Ta poseta je bila u knjizi, samo
+> neispisana.
+>
+> **⚑ UPAD I ISPAD SU RAĐENI PO OBRASCU KOJI KNJIGA VEĆ DRŽI TRI PUTA** *(`Pukotina` „Voda." ·
+> `Krv` „I nisam više tu." → „Je l' ima još luka?" · `Pariz` magnet → „Šta gledaš?")*.
+> **Autor je to tražio izričito** — prva verzija bloka je upadala bez vrata.
+> **Upad:** *„Nijednom je nije nazvala imenom. Njoj je ona „je"."* — okidač je njena
+> sopstvena rečenica, jer čovek kome je dete blizu ne treba mu ime, **a Davidu treba.**
+> **Ispad:** konobar uzima čašu sa susednog stola — nju ne može da ga vrati, okrenuta je i na
+> telefonu.
+>
+> **⚑ VREME SEĆANJA JE NAMERNO DRUGO.** Ples po stolu ide u **prezentu** *(sećanje „u
+> delovima", pijano)*; ovo ostaje u **perfektu**, jer je celo i oštro. **Dva sećanja u istom
+> poglavlju u istom vremenu postala bi manir.**
+>
+> **⚑ ŠTA BLOK NOSI A NIGDE NE IZGOVARA:** iste ruke koje u `Krvi` rade *„prsti u nečem mekom
+> i toplom, pa pritisak, pa razdvajanje"* ovde ne pritiskaju ništa · *„Bila je lakša nego što
+> sam mislio"* je jedina misao koju dobija, i ona odbija da bude osećanje — **čovek koji sve
+> meri dobio je u ruke jedino što nije umeo da proceni** · **„Nisam seo"** nosi blok, jer je
+> to isti čovek koji u svakoj prostoriji nađe stolicu s koje se vide vrata.
+>
+> **⛔ ŠTA JE DRŽANO NAPOLJU, PO PRAVILU T:** nijedna veza s bratom, s malom Jovanom, ni s tim
+> što David sam nema decu; nijedna reč o tome šta mu se u tom trenutku desilo. **Dete se ne
+> imenuje** — beba je, i on je tad još ne zove imenom. **Ne dopisivati ništa od toga.**
+>
+> **⚑ ZARADA KOJA NIJE PLANIRANA:** njeno *„Izvini."* posle bloka više nije za svađu s majkom
+> preko telefona.
+
 > ## ⛔ 07.09.2026, UVEČE — TAČKA 3 JE PALA · ⚑ I STIGAO JE NOV MATERIJAL
 >
 > **Tačka 3 je tražila verbalni tik za svaki ženski lik.** Pala je iz teksta, ne iz otpora:
@@ -579,7 +617,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ```
 Radimo na romanu "Sahrana bez tela". Srpski, latinica, sav razgovor.
-Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.112 reci.
+Autor je Andrija (Duffy). Knjiga: 17 poglavlja, 32.295 reci.
 
 ==================================================================
 MERENJE JE ZATVORENO. SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
@@ -691,7 +729,7 @@ uzme i procita. Nista drugo od tebe ne treba.
 STA SE RADI
 ==================================================================
 
-Knjiga: 17 poglavlja, 32.112 reci, u roman/poglavlja/.
+Knjiga: 17 poglavlja, 32.295 reci, u roman/poglavlja/.
 Imena fajlova NE prate mesta u knjizi. Redosled citanja je onaj koji
 pise u naslovu unutar samog fajla (`# XI — Fabrika`). Citaj po tom
 redu, od I do XVII, cele fajlove, red po red, od prve reci do
@@ -765,7 +803,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 
 ## Stanje po poglavljima — SVE NA JEDNOM MESTU
 
-**Knjiga je cela: sedamnaest poglavlja, 32.112 reči.** Izmereno **07.09.2026**, komandom
+**Knjiga je cela: sedamnaest poglavlja, 32.295 reči.** Izmereno **07.09.2026**, komandom
 `LC_ALL=C.UTF-8 wc -w` po fajlu, pa zbir.
 
 > **⛑ Golo `wc -w` u ovom okruženju LAŽE** — potcenjuje za oko 1%. Uvek s `LC_ALL=C.UTF-8`.
@@ -776,7 +814,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 |---|---|---|---|
 | **I** | **Susret** | `POGLAVLJE_1_SUSRET.md` | 790 |
 | **II** | **Ulazak** | `POGLAVLJE_NOVO_1_ULAZAK.md` | **2.634** |
-| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.780 |
+| **III** | **Pukotina** | `POGLAVLJE_2_PUKOTINA.md` | 1.963 |
 | **IV** | **Krv** | `POGLAVLJE_3_KRV.md` | 1.324 |
 | **V** | **Italija** | `POGLAVLJE_NOVO_2_ITALIJA.md` | **3.377** |
 | **VI** | **Pariz** | `POGLAVLJE_4_PARIZ.md` | **2.015** |
@@ -792,7 +830,7 @@ knjigu jednog dana procitati. Ponasaj se u skladu s tim.
 | **XVI** | **Kukavica** | `POGLAVLJE_8_KUKAVICA.md` | 3.745 |
 | **XVII** | **Ćebence** | `POGLAVLJE_9_CEBENCE.md` | 1.644 |
 
-**ZBIR: 32.112 reči.**
+**ZBIR: 32.295 reči.**
 
 > **⚑ Tri poglavlja su dirana 07.09.2026, sekcija 35 registra** — sve tri izmene su
 > **napisane rečenice**, nijedna nije rez: `Ulazak` 2.498 → 2.634 · `Katarina` 1.625 → 1.683 ·
