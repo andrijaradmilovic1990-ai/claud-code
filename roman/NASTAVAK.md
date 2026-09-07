@@ -147,6 +147,26 @@
 > od četvrtine, a Pravilo J traži trećinu** — ovako tačka 1 nije prolaz nego rez. **Trebaju
 > još najmanje dva mesta gde se piše, i bira ih autor.**
 >
+> ## ⛔ 07.09.2026, UVEČE — TAČKA 2 JE PALA, ODLUKOM AUTORA. NIJEDNA IZMENA.
+>
+> **Zadatak je tražio rez u `Italiji` V pred telefonski poziv, „da udarac dođe brže".**
+> **Merenje je oborilo premisu:** poglavlje ima **3.354 reči**, a do *„Onda mi je zazvonio
+> telefon"* stoji **1.483 — poziv dolazi na 44%, pre polovine.** Posle njega ima **1.870
+> reči**, više nego pre. **Udarac ne kasni.**
+>
+> **Predložena su bila tri sitna reza** *(red 109 — smeh posle poente s naočarima; red 137 —
+> poređenje o Andrijaninom italijanskom; red 81 — dete koje padne preko praga)*, ukupno oko
+> **osamdeset reči, 5% puta do telefona.** **Autor je odbio sve, i zdravicu uz njih:**
+> *„ja iskreno tu ništa ne bih dirao, ne znam, pa ni samu zdravicu."*
+>
+> **⛔ ZDRAVICA SE NE SKRAĆUJE** *(redovi 291–335)*. Jeste jedino mesto gde se posle udarca
+> vuče, ali je i **jedini put u celoj knjizi da David ustane i govori pred ljudima.**
+> Skraćivanje bi mu uzelo jedini monolog.
+>
+> **⛔ RED 81 SE NE DIRA NI AKO SE TAČKA 2 IKAD VRATI** — kuća mora da bude puna pre nego
+> što je on napusti nasred večere, jer na tome stoji Anjin račun *(„ona ima osamdeset dve")*,
+> jedan od dva prava računa u knjizi.
+
 > ## ⚑ 07.09.2026, KASNIJE — NASLOV XII JE PAO. MERENJE JE ZATVORENO.
 >
 > **`XII — Katarina` → `XII — Orman`**, odlukom autora. Promenjen je **prvi red fajla i
