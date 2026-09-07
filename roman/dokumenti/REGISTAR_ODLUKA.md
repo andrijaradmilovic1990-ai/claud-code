@@ -2974,3 +2974,45 @@ oboreno merenjem *(36.5)*.
 
 **⚑ OSTAJE JEDNO: NOIR PROLAZ** *(sekcija 12)* — i on se ne otvara osim autorovom rečju
 **„otvaram"**.
+
+## 36.8 — ⛔ NOIR PROLAZ SE NE OTVARA *(odluka autora, 07.09.2026)*
+
+**Poslednja stavka spiska. Zakazana 30.08.2026** *(sekcija 12)* kao **najveći posao u
+knjizi** i jedini put kad se zaključano otvara u celini. **Formalno je red na nju** — šest
+novih poglavlja i prolaz kroz šavove su odrađeni. **Autor je odlučio da se ne otvara.**
+
+**Četiri razloga, upisana po Pravilu L da se pre vraćanja pročitaju:**
+
+1. **⚑ Dijagnoza knjige je suprotna od recepta.** Noir traži **više senke, hladnoće i
+   uskraćivanja.** Slepi čitalac je 06.09.2026. zaključio doslovno: *„knjiga je toliko
+   istrenirana da ne objašnjava da je počela da uskraćuje i ono što je htela da pokaže"* —
+   **četiri od osam merenih poteza nisu stigla, nijedan zato što je loše napisan, svi zato
+   što su prošli ispod praga vidljivosti** *(`NASTAVAK.md`, tabela mera)*. **Noir prolaz bi
+   jedinu potvrđenu bolest ove knjige lečio njenim uzrokom.**
+2. **Noir je već unet tamo gde pripada, i to unapred.** G10 *(lice na svetlu s Katarinom, u
+   senci s Jovanom i Andrijanom)*, G4, G5 i G9 stoje, i u sekciji 12 **već piše da se
+   retroaktivno ne rade.** Ostao bi samo prolaz kroz zaključano.
+3. **To je onaj krug, ozakonjen na dužini cele knjige.** Autorova tvrdnja od 07.09. —
+   *„zadnjih pet sesija se vrtimo u krug"* — i **Pravilo P**: zahtev *„pročitaj sve i
+   uskladi"* **garantuje nalaz, uvek, beskonačno.** Krug je istog dana prekinut zaključanim
+   spiskom *(sekcija 35)*; noir prolaz ga vraća.
+4. **Noir je žanr, a knjiga ima svoj glas.** Ono što je čitaoca stvarno udarilo — trener s
+   flasterom, teglica pomerena za dva prsta, ćebe do ivice vrata — **nije noir nego toplo.**
+   Prolaz koji bi tekst „usklađivao" prema žanru odneo bi **baš ta mesta.**
+
+**Vraća se autorovom rečju „otvaram", kad god poželi. Razlog se čita pre vraćanja.**
+
+## 36.9 — ⚑ SPISAK JE PRAZAN. KNJIGA IDE LJUDIMA.
+
+**07.09.2026, kraj dana.** Zaključan spisak od četiri stavke je odrađen *(sekcija 35 +
+naslov XII, sekcija 29.5)*, a zatim je **palo i svih sedam starih pitanja** *(36.1–36.8)*.
+
+**U celom danu je u `roman/poglavlja/` dirano samo ono što je odobreno rečju:** tri karike
+*(35.2–35.4)* i **jedan naslov** *(29.5)*. **Sedam starih pitanja nije koštalo nijednu
+izmenu u tekstu** — tri je knjiga već bila rešila, jedno je potvrđeno kao namerno, jedno je
+preseljeno izdavaču, jedno oboreno merenjem, jedno zatvoreno odlukom.
+
+**Knjiga: 17 poglavlja, 32.137 reči. Nema otvorenih pitanja u repou.**
+
+**⛔ Šta se od sada NE radi bez autorove reči:** nov plan · nov prolaz · nova opšta ocena
+knjige · slepi čitalac. **Merenje je zatvoreno.**

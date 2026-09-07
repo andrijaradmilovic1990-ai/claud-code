@@ -288,8 +288,8 @@
 > `REGISTAR_ODLUKA.md`, **sekcija 34**.
 
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
-> *(„Nema otvorenih pitanja" je nešto drugo i **skoro je tačno** — jedno čeka autorovu reč.
-> Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
+> *(⚑ **07.09.2026: sad je i to tačno.** Spisak niže je prazan — svih osam je palo tog
+> dana. Registar **29.5** i **36.1–36.9**.)*
 >
 > **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
 > a `BRAT` je pao s upisanim razlogom. **Ne praviti nov plan bez autorove reči.**
@@ -386,7 +386,7 @@ Posle čitanja je, na zahtev autora, pročitana **cela dokumentacija** i sređen
 
 ---
 
-## ⚑ ŠTA JE STVARNO OTVORENO U REPOU — spisak, prvi put na jednom mestu
+## ⚑ ŠTA JE BILO OTVORENO U REPOU — spisak je PRAZAN od 07.09.2026
 
 **Repo na više mesta piše „nema otvorenih pitanja". Ima ih, samo nisu bila skupljena.**
 Nijedno nije posao — **svako čeka autorovu reč.**
@@ -406,11 +406,15 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 > Pravila T)*, jedno je preseljeno izdavaču *(stihovi u `Kukavici`)*, jedno je oboreno
 > merenjem *(prelomi u `Parizu`)*. Puni zapis: **registar 36.1–36.7.**
 >
-> **⚑ OSTAJE JEDNO — NOIR PROLAZ**, i on se ne otvara osim tvojom rečju „otvaram".
+> **⚑ I NOIR PROLAZ JE ZATVOREN** *(registar 36.8)* — **ne otvara se.** Noir traži više
+> senke i uskraćivanja, a jedina potvrđena bolest knjige je da **već uskraćuje i ono što je
+> htela da pokaže** *(četiri od osam mera nisu stigle do čitaoca)*. **Recept bi lečio bolest
+> njenim uzrokom.** Vraća se autorovom rečju „otvaram".
+>
+> **⚑ SPISAK JE PRAZAN. NEMA OTVORENIH PITANJA U REPOU. KNJIGA IDE LJUDIMA.**
 
 | # | šta | gde stoji |
 |---|---|---|
-| 1 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
 
 > **⚑ Jedan stari „nerešen" nalaz je u međuvremenu rešen, a nigde nije precrtan:**
 > registar **18** vodi da su `Kukavica` i `Ćebence` **jedna neprekinuta noć koju `Maska`
@@ -422,7 +426,7 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 
 ## ⚑ PROMPT ZA SLEDEĆU SESIJU *(07.09.2026, kasno — ovaj je aktuelan)*
 
-> **Spisak je prazan i merenje je zatvoreno.** Ostaje sedam starih pitanja, sve higijena.
+> **Spisak je prazan, merenje je zatvoreno, i nema otvorenih pitanja u repou.**
 > **Nalepi kodni blok na početak novog razgovora.**
 
 ```
@@ -453,15 +457,21 @@ Pa REGISTAR_ODLUKA.md, sekciju 35 (tri karike, sve zabrane, i zasto
 se rad pet sesija vrteo u krug) i sekciju 29.5 (naslov XII).
 
 ==================================================================
-STA JE OSTALO
+STA JE OSTALO: NISTA. KNJIGA IDE LJUDIMA.
 ==================================================================
 
-SEDAM STARIH PITANJA iz sekcije "STA JE STVARNO OTVORENO U REPOU"
-nize u NASTAVAK.md. Sve higijena, nijedno ne dira cilj, i svako
-ceka autorovu rec. Ne otvaraj ih sam.
+Svih osam starih pitanja je palo 07.09.2026 (registar 29.5 i
+36.1-36.9). Sedam od njih nije kostalo nijednu izmenu u tekstu.
+NEMA OTVORENIH PITANJA U REPOU.
 
-Najveci od njih je NOIR PROLAZ (registar 12) — jedini put kad se
-zakljucano otvara u celini, i otvara ga autor recju "otvaram".
+I NOIR PROLAZ je zatvoren (registar 36.8) — ne otvara se. Noir
+trazi vise senke i uskracivanja, a jedina potvrdjena bolest knjige
+je da vec uskracuje i ono sto je htela da pokaze. Vraca se samo
+autorovom recju "otvaram", i razlog se cita PRE vracanja.
+
+Ako autor dodje s novim poslom — prvo proveri je li vec napisano.
+Tri stavke su 07.09. pale bas zato: knjiga ih je resila, a spisak
+je citao dokumente. Pravilo E.
 
 ==================================================================
 KAKO SE PISE
