@@ -147,6 +147,40 @@
 > od četvrtine, a Pravilo J traži trećinu** — ovako tačka 1 nije prolaz nego rez. **Trebaju
 > još najmanje dva mesta gde se piše, i bira ih autor.**
 >
+> ## ⛔ 07.09.2026, UVEČE — TAČKA 3 JE PALA · ⚑ I STIGAO JE NOV MATERIJAL
+>
+> **Tačka 3 je tražila verbalni tik za svaki ženski lik.** Pala je iz teksta, ne iz otpora:
+> **zadatak imenuje tri žene, a dve su ista osoba** *(majka Mije JE Andrijana, potvrdio
+> autor)*. I sedam žena u knjizi **već ima sedam različitih mehanizama**, svi izvedeni iz
+> radnje a ne iz sintakse — Andrijana *staje na ivici pitanja i ne zakorači* · Jovana *pita
+> ono što niko ne sme, i pita lagano* · Nataša *kaže naglas pa se sama izuzme* · baka *ne
+> prevodi se, sve rukama* · majka *ista reč u drugom vremenu* · Anja *uskraćuje prevod* ·
+> Katarina *uradi umesto da traži*.
+>
+> **⚑ NALAZ IZ PROVERE SCENE ZA STOLOM** *(`Kukavica`, na traženje autora)*: tri žene tu
+> zaista isporuče rečenicu **istog oblika** *(Andrijana „Njemu nikad nisam morala ništa" ·
+> Jovana „Kukavica" · Nataša „Ja sam druga. Oduvek.")* — **ali do nje dolaze na tri različita
+> načina: iz Andrijane se vadi, Jovana sebi namešta scenu, Nataša dobacuje nepitana.** Oblik
+> je isti zato što **ga igra propisuje** *(Nataša je pročitala pravila: jedna rečenica po
+> redu)*. **Uniformnost je motivisana, nije mana.**
+>
+> **⚑ I JEDINI PRAVI TIK U KNJIZI VEĆ POSTOJI:** Natašino *„Iskrena sam. To ljudi pomešaju."*
+> — **dvaput, reč u reč**, oba puta posle Jovaninog *„Ti si bolesna."* **Da ga imaju sve tri,
+> prestao bi da bude njen.**
+>
+> ## ⚑ 07.09.2026, UVEČE — DVANAESTI KRUG MATERIJALA *(`ODGOVORI`, stavke 55–57)*
+>
+> **⚑ DAVID JE VIDEO MIJU I VOLI JE — NOVA SCENA JE OTVORENA, NIJE NAPISANA.** Oborila su se
+> oba čitanja koja su bila na stolu *(ni nenaplaćena cena, ni namerno prazno mesto)*.
+> **Ne piše se dok autor ne da dan i mesto** — isti razlog zbog kog je palo poglavlje `BRAT`.
+>
+> **⚑ KATARINA I MAJKA MU SE SUPROTSTAVLJAJU.** Katarina **malo, i iz neznanja njegovog
+> sveta** — gura tamo gde ne zna da je zid, pogura jednom i stane *(„Ne može sreda." → „Nije
+> pitala drugi put.")*. **Majka zna, pa ne gura nego ne posluša** — *„Gasim je", rekla je. /
+> Nije je gasila.* **⛔ Ne izjednačavati ih i ne pretvarati ni jedno ni drugo u svađu.**
+> Sve što obe već rade popisano je u `ODGOVORI`, 56 i 57 — **piše se samo preko toga, nikad
+> ponovo.**
+
 > ## ⛔ 07.09.2026, UVEČE — TAČKA 2 JE PALA, ODLUKOM AUTORA. NIJEDNA IZMENA.
 >
 > **Zadatak je tražio rez u `Italiji` V pred telefonski poziv, „da udarac dođe brže".**
