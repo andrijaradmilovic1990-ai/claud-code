@@ -2892,3 +2892,85 @@ nikad nije rekao.** Ono čega se autor ne seća **se ne popunjava.**
 istim kojim je izveden **potez B** — dakle **tri dana pre nego što je pitanje uopšte
 postavljeno.** Nikad nije prekrižena sa spiska jer je spisak čitao dokumente, ne knjigu.
 **Nula izmena.**
+
+## 36.3 — ⛔ ZATVORENO: DVA MESTA NA IVICI PRAVILA T U `KATARINI` *(bivša stavka 4)*
+
+**Autor: ostaju.** *„Ne primećuje se ono što ne visi."* i *„Ono što ide u kesu slaže bolje
+nego ono što ostaje."* **Padaju i dalje samo zajedno, i nijedno se ne dira samo.**
+
+**Razlika koja je pri tom povučena, i vredi šire — aforizam nije zapažanje:**
+*„Postoje računi koji se ne naplaćuju od dužnika"* *(`Nestanak` IX)* je **zakon o svetu** i
+objašnjava premisu knjige; **zato je jedan i zato drugi ne sme.** Ove dve su **zapažanja o
+sitnim fizičkim činjenicama** — šta visi na zidu, kako se slaže veš. **Ne tumače nikakav
+uzrok**, nego pokazuju naviku čoveka koji ceo život meri prostor. Isti postupak kao
+*„Pozdrav je trag."*
+
+**⚑ I okolnost se u međuvremenu promenila u njihovu korist.** Kad je stavka otvorena
+*(04.09.)*, prva rečenica je bila lepa sitnica. Posle sekcije **35.4** *(polica uzeta nazad
+u `Maski` XV)* ona **unapred opisuje ono što će oboje uraditi**: ona uzme mesto ćutke, on
+primeti i ne kaže ništa. **Nula izmena.**
+
+## 36.4 — ⛔ ZATVORENO ZA TEKST: STIHOVI U `KUKAVICI` *(bivša stavka 5)*
+
+**Autor: tekst se ne dira ni za slovo.** Ostaje kako je: `Kukavica` XVI, redovi **113–119**,
+tri fragmenta iz *„Sve još miriše na nju"*.
+
+**Stavka nije književna nego pravna, i seli se izdavaču.** Praktično stanje, bez glume
+pravnika: stihovi su najstroža kategorija citiranja — kod pesme je i par redova znatan deo
+celog dela, pa se pravo citiranja obično ne prima jer citat ovde služi sceni, ne kritici.
+**Naslov pesme se sme pominjati slobodno; dozvola se traži za stihove, i traži se od
+izdavača teksta.** Kad postoji izdavač, čišćenje prava je njihova rutina.
+
+**⚑ REZERVNA VARIJANTA, upisana da se ne odlučuje pod pritiskom** *(ne izvodi se bez
+autorove reči)*: pesma se **imenuje** umesto da se citira, Jovana peva a ne vide se reči
+nego sto koji utihne, i svađa ide oko *„sledećeg stiha"* bez navođenja. **Košta jednu
+rečenicu.**
+
+**Zašto se ne radi preventivno:** scena ne stoji na stihovima nego na tome što Jovana ima
+bolji glas i što svi zaćute. **To je jedini put u knjizi da neko za tim stolom pokaže nešto
+lepo bez ironije**, i priprema čitaoca da joj poveruje kad kasnije izgovori jednu reč.
+
+## 36.5 — ⛔ ZATVORENO: PRELOMI PASUSA U `PARIZU` *(bivša stavka 6)*
+
+**Autor: dovoljno, skida se sa spiska.** Poglavlje je skenirano strukturno i **nema nijednog
+traga OCR štete** — nijedan pasus ne počinje malim slovom slučajno, nijedan ne prekida
+rečenicu, dijalog nigde nije razbijen. Tri mesta koja mašina prijavi su namerna:
+*„— / ona."* u zasebnom redu, dvotačka pred Natašinu zdravicu, crta na prekinutoj rečenici
+o magnetu.
+
+**⚑ Pravi test — gustina pasusa protiv cele knjige.** Da je OCR lepio pasuse, `Pariz` bi bio
+najgušći. Nije: `Beli grad` **33** · `Krv` **31** · **`Pariz` 29** · `Italija` i `Susret`
+**24** · novija poglavlja *(pisana direktno)* **11–22**. **Treći je, iza dva poglavlja iz
+iste stare partije — da je šteta sistemska, stajao bi sam.**
+
+**Ako autor ikad uzme original u ruke, posao je četiri adrese**, jedini pasusi tri do četiri
+puta duži od proseka poglavlja: **red 79** *(127 reči — tri pokreta u jednom pasusu,
+najsumnjiviji)* · **red 41** *(110)* · **red 131** *(101)* · **red 135** *(100)*.
+**Nula izmena.**
+
+## 36.6 — ⛔ ZATVORENO: GODINE MALE JOVANE *(bivša stavka 7)*
+
+**I ovo je tekst već rešio — istog dana, ne znajući da odgovara.** `Ulazak` II, prva
+rečenica njenog bloka: *„Bila je iz zgrade preko puta i **išla je godinu ispod mene**."*
+Ušla commitom **`1f92f33`, 07.09.2026** *(sekcija 35.2)*, dok je pitanje na spisku stajalo
+od 04.09.
+
+**To je tačno ono što je `ODGOVORI` 34.1 tražio: odnos, ne broj.** Drugu polovinu zakucava
+raspored — njen blok stoji **pre** scene s odškrinutim vratima, u kojoj piše *„Imao sam
+četrnaest."* **Ona umire prva, njemu je oko trinaest-četrnaest, njoj godinu manje. Nijedna
+cifra nije izgovorena, a čitalac zna gde stoji.**
+
+**⛔ A ono što ostaje nepotvrđeno — koliko je tačno prošlo između dve smrti — SE NE
+POTVRĐUJE.** To nije rupa nego Pravilo T u čistom obliku: **pozicija je data, mera i uzrok
+se uskraćuju.** *„Četiri meseca kasnije"* bi dalo činjenicu i uzelo ono što ta dva bloka
+rade jedan drugom. **Nula izmena.**
+
+## 36.7 — STANJE SPISKA POSLE 07.09.2026
+
+**Od sedam starih pitanja palo je šest, i nijedno nije koštalo ijednu izmenu u
+`roman/poglavlja/`.** Tri su pala zato što ih je **knjiga već rešila** *(36.1, 36.2, 36.6)*,
+jedno je potvrđeno kao namerno *(36.3)*, jedno je preseljeno izdavaču *(36.4)*, jedno je
+oboreno merenjem *(36.5)*.
+
+**⚑ OSTAJE JEDNO: NOIR PROLAZ** *(sekcija 12)* — i on se ne otvara osim autorovom rečju
+**„otvaram"**.

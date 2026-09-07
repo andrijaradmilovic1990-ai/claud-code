@@ -288,7 +288,7 @@
 > `REGISTAR_ODLUKA.md`, **sekcija 34**.
 
 > ## ⚑ NEMA VIŠE OTVORENIH ZAHVATA. NEMA VIŠE PLANA.
-> *(„Nema otvorenih pitanja" je nešto drugo i **nije tačno** — pet ih čeka autorovu reč.
+> *(„Nema otvorenih pitanja" je nešto drugo i **skoro je tačno** — jedno čeka autorovu reč.
 > Spisak stoji niže, u sekciji **ŠTA JE STVARNO OTVORENO U REPOU.**)*
 >
 > **`PLAN_03_09_2026.md` je iscrpljen** — devet zahvata i sva tri poteza A/B/C su zatvoreni,
@@ -391,7 +391,7 @@ Posle čitanja je, na zahtev autora, pročitana **cela dokumentacija** i sređen
 **Repo na više mesta piše „nema otvorenih pitanja". Ima ih, samo nisu bila skupljena.**
 Nijedno nije posao — **svako čeka autorovu reč.**
 
-> **⚑ 07.09.2026 — spisak se prazni.** Naslov XII je **`Orman`** *(registar 29.5)*. Zatim je
+> **⚑ 07.09.2026 — SPISAK JE PRAZAN OSIM NOIR PROLAZA.** Naslov XII je **`Orman`** *(registar 29.5)*. Zatim je
 > autor otvorio **svih sedam preostalih odjednom**; padaju jedno po jedno, i svako zatvaranje
 > ide u **registar, sekcija 36.** **Pale su još dve — ime mesta *(36.1)* i bratova fraza
 > *(36.2)* — obe bez ijedne izmene u tekstu, jer su u knjizi već bile rešene.**
@@ -400,15 +400,17 @@ Nijedno nije posao — **svako čeka autorovu reč.**
 > koje su odavno zatvorene a niko ih nije prekrižio. **Pravilo E.** Pre nego što se bilo šta
 > ponudi kao posao — **prvo se proveri je li već napisano.**
 >
-> **Ostaje pet. Numeracija ispod je pomerena.**
+> **⚑ ISTOG DANA PALO JE SVIH SEDAM OSIM JEDNOG — i nijedno nije koštalo ijednu izmenu u
+> `roman/poglavlja/`.** Tri su pala zato što ih je **knjiga već rešila** *(ime mesta ·
+> bratova fraza · godine male Jovane)*, jedno je potvrđeno kao namerno *(dva mesta na ivici
+> Pravila T)*, jedno je preseljeno izdavaču *(stihovi u `Kukavici`)*, jedno je oboreno
+> merenjem *(prelomi u `Parizu`)*. Puni zapis: **registar 36.1–36.7.**
+>
+> **⚑ OSTAJE JEDNO — NOIR PROLAZ**, i on se ne otvara osim tvojom rečju „otvaram".
 
 | # | šta | gde stoji |
 |---|---|---|
-| 1 | **Dva mesta na ivici Pravila T u `Katarini`** *(„Ne primećuje se ono što ne visi.", „Ono što ide u kesu slaže bolje…")* — ostavljena svesno. **Ako ikad padnu, padaju zajedno** | registar **28.3** |
-| 2 | **Stihovi postojeće pesme u `Kukavici`** — dozvola za objavljivanje. Pravno, ne književno | `FINALNI_PROLAZ_PRAVILA.md` |
-| 3 | **Prelomi pasusa u `Parizu`** su rekonstrukcija iz OCR-a; autor ih pregleda očima uz original | `FINALNI_PROLAZ_PRAVILA.md` |
-| 4 | **Godine male Jovane u odnosu na Davida** — nije potvrđeno koliko je njemu bilo ni koliko je prošlo između dve smrti | `ODGOVORI` **34.1** |
-| 5 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
+| 1 | **NOIR PROLAZ KROZ CEO ROMAN** — najveći zakazani posao u knjizi, i **jedini put kad se zaključano otvara u celini.** Otvara ga autor rečju „otvaram" | registar **12** |
 
 > **⚑ Jedan stari „nerešen" nalaz je u međuvremenu rešen, a nigde nije precrtan:**
 > registar **18** vodi da su `Kukavica` i `Ćebence` **jedna neprekinuta noć koju `Maska`
