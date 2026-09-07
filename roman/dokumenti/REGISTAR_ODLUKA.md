@@ -3231,3 +3231,77 @@ No title, no author name, no watermark, no logo.
 **Sitnica koja je ostala nedovršena i nije bila vredna još jednog kruga:** magnet i cedulja
 stoje **jedno pored drugog**, a u knjizi je cedulja **pritisnuta pod magnet.** Oko ih svejedno
 povezuje.
+
+---
+
+# 39 — ⚑ KNJIGA IMA KONAČAN OBLIK: A5 DŽEPNO IZDANJE *(07.09.2026)*
+
+> **Šta je ovo.** Kako gotova knjiga izgleda kad se sklopi. **Ne dira tekst** — opisuje
+> prelom i alat koji ga pravi. **Ovo je oblik u koji se knjiga sklapa posle svake izmene.**
+
+## 39.1 — ALAT: `roman/alati/build_pdf.py`
+
+**Jedna komanda pravi celu knjigu:**
+
+```
+python3 roman/alati/build_pdf.py roman/korica/korica.jpg
+```
+
+Izlaz je **`roman/SAHRANA_BEZ_TELA_A5.pdf`**. **Ništa se ne slaže rukom** — kao i
+`build_cela.sh`, sve se čita iz `roman/poglavlja/`, po **rimskom broju u naslovu unutar
+fajla**, ne po imenu fajla. Alat prekida rad ako naslov ne valja ili ako u numeraciji ima
+rupe ili duplikata.
+
+## 39.2 — ŠTA JE PRELOM
+
+| | |
+|---|---|
+| format | **A5, 148×210 mm** |
+| obim | **156 strana** *(153 + 3 prazne)* |
+| margine | **ogledalne** — 17 mm ka hrbatu, 14 mm spolja, 16 gore, 18 dole |
+| slog | serif 10,5/15,6 pt, obostrano poravnato, bez usamljenih redova |
+| pasus | uvlaka 5,2 mm; **prvi pasus posle naslova i posle `⁂` bez uvlake** |
+| poglavlja | svako počinje na novoj strani, rimski broj pa naslov |
+| korica | slika preko cele strane, bez broja |
+| sadržaj | jedna strana, sva sedamnaest, s **rasponom strana od–do** |
+
+**⚑ Numeracija teče neprekidno od korice, ali korica i sadržaj nemaju odštampan broj**, pa
+**prvo poglavlje počinje na strani 3** — i tako piše u sadržaju. *(WeasyPrint ne ume da
+resetuje brojač strana usred dokumenta; ovako se sadržaj i folija poklapaju do strane.)*
+
+**⚑ Tri prazne strane na kraju nisu greška.** Povez traži da ukupan broj bude **deljiv sa
+četiri**; alat sam dopunjuje. Bez toga štamparija dodaje prazne gde njoj padne.
+
+**⚑ Brojevi u sadržaju se ne kucaju.** Alat prelama **dvaput**: prvi prolaz da vidi na kojoj
+strani svako poglavlje stvarno počinje, drugi da to upiše. **Posle svake izmene u tekstu
+brojevi su tačni sami od sebe.**
+
+## 39.3 — KORICA U PDF-u
+
+**`roman/korica/korica.jpg`** — autorova slika *(sekcija 38)*, s naslovom i potpisom
+`Mr. Nobody` već složenim u njoj.
+
+**⚑ Slika iz generatora skoro nikad nije u odnosu 148:210.** Ne seku se ivice — **na njima
+stoji naslov** — nego funkcija `pripremi_koricu()` **razvuče traku iz same ivice slike**. Na
+ravnom limu frižidera se ne vidi. *(Ovde: 894×1170 → dodato 99 px na dnu.)* Izvedena slika
+ide u privremeni folder, **ne u repo.**
+
+**⛑ Rezolucija:** 894 px na širini A5 je **oko 150 tpi.** Za kućnu štampu i za pokazivanje
+dovoljno; **prava štamparija traži 300.** Ako ikad zatreba, jedini lek je veća slika, ne
+uvećavanje ove.
+
+**⛑ Za povez štamparija obično traži koricu kao zaseban fajl** — prednja, hrbat, zadnja.
+Na 156 strana hrbat je **oko 9–10 mm.** PDF nosi koricu unutra da se vidi šta se hoće.
+
+## 39.4 — ⚑ RED RADA OD SADA *(dogovor autora, 07.09.2026)*
+
+**Autor je najavio sitne ideje za tekst, koje donosi u sledećem razgovoru.**
+
+1. **Ideje se rade jedna po jedno**, po **Pravilu K** — svaka napisana rečenica čeka
+   izričito „da".
+2. **To nije nov plan i ne otvara merenje** *(36.9)*. Autorove ideje su autorove; **nijedan
+   prolaz se ne pokreće sam od sebe.**
+3. **Kad ideje padnu, knjiga se sklapa** — `provera.sh`, pa `build_cela.sh`, pa
+   `build_pdf.py`. **Prelom se ne dira rukom**; sve se preračuna samo.
+
+**⚑ Zbog toga se brojevi strana u 39.2 i ne pamte kao sveti** — važan je alat, ne cifra.
