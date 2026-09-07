@@ -34,7 +34,7 @@ Nisam pitao ništa o tome.
 
 „Dvadeset mu je bilo u aprilu“, rekao je. „Dvadeset.“
 
-Nisam rekao ništa.
+Gledao sam u ciglu koja je držala kapiju.
 
 „Kupio ga je pre deset dana. Motor. Pre deset dana.“
 

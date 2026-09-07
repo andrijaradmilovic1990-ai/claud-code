@@ -127,7 +127,7 @@ XIII Beli grad · **XIV Maska** · XV Kukavica · XVI Ćebence.
 > **Redosled od sada:** I Susret · II Ulazak · III Pukotina · IV Krv · V Italija ·
 > VI Pariz · VII Ivičnjak · VIII Prelom · IX Nestanak · X Majka · XI Fabrika ·
 > **XII KATARINA** · XIII Prazna stolica · XIV Beli grad · **XV Maska** · XVI Kukavica ·
-> XVII Ćebence. **Zbir: 32.137 reči** *(stanje 07.09.2026, posle poteza u `Ulasku`, `Katarini` i
+> XVII Ćebence. **Zbir: 32.142 reči** *(stanje 07.09.2026, posle poteza u `Ulasku`, `Katarini` i
 > `Maski`; starije cifre — 31.922, 31.898 i 32.092 — više ne važe)*.
 >
 > **Stariji zapisi koji kažu „Prazna stolica XII" misle na XIII, „Maska XIV" na XV,

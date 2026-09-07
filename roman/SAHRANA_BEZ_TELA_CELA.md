@@ -1,6 +1,6 @@
 # SAHRANA BEZ TELA
 
-*17 poglavlja, redom kojim se čitaju. 32.137 reči.*
+*17 poglavlja, redom kojim se čitaju. 32.142 reči.*
 
 *Sastavljeno alatom iz `roman/poglavlja/`. Ne prepravlja se rukom — pusti `build_cela.sh`.*
 
@@ -1922,7 +1922,7 @@ Nisam pitao ništa o tome.
 
 „Dvadeset mu je bilo u aprilu“, rekao je. „Dvadeset.“
 
-Nisam rekao ništa.
+Gledao sam u ciglu koja je držala kapiju.
 
 „Kupio ga je pre deset dana. Motor. Pre deset dana.“
 
